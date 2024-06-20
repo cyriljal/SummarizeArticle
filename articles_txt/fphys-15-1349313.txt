@@ -1,0 +1,1671 @@
+high-intensity interval training 
+ patient glaucoma 
+ hit-glaucoma protocol 
+ multicenter randomize 
+ control exercise trial 
+ Jan Van eijgen1,2† valentin schuhmann3† 
+ emma-liina fingerroos3 Marie renier4 holger burchert3 
+ Julia Maria kröpﬂ3 Amaryllis Van craenenbroeck5,6 
+ Véronique cornelissen4 konstantin Gugleta7 
+ Ingeborg stalmans1,2‡ Henner Hanssen3*‡ 
+ 1department Ophthalmology University Hospitals UZ Leuven Leuven Belgium 2research Group 
+ Ophthalmology Department Neurosciences Leuven Belgium 3department Sports Exercise 
+ Health Medical Faculty University Basel Basel Switzerland 4research Group Rehabilitation 
+ Internal Disorders Department Rehabilitation Sciences Faculty Movement Rehabilitation 
+ Sciences Leuven Belgium 5division Nephrology University Hospitals UZ Leuven Leuven Belgium 
+ 6nephrology Renal Transplantation Research Group Department Microbiology Immunology 
+ transplantation Leuven Belgium 7department Ophthalmology University Basel Basel 
+ Switzerland 
+ Background Glaucoma stand prominent global cause irreversible 
+ blindness primary treatment approach involve reduce intraocular 
+ pressure 
+ iop 
+ 
+ 
+ one-third 
+ 
+ patient 
+ exhibit 
+ disease 
+ progression 
+ despite 
+ effective 
+ iop 
+ reduction 
+ Microvascular 
+ endothelial 
+ function chronic inﬂammation oxidative stress know affect 
+ retinal neuronal network associate disease severity 
+ progression exercise training potential counteract mechanism 
+ add-on treatment usual care 
+ aim hit-glaucoma study investigate effect 6-month high- 
+ intensity interval training hiit intermediate endpoint local retinal 
+ microvascular systemic large artery function inﬂammation oxidative 
+ stress clinical endpoint visual ﬁeld index optic nerve rim 
+ assessment retinal nerve ﬁber layer thickness iop number eye drop vision- 
+ related quality life ocular surface disease symptomatology 
+ method study multi-center randomized control clinical trial 
+ patient normal tension high-tension primary open angle 
+ glaucoma study center 128 patient enrol 
+ randomize 1:1 basis exercise intervention group usual 
+ care control group primary microvascular endpoint retinal arteriolar 
+ venular ﬂicker light-induced dilation 6 month primary endpoint 
+ systemic circulation brachial artery ﬂow-mediated dilation 6 month 
+ anticipated result hypothesize exercise therapy improve retinal 
+ microvascular function ocular blood ﬂow patient glaucoma 
+ open access 
+ edited 
+ Luodan Yang 
+ South China Normal University China 
+ REVIEWED 
+ Elisa Grazioli 
+ Foro Italico University Rome Italy 
+ Eduardo Farias Sanches 
+ Université de Genève Switzerland 
+ Tobia Zanotto 
+ University Kansas Medical Center 
+ United States 
+ correspondence 
+ Emma-Liina Fingerroos 
+ emmaliina.ﬁngerroos@unibas.ch 
+ Henner Hanssen 
+ henner.hanssen@unibas.ch 
+ †these author contribute equally 
+ work share ﬁrst authorship 
+ ‡these author contribute equally 
+ work share authorship 
+ RECEIVED 04 December 2023 
+ accepted 04 April 2024 
+ published 16 2024 
+ CITATION 
+ Van Eijgen J Schuhmann V Fingerroos E-L 
+ Renier M Burchert H kröpﬂjm 
+ Van Craenenbroeck Cornelissen V Gugleta K 
+ Stalmans Hanssen h 2024 high- 
+ intensity interval training patient 
+ glaucoma hit-glaucoma protocol 
+ multicenter randomize control 
+ exercise trial 
+ physiol 15:1349313 
+ doi 10.3389/fphys.2024.1349313 
+ copyright 
+ © 2024 Van Eijgen Schuhmann Fingerroos 
+ Renier Burchert Kröpﬂ Van Craenenbroeck 
+ Cornelissen Gugleta Stalmans Hanssen 
+ open-access article distribute 
+ term Creative Commons Attribution 
+ License cc use distribution 
+ reproduction forum permit 
+ provide original author(s 
+ copyright owner(s credit 
+ original publication journal cite 
+ accordance accept academic practice 
+ use distribution reproduction 
+ permit comply 
+ term 
+ Frontiers Physiology 
+ frontiersin.org 
+ 01 
+ type Study Protocol 
+ published 16 2024 
+ DOI 10.3389/fphys.2024.1349313 
+ clinical outcome investigate effect exercise visual ﬁeld index 
+ optic nerve rim assessment retinal nerve ﬁber layer thickness iop number eye 
+ drop vision-related quality life ocular surface disease symptomatology 
+ discussion hit-glaucoma blueprint trial design study effect 
+ exercise training neurodegenerative cardiovascular disease importantly 
+ patient expect beneﬁt improvement general health 
+ cardiovascular co-morbiditie prove effective exercise offer new add-on 
+ treatment strategy slow glaucoma progression 
+ Clinical Trial Registration Number trial register Clinicaltrials.gov 
+ identiﬁer nct06058598 currently recruitment stage 
+ keywords 
+ glaucoma 
+ retinal 
+ microcirculation 
+ exercise 
+ high 
+ intensity 
+ interval 
+ training 
+ cardiovascular risk intraocular pressure 
+ Introduction 
+ Glaucoma cardiovascular risk 
+ Glaucoma optic neuropathy characterize degeneration 
+ retinal ganglion cell thinning retinal nerve ﬁber layer 
+ cupping optic disc Jonas et al. 2017 primary open angle 
+ glaucoma poag sub-classiﬁed accord maximal 
+ intraocular pressure iop arbitrary classiﬁcation cut- 
+ 21 mmhg iop stratiﬁes poag patient high-tension 
+ glaucoma htg normal tension glaucoma ntg BMJ 
+ Publishing Group Ltd 2021 hypothesize impaired 
+ ocular perfusion pressure impaired microvascular endothelial 
+ function increase oxidative stress additional disease 
+ driver chu-tan et al. 2022 benoist d azy et al. 2016 
+ Melgarejo et al. 2023 glaucomatous change lead loss 
+ visual ﬁeld Venkataraman et al. 2010 Quigley 2011 
+ 15%–20 glaucoma case disease progress 
+ blindness Susanna et al. 2015 glaucoma global 
+ leading cause irreversible blindness Topouzis et al. 2007 
+ affect 80 million people worldwide Topouzis et al. 2007 
+ prevalence estimate increase 111 million 2040 
+ accordance population ageing Tham et al. 2014 main goal 
+ glaucoma treatment low iop one-third 
+ patient disease progression despite iop lower Peters 
+ et al. 2014 Susanna et al. 2015 
+ subclinical pathophysiological feature cardiovascular 
+ disease cvd overlap glaucoma suggest association 
+ cvd glaucoma Choi et al. 2023 grow body 
+ evidence indicate glaucoma associate systemic 
+ cv risk factor obesity hypertension active smoking status 
+ low high-density-lipoprotein hdl high low-density-lipoprotein 
+ ldl level hypertriglyceridemia Lin et al. 2010 Kreft et al. 
+ 2019 Talaat et al. 2021 Wändell et al. 2022 primary 
+ secondary 
+ vascular 
+ dysregulation 
+ 
+ previously 
+ 
+ hypothesize 
+ 
+ component 
+ 
+ 
+ etiology 
+ 
+ glaucoma 
+ Flammer Konieczka 2017 early research demonstrate 
+ systemic comorbiditie associate endothelial lesion 
+ atherosclerosis hypoperfusion lead damage 
+ retinal nerve ﬁber layer underlying connective tissue 
+ Dascalu 
+ et 
+ al. 
+ 2021 
+ 
+ study 
+ 
+ show 
+ 
+ hypertension nocturnal hypotension daytime blood pressure 
+ variability common cv risk factor progression Dascalu 
+ et al. 2021 Van Eijgen et al. 2023 glaucoma 
+ consider independent risk predictor new-onset cvd 
+ Choi et al. 2023 vice versa conversely glaucoma patient 
+ healthy lifestyle behavior show reduce risk 
+ incident cvd compare unhealthy behavior Choi 
+ et al. 2023 importance vascular non-iop 
+ related risk factor underscore need screening alternative 
+ biomarker glaucoma extension cv comorbiditie 
+ date research association glaucoma disease 
+ large artery structure function systemic circulation 
+ scarce patient glaucoma suffer cv co-morbiditie 
+ present systemic inﬂammation oxidative stress 
+ prone develop large artery endothelial dysfunction 
+ unfavorable arterial stiffness holistic approach include 
+ assessment brachial artery ﬂow-mediated dilation fmd 
+ pulse wave velocity pwv large artery surrogate 
+ marker cv risk Vlachopoulos et al. 2010 Thijssen et al. 
+ 2011 provide thorough understanding 
+ bidirectional relation systemic vascular disease local 
+ neurodegenerative eye disease 
+ Glaucoma retinal microcirculation 
+ blood ﬂow retina maintain constant perfusion 
+ level intricate interplay neurovascular 
+ coupling myogenic response ﬂow-mediated mechanism 
+ metabolic process facilitate release vasoactive 
+ substance endothelium retinal tissue Koller 
+ Toth 2012 capillary endothelial cell 
+ vascular smooth muscle cell responsible pressure- 
+ dependent myogenic constriction bayliss-effect ﬂow- 
+ dependent nitric oxide (no)-induced dilation mean 
+ shear stress Hanssen et al. 2022 addition endothelin-1 
+ et-1 suggest play important role 
+ maintenance regulation local blood ﬂow Palmer et al. 
+ 1988 Moncada Higgs 1993 et-1 
+ ensure balance vasoconstrictive vasodilatory 
+ capacity endothelium Koller Toth 2012 
+ Frontiers Physiology 
+ frontiersin.org 
+ 02 
+ Van Eijgen et al. 
+ 10.3389/fphys.2024.1349313 
+ local oxidative stress acknowledge factor 
+ poag pathogenesis 30 year study 
+ support role free radical-induced oxidative stress 
+ trabecular meshwork tm cell loss zhou et al. 1999 retina 
+ consistently expose reactive oxygen specie ros nita 
+ Grzybowski 2016 imbalance ros production 
+ antioxidant defense lead cellular damage apoptosis 
+ Chrysostomou et al. 2013 pinazo-durán et al. 2015 elevated 
+ iop visual ﬁeld damage link oxidative dna 
+ damage affect tm cell saccà et al. 2005 Nita Grzybowski 
+ 2016 addition neurotrophic factor ntf particular brain- 
+ derive neurotrophic factor bdnf identiﬁed 
+ pathogenesis glaucoma Lambuk et al. 2022 bdnf locally 
+ regulate retina transport brain retina 
+ retrograde transport Lambuk et al. 2022 disruption 
+ retrograde transport reduce level bdnf serum 
+ 
+ ocular 
+ ﬂuid 
+ 
+ patient 
+ 
+ glaucoma 
+ suggest 
+ 
+ neurotrophic 
+ deprivation 
+ contribute 
+ 
+ glaucomatous 
+ optic 
+ neuropathy Lambuk et al. 2022 
+ retinal microvascular endothelial dysfunction key predictive 
+ vascular parameter arterial blood pressure vascular 
+ rarefaction gugleta et al. 2012 Wang et al. 2015 Kwon et al. 
+ 2017 association retinal vessel diameter function cv 
+ risk disease previously extensively review Hanssen 
+ et al. 2022 narrowing central retinal arteriolar diameter 
+ equivalent crae widening central retinal venular diameter 
+ equivalent crve lowering arteriolar-to-venular diameter 
+ ratio avr associate increase risk cvd cv 
+ mortality Green Smith 2018 Vera et al. 2019 similar 
+ retinal vessel diameter constellation find poag patient 
+ compare healthy subject Chiquet et al. 2020 
+ impaired retinal ﬂicker-induced dilation fid correlate 
+ increase 
+ cv 
+ risk 
+ 
+ diabete 
+ Valenzuela 
+ et 
+ al. 
+ 2023 
+ hyperglycemia Green Smith 2018 hypertension Vera 
+ et al. 2019 dyslipidemia Karakucuk et al. 2020 obesity 
+ Kaminsky et al. 2013 coronary artery disease ramos et al. 
+ 2015 chronic kidney disease whyte et al. 2013 blood 
+ ﬂow alteration optic nerve head onh 
+ identiﬁed signiﬁcant risk development progression 
+ glaucoma highlight importance vascular system 
+ responsiveness metabolic change disease progression 
+ Flammer et al. 2002 
+ exercise treatment patient 
+ glaucoma 
+ regular physical activity exercise potentially reduce 
+ main underlie mechanism 
+ development 
+ progression cvd inﬂammation oxidative stress 
+ endothelial dysfunction Green et al. 2017 Valenzuela et al. 2023 
+ effect exercise training mediate repeat 
+ hemodynamic stimulation occur bout exercise 
+ stimulation lead increase production 
+ bioavailability endothelium-derived substance 
+ regular bout exercise induce functional structural 
+ vascular adaptation improve systemic local blood ﬂow 
+ oxygen supply Green Smith 2018 additionally 
+ HIIT temporarily reduce iop value physically active young 
+ subject Vera et al. 2019 Karakucuk et al. 2020 
+ Cardiorespiratory ﬁtness inversely correlate cv mortality 
+ morbidity Kaminsky et al. 2013 high-intensity interval 
+ training hiit appear promising candidate 
+ increase ﬁtness vascular health Wisløff et al. 2009 Whyte 
+ et al. 2013 ramos et al. 2015 furthermore emerge evidence 
+ indicate hiit effectively reduce oxidative stress increase 
+ bioavailability area et al. 2019 compare 
+ low-to-moderate intensity exercise interval high 
+ intensity show superior improve insulin 
+ sensitivity glucose metabolism hdl ldl leave ventricular 
+ dysfunction bioavailability endothelial function 
+ cardiorespiratory ﬁtness Tjønna et al. 2008 Wisløff et al. 2009 
+ Whyte et al. 2013 Weston et al. 2014 ramos et al. 2015 streese 
+ et al. 2018 substantial evidence suggest local 
+ systemic vascular abnormality play important role 
+ pathophysiology glaucoma Bonomi et al. 2000 Dascalu et al. 
+ 2021 glaucoma patient dynamic exercise jogging 
+ cycling show low iop long intense 
+ training have great effect streese et al. 2018 exercise 
+ demonstrate induce high level bdnf improve 
+ mitochondrial function zhu et al. 2018 chu-tan et al. 2022 
+ notably have patient glaucoma adopt active lifestyle 
+ beneﬁciary general health concomitant management 
+ cv risk factor effective mean improve cv health 
+ quality life 
+ method analysis 
+ long-term clinical goal hit-glaucoma slow 
+ glaucoma progression exercise intervention trial 
+ investigate effect hiit retinal microvascular structure 
+ function systemic large artery health systemic 
+ inﬂammation oxidative stress patient glaucoma 
+ mechanism represent intermediate endpoint 
+ know inﬂuence glaucoma progression 
+ objective outcome measure 
+ primary 
+ retinal microvasculature local primary objective 
+ retinal microcirculation examine effect 6- 
+ month hiit-intervention maximal ﬂicker light-induced 
+ retinal arteriolar afid venular vfid dilation 
+ marker microvascular endothelial function patient 
+ glaucoma hypothesize exercise treatment 
+ signiﬁcantly 
+ increase 
+ retinal 
+ afid 
+ 
+ vfid 
+ 
+ compare control group 
+ large 
+ artery 
+ systemic 
+ 
+ primary 
+ objective 
+ 
+ 
+ macrocirculation examine effect 6-month hiit- 
+ intervention fmd marker large artery endothelial 
+ function patient glaucoma hypothesize exercise 
+ treatment signiﬁcantly increase 
+ fmd 
+ compare 
+ 
+ control group 
+ Frontiers Physiology 
+ frontiersin.org 
+ 03 
+ Van Eijgen et al. 
+ 10.3389/fphys.2024.1349313 
+ secondary 
+ investigate 6 month exercise training improve 
+ CRAE crve diameter glaucoma patient compare 
+ control group 
+ investigate 6 month exercise training improve 
+ PWV marker large artery stiffness glaucoma patient 
+ compare control group 
+ investigate retinal afid vfid ﬂicker light 
+ derive marker retinal crae crve 
+ 6 month exercise training 6 month self- 
+ maintenance exercise training compare control 
+ group 12 month 
+ investigate large artery fmd pwv 6 month 
+ exercise training 6 month self-maintenance 
+ exercise training compare control group 12 month 
+ investigate 6 month exercise training increase 
+ brain-derived neurotrophic factor bdnf level reduce 
+ inﬂammation oxidative stress peripheral blood 
+ assess iop use iop lower eye drop occurrence laser 
+ trabeculoplasty surgical intervention 12 month 
+ intervention group compare control group 
+ assess Optical Coherence Tomography oct visual 
+ ﬁeld metric 12 month intervention group 
+ compare control group 
+ assess peak aerobic capacity vo2peak objectively 
+ measure physical activity 12 month 
+ intervention group compare control group 
+ compare change 24 h ambulatory blood pressure 
+ measurement blood pressure variability 
+ 12 month intervention group control group 
+ compare change vision-related quality life 
+ 12 month intervention group control group 
+ compare change questionnaire-derived ocular surface 
+ disease 
+ index 
+ 
+ dry 
+ eye 
+ disease 
+ symptom 
+ 
+ 
+ intervention group control group 
+ study design 
+ hit-glaucoma study multi-center prospective 
+ randomize control clinical intervention study center 
+ involve University Basel Switzerland comprise 
+ Department Sport Exercise Health dsbg 
+ Department Ophthalmology University Leuven KU 
+ Leuven belgium comprise Department Ophthalmology 
+ Department Neurosciences Department Rehabilitation 
+ Sciences Basel clinical ophthalmological examination 
+ carry glaucoma consultation University Eye 
+ Clinic retinal vessel analysis systemic vascular diagnostic 
+ analysis include cardiopulmonary exercise testing CPET 
+ exercise training perform DSBG Leuven clinical 
+ ophthalmological assessment retinal vessel analysis 
+ analysis perform glaucoma consultation 
+ University Eye Clinic UZ Leuven belgium systemic vascular 
+ diagnostic CPET exercise training perform 
+ Department Rehabilitation Sciences 
+ hit-glaucoma study effect 6-month 
+ exercise intervention patient glaucoma n = 64 
+ compare control group glaucoma patient n = 64 
+ receive 
+ guideline-based 
+ physical 
+ activity 
+ recommendation 
+ 150–300 min moderate-intensity aerobic physical activity 
+ 75–150 min 
+ 
+ vigorous-intensity 
+ activity 
+ 
+ equivalent 
+ combination week account 
+ concomitant change glaucoma standard-of-care medication 
+ patient ntg htg randomize 
+ group figure 1 intervention group hiit n = 32 
+ center combined progressive moderate 
+ continuous training mct hiit control group cg 
+ n = 32 center receive physical activity recommendation 
+ control condition exercise training offer adjunct 
+ treatment standard care supervised exercise 
+ intervention terminate 6 month follow 6 month 
+ 
+ unsupervised 
+ self-maintenance 
+ exercise 
+ training 
+ 
+ control condition 
+ figure 1 
+ Trial ﬂow chart 
+ Frontiers Physiology 
+ frontiersin.org 
+ 04 
+ Van Eijgen et al. 
+ 10.3389/fphys.2024.1349313 
+ selection subject 
+ Inclusion criterion 
+ patient eligible inclusion meet follow 
+ criterion age 40–80 year diagnose poag ntg 
+ htg regular follow-up study center 
+ have sign write informed consent 
+ exclusion criterion 
+ patient eligible study meet follow 
+ criterion have glaucoma surgery 6 month start 
+ project change topical medication laser trabeculoplasty 
+ 3 month start project severe glaucoma visual 
+ ﬁeld mean deviation low −12db eye disease 
+ signiﬁcant impact visual ﬁeld life-threatening arrhythmia 
+ FIGURE 2 
+ overview training session exercise intervention control group 
+ table 1 exercise intervention 
+ phase 1 
+ Week 1–6 
+ phase 2 
+ Week 7–12 
+ phase 3 
+ Week 13–26 
+ supervised session 
+ Week 1–6 1x/week 
+ Week 7–10 1x/week Week 11–12 1x/2 week 
+ Week 13–26 1x/2 week 
+ modality/week 
+ 3 x MCT 
+ 2 x MCT + 1 x hiit 
+ 1 x MCT + 2 x hiit 
+ warm-up 
+ 5 min ramp 25 
+ vo2reserve 
+ 5 min ramp 25 vo2reserve 
+ 5 min ramp 25 vo2reserve 
+ duration condition 
+ phase 
+ Week 1 30 min 
+ MCT 45 min hiit 30 min 6 × 2 min)+(6 × 3 min 
+ MCT 45 min hiit 28 min 4 × 4 min)+(4 × 3 min 
+ Week 2 35 min 
+ Week 3 35 min 
+ Week 4 35 min 
+ Week 5 40 min 
+ Week 6 45 min 
+ Intensity condition 
+ phase 
+ Week 1–2 50 
+ vo2reserve 
+ Week 3–6 65 
+ vo2reserve 
+ MCT 
+ MCT 
+ 65 vo2reserve 
+ 65 vo2reserve 
+ hiit 
+ hiit 
+ 6 × 2 min 
+ 4 × 4 min 
+ 1 min ramp 80 vo2reserve follow 1 min 
+ sustaining 80 vo2reserve 
+ 1 min ramp 85 vo2reserve follow 3 min 
+ sustaining 85 vo2reserve 
+ Interspersed 6 × 3 min 
+ Interspersed 4 × 3 min 
+ 50 vo2reserve 
+ 60 vo2reserve 
+ Cool 
+ 5 min 
+ 5 min 
+ 5 min 
+ Frontiers Physiology 
+ frontiersin.org 
+ 05 
+ Van Eijgen et al. 
+ 10.3389/fphys.2024.1349313 
+ aberrant 
+ CPET 
+ e.g. 
+ sign 
+ 
+ ischemia 
+ 
+ preclude 
+ participation exercise trial insulin-treated diabete chronic 
+ obstructive pulmonary disease cancer mental clinical physical 
+ limitation precluding safe participation high intensity exercise 
+ program subject perform 150 min moderate 
+ vigorous physical activity week deﬁne Physical 
+ Activity Vital Sign questionnaire exclude Kuntz et al. 
+ 2021 participant consider study participation 
+ criterion document Screening Log include 
+ screening failure 
+ recruitment randomization 
+ eligible glaucoma patient invite participate 
+ routine glaucoma consultation Eye Clinic University 
+ Hospital Basel Glaucoma Clinic University Hospitals 
+ UZ Leuven overall 128 patient enrol 64 poag htg 
+ ntg patient Basel 64 Leuven 
+ participant randomize hiit cg stratiﬁed 
+ study site randomization carry Redcap ® 
+ ensure conceal allocation minimize selection bias block 
+ randomization perform block 4–6 redcap ® 
+ table 2 Examination overview visit 
+ overview examination 
+ t0 
+ t1 
+ t2 
+ t3 
+ t4 
+ Glaucoma Standard Care 
+ Visual Acuity 
+ X 
+ x 
+ x 
+ x 
+ autorefraction/autokeratometry 
+ x 
+ x 
+ x 
+ X 
+ Visual Field 
+ X 
+ x 
+ x 
+ X 
+ Intraocular Pressure 
+ X 
+ x 
+ x 
+ X 
+ Retinal Photography 
+ X 
+ x 
+ x 
+ x 
+ Optical Coherence Tomography 
+ x 
+ x 
+ x 
+ X 
+ Retinal Microvascular assessment 
+ static Retinal Vessel Analysis 
+ x 
+ x 
+ x 
+ x 
+ Dynamic Retinal Vessel Analysis 
+ x 
+ x 
+ x 
+ X 
+ Laser Speckle Flowgraphy basel 
+ x 
+ x 
+ x 
+ x 
+ Optical Coherence Tomography Angiography 
+ X 
+ x 
+ x 
+ X 
+ large Artery Structure Function 
+ Flow Mediated Dilation 
+ x 
+ x 
+ x 
+ X 
+ pulse Wave Velocity 
+ x 
+ x 
+ x 
+ X 
+ Physical activity fitness 
+ Cardiopulmonary Exercise Testing vo2peak 
+ x 
+ x 
+ x 
+ X 
+ Accelerometer 
+ x 
+ x 
+ x 
+ X 
+ assessment 
+ Anthropometry weight height bmi bp ecg 
+ x 
+ x 
+ x 
+ x 
+ 24 h ambulatory Blood Pressure Measurement 
+ x 
+ x 
+ x 
+ X 
+ Blood Urine Sampling 
+ X 
+ x 
+ x 
+ X 
+ Safety Monitoring 
+ X 
+ x 
+ x 
+ X 
+ Questionnaires 
+ International Physical Activity Questionnaire ipaq 
+ x 
+ x 
+ x 
+ X 
+ National Eye Institute 25-item Visual Function Questionnaire nei vfq-25 
+ x 
+ x 
+ x 
+ X 
+ Glaucoma Activity Limitation questionnaire gal-9 
+ x 
+ x 
+ x 
+ x 
+ Ocular Surface Disease Index osdi 
+ x 
+ x 
+ x 
+ x 
+ Five-item Dry Eye Questionnaire deq-5 
+ x 
+ x 
+ x 
+ x 
+ t0 baseline t1 measurement 3 month t2 measurement 6 month t3 measurement 1 year t4 yearly 16 year bmi body mass index bp blood pressure ecg 
+ electrocardiography safety monitor trial 
+ Frontiers Physiology 
+ frontiersin.org 
+ 06 
+ Van Eijgen et al. 
+ 10.3389/fphys.2024.1349313 
+ Patients receive unique identiﬁcation number 
+ subsequent transcript collect datum 
+ Redcap ® database instead participant´s assure 
+ pseudonymity datum document web-based 
+ platform follow randomization procedure 
+ established single blinding study personnel involve 
+ assessment study visit avoid motivational bias analysis 
+ imaging datum perform off-line blind researcher 
+ interventional method 
+ Intervention group 
+ patient randomize exercise intervention group 
+ follow 6-month long progressive exercise training program 
+ program consist 6 week MCT follow 20 week 
+ MCT combine hiit 6-month period follow 
+ maintenance 
+ non-supervised 
+ home-based 
+ physical 
+ activity 
+ program Figure 2 ﬁrst 6 month patient 
+ participate 18 supervised center-based exercise session 
+ adjunct remotely monitor guide home-based exercise 
+ intervention number supervised center-based session 
+ gradually decrease time encourage self-management 
+ empowerment ﬁrst second month patient 
+ participate supervised training session week start 
+ month sixth patient participate 
+ supervised session second week 
+ 6-month exercise program consist phase aerobic 
+ training perform time week cycle ergometer 
+ phase 6-week run-in period acquaint patient 
+ exercise therapy allow gradual progressive aerobic 
+ conditioning phase session MCT 
+ perform phase session MCT replace 
+ hiit session phase patient execute 
+ session hiit session MCT duration 
+ intensity training session speciﬁed Table 1 
+ Intensity training session guide heart rate 
+ monitoring correspond speciﬁc percentage vo2 
+ reserve vo2 reserve deﬁne vo2max vo2rest x 
+ vo2rest Swain Leutholtz 1997 patient monitor 
+ exercise intensity duration frequency mean commercial 
+ wearable exercise tracker ask upload training 
+ datum accompany platform addition self-reported 
+ rate perceive exertion collect individualized training 
+ log 6-month exercise intervention follow 
+ maintenance physical activity program tailor patient 
+ preference 60-min face-to-face consultation 
+ 6 month exercise supervise support 
+ study team 
+ control group 
+ cg verbally receive exercise recommendation 
+ line current guideline pelliccia et al. 2020 
+ FIGURE 3 
+ visual representation study concept effect exercise training glaucoma progression cardiovascular risk local systemic 
+ disease mechanism 
+ Frontiers Physiology 
+ frontiersin.org 
+ 07 
+ Van Eijgen et al. 
+ 10.3389/fphys.2024.1349313 
+ recommend physical activity 150 min week 
+ moderate high intensity counselling guidance 
+ objective measure physical activity mean wearable 
+ provide 
+ concomitant care 
+ intervention control group continue receive 
+ routine medical pharmacological management 
+ assessment 
+ overview method apply timetable 
+ schedule visit give table 2 follow section offer 
+ summary diagnostic method 
+ clinical ophthalmological assessment 
+ Visual ﬁeld examination Visual Field quantiﬁcation gold 
+ standard assessment visual performance glaucoma patient 
+ quintessential glaucoma diagnosis follow-up 
+ Humphrey visual ﬁeld Carl Zeiss Meditec Inc. Dublin 
+ Octopus visual ﬁeld Haag-Streit AG Koeniz Switzerland 
+ examination 
+ optical coherence tomography oct oct make use 
+ interferometry visible wavelength spectrum 
+ orthogonal slice retina high resolution scanning 
+ macular retinal thickness ganglion cell layer retinal nerve ﬁber 
+ layer thickness optic nerve rim assessment perform 
+ Heidelberg Spectralis Heidelberg Engineering Inc. Franklin 
+ United States particular macular oct cube radial 
+ circumpapillary scan ONH take 
+ optical coherence tomography angiography octa octa 
+ imaging well compare subtraction angiography 
+ subtract oct image mobile 
+ move blood column result three-dimensional 
+ reconstruction retinal vascular tree level small 
+ capillary 10 ° 20 ° vascular scan macula 15 ° scan 
+ optic nerve capture Heidelberg Spectralis 
+ Heidelberg Engineering Inc. Franklin United States 
+ visual acuity testing visual acuity measure 
+ center-speciﬁc calibrate visual acuity chart express 
+ universal Logarithm Minimum Angle Resolution 
+ logmar scoring 
+ autorefraction/autokeratometry 
+ 
+ refraction 
+ sphere 
+ cylinder 
+ 
+ axis 
+ 
+ 
+ measure 
+ 
+ 
+ automate 
+ keratorefractometer optical quality refraction eye 
+ important visual acuity testing optical adjustment 
+ imaging 
+ intraocular pressure iop iop measure use 
+ Goldmann Applanation Tonometry prior pupil dilation 
+ retinal microvascular assessment 
+ dynamic retinal vessel analysis afid vfid assess 
+ biomarker endothelial function retinal microcirculation 
+ 
+ dilation 
+ 
+ response 
+ 
+ ﬂicker 
+ light 
+ 
+ facilitated 
+ 
+ neurovascular coupling dilation capacity percent change 
+ baseline diameter assess Dynamic Vessel 
+ Analyzer 3.0 dva IMEDOS Systems Jena Germany Hanssen 
+ et al. 2022 device consist retinal camera imedo 
+ Systems Jena Germany charge-coupled device camera 
+ electronic online imaging personal computer system 
+ control analysis recording obtain datum cycle 
+ ﬂicker provocation apply 80 s recovery 
+ cycle extract a.o mean value afid vfid streese 
+ et al. 2021 
+ static retinal vessel analysis take fundus image retina 
+ allow assessment crae crve diameter 
+ avr parameter show reﬂect systemic cv risk 
+ 
+ analyze 
+ 
+ 
+ healthy 
+ eye 
+ 
+ represent 
+ retinal 
+ microvascular health Hanssen et al. 2022 retinal vessel image 
+ take static Retinal Vessel Analyzer sva-t 
+ Imedos 
+ Systems 
+ UG 
+ Jena 
+ Germany 
+ 
+ sva-t 
+ system 
+ consist fundus camera topcon trc nw8 
+ analyzing software Visualis 2.80 imedo System ug 
+ image take retina affect eye retinal 
+ vessel diameter identiﬁed analyze use semi- 
+ automated software vesselmap 2 Visualis Imedos Systems UG 
+ automate software lunet pvbm Fhima et al. 2023 
+ laser speckle ﬂowgraphy lsfg ocular perfusion 
+ measure laser ﬂowgraphy mean blur rate mbr estimate 
+ ﬂow lsfg Nidek Inc. United States basel site 
+ device use low-power semi-conductor laser wavelength 
+ 830 nm laser class 1 measurement light lsfg measure real- 
+ time fundus blood ﬂow relative blood ﬂow express 
+ arbitrary unit mbr total 118 frame record 4 s. 
+ Mean perfusion ONH analyze LSFG Analyzer 
+ software version 1.0.0.0 
+ Macrovascular assessment 
+ flow-mediated dilation fmd gold standard method 
+ non-invasive evaluation endothelial function large artery 
+ ultrasound-based device 2d imaging dilation 
+ brachial artery measure 3 minute 5 minute cuff- 
+ induced blood ﬂow restriction UNEX Sakae Nakaku Nagoya 
+ Japan diameter brachial artery measure rest 
+ rest diameter shortly cuff deﬂation base diameter 
+ 3 minute increase blood ﬂow max diameter analyze 
+ ﬂow endothelium-dependent vasodilation blunt fmd 
+ link high cv event risk show 
+ prognostic value development cvd ras et al. 2013 
+ pulse-wave velocity analysis carotid-femoral pulse wave 
+ velocity estimate central aortic blood pressure 
+ measure 
+ 
+ 
+ sphygmocor 
+ xcel 
+ Atcor 
+ Medical 
+ 184 Shuman Blvd Naperville United States pwv gold 
+ standard measurement arterial stiffness chalmer et al. 
+ 2010 good intra- interobserver reproducibility technique 
+ demonstrate healthy population patient 
+ elevated cv risk streese et al. 2020b 10 minute rest pulse 
+ wave record high-ﬁdelity tonometric transducer 
+ carotid site simultaneous recording pulse wave cuff- 
+ base oscillometric detection upper leg pulse wave distance 
+ determine use direct method recommend previous 
+ consensus document Van Bortel et al. 2012 distance 
+ carotid artery cuff measure follow distance 
+ Frontiers Physiology 
+ frontiersin.org 
+ 08 
+ Van Eijgen et al. 
+ 10.3389/fphys.2024.1349313 
+ femoral artery cuff distance 
+ carotid femoral palpation site calculate subtraction 
+ measurement meet quality control parameter consecutive 
+ measurement visually acceptable 0.5 m/s 
+ standard deviation < 10 mean valid measurement 
+ represent pwv value 
+ exercise capacity testing 
+ Cardiopulmonary exercise testing CPET exercise capacity 
+ assess CPET measure peak exercise oxygen consumption 
+ vo2peak cpet perform electromagnetically brake 
+ cycle ergometer ergoline 900 Bitz Germany accord 
+ standard American Thoracic Society/American College 
+ Chest Physicians statement cardiopulmonary exercise testing 
+ American Thoracic SocietyAmerican College Chest Physicians 
+ 2003 
+ Individualized 
+ ramp 
+ protocol 
+ 
+ 
+ perform 
+ 
+ volitional 
+ exhaustion 
+ 
+ appearance 
+ 
+ clinically 
+ signiﬁcant 
+ symptom heart rate continuously monitor 12-lead 
+ ecg respiratory datum continuously measure breath-by- 
+ breath 
+ analysis 
+ oxycon 
+ Pro 
+ Jaeger 
+ CareFusion 
+ Germany 
+ | 
+ JAEGER Vyntus CPX Vyaire medical United States vo2peak 
+ deﬁne high 30-s average vo2 end test 
+ blood urine sampling 
+ Blood draw fast state venipuncture cubital 
+ fossa routine analysis circulate biomarker 
+ systemic cv risk 1 day rest physical exercise 
+ 1 week perform baseline 3 month 
+ 6 month 12 month trial inclusion urine collect 
+ fasten state routine urine analysis determination 
+ microalbuminuria routine blood analysis encompass 
+ Hemogram differential blood cell count 
+ Biochemistry high-sensitive c-reactive protein hscrp 
+ glucose hdl ldl trigliceride hba1c kidney marker 
+ creatinine sodium potassium 
+ biomarker endothelial function premature vascular 
+ ageing 
+ comprise 
+ different 
+ cellular 
+ circulate 
+ mature 
+ endothelial endothelial progenitor cell assess 
+ Basel protein marker transcriptomic 
+ genomic epigenetic marker 
+ elisa kit accord manufacturer 
+ instruction determination interleukine-6 bender 
+ Med-Systems Austria tumor necrosis factor-α Biosource 
+ United States 3-nitrotyrosine oxidative stress Cell Biolabs 
+ United States bdnf biosensis United States 
+ high-sensitive c-reactive protein hs-crp analyse 
+ immunoturbidimetric latex crp assay Cobas 8000 roche- 
+ Diagnostics Basel 
+ blood sample centrifuge supernatant aliquot 
+ frozen −80 ° c batch analysis 
+ Questionnaires 
+ International Physical Activity Questionnaire ipaq short 
+ form ipaq validate german dutch 
+ version apply identify quantity kind daily 
+ physical activity participant questionnaire 
+ metabolic equivalent met 1 hour met/h calculate 
+ week instrument demonstrate good reliability 
+ validity Craig et al. 2003 
+ National Eye Institute 25-item Visual Function Questionnaire 
+ nei vfq-25 nei vfq-25 assess vision related quality life 
+ vision comfort daily activity driving newspaper reading 
+ cinema mangione et al. 2001 
+ Glaucoma Activity Limitation Questionnaire gal-9 gal-9 
+ shorten version Glaucoma Quality life-15 
+ assess vision related quality life speciﬁcally develop 
+ glaucoma patient Nayyar et al. 2022 
+ Ocular Surface Disease Index osdi OSDI assess effect 
+ dry eye disease vision-related function Guarnieri et al. 2020 
+ five-item Dry Eye Questionnaire deq-5 deq-5 
+ discriminate self-assessed severity dry eye disease chalmer 
+ et al. 2010 
+ assessment 
+ Daily physical activity physical activity baseline 
+ 6 month 12 month follow-up measure 
+ objectively validate research-based accelerometer 
+ geneactiv ActiGraph ™ gt3x ActiGraph llc Pensacola 
+ Florida United States wear 8 consecutive day 
+ order obtain number step energy expenditure met rate 
+ physical activity intensity sedentary bout activity count 
+ activity bout 
+ 24 h ambulatory blood pressure measurement patient 
+ receive 
+ 
+ validate 
+ oscillometric 
+ 
+ 90202 
+ 
+ 90207 SpaceLabs monitor SpaceLabs Inc. Redmond wa 
+ abpmpro Research 
+ model 
+ somnomedic 
+ gmbh 
+ Randersacker ger program obtain 
+ ambulatory blood pressure reading interval 15 20 min 
+ day 06:00 00:00 30-min interval 
+ night 00:00 06:00 
+ Anthropometry Patient height weight body mass index 
+ bmi rest electrocardiogram ecg blood pressure bp 
+ measure standardized procedure body fat 
+ measure bioelectrical impedance analysis InBody Biospace 
+ California United States 
+ data analysis 
+ primary outcome study effect 6-month exercise 
+ training maximal afid vfid hiit group compare 
+ control group descriptive statistic mean standard deviation 
+ describe baseline follow-up characteristic 
+ normal distribution datum test mean shapiro- 
+ Wilk test analyze intervention effect 6 month use 
+ analysis covariance ancova accord intention-to- 
+ treat principle compare difference primary secondary 
+ endpoint hiit control group correct 
+ corresponding baseline value main confounder boxplot 
+ visualize primary secondary endpoint 
+ 6-month exercise intervention fraction 
+ missing value exceed 5 account miss datum 
+ Frontiers Physiology 
+ frontiersin.org 
+ 09 
+ Van Eijgen et al. 
+ 10.3389/fphys.2024.1349313 
+ multiple imputation multiple linear regression model 
+ adjust covariable age sex describe 
+ association delta change retinal microvascular 
+ adaptation delta change classical risk factor 
+ vo2peak bmi systolic diastolic bp fasting glucose serum 
+ lipid hs-crp inﬂammatory oxidative stress marker 
+ bdnf change glaucoma therapy coincide course 
+ project trial interfere routine glaucoma 
+ management particular need correct 
+ therapy change statistical analysis change therapy 
+ include separate variable step-up therapy 
+ surgery laser trabeculoplasty additional drop 
+ code binary summarize variable yes/no separate 
+ variable quantify total number drop total number 
+ surgery model assumption check graphically 
+ residual diagnostic plot statistical test two-sided 
+ signiﬁcant level set 0.05 
+ Sample size calculation 
+ retinal microcirculation sample size calculation 
+ base regression coefﬁcient group indicator hiit 
+ vs. cg ancova describe calculation 
+ inform publish standard error coefﬁcient 
+ comparable trial analysis speciﬁcally assume standard 
+ error 0.23 maximal afid streese et al. 2020a 
+ 0.0051 avr streese et al. 2020b detect adjusted group 
+ difference 0.51 maximal afid 0.03 avr 
+ power 80 total sample size 112 20 require 
+ respectively 
+ envisage 112 complete 
+ participation study 
+ case meet sample size target 
+ calculate minimum detectable β range sample size 
+ case recruitment example 90 patient minimum 
+ detectable β maximal afid 0.60 exercise- 
+ induced dilation change power 0.8 minimum 
+ detectable β avr range 0.014 exercise- 
+ induced change ratio reﬂect achievable 
+ clinically relevant improvement retinal microvascular health 
+ put expect effect perspective normative datum 
+ previously report exercise efﬁcacy 
+ large artery function additional sample size calculation 
+ perform base give sample size previous 
+ power calculation retinal endpoint detectable group 
+ difference calculation base assume correlation 
+ coefﬁcient r = 0.6 pre- post-measurement 
+ standard deviation 3 given total sample size n = 124 
+ 62 group mct/hiit group dropout rate 10 
+ calculation inform publish standard deviation 
+ coefﬁcient comparable trial analysis Lenth 
+ 2001 Moriguchi et al. 2005 Luk et al. 2012 ras et al. 2013 
+ Heiss et al. 2023 n = 62 group assumption 
+ r = 0.6 pre- post-measurement 80 power 
+ detect group difference fmd 1.3 large 
+ 90 power detect group difference fmd 1.5 
+ large target sample size 124 participant 
+ study 
+ correlation pre- post-measurement 
+ reach r = 0.6 detect group difference fmd 1.6 
+ 80 power bad case reﬂect 
+ achievable clinically meaningful improvement large artery 
+ function put expect effect perspective recently 
+ publish reference range serve target 
+ tailor cardiovascular risk stratiﬁcation prevention luk et al. 
+ 2012 Heiss et al. 2023 
+ Data management 
+ Data management perform experienced datum 
+ scientist compliance guideline good clinical 
+ practice collaboration Clinical Trial Unit ctu 
+ University Basel Clinical Trial Center ctc 
+ University Hospitals UZ Leuven electronic case report 
+ form ecrf redcap center personal 
+ sensitive datum abide General Data Protection Regulation 
+ 2016/67 FDA Good Clinical Practice guideline different 
+ datum source collect patient datum digitally record 
+ form questionnaire clinical examination report 
+ image ﬁle management include consistency check datum 
+ input personal datum ﬁnding survey digitally 
+ store encrypted format exclusively 
+ study name initial complete birth date 
+ identiﬁer 
+ 
+ 
+ include 
+ 
+ 
+ encrypted 
+ code 
+ pseudonomization datum acquisition complete 
+ statistical analysis perform solely pseudonomize 
+ datum set pseudonomized datum numeric database send 
+ Leuven coordinating center non-disclosure party 
+ restriction stipulate informed consent 
+ form study datum ﬁle archive 
+ dsbg KU Leuven server dedicate Research Group 
+ Ophthalmology Data Management Plan approve 
+ institutional research governance committee ethic review 
+ authority 
+ Discussion 
+ hit-glaucoma aim establish exercise treatment 
+ viable new adjunct therapy modality glaucoma result 
+ study potential enforce paradigm shift treatment 
+ patient glaucoma additionally apply exercise 
+ treatment exercise treatment potential improve 
+ microvascular endothelial function improve ocular perfusion 
+ induce anti-inﬂammatory anti-oxidative capacity 
+ Glaucoma potentially see sequel 
+ systemic dysfunctional pathway theoretical microvascular 
+ dysfunction exercise underused readily available 
+ treatment strategy great potential add treatment 
+ usual care 
+ ﬁrst foremost clinical study elaborate 
+ potential 
+ exercise-induced 
+ mechanism 
+ 
+ treatment 
+ effect 
+ nonetheless study investigate local retinal 
+ systemic pathophysiological molecular mechanism 
+ involve exercise-induced amelioration disease 
+ progression way comprehensive highly 
+ innovative approach combine exercise preventive medicine 
+ Frontiers Physiology 
+ frontiersin.org 
+ 10 
+ Van Eijgen et al. 
+ 10.3389/fphys.2024.1349313 
+ 
+ 
+ retinal 
+ microvascular 
+ pathophysiology 
+ 
+ clinical 
+ ophthalmology potential set new standard offer 
+ new option current treatment approach glaucoma 
+ objective hit-glaucoma study primarily 
+ investigate 
+ intermediate 
+ endpoint 
+ 
+ 
+ local 
+ retinal 
+ microvascular 
+ dysfunction 
+ 
+ systemic 
+ vascular 
+ plasticity 
+ inﬂammation oxidative stress key pathological 
+ feature etiology glaucoma describe local 
+ systemic mechanism impact disease progression aim 
+ demonstrate efﬁcacy exercise add-on treatment 
+ disease entity potential help stabilize disease 
+ reduce glaucoma-associated cv risk aim concept 
+ study summarize Figure 3 study investigate 
+ effect exercise disease speciﬁc clinical endpoint visual 
+ ﬁeld oct index iop use iop lower eye drop 
+ necessity laser trabeculoplasty surgical intervention 
+ vision related quality life symptomatology ocular surface 
+ disease initial phase study short robust 
+ reliable study glaucoma progression term visual ﬁeld 
+ oct longer-term follow-up ensure assess change 
+ long period ﬁrst patient schedule February 2024 
+ conclusion comprehensive hit-glaucoma study 
+ approach set ground new add-on exercise 
+ treatment regime glaucoma represent blueprint 
+ exercise 
+ study 
+ 
+ 
+ kind 
+ 
+ (micro)vascular 
+ disease 
+ additionally mobilize patient beneﬁt associate cv 
+ comorbiditie exercise prescription consider 
+ effective polypill treatment systemic cv disease 
+ likewise prove effective treatment strategy glaucoma 
+ chronic smolder neurodegenerative disease 
+ data availability statement 
+ original contribution present study include 
+ article/supplementary material inquiry direct 
+ corresponding author 
+ ethic statement 
+ study approve Ethics Committee 
+ Northwestern Central Switzerland eknz project-id 
+ 2023 01397 Ethics Committee Research UZ/KU 
+ Leuven EC Research project-id s67593 study 
+ carry accordance protocol principle 
+ state Declaration Helsinki Guidelines Good 
+ Clinical Practice gcp World Medical Association 2013 
+ study protocol design accord SPIRIT Guidelines 
+ respect use medical device study 
+ conduct European Directive medical device 93/ 
+ 42/eec iso norm 14155 iso 14971 swiss Law 
+ swiss regulatory authority requirement respective 
+ ethic committee receive annual safety report 
+ inform 
+ 
+ study 
+ stop/end 
+ 
+ agreement 
+ 
+ local 
+ requirement participation study voluntary 
+ potential participant inform study 
+ procedure time sign informed consent 
+ potential participant 24-hour 
+ thinking period sign consent participant later 
+ receive personal study id data acquisition perform 
+ single-blinded study member study datum enter 
+ ecrf authorized personnel 
+ Author contribution 
+ jv conceptualization Data curation funding acquisition 
+ Methodology Project administration Supervision Visualization 
+ writing original 
+ draft 
+ writing review 
+ 
+ editing 
+ vs 
+ Investigation 
+ Project 
+ administration 
+ Visualization 
+ writing original 
+ draft 
+ writing review 
+ 
+ editing 
+ e-lf 
+ Investigation 
+ Project 
+ administration 
+ Visualization 
+ writing original 
+ draft 
+ writing review 
+ 
+ editing 
+ mr 
+ Investigation Methodology writing review editing hb 
+ Data curation methodology writing review editing jk 
+ Conceptualization 
+ Methodology 
+ Project 
+ administration 
+ writing review 
+ 
+ editing 
+ av 
+ Conceptualization 
+ Investigation 
+ Methodology 
+ Resources 
+ Supervision 
+ writing review 
+ 
+ editing 
+ vc 
+ Conceptualization 
+ Data 
+ curation 
+ Funding 
+ acquisition 
+ Investigation 
+ Methodology 
+ Project administration Resources Supervision writing review 
+ 
+ editing 
+ kg 
+ Conceptualization 
+ Funding 
+ acquisition 
+ Investigation 
+ Methodology 
+ Resources 
+ Supervision 
+ writing review 
+ 
+ editing 
+ 
+ Conceptualization 
+ Funding 
+ acquisition investigation Methodology Resources Supervision 
+ writing review 
+ 
+ editing 
+ hh 
+ Conceptualization 
+ Data 
+ curation 
+ Funding 
+ acquisition 
+ Investigation 
+ Methodology 
+ Project administration Resources Supervision writing review 
+ editing 
+ Funding 
+ author(s declare ﬁnancial support receive 
+ research authorship and/or publication article study 
+ fund Swiss National Science Foundation snf 32003bl 
+ 212656/1 
+ 
+ 
+ Research 
+ Foundation 
+ Flanders 
+ fwo g005023n 
+ Conﬂict interest 
+ author declare research conduct 
+ absence commercial ﬁnancial relationship 
+ construe potential conﬂict interest 
+ Publisher note 
+ claim express article solely author 
+ 
+ 
+ 
+ necessarily 
+ represent 
+ 
+ 
+ 
+ afﬁliated 
+ organization publisher editor 
+ reviewer product evaluate article 
+ claim manufacturer guarantee 
+ endorse publisher 
+ Frontiers Physiology 
+ frontiersin.org 
+ 11 
+ Van Eijgen et al. 
+ 10.3389/fphys.2024.1349313 
+ References 
+ American Thoracic SocietyAmerican College Chest Physicians 2003 ats/accp 
+ Statement cardiopulmonary exercise testing J. Respir crit care Med 167 2 
+ 211–277 doi:10.1164/rccm.167.2.211 
+ Areas G. P. T. Mazzuco a. Caruso F. R. Jaenisch R. B. Cabiddu R. Phillips S. a. 
+ et al. 2019 flow-mediated dilation heart failure review implication 
+ physical rehabilitation heart Fail Rev. 24 1 69–80 doi:10.1007/s10741 018 9719 7 
+ Benoist d azy C. Pereira B. Chiambaretta F. Dutheil F. 2016 oxidative 
+ anti-oxidative stress marker chronic glaucoma systematic review meta- 
+ analysis plos 11 12 e0166915 doi:10.1371/journal.pone.0166915 
+ BMJ Publishing Group Ltd 2021 european glaucoma society terminology 
+ guideline 
+ 
+ glaucoma 
+ br 
+ J. 
+ Ophthalmol 
+ Suppl 
+ 1 
+ 1–169 doi:10.1136/ 
+ bjophthalmol-2021-egsguideline 
+ Bonomi L. Marchini G. Marraffa M. Bernardi P. Morbio R. Varotto a. 
+ 2000 vascular risk factor primary open angle glaucoma Egna-Neumarkt 
+ Study ophthalmology 107 7 1287–1293 doi:10.1016/s0161 6420(00)00138-x 
+ Chalmers R. L. Begley C. G. Caffery B. 2010 validation 5-item Dry Eye 
+ Questionnaire deq-5 discrimination self-assessed severity aqueous tear 
+ deﬁcient dry eye diagnosis cont Lens Anterior Eye 33 2 55–60 doi:10.1016/j.clae 
+ 2009.12.010 
+ Chiquet C. Gavard O. Arnould L. Mautuit T. Macgillivray T. J. Bron a. M. et al. 
+ 2020 retinal vessel phenotype patient primary open-angle glaucoma acta 
+ Ophthalmol 98 1 e88–e93 doi:10.1111/aos.14192 
+ Choi J. a. Lee S. N. Jung S. H. Won H. H. Yun J. S. 2023 association 
+ glaucoma lifestyle incident cardiovascular disease longitudinal prospective 
+ study UK Biobank Sci Rep. 13 1 2712 doi:10.1038/s41598 023 29613-w 
+ Chrysostomou V. Rezania F. Trounce I. a. Crowston J. G. 2013 oxidative 
+ stress mitochondrial dysfunction glaucoma curr opin pharmacol 13 1 
+ 12–15 doi:10.1016/j.coph.2012.09.008 
+ chu-tan J. a. Kirkby M. Natoli R. 2022 run save sight effect 
+ exercise retinal health function clin exp ophthalmol 50 1 74–90 doi:10 
+ 1111/ceo.14023 
+ Craig C. L. Marshall A. L. Sjöström M. Bauman A. E. Booth M. L. Ainsworth B. 
+ E. et al. 2003 international physical activity questionnaire 12-country reliability 
+ validity med Sci sport Exerc 35 8) 1381–1395 doi:10.1249/01.mss.0000078924 
+ 61453.fb 
+ Dascalu A. M. Stana D. Nicolae V. A. Cirstoveanu C. Vancea G. Serban D. et al. 
+ 2021 association vascular comorbidity glaucoma progression four- 
+ year observational study exp ther med 21 3 283 doi:10.3892/etm.2021.9714 
+ Fhima J. Eijgen J. V. Stalmans I. Men Y. Freiman M. Behar J. a. 2023 
+ pvbm Python vasculature biomarker toolbox base retinal blood vessel 
+ segmentation computer vision eccv 2022 workshop editor L. Karlinsky 
+ T. Michaeli K. Nishino Cham Springer Nature Switzerland 296–312 Lecture 
+ Notes Computer Science 
+ Flammer J. Konieczka K. 2017 discovery flammer syndrome 
+ historical personal perspective epma j. 8 2 75–97 doi:10.1007/s13167 017- 
+ 0090-x 
+ Flammer J. Orgül S. costa V. P. Orzalesi N. Krieglstein G. K. Serra L. M. et al. 
+ 2002 impact ocular blood ﬂow glaucoma prog retin eye Res 21 4 
+ 359–393 doi:10.1016/s1350 9462(02)00008 3 
+ Green D. J. Hopman M. T. E. Padilla J. Laughlin M. H. Thijssen D. H. J. 
+ 2017 vascular adaptation exercise human role hemodynamic stimulus 
+ Physiol rev. 97 2 495–528 doi:10.1152/physrev.00014.2016 
+ Green D. J. Smith K. J. 2018 effect exercise vascular function structure 
+ health human cold Spring Harb perspect med 8 4 a029819 doi:10.1101/ 
+ cshperspect.a029819 
+ Guarnieri a. Carnero E. Bleau a. M. alfonso-bartolozzi B. Moreno- 
+ Montañés J. 2020 relationship osdi questionnaire ocular surface 
+ change glaucomatous patient int ophthalmol 40 3 741–751 doi:10.1007/ 
+ s10792 019 01236-z 
+ Gugleta K. Kochkorov A. Waldmann N. Polunina a. Katamay R. Flammer J. 
+ et al. 2012 dynamic retinal vessel response ﬂicker light glaucoma patient 
+ ocular hypertensive Graefes Arch clin exp ophthalmol 250 4 589–594 doi:10 
+ 1007/s00417 011 1842 2 
+ Hanssen H. streese L. Vilser W. 2022 retinal vessel diameter function 
+ cardiovascular risk disease prog retin eye Res 91 101095 doi:10.1016/j 
+ preteyeres.2022.101095 
+ Heiss C. rodriguez-mateos a. bapir M. Skene S. S. sie H. Kelm M. 2023 
+ flow-mediated dilation reference value evaluation endothelial function 
+ cardiovascular health Cardiovasc res 119 1 283–293 doi:10.1093/cvr/cvac095 
+ Jonas J. B. Aung T. Bourne R. R. Bron a. M. Ritch R. Panda-Jonas S. 2017 
+ Glaucoma lancet 390 10108 2183–2193 doi:10.1016/s0140 6736(17)31469 1 
+ Kaminsky L. A. Arena R. Beckie T. M. brubaker P. H. Church T. S. Forman D. 
+ E. et al. 2013 importance cardiorespiratory ﬁtness United States 
+ need national registry policy statement American Heart Association 
+ circulation 127 5 652–662 doi:10.1161/cir.0b013e31827ee100 
+ Karakucuk Y. Okudan N. Bozkurt B. Belviranlı M. Sezer T. Gorçuyeva S. 
+ 2020 quantitative assessment effect acute anaerobic exercise macular 
+ perfusion swept-source optical coherence tomography angiography young 
+ football player int ophthalmol 40 6 1377–1386 doi:10.1007/s10792 020 01303-w 
+ Koller a. Toth P. 2012 contribution ﬂow-dependent vasomotor 
+ mechanism autoregulation cerebral blood ﬂow J. Vasc res 49 5 
+ 375–389 doi:10.1159/000338747 
+ Kreft D. Doblhammer G. Guthoff R. F. Frech S. 2019 prevalence incidence 
+ risk factor primary open-angle glaucoma cohort study base longitudinal 
+ datum german public health insurance bmc Public Health 19 1 851 doi:10 
+ 1186/s12889 019 6935 6 
+ Kuntz J. L. Young D. R. Saelens B. E. Frank L. D. Meenan R. T. Dickerson J. F. 
+ et al. 2021 validity exercise vital sign tool assess physical activity J. Prev 
+ Med 60 6 866–872 doi:10.1016/j.amepre.2021.01.012 
+ Kwon J. Lee J. Choi J. Jeong D. Kook M. S. 2017 association 
+ nocturnal blood pressure dip optic disc hemorrhage patient normal- 
+ tension glaucoma J. Ophthalmol 176 87–101 doi:10.1016/j.ajo.2017.01.002 
+ Lambuk L. Mohd Lazaldin M. a. Ahmad S. Iezhitsa I. Agarwal R. Uskoković V. 
+ et al. 2022 brain-derived neurotrophic factor-mediated neuroprotection glaucoma 
+ review current state art Pharmacol 13 875662 doi:10.3389/fphar 
+ 2022.875662 
+ Lenth R. V. 2001 practical guideline effective sample size determination 
+ statistician 55 3 187–193 doi:10.1198/000313001317098149 
+ Lin H. C. Chien C. W. Hu C. C. Ho J. D. 2010 comparison comorbid 
+ condition open-angle glaucoma patient control cohort case-control 
+ study ophthalmology 117 11 2088–2095 doi:10.1016/j.ophtha.2010.03.003 
+ Luk T. H. Dai Y. L. siu C. W. Yiu K. H. Chan H. T. Lee S. W. L. et al. 2012 
+ effect exercise training vascular endothelial function patient stable 
+ coronary artery disease randomized control trial eur J. Prev cardiol 19 4 
+ 830–839 doi:10.1177/1741826711415679 
+ Mangione C. M. Lee P. P. Gutierrez P. R. Spritzer K. Berry S. Hays R. D. et al. 
+ 2001 development 25-item national eye Institute visual function questionnaire 
+ Arch Ophthalmol 119 7 1050–1058 doi:10.1001/archopht.119.7.1050 
+ Melgarejo J. D. Eijgen J. V. Wei D. Maestre G. E. al-aswad L. a. Liao C. T. et al. 
+ 2023 effect 24-h blood pressure dysregulation reduce ocular perfusion 
+ pressure open-angle glaucoma progression J. Hypertens 41 11 1785–1792 doi:10 
+ 1097/hjh.0000000000003537 
+ Moncada S. Higgs a. 1993 l-arginine-nitric oxide pathway N. Engl 
+ J. Med 329 27 2002–2012 doi:10.1056/nejm199312303292706 
+ Moriguchi J. Itoh H. Harada S. Takeda K. Hatta T. Nakata T. et al. 2005 low 
+ frequency regular exercise improve ﬂow-mediated dilatation subject mild 
+ hypertension hyperten res 28 4 315–321 doi:10.1291/hypres.28.315 
+ Nayyar S. Kumar S. Rehman O. Ichhpujani P. Singla E. 2022 impact 
+ moderate severe primary open-angle glaucoma quality life 
+ activity limitation indian J. Ophthalmol 70 2 552–557 doi:10.4103/ijo ijo 
+ 1687_21 
+ Nita M. grzybowski a. 2016 role reactive oxygen specie 
+ oxidative stress pathomechanism age-related ocular disease 
+ pathology anterior posterior eye segment adult oxidative Med cell 
+ Longev 2016 3164734 doi:10.1155/2016/3164734 
+ Palmer R. M. Ashton D. S. Moncada S. 1988 vascular endothelial cell 
+ synthesize nitric oxide l-arginine nature 333 6174 664–666 doi:10.1038/ 
+ 333664a0 
+ Pelliccia a. Sharma S. Gati S. Bäck M. Börjesson M. Caselli S. et al. 2020 
+ 2020 ESC Guidelines sport cardiology exercise patient cardiovascular 
+ disease eur heart j;42(1):17–96 doi:10.1093/eurheartj/ehaa605 
+ Peters D. Bengtsson B. Heijl a. 2014 factor associate lifetime risk 
+ open-angle glaucoma blindness acta Ophthalmol 92 5 421–425 doi:10.1111/aos 
+ 12203 
+ Pinazo-Durán M. D. Zanón-Moreno V. Gallego-Pinazo R. garcía-medina 
+ J. J. 2015 oxidative stress mitochondrial failure pathogenesis glaucoma 
+ neurodegeneration prog brain res 220 127–153 doi:10.1016/bs.pbr.2015.06.001 
+ Quigley H. a. 2011 glaucoma lancet 377 9774 1367–1377 doi:10.1016/s0140- 
+ 6736(10)61423 7 
+ Ramos J. S. Dalleck L. C. Tjonna A. E. Beetham K. S. Coombes J. S. 2015 
+ impact high-intensity interval training versus moderate-intensity continuous 
+ training vascular function systematic review meta-analysis sport Med 45 5 
+ 679–692 doi:10.1007/s40279 015 0321-z 
+ ras R. T. Streppel M. T. draijer R. Zock P. L. 2013 flow-mediated dilation 
+ cardiovascular risk prediction systematic review meta-analysis int 
+ J. Cardiol 168 1 344–351 doi:10.1016/j.ijcard.2012.09.047 
+ Frontiers Physiology 
+ frontiersin.org 
+ 12 
+ Van Eijgen et al. 
+ 10.3389/fphys.2024.1349313 
+ Saccà S. C. Pascotto a. Camicione P. Capris P. Izzotti a. 2005 oxidative 
+ dna damage human trabecular meshwork clinical correlation patient 
+ primary open-angle glaucoma arch ophthalmol 123 4 458–463 doi:10.1001/ 
+ archopht.123.4.458 
+ Seidelmann S. B. Claggett B. Bravo P. E. Gupta a. Farhad H. Klein B. E. et al. 
+ 2016 retinal vessel caliber predict long-term cardiovascular outcome 
+ atherosclerosis risk community study circulation 134 18 1328–1338 doi:10 
+ 1161/circulationaha.116.023425 
+ Streese L. Deiseroth a. Schäfer J. schmidt-trucksäss a. Hanssen H. 2018 
+ Exercise arterial crosstalk-modulation inﬂammation aging population 
+ examin age study physiol 9 116 doi:10.3389/fphys.2018.00116 
+ streese L. Khan A. W. Deiseroth a. Hussain S. Suades R. Tiaden a. et al. 
+ 2020b high-intensity interval training modulate retinal microvascular phenotype 
+ dna methylation p66shc gene randomized control trial examin age 
+ eur heart J. 41 15 1514–1519 doi:10.1093/eurheartj/ehz196 
+ Streese L. Kotliar K. deiseroth a. Infanger D. Gugleta K. Schmaderer C. et al. 
+ 2020a retinal endothelial function cardiovascular risk patient randomized 
+ controlled exercise trial scand J. Med Sci sport 30 2 272–280 doi:10.1111/sm 
+ 13560 
+ Streese L. Lona G. Wagner J. Knaier R. burri a. Nève G. et al. 2021 
+ normative datum standard operating procedure static dynamic retinal 
+ vessel analysis biomarker cardiovascular risk sci Rep. 11 1 14136 doi:10.1038/ 
+ s41598 021 93617 7 
+ Susanna R. Jr De Moraes C. G. Ciofﬁ G. a. Ritch R. 2015 people 
+ blind glaucoma Transl vis Sci technol 4 2 1 doi:10.1167/tvst.4.2.1 
+ Swain D. P. Leutholtz B. C. 1997 heart rate reserve equivalent 
+ vo2 reserve vo2max med Sci sport Exerc 29 3 410–414 doi:10.1097/ 
+ 00005768 199703000 00018 
+ Talaat K. Fathi O. T. Alamoudi S. M. Alzahrani M. G. Mukhtar R. M. Khan 
+ M. a. 2021 type glaucoma associate comorbiditie patient king 
+ abdulaziz medical city jeddah cureus 13 6 15574 doi:10.7759/cureus.15574 
+ Tham Y. C. Li X. Wong T. Y. Quigley H. a. Aung T. Cheng C. Y. 2014 
+ global prevalence glaucoma projection glaucoma burden 2040 
+ systematic review meta-analysis ophthalmology 121 11 2081–2090 doi:10.1016/ 
+ j.ophtha.2014.05.013 
+ Thijssen D. H. J. Black M. a. Pyke K. E. Padilla J. Atkinson G. Harris R. A. et al. 
+ 2011 assessment ﬂow-mediated dilation human methodological 
+ physiological guideline J. Physiol Heart Circ physiol 300 1 2–12 doi:10 
+ 1152/ajpheart.00471.2010 
+ Tjønna A. E. Lee S. J. Rognmo Ø. Stølen T. O. Bye a. Haram P. M. et al. 2008 
+ aerobic interval training versus continuous moderate exercise treatment 
+ metabolic syndrome pilot study circulation 118 4 346–354 doi:10.1161/ 
+ circulationaha.108.772822 
+ Topouzis F. Wilson M. R. Harris a. Anastasopoulos E. Yu F. Mavroudis L. et al. 
+ 2007 prevalence open-angle glaucoma Greece thessaloniki eye study 
+ J. Ophthalmol 144 4 511–519 doi:10.1016/j.ajo.2007.06.029 
+ Valenzuela P. L. Ruilope L. M. Santos-Lozano a. Wilhelm M. Kränkel N. Fiuza- 
+ Luces C. et al. 2023 exercise beneﬁts cardiovascular disease mechanism 
+ clinical implementation eur heart J. 44 21 1874–1889 doi:10.1093/eurheartj/ 
+ ehad170 
+ Van Bortel L. M. Laurent S. Boutouyrie P. Chowienczyk P. Cruickshank J. K. De 
+ Backer T. et al. 2012 expert consensus document measurement aortic 
+ stiffness daily practice carotid-femoral pulse wave velocity J. Hypertens 30 3 
+ 445–448 doi:10.1097/hjh.0b013e32834fa8b0 
+ Van Eijgen J. Melgarejo J. D. Van Laeken J. Van Der Pluijm C. Matheussen H. 
+ Verhaegen M. et al. 2023 relevance arterial blood pressure management 
+ glaucoma progression systematic review J. Hypertens hpad111 
+ Venkataraman S. T. Flanagan J. G. Hudson C. 2010 vascular reactivity 
+ optic nerve head retinal blood vessel glaucoma review microcirculation 17 
+ 7 568–581 doi:10.1111/j.1549 8719.2010.00045.x 
+ Vera J. Jiménez R. Redondo B. Cárdenas D. McKay B. R. garcía-ramos a. 
+ 2019 acute intraocular pressure response high-intensity interval-training 
+ protocol man woman J. Sports Sci 37 7 803–809 doi:10.1080/02640414 
+ 2018.1527674 
+ Vlachopoulos C. Aznaouridis K. Stefanadis C. 2010 prediction 
+ cardiovascular event all-cause mortality arterial stiffness systematic 
+ review meta-analysis J. coll cardiol 55 13 1318–1327 doi:10.1016/j 
+ jacc.2009.10.061 
+ Wändell P. Carlsson A. C. Ljunggren G. 2022 systemic disease 
+ association open-angle glaucoma population Stockholm Int ophthalmol 
+ 42 5 1481–1489 doi:10.1007/s10792 021 02137-w 
+ Wang X. Jiang C. Ko T. Kong X. Yu X. Min W. et al. 2015 correlation 
+ optic disc perfusion glaucomatous severity patient open-angle 
+ glaucoma optical coherence tomography angiography study Graefes Arch Clin 
+ Exp ophthalmol 253 9 1557–1564 doi:10.1007/s00417 015 3095-y 
+ Weston K. S. Wisløff U. Coombes J. S. 2014 high-intensity interval training 
+ patient lifestyle-induced cardiometabolic disease systematic review meta- 
+ analysis br J. Sports Med 48 16 1227–1234 doi:10.1136/bjsports-2013 092576 
+ Whyte L. J. Ferguson C. Wilson J. Scott R. a. Gill J. M. R. 2013 effect single 
+ bout high-intensity exercise metabolic health biomarker overweight/obese 
+ sedentary man metabolism 62 2 212–219 doi:10.1016/j.metabol.2012.07.019 
+ Wisløff U. Ellingsen Ø. Kemi O. J. 2009 high-intensity interval training 
+ maximize cardiac beneﬁts exercise training Exerc Sport Sci Rev. 37 3 139–146 
+ doi:10.1097/jes.0b013e3181aa65fc 
+ Zhou L. Li Y. Yue B. Y. 1999 oxidative stress affect cytoskeletal structure 
+ cell-matrix interaction cell ocular tissue trabecular meshwork 
+ J. Cell physiol 180 2 182–189 doi:10.1002/(sici)1097 4652(199908)180:2<182 
+ aid-jcp6>3.0.co;2-x 
+ Zhu M. M. lai J. S. M. Choy B. N. K. Shum J. W. H. Lo A. C. Y. Ng A. L. K. et al. 
+ 2018 physical exercise glaucoma review role physical exercise 
+ intraocular pressure control ocular blood ﬂow regulation neuroprotection glaucoma- 
+ related mental health Acta Ophthalmol 96 6 e676–e691 doi:10.1111/aos.13661 
+ Frontiers Physiology 
+ frontiersin.org 
+ 13 
+ Van Eijgen et al. 
+ 10.3389/fphys.2024.1349313 

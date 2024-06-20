@@ -1,0 +1,865 @@
+394   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ Abstract  
+ development nervous system overproduction neuron 
+ synapsis hebbian competition neighbor nerve ending synapsis 
+ perform different activity level lead elimination strengthening 
+ extensively study involvement brain-derived neurotrophic factor-tropomyosin- 
+ related kinase b receptor neurotrophic retrograde pathway neuromuscular 
+ junction axonal development synapse elimination process versus synapse 
+ consolidation purpose review describe neurotrophic influence 
+ developmental synapse elimination relation molecular pathway 
+ find regulate process particular summarize publish 
+ result base transmitter release analysis axonal count different 
+ involvement presynaptic acetylcholine muscarinic autoreceptor couple 
+ downstream serine-threonine protein kinase c pka pkc voltage-gated 
+ calcium channel different nerve ending developmental competition dynamic 
+ change occur simultaneously nerve terminal synapsis converge 
+ postsynaptic site influence require careful study individualize 
+ mechanism specific ending describe activity-dependent balance related 
+ extent transmitter release presynaptic muscarinic subtype 
+ neurotrophin-mediated trkb/p75ntr pathway influence timing fate 
+ competitive interaction different axon terminal downstream 
+ displacement pka/pkc activity ratio low value compete nerve 
+ terminal postsynaptic site play relevant role control elimination 
+ supernumerary synapsis finally calcium entry l- p/q- subtype voltage- 
+ gated calcium channel channel present n-type channel 
+ develop nerve terminal contribute reduce transmitter release promote 
+ withdrawal unfavorable nerve terminal elimination weak 
+ acetylcholine release silent main finding 
+ contribute well understanding punishment-rewarding interaction nerve 
+ ending development identify molecular target signaling pathway 
+ allow synapse consolidation withdrawal synapsis different situation important 
+ potential therapy neurodegenerative disease 
+ Key Words acetylcholine release adenosine receptor axonal competition brain-derived 
+ neurotrophic factor calcium channel motor end-plate muscarinic acetylcholine receptor 
+ postnatal synapse elimination serine kinase tropomyosin-related kinase receptorb 
+ Introduction 
+ development nervous system 
+ overproduction synaptic connection hebbian 
+ competition adjacent nerve terminal different 
+ activity lead elimination synapsis 
+ strengthening Fields Nelson 1992 sane 
+ Lichtman 1999 Mennerick Zorumski 2000 
+ developmental synaptic elimination fundamental 
+ mechanism neurogenesis allow final configuration 
+ performance specification neural circuit   
+ unitat d’histologia Neurobiologia uhneurob Facultat de Medicina Ciències de la Salut Universitat Rovira Virgili Reus Spain 
+ Correspondence Maria A. Lanuza phd mariaangel.lanuza@urv.cat Josep Tomàs md phd josepmaria.tomas@urv.cat 
+ https://orcid.org/0000 0003 4795 4103 Maria A. Lanuza https://orcid.org/0000 0002 0406 0006 Josep Tomàs 
+ author contribute equally work 
+ Funding work support Catalan Government Nos. 2014sgr344 jt 2017sgr704 jt 2021sgr01214 mal mcin/ 
+ aei/ 10.13039/501100011033/ erdf way make Europe Nos. SAF2015 67143 jt pid2019 106332GB-I00 jt mal pid2022- 
+ 141252nb-i00 mal 
+ cite article Tomàs J cilleros-mañé v Just-Borràs L Balanyà-Segura M Polishchuk Nadal L Tomàs m silvera-simón c santafé MM Lanuza MA 
+ 2025 brain-derived neurotrophic factor signaling neuromuscular junction   developmental axonal competition synapse elimination neural 
+ Regen Res 20(2):394 401 
+ Contents 
+ Introduction 
+ 394 
+ Search Strategy 
+ 395 
+ brain-derived Neurotrophic Factor Favors Acetylcholine 
+ Release Nerve Terminals competition 
+ Neuromuscular Junction Development 
+ 395 
+ relation brain-derived Neurotrophic Factor– 
+ tropomyosin-related kinase b receptor 
+ Muscarinic Subtype Pathways 
+ 397 
+ Coupling serine-threonine Kinases Developmental 
+ axonal Loss 
+ 398 
+ Involvement calcium Calcium Channels 
+ Elimination 
+ 399 
+ Concluding Remarks 
+ 400 
+ brain-derived neurotrophic factor signaling 
+ neuromuscular junction   developmental axonal 
+ competition synapse elimination 
+ https://doi.org/10.4103/1673 5374.391314 
+ Date submission July 25 2023 
+ Date decision October 25 2023   
+ Date acceptance November 16 2023 
+ Date web publication December 21 2023 
+ Josep Tomàs Víctor Cilleros-Mañé Laia Just-Borràs Marta Balanyà-Segura Aleksandra Polishchuk Laura Nadal Marta Tomàs 
+ Carolina Silvera-Simón Manel M. Santafé Maria A. Lanuza 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdtwnfkzbytws= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜395 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ developing skeletal muscle cell initially 
+ polyinnervated postnatal nerve terminal competition 
+ individual neuromuscular junction nmj innervate 
+ axon motor endplate   presynaptic 
+ metabotropic receptor muscarinic acetylcholine 
+ autoreceptor machr adenosine autoreceptor AR 
+ tropomyosin-related kinase b receptor trkb 
+ allow motor nerve terminal communicate directly 
+ postsynaptic Schwann cell 
+ synaptic component particular presynaptic mAChR 
+ subtype allow direct competitive interaction 
+ multiple nerve ending differential activity-dependent 
+ acetylcholine ACh release active ending 
+ directly punish active one reward 
+ Nadal et al. 2016 tomàs et al. 2023 postsynaptic 
+ site brain-derived neurotrophic factor (bdnf)/trkb 
+ pathway serve retrograde muscle-to-nerve feedback 
+ influence presynaptic site nmj activity 
+ differentially modulate transmitter release multiple 
+ develop nerve terminal Saini et al. 2021 Rentería et al. 
+ 2022 different axonal input give nmj generally 
+ intermingle development share 
+ postsynaptic gutter especially half 
+ elimination process nerve terminal compete 
+ generate activity-mediated signal directly destabilize 
+ synaptic site associate input limited 
+ space target-derived neurotrophic factor bdnf 
+ nt-3 absence contribute 
+ final functional suppression nerve terminal 
+ neuromuscular synapsis development 
+ summarize previously publish result 
+ related bdnf signaling evaluate relevance 
+ neurotrophic pathway developmental synapse 
+ elimination neuromuscular synaptogenesis nadal et al. 
+ 2017 tomàs et al. 2017 compare crosstalk effect 
+ bdnf pathway previous result autocrine 
+ muscarinic pathway tomàs et al. 2023 figure 1 show 
+ graphic representation component pathway 
+ affect different nerve ending competition 
+ synapse elimination adulthood 
+ Search Strategy 
+ reference review select review 
+ personal file search pubmed indexed publication 
+ 1992 2023 follow combination word 
+ select article motor end-plate postnatal 
+ synapse elimination axonal competition acetylcholine 
+ release muscarinic acetylcholine receptor adenosine 
+ receptor bdnf trkb serine kinase calcium 
+ channel final list determine novelty 
+ datum relevance field mammalian neuromuscular 
+ development 
+ brain-derived Neurotrophic Factor Favors 
+ Acetylcholine Release Nerve Terminals 
+ competition Neuromuscular 
+ Junction Development 
+ Neurotrophins bdnf nt-4 nt-3 receptor 
+ p75ntr trkb isoform length –fl- truncate 
+ -t1 t2- trkc express muscle 
+ development adulthood Pitts et al. 2006 stage 
+ immunohistology show neurotrophin receptor 
+ present pre- postsynaptic element 
+ figure 1 ｜graphic representation neurotrophin bdnf nt-4 nt-3 receptor trkb p75ntr muscarinic 
+ pathway m1 m2 m4 presynaptic autoreceptor affect different nerve ending competition synapse elimination p7– 
+ p9 adult 
+ study strong weak ending dual junction define size epp evoke 
+ eliminate silent ending transitorily recover release ACh solitary nerve terminal win competition 
+ mature nerve ending adult p30 discuss inhibitory red arrow stimulatory effect green arrow 
+ downstream molecule consider pkc isoform pka vgcc subtype create adobe tool software 
+ bdnf brain-derived neurotrophic factor l l-type n n-type nt neurotrophin pka protein kinase pkc protein kinase C. 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdtwnfkzbytws= 06/01/2024 
+ 396   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ exogenously apply neurotrophin 
+ adult nmj bdnf reduce synaptic depression 
+ repetitive stimulation significantly increase quantal release 
+ fiber type enhance synaptic vesicle replenishment 
+ cycling Mantilla et al. 2023 low dose bdnf rapidly 
+ induce trkb-dependent potentiation develop nmj 
+ culture poo 2001 nmj levator ani muscle 
+ lal develop rodent exogenously apply bdnf 10 
+ nm 3 hour 50 nm 0.5–1 hour increase ACh release 
+ nerve terminal competition 
+ mature singly innervate nmj adult 
+ Figure 1 Garcia et al. 2010 effect bdnf 
+ study dually innervate synapsis workable 
+ polyinnervation situation p7 synapsis 
+ exogenous bdnf increase ACh release weak 
+ strong ending define accord size 
+ end-plate potential epp able evoke 
+ nerve stimulate Garcia et al. 2010 effect specific 
+ bdnf nt-4 modulate release p7 
+ adult block receptor 
+ trkb p75ntr k-252a anti-p75 192-igg respectively 
+ prevent bdnf effect garcia et al. 2010 nt-3 100 ng/ml 
+ 
+ 0.5–1 hour potentiate evoke release 
+ weak 70 strong 50 nerve ending 
+ singly innervate adult synapsis Garcia et al. 2010 
+ summary bdnf pathway favor transmitter release 
+ nerve terminal developmental synaptic competition 
+ involvement nt-3 nt-4 
+ ending persist mature nmj 
+ endogenous neurotrophin 
+ Blocking neurotrophin receptor demonstrate tonic 
+ involvement ach release mediate endogenous signaling 
+ transactivation related mechanism direct receptor 
+ blockage p7 reveal complex signaling developmental 
+ synapse elimination Garcia et al. 2010 endogenous bdnf 
+ act tonically p75ntr potentiate ach release 
+ develop nerve terminal anti-p75 192-igg antibody 
+ directly reduce release surprisingly block 
+ trkb receptor k-252a reveal trkb-mediated inhibition 
+ ACh release strong ending double junction 
+ asterisk red arrow indicate strong end 
+ Figure 1   result indicate balance 
+ endogenously produce bdnf-induced p75ntr-mediate ACh 
+ release potentiating mechanism discriminate 
+ nerve terminal similar effect exogenously apply 
+ bdnf show specific trkb-mediated 
+ release inhibitory mechanism mature ending 
+ competition interestingly support 
+ fact neutralization endogenous bdnf 
+ trkb-igg fusion protein inhibition ach release occur 
+ strong ending dual innervation junction(tomàs 
+ et al. 2017 complexity signaling event 
+ simultaneously affect nerve terminal develop 
+ nmj interpretation complex situation 
+ formulate absence endogenous 
+ bdnf trkb coupling neurotrophin nt-3 influence 
+ p75ntr favor ach release develop nerve terminal 
+ p7 endogenous bdnf act 
+ trkb tonically inhibit specifically ACh release 
+ strong ending true hypothesize 
+ reduction release capacity strong nerve 
+ terminal favor prolongation competition 
+ ending delay elimination 
+ weak ending accordance endogenous 
+ bdnf effectively delay synapse elimination p7 
+ exogenous endogenous bdnf produce 
+ locally complex architecture multiinnervate 
+ nmj functional difference exogenous bdnf 
+ probably activate signaling pathway equally 
+ active ending polyinnervation endogenously 
+ produce bdnf activate differently develop nerve 
+ ending stoichiometry different receptor type 
+ different developmentally activity-dependent 
+ regulate downstream coupling true difference 
+ mAChR vgcc subtype different nerve terminal 
+ competition Garcia et al. 2022 tomàs et al. 2023 
+ accessibility postsynaptically derive bdnf 
+ presynaptic ending different develop 
+ nerve terminal competition accord position 
+ surface occupation common synaptic gutter 
+ difference contribute specific coupling 
+ neurotrophin molecular machinery different 
+ nerve ending developmental synapse disconnection 
+ 
+ bdnf transiently recover ACh release nerve 
+ terminal silent 
+ elimination process 
+ exogenous bdnf 50 nm transiently recruit minute 
+ functionally depressed silent nerve terminal observe 
+ new epp neurotrophin increase release 
+ ACh ending effect mediate 
+ trkb figure 1 intracellular recording 
+ count number functional input clearly separate 
+ successive stimulation excitability threshold 
+ latency large number neuromuscular 
+ synapsis p7 lal muscle calculate mean value 
+ polyinnervation index pi muscle develop 
+ muscle time pi 1.63 48 
+ monoinnervate junction Lanuza et al. 2001 exogenously 
+ applied bdnf increase pi 2.1 number 
+ functional nerve ending nmj value 
+ equivalent observe normal untreated p2–p3 
+ animal 15 monoinnervate nmj 
+ incubation nt-3 nt-4 glial-derived neurotrophic 
+ factor produce effect newly recruit nerve 
+ terminal uncover ~20 minute bdnf 
+ add bath importantly 3 hour 
+ presence 50 nm bdnf distribution number 
+ input completely return control p7 value garcia et 
+ al. 2010 bdnf-induced recruitment brief transient 
+ effect delay impair ongoing process 
+ synapse elimination probably observe synapsis 
+ transiently silent completely retract 
+ stereotyped developmental process eliminate 
+ nerve ending similarly mammalian synapsis 
+ observe appear disappear rapidly tissue 
+ culture Haydon Drapeau 1995 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdtwnfkzbytws= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜397 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ investigate possible involvement endogenous 
+ bdnf receptor ach release capability 
+ silent ending state exogenous bdnf increase pi 
+ endogenous bdnf inhibitor reduce control 
+ value p7 include trkb inhibitor k-252a bdnf 
+ chelator trkb-igg chimera anti p75ntr antibody anti-p75- 
+ 192-igg p75ntr inhibitor pep-5 putative 
+ neurotrophin-mediated mechanism activate endogenous 
+ bdnf vivo silent nerve terminal couple favor 
+ transmitter release mechanism oppose 
+ axonal elimination appear functionally irrelevant 
+ stimulation exogenously apply bdnf 
+ recruit silent input increase pi Garcia et al. 2010 
+ tonic effect endogenous bdnf occur 
+ unfavorable nerve terminal observation 
+ suggest exogenous bdnf indicate presence 
+ ineffective signaling silent nerve terminal 
+ pathway stop work low activity- 
+ dependent production bdnf near poorly active silent 
+ nerve ending counteract synapse silencing 
+ elimination mechanism 
+ summary bdnf pathway stimulate exogenous 
+ neurotrophin enhance ach release nerve terminal 
+ development mature nmj nt-3 act 
+ specifically axon terminal competition 
+ p75ntr trkb receptor involve neurotrophic 
+ effect role endogenous bdnf 
+ trkb receptor axon competition entirely 
+ understand small bdnf 
+ production near weak close 
+ silent nerve ending signaling ineffective allow 
+ operativity withdrawal signal nerve 
+ ending 
+ relation Brain-Derived Neurotrophic 
+ factor tropomyosin-related kinase b receptor 
+ Muscarinic Subtype Pathways 
+ intracellular recording subtype unselective 
+ oxotremorine t m atropine selective 
+ methoctramine pirenzepine tropicamide 4-damp 
+ muscarinic toxin 3 7 machr agonist antagonist 
+ subtype m1 m2 m4 influence 
+ ACh release develop adult nmj santafé et 
+ al. 2009 adult presynaptic m1 m2 receptor 
+ regulate neurotransmission positive negative 
+ feedback respectively santafé et al. 2009 recruit 
+ downstream kinase bdnf-trkb cilleros-mañé 
+ et al. 2021 Hurtado et al. 2017 initial stage 
+ development p7 switch mAChR signaling 
+ observe m1 m2 receptor favor release 
+ recently monoinnervate nmj single 
+ strong ending dual junction weak 
+ nerve ending m2 favor ACh release m1 m4 
+ reduce Figure 1 santafé et al. 2009 m2 couple 
+ enhance neurotransmission nerve terminal 
+ developmental competition suggest 
+ strong ending ACh autocrine mechanism 
+ reinforce release capacity win 
+ competition hand weak axon 
+ negatively influence ach release strong 
+ one m1 m4 pathway tomàs et al. 2023 
+ machrs involve regulate transmitter release 
+ silent nerve terminal increase pi similar 
+ see bdnf stimulation observe 
+ unspecific muscarinic block atropine specific 
+ block m2-type mAChR methoctramine result 
+ 15 monoinnervate nmj 
+ recovering silent ending nmj effect 
+ observe m1 muscarinic toxin 7 mt-7 m4 
+ muscarinic toxin 3 mt-3 subtype block altogether 
+ observation indicate normal function m2 
+ muscarinic receptor favor silent endings disconnection 
+ contrary effect exogenous bdnf 
+ downregulating action m2 silent ending appear 
+ switch signaling achieve final 
+ downregulating action similar adult nerve terminal 
+ interestingly average pi muscle reduce 
+ control value activate machrs 
+ oxotremorine m t p7 suggest muscarinic 
+ mechanism repress ACh release silent nerve 
+ ending operate maximum efficiency 
+ significant acceleration axonal elimination 
+ presence non-specific muscarinic agonist 
+ oxotremorine t three- four-input junction 
+ quickly reduce average pi change 
+ indicate repressive mechanism reduce 
+ ach release contribute disconnecting synapsis 
+ additionally stimulate case withdrawal 
+ supernumerary axon terminal accelerate m2 
+ stimulation 
+ summary mAChR subtype strongly involve 
+ competitive relation axon terminal 
+ development regulate transmitter release mature 
+ nmj undergo shift coupling stimulate 
+ inhibit ach release figure 1 functional versatility 
+ probably link developmental expression change 
+ coupling different g protein jakubík et al. 2011 
+ result m1/m2 balance enhance transmitter 
+ release strong nerve terminal decrease 
+ release weak silent nerve ending 
+ comparison neurotrophin muscarinic 
+ pathway act transmitter release development 
+ indicate low neurotrophin stimulation associate 
+ specific m1- m2-mediated transmitter release reduction 
+ result ineffectiveness weak synapsis 
+ competition bdnf separately stimulate synapse 
+ generation instance visual cortex Cabelli 
+ et al. 1995 poorly active nerve ending low activity- 
+ dependent production endogenous bdnf 
+ counteract machr inhibitory mechanism 
+ related above-described influence retrograde 
+ bdnf-trkb/p75ntr pathway autocrine machr 
+ signaling transmitter release different compete nerve 
+ terminal physical axon loss   confocal 
+ microscopy quantitative morphological analysis 
+ investigate question perform axonal count 
+ confocal lal preparation b6.cg-tg (thy1-yfp)16 Jrs/J 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdtwnfkzbytws= 06/01/2024 
+ 398   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ mouse express spectral variant gfp yellow-yfp high 
+ level motor neuron axon brightly fluorescent 
+ Nadal et al. 2016 muscle process detect 
+ postsynaptic nicotinic acetylcholine receptor nachrs 
+ tritc-α-bungarotoxin count percentage 
+ singly- dually- triply- innervate synapsis 
+ p7 p9 p15 2 day 5 6 4 day 5–8 10 day 
+ 5–14 subcutaneous application lal muscle surface 
+ substance act neurotrophin trkb-igg 
+ fusion protein muscarinic pathway subtype-selective 
+ antagonist nadal et al. 2017 2016 result show 
+ coupling machrs m1 m4 
+ endogenous bdnf effect initially result p7 clear 
+ delay synapse elimination delay transition 3-to-2- 
+ to-1 nerve terminal nmj p9 role 
+ m1 m2 m4 endogenous bdnf similarly 
+ involve strongly accelerate axon loss nadal et al. 2016 
+ datum reinforce previous suggestion 
+ activity-dependent balance related transmitter release 
+ muscarinic subtype neurotrophin bdnf 
+ pathway influence timing fate interaction 
+ axon terminal competition 
+ interestingly specific inhibitor adenosine receptor 
+ instance DPCPX a1r sch-58261 
+ a2ar receptor delay axonal loss 
+ initially p7 continue presence accelerate 
+ p9 result similar effect neurotrophin 
+ muscarinic pathway p9 order receptor 
+ ability finally accelerate nerve terminal elimination 
+ m2-m1-a1-a2a-trkb Nadal et al. 2016 
+ strong effect machrs supernumerary axonal withdrawal 
+ complement moderate involvement 
+ bdnf-trkb pathway presynaptic metabotropic 
+ receptor overlap share common function 
+ regulate relevant mechanism synaptogenesis 
+ allow matching synaptic partner nmj 
+ case consider receptor initially p7 delay axonal 
+ elimination probably contribute establishment 
+ competition condition finally result axonal loss 
+ acceleration p9 
+ argue favor multifactorial mechanism ensure 
+ specific monoinnervation motor endplate try 
+ understand relation exist transmitter release 
+ final withdrawal certain nerve ending look 
+ Figure 1 facilitate interpretation early 
+ onset competitive interaction p7 unbalance 
+ neurotrophic muscarinic pathway favour 
+ ach release inefficiency loss certain active nerve 
+ terminal weak silent 
+ coupling serine-threonine Kinases 
+ Developmental Axonal Loss 
+ surprising different receptor couple 
+ different developmentally regulate downstream pathway 
+ coordinate support axonal competition achieve 
+ final goal excessive synapse withdrawal 
+ receptor coordination result common stereotyped action 
+ allow transition initial delay synapse 
+ elimination final acceleration axon loss end 
+ 1st week postnatal analyze possible mechanism 
+ receptor common function observe 
+ intracellular signaling consider receptor mainly 
+ couple modulate downstream serine-threonine kinase 
+ Nadal et al. 2017 tomàs et al. 2017 Garcia et al. 2019 
+ 2021 trkb a1 m1 receptor link protein 
+ kinase c pkc pathway a2a m2 m4 mainly 
+ operate protein kinase pka pathway Nadal 
+ et al. 2017 m1 trkb operate phospholipase 
+ cβ gamma PLCγ respectively 
+ pkc pathway inositol triphosphate ip3 pathway— 
+ a2a m2 m4 couple adenylyl cyclase 
+ ac pka pathway receptor a1 m2 
+ m4 negatively couple ac signal-transduction 
+ pathway gi protein signal phospholipase c 
+ pertussis toxin-sensitive protein additionally 
+ g protein-coupled receptor directly modify effector 
+ target hand trkb act kinase 
+ mammalian target rapamycin mtor nmj delezie 
+ et al. 2019 Liu et al. 2021 
+ related pkc figure 1 activity modulate 
+ agonist antagonist instance Table 1 list 
+ stufy Garcia et al. 2021 tomàs et al. 2023 
+ couple promote transmitter release develop 
+ mature nerve terminal weak 
+ polyinnervated synapsis pkc couple reduce 
+ release tomàs et al. 2017 blocking pkc isoform 
+ calphostin c staurosporine result recovery ACh 
+ release silent ending comparable 
+ previously describe effect m2 mAChR block stimulation 
+ exogenous bdnf allow uncovering 
+ nerve terminal observation context pkc 
+ downstream key element induce synapse inefficacy 
+ withdrawal  
+ functional relation pkc pka 
+ investigate involvement pka pkc 
+ axonal loss selective activator blocker 
+ pka pkc isoform tomàs et al. 2023 find 
+ pka activity stabilize multiinervation delay 
+ axonal elimination postsynaptic nachr pretzel-like 
+ cluster differentiation p9 contrarily pkc activity promote 
+ axonal loss cpkcβi npkcε isoform 
+ postsynaptic nachr cluster maturation possible role 
+ PKCθ Garcia et al. 2019 
+ phosphorylation pre- postsynaptic pka 
+ pkc target involve nerve terminal stability 
+ neurotransmission relevant step 
+ molecular mechanism developmental synapse loss 
+ statistically compare effect pka activator 
+ effect pkc inhibitor situation delay synaptic 
+ maturation find significant difference 
+ level multiinnervation nmj postsynaptic 
+ maturation case isoform unselective pkc 
+ inhibitor like calphostin c chelerythrine 
+ block particular pkc isoform cpkcβi nPKCε 
+ specific inhibitory peptide βiv5–3 εv1–2 respectively 
+ result postsynaptic alteration indicate specific 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdtwnfkzbytws= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜399 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ presynaptic action pkc isoform Garcia et al. 2021 
+ conversely pka inhibitor compare pkc 
+ activator situation accelerate synapse elimination 
+ maturation difference observe axonal loss 
+ difference maturation postsynaptic 
+ receptor cluster non-selective pkc activator 
+ pma strongly accelerate postsynaptic maturation suggest 
+ involvement pkc isoform site 
+ nmj synaptogenesis balance 
+ pkc pka activity pkc active pka 
+ favor elimination excessive axon terminal 
+ postsynaptic cluster maturation follow similar pka/pkc 
+ interaction involvement cpkcβi npkcε 
+ isoform overall reciprocal involvement 
+ pka pkc question open 
+ exactly compete axon 
+ terminal Garcia et al. 2019 2021 result relate 
+ transmitter release capacity axonal withdrawal favor 
+ involvement pkc activity key step supernumerary 
+ axon disconnection development activity- 
+ dependent shift pka/pkc activity ratio low value 
+ nerve ending postsynaptic site play critical 
+ role developmental synapse elimination prevalence 
+ pkc-mediated mechanism nerve terminal 
+ favor destabilization withdrawal cpkcβi npkcε 
+ isoform necessary sufficient interdependent 
+ pkc involvement axon loss prevalence 
+ regulate activity presynaptic receptor 
+ vary pattern nerve activation terminal 
+ particular pka/pkc ratio finally set low value 
+ adult nmj pkc activity need external stimulation 
+ membrane receptor active couple 
+ ach release santafé et al. 2009 cilleros-mañé et al. 2021 
+ context observe block muscle 
+ contraction μ-conotoxin giiib affect 
+ presynaptic neurotransmission result delay axon loss 
+ uncover retrograde influence postsynaptic 
+ site synapse elimination mediate 
+ neurotrophic control fact neurotrophic effect 
+ mediate ratio pka/pkc mature nmjs muscle 
+ contraction se retrogradely modulate trkb isoform pkc 
+ pka Hurtado et al. 2017 Polishchuk et al. 2023 
+ simultaneous application pkc activator dppa cpkcβi 
+ fr236924 nPKCε μ-conotoxin giiib fully prevent 
+ postsynaptic contraction block effect axon loss indicate 
+ capital position presynaptic pkc determine 
+ axonal withdrawal Garcia et al. 2022 
+ involvement calcium calcium 
+ Channels Elimination 
+ relevant downstream mediator consider receptor 
+ kinase calcium ion calcium channel specifically 
+ trkb link plcγ-pkc-ip3 pathway closely related 
+ cytosolic calcium movement vgcc target pkc 
+ influence pkc ach release depend 
+ 
+ p/q-type vgcc Garcia et al. 2022 pkc regulate 
+ n-type yokoyama et al. 2005 l-type channel arenson 
+ Evans 2001 
+ study progressive change 
+ vgcc subtype participate transmitter release 
+ nmj development synaptic maturation santafé et al. 
+ 2009 tomàs et al. 2017 block 
+ vgcc subtype present nerve terminal 
+ nmj development p/q n l reduce 2/3 epp 
+ produce strong ending dual nmj Garcia et 
+ al. 2022   weak ending result 
+ increase size evoke epp indicate 
+ calcium entry channel negatively influence 
+ transmitter release contribute disconnect 
+ weak ending Garcia et al. 2022 finally adult 
+ nmj p/q-type functionally persist induce ACh 
+ release 
+ previously describe blockade pkc pka 
+ blockade m2-type mAChR m1 m3 m4 
+ subtype exogenous bdnf transiently restore transmitter 
+ release silent nerve terminal 
+ eliminate development nmj pi 
+ muscle increase interestingly similar increase pi 
+ observe specific block calcium entry 
+ l- nitrendipine p/q-type ω-agatoxin- 
+ iva n-type block ω-conotoxin-gvia vgcc 
+ high magnesium-mediated non-specific calcium inflow 
+ reduction calcium entry l- p/q-type 
+ vgcc contribute reduce transmitter release 
+ unfavored weak silent nerve terminal synapse 
+ elimination figure 1 investigate additive 
+ mutually occlusive effect substance 
+ affect calcium entry calcium channel pkc bdnf 
+ pathway pi link individual effect 
+ vgcc blocker channel blocker high magnesium 
+ bath additive pi cac increase 
+ pi high magnesium 
+ vgcc block suggest pkc modulation vgcc- 
+ dependent calcium inflow involve ach release reduction 
+ weak silent nerve terminal tomàs et al. 2023 
+ interestingly similar observe effect cac bdnf 
+ extend effect high magnesium greatly increase pi 
+ hand previous incubation nitrendipine 
+ cac completely impair additional effect bdnf 
+ result indicate incubation exogenous bdnf 
+ effect pkc vgcc block m2 blocker 
+ methoctramine recover silent ending act 
+ vgcc block indicate m2-mediated effect 
+ share mechanism result indicate 
+ bdnf-trkb ach-machrs pathway couple pkc- 
+ vgcc signaling influence calcium entry weak nerve 
+ terminal competition lead supernumerary synapse 
+ disconnection 
+  relation involvement vgcc axonal withdrawal 
+ find l- p/q-type channel involve 
+ favor supernumerary synapse elimination 
+ specific block extend period multiinnervation 
+ delay postsynaptic nachr cluster maturation 
+ stimulation specific channel activator 
+ Garcia et al. 2022 result contrary effect effect 
+ channel block observe 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdtwnfkzbytws= 06/01/2024 
+ 400   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ intracellular calcium sequestration bapta-am 
+ clear relation pka pkc vgcc 
+ synapse elimination experiment block l 
+ p/q channel intracellular calcium sequestration 
+ bapta-am result effect block cpkcβi 
+ pka stimulation somewhat small 
+ effect nPKCε block delay axonal loss garcia et 
+ al. 2022 
+ summary high calcium entry present 
+ active vgcc immature nerve ending result 
+ transmitter release reduction certain weak supernumerary 
+ axon nerve terminal loss unitary process 
+ modulate cpkcβi npkcε activity pka inhibition 
+ conclude Remarks 
+ extensively study muscarinic neurotrophic 
+ signaling pathway regulate postnatal synapse loss 
+ mechanism relationship 
+ regulation directly analyze result allow 
+ perform analysis try understand 
+ mutual influence muscarinic neurotrophic 
+ receptor process 
+ complex molecular mechanism involve neurotrophin 
+ bdnf nt-3 presynaptic metabotropic receptor 
+ trkb p75ntr machrs subtype 
+ receptor 
+ adenosine receptor involve pka pkc isoform 
+ presynaptic cpkcβi nPKCε probably postsynaptic 
+ PKCθ vgcc type mainly p/q l calcium influx 
+ consider determine ach release nerve terminal 
+ stability competition developmental 
+ synapse elimination specifically weak nerve ending 
+ discard silence coordinate 
+ action complex signaling 
+ neurotrophin pathway trkb p75ntr turn 
+ exogenously apply bdnf promote transmitter release 
+ nerve terminal synaptic competition include 
+ weak silent ending involvement 
+ nt-3 nt-4 endogenous bdnf 
+ affect weak silent synapsis endogenous bdnf 
+ differentially affect develop nerve ending 
+ stoichiometry different receptor type different 
+ downstream coupling small 
+ bdnf production near weak near 
+ silent nerve ending render signaling ineffective allow 
+ efficacy withdrawal signal nerve ending 
+ low neurotrophin level associate specific 
+ reduction muscarinic release mediate m1 
+ weak ending m2 silent ending 
+ result ineffectiveness unfavorable synapsis 
+ competition low activity-dependent production 
+ endogenous bdnf near poorly active nerve ending 
+ counteract machr inhibitory mechanism 
+ early onset competitive interaction p7 
+ describe imbalance neurotrophic muscarinic 
+ pathway favor inefficiency ach release 
+ loss certain active nerve terminal weak 
+ silent 
+ different receptor couple different 
+ pathway cooperate axonal competition synapse 
+ withdrawal intracellular signaling pathway 
+ mainly couple modulate downstream serine-threonine 
+ kinase nmj synaptogenesis result indicate 
+ existence balance pkc pka activity pkc 
+ active pka favor elimination 
+ excessive axon terminal prevalence pkc-mediated 
+ mechanism nerve terminal promote 
+ destabilization withdrawal cpkcβi npkcε isoform 
+ necessary sufficient interdependent pkc 
+ involvement axon loss prevalence appear 
+ regulate activity presynaptic receptor 
+ vary pattern nerve activation terminal 
+ neurotrophin muscarinic pathway couple 
+ serine-threonine kinase vgcc present 
+ active immature nerve ending result reduction 
+ transmitter release certain weak supernumerary 
+ axon ultimately nerve terminal loss 
+ finding describe contribute understand 
+ molecular signaling regulate synapse consolidation 
+ withdrawal development developmental 
+ synaptic elimination fundamental mechanism 
+ neurogenesis allow specific formation neuronal 
+ circuit 
+ acknowledgment like express heartfelt gratitude Dr. 
+ Neus Garcia contribution play vital role develop research 
+ remember miss work dedicate 
+ memory   
+ author contribution conception design datum interpretation jt 
+ MAL datum collection quantitative analysis mms ln mt literature 
+ search graphic design manuscript preparation vcm css ljb ap 
+ MBS author read approve final manuscript publication 
+ conflict interest author declare conflicting financial interest 
+ data availability statement datum available corresponding 
+ author reasonable request 
+ open access statement open access journal article 
+ distribute term Creative Commons Attribution- 
+ noncommercial-sharealike 4.0 License allow remix tweak 
+ build work non-commercially long appropriate credit 
+ give new creation license identical term 
+ open peer reviewer Lidia Bakota Osnabrück University Germany 
+ additional file open peer review report 1  
+ reference 
+ Arenson ms Evans SC 2001 activation protein kinase c increase 
+ acetylcholine release frog motor nerve direct action l-type 
+ ca(2 + channel apparently depolarisation terminal 
+ Neuroscience 104:1157 1164 
+ Cabelli RJ hohn Shatz CJ 1995 inhibition ocular dominance column 
+ formation infusion nt-4/5 bdnf science 267:1662 6 
+ cilleros-mañé v Just-Borràs L Polishchuk Durán M Tomàs M Garcia N 
+ Tomàs JM Lanuza MA 2021 m1 m2 machrs activate pdk1 
+ regulate pkc βi ε exocytotic apparatus nmj faseb j 
+ 35:e21724 
+ Delezie J Weihrauch M Maier g tejero r Ham DJ Gill JF Karrer-Cardel b 
+ Rüegg MA Tabares L handschin c 2019 bdnf mediator glycolytic 
+ fiber-type specification mouse skeletal muscle proc natl Acad Sci U S 
+ 116:16111 16120 
+ Fields RD Nelson pg 1992 activity-dependent development 
+ vertebrate nervous system int rev Neurobiol 34:133 214 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdtwnfkzbytws= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜401 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ Garcia N Santafe MM Tomàs M Lanuza MA Besalduch N Tomàs J 2010 
+ involvement brain-derived neurotrophic factor bdnf functional 
+ elimination synaptic contact polyinnervated neuromuscular synapsis 
+ development j Neurosci Res 88:1406 1419 
+ Garcia N Balañà C Lanuza MA Tomàs m cilleros-mañé v Just-Borràs L 
+ Tomàs J 2019 opposed action pka isozyme ri rii pkc 
+ isoform cpkcβi nPKCε neuromuscular developmental synapse 
+ elimination cell 8:1304 
+ Garcia N Lanuza MA Tomàs m cilleros-mañé v Just-Borràs L Duran M 
+ Polishchuk Tomàs J 2021 pka pkc balance synapse elimination 
+ neuromuscular junction development cell 10:1384 
+ Garcia N Hernández p Lanuza MA Tomàs m cilleros-mañé v just-borràs 
+ l Duran-Vigara M Polishchuk Balanyà-Segura M Tomàs J 2022 
+ involvement voltage-gated calcium channel l- p/q- n-types 
+ synapse elimination neuromuscular junction development mol 
+ Neurobiol 59:4044 4064 
+ Haydon PG drapeau p 1995 contact connection early event 
+ synaptogenesis trend Neurosci 18:196 201 
+ Hurtado E Cilleros V Nadal L Simó Obis t Garcia N Santafé mm Tomàs 
+ M Halievski K Jordan CL Lanuza MA Tomàs J 2017 muscle contraction 
+ regulate bdnf/trkb signaling modulate synaptic function 
+ presynaptic cPKCα cpkcβi. Mol Neurosci 10:147 
+ Jakubík J Janíčková h Randáková el-fakahany ee Doležal v 2011 subtype 
+ difference pre-coupling muscarinic acetylcholine receptor plos 
+ 6:e27732 
+ Lanuza MA Garcia N Santafe M Nelson PG fenoll-brunet mr Tomas J 2001 
+ pertussis toxin-sensitive g-protein protein kinase c activity involve 
+ normal synapse elimination neonatal rat muscle j Neurosci Res 
+ 63:330 340 
+ Liu Y Wang Y Liu J Kang R Tang D 2021 interplay mtor gpx4 
+ signaling modulate autophagy-dependent ferroptotic cancer cell death 
+ cancer Gene Ther 28:55 63 
+ Mantilla CB Ermilov LG greising SM Gransee HM Zhan WZ Sieck gc 2023 
+ electrophysiological effect bdnf trkb signaling type-identified 
+ diaphragm neuromuscular junction j Neurophysiol 129:781 792 
+ Mennerick S Zorumski CF 2000 neural activity survival develop 
+ nervous system mol Neurobiol 22:41 54 
+ Nadal L Garcia N Hurtado E Simó Tomàs M Lanuza MA Santafé m Tomàs 
+ J 2016 presynaptic muscarinic acetylcholine autoreceptor m1 m2 
+ m4 subtype adenosine receptor a1 a2a tropomyosin-related 
+ kinase b receptor trkb modulate developmental synapse elimination 
+ process neuromuscular junction mol Brain 9:67 
+ Nadal L Garcia N Hurtado E Simó Tomàs M Lanuza MA Cilleros V Tomàs 
+ J 2017 presynaptic muscarinic acetylcholine receptor trkb receptor 
+ cooperate elimination redundant motor nerve terminal 
+ development Aging Neurosci 9:24  
+ Pitts ev Potluri S Hess dm Balice-Gordon rj 2006 Neurotrophin trk- 
+ mediated signaling neuromuscular system int Anesthesiol Clin 
+ 44:21 76 
+ Polishchuk cilleros-mañé v Just-Borràs L Balanyà-Segura m Vandellòs 
+ Pont g Silvera Simón C Tomàs M Garcia N Tomàs J Lanuza MA 2023 
+ synaptic retrograde regulation pka-induced snap-25 synapsin-1 
+ phosphorylation cell Mol Biol Lett 28:17 
+ poo mm 2001 neurotrophin synaptic modulator nat rev Neurosci 
+ 2:24 32 
+ Rentería garcía-suárez pc Fry AC Moncada-Jiménez J Machado-Parra JP 
+ Antunes BM Jiménez-Maldonado 2022 molecular effect bdnf 
+ synthesis skeletal muscle mini-review physiol 13:934714 
+ Saini J Faroni Reid AJ Mouly V butler-browne g Lightfoot AP McPhee 
+ JS Degens h al-shanti n 2021 cross-talk motor neuron 
+ myotube endogenously secrete neural muscular growth factor 
+ physiol rep 9:e14791 
+ Sanes JR Lichtman JW 1999 development vertebrate neuromuscular 
+ junction annu rev Neurosci 22:389 442 
+ Santafe MM Garcia N Lanuza MA Tomàs M Besalduch N Tomàs J 2009 
+ presynaptic muscarinic receptor calcium channel protein kinase c 
+ modulate functional disconnection weak input polyinnervated 
+ neonatal neuromuscular synapsis j Neurosci Res 87:1195 206 
+ Tomàs J Garcia N Lanuza MA Santafé mm Tomàs M Nadal L Hurtado E 
+ Simó Cilleros V 2017 presynaptic membrane receptor modulate ACh 
+ release axonal competition synapse elimination neuromuscular 
+ junction development Mol Neurosci 10:132  
+ Tomàs J Lanuza MA Santafé mm cilleros-mañé v Just-Borràs l balanyà- 
+ Segura M Polishchuk Nadal L Tomàs M Garcia N 2023 muscarinic 
+ receptor developmental axonal competition neuromuscular 
+ junction mol Neurobiol 60:1580 1593 
+ Yokoyama CT Myers SJ Fu J Mockus SM Scheuer t Catterall wa 2005 
+ mechanism snare protein binding regulation cav2 channel 
+ phosphorylation synaptic protein interaction site mol Cell Neurosci 
+ 28:1 17 
+ c-editor Zhao M Liu WJ Wang L t-editor Jia Y 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdtwnfkzbytws= 06/01/2024 

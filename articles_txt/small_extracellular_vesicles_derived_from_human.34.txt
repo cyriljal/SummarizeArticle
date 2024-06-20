@@ -1,0 +1,1312 @@
+NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜587 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Research Article 
+ small extracellular vesicle derive human induce 
+ pluripotent stem cell-differentiated neural progenitor 
+ cell mitigate retinal ganglion cell degeneration 
+ mouse model optic nerve injury 
+ Abstract  
+ study find transplantation neural progenitor cell npc promote survival injure neuron poor 
+ integration rate high risk tumorigenicity cell transplantation limit clinical application small extracellular vesicle sev 
+ contain bioactive molecule neuronal protection regeneration previous study show stem/progenitor cell-derived sevs 
+ promote neuronal survival recovery neurological function neurodegenerative eye disease eye disease 
+ study intravitreally transplant sev derive human induce pluripotent stem cell hipscs hipscs-differentiate npc hipsc- 
+ npc mouse model optic nerve crush result intravitreally inject sev ingest retinal cell especially 
+ localized ganglion cell layer treatment hipsc-npc-derived sev mitigate optic nerve crush-induced retinal ganglion cell 
+ degeneration regulate retinal microenvironment inhibit excessive activation microglia component analysis reveal 
+ hipsc-npc derive sev transport neuroprotective anti-inflammatory mirna cargo target cell protective effect 
+ rgc optic nerve injury finding suggest sevs derive hipsc-npc promising cell-free therapeutic strategy optic 
+ neuropathy 
+ Key Words exosome mirna neural progenitor cell neurodegeneration neuroinflammation neuroprotection optic nerve crush optic 
+ neuropathy retinal ganglion cell small extracellular vesicle 
+ https://doi.org/10.4103/NRR.NRR-D-23 01414 
+ Date submission August 22 2023 
+ Date decision November 14 2023 
+ Date acceptance December 29 2023 
+ Date web publication January 31 2024 
+ Introduction 
+ retinal ganglion cell rgc degeneration lead irreversible 
+ visual impairment common feature glaucoma 
+ traumatic optic neuropathy inherit optic neuropathy 
+ type optic atrophy rgc transmit visual signal 
+ brain optic nerve study suggest rgc 
+ regenerate injury result permanent visual 
+ impairment Guo et al. 2021 Kerschensteiner 2022 Liu et 
+ al. 2023 mechanism rgc degeneration complex 
+ include genetic oxidative stress apoptosis hypoxia- 
+ ischemia mitochondrial dysfunction gliosis inflammation 
+ Ahmed et al. 2022 Fu et al. 2022 Hu et al. 2022 ju 
+ Tam 2022 Rong et al. 2022 Wang et al. 2022a Newman et 
+ al. 2023 Zhang et al. 2023 unfortunately limited 
+ effective therapeutic strategy treatment optic 
+ neuropathy explore novel treatment strategy 
+ urgently need 
+ human induce pluripotent stem cell hipscs invaluable 
+ 1state Key Laboratory Ophthalmology Optometry Visual Science Eye Hospital Wenzhou Medical University Wenzhou Zhejiang Province China 
+ 2national Clinical Research Center Ocular Diseases Eye Hospital Wenzhou Medical University Wenzhou Zhejiang Province China 
+ Correspondence Zai-Long Chi phd zailong.chi@eye.ac.cn 
+ https://orcid.org/0009 0008 9597 6546 Zai-Long Chi https://orcid.org/0009 0002 4658 2109 Tong Li 
+ author contribute equally work 
+ Funding study support National Natural Science Foundation China No. 82271114 Natural Science Foundation Zhejiang Province 
+ China No. lz22h120001 zlc 
+ cite article Li t xing HM Qian HD Gao Q Xu sl Ma H Chi ZL 2025 small extracellular vesicle derive human induce pluripotent stem 
+ cell-differentiated neural progenitor cell mitigate retinal ganglion cell degeneration mouse model optic nerve injury neural Regen Res 20(2):587 597 
+ graphical Abstract 
+ Neuroprotective 
+ mechanism 
+ hipsc-npc-sevs 
+ optic nerve crush 
+ mouse model 
+ Contents 
+ Introduction 
+ 587 
+ method  
+ 588 
+ result 
+ 590 
+ Discussion 
+ 591 
+ Tong li1 hui-min xing1 hai-dong qian1 Qiao gao1 sheng-lan xu1 Hua ma1 zai-long chi1 2 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdggj2mwlzlei= 06/01/2024 
+ 588   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Research Article 
+ tool broad application prospect therapy 
+ human disease neural regeneration 
+ hipsc differentiate specialized cell 
+ tissue organoid specific condition ethical 
+ restriction accordingly hundred clinical trial 
+ hipscs human disease therapy ongoing Yokobayashi 
+ et al. 2021 sugimoto et al. 2022 Wang et al. 2022b ito 
+ et al. 2023 induce pluripotent stem cell (ipsc)-derived 
+ mesenchymal stem cell msc promote survival 
+ neuron mouse mitochondrial complex defect 
+ rat model hypoxic-ischemic encephalopathy 
+ Jiang et al. 2019 Huang et al. 2022 particular neural 
+ progenitor cell npc neural stem cell differentiate 
+ nervous system-related cell type give 
+ advantage treatment neural degenerative 
+ disease Liu et al. 2019 fischer et al. 2020 Baloh et al. 
+ 2022 ipsc-derived neural stem cells/npcs directional 
+ differentiation potential neuron play important 
+ role degenerative disease central nervous system 
+ Strnadel et al. 2018 Huang Zhang 2019 Van Gelder et 
+ al. 2022 study suggest poor rate cell 
+ integration cell transplantation increase evidence 
+ indicate transplant cell play role nutrition 
+ microenvironment Shi et al. 2018 Gokoffski et al. 
+ 2020 Yuan et al. 2022 notably stem cell transplantation 
+ tumorigenic immunogenic risk Goldman 2016 
+ Yamanaka 2020 focus small 
+ extracellular vesicle sev secrete stem 
+ cell 
+ sev surround phospholipid bilayer membrane 
+ 30–150 nm diameter contain biologically active factor 
+ parent cell include rna protein lipid 
+ Gandham et al. 2020 Kalluri LeBleu 2020 
+ bioactive factor sev deliver recipient 
+ cell act modulator pathophysiological process 
+ Channon et al. 2022 Chong et al. 2022 
+ sev emerge important paracrine regulator 
+ local tissue act endocrine mediator 
+ systemic regulation sheller-miller et al. 2019 numerous 
+ study reveal stem/progenitor cell-derived 
+ sev therapeutic effect disease 
+ immunogenicity obvious effect Kalluri LeBleu 
+ 2020 ding et al. 2021 ocular neurodegenerative disease 
+ ocular disease neuron survival nerve function 
+ rescue stem/progenitor cell-derived sevs mead 
+ Tomarev 2017 Pan et al. 2019 Cui et al. 2021 sevs 
+ potential promising cell-free biological therapeutic 
+ strategy neurodegenerative disease 
+ study aim examine protective effect 
+ sev derive hipscs npc rgc degeneration 
+ explore potential mechanism hipscs directly 
+ differentiate npc hipsc- npc-derived sevs 
+ collect characterize type 
+ sev intravitreally administer verify 
+ neuroprotective effect mouse model optic nerve crush 
+ onc finally set neuroprotective mirna detect 
+ analyze mirna sequencing 
+ method   
+ Animals 
+ animal experiment perform follow 
+ Association Research Vision Ophthalmology 
+ arvo Statement Use Animals Ophthalmic 
+ Vision Research Association Research Vision 
+ Ophthalmology 2021 approve Animal 
+ Care Use Committee Wenzhou Medical University 
+ November 27 2022 approval No. wydw2022 0735 
+ c57bl/6jnifdc mouse purchase Beijing Vital River 
+ Laboratory Beijing China license No. scxk jing 2021 0011 
+ thy1-gfp cx3cr1-gfp mouse c57bl/6j background 
+ obtain Nanjing Biomedical Research Institute 
+ Nanjing University Nanjing China Shanghai Model 
+ Organisms Center Shanghai China respectively mouse 
+ maintain 12-hour dark/light cycle good ventilation 
+ 22 ° c provide standard laboratory chow water 
+ animal cage activation microglia 
+ affect estrogen cycle female mouse 
+ male mouse aged 2–3 month 20–26 g 
+ study experiment experimenter observer 
+ blind group assignment outcome assessment 
+ number distribution mouse experiment show 
+ additional Figure 1 
+ cell culture differentiation 
+ cell culture differentiation perform describe 
+ previous study Kirkeby et al. 2012 briefly hipsc 
+ purchase sidansai Biotech Shanghai China stock 
+ No. 0232 100 verify Guangzhou Institutes 
+ Biomedicine Health Xue et al. 2013 cell culture 
+ 70–80 confluence essential 8 a1517001 Gibco 
+ Billings MT usa Matrigel 356234 corning corning ny 
+ USA washing sterilized phosphate-buffered saline 
+ pbs medium replace neural induction medium 
+ nim compose dmem/f12 1:1 Neurobasal 10888022 
+ Gibco 2 b27 supplement 12587010 Gibco 1 n2 
+ supplement 17502048 Gibco 1 non-essential amino 
+ acid 11140050 Gibco 1 Glutamax 35050061 Gibco 
+ 10 µm sb431542 s1067 Selleck Houston tx usa 0.1 
+ µm ldn193189 s2618 Selleck cell culture 37 ° c 
+ 5 co2 10 day NIM change neural 
+ expansion medium compose dmem/f12 1:1 neurobasal 
+ 2 b27 1 n2 1 non-essential amino acid 1 
+ Glutamax 10 ng/ml basic fibroblast growth factor 10014- 
+ hnae SinoBio Inc. Beijing China 10 ng/ml epidermal 
+ growth factor 10605-HNAE SinoBio Inc. 7 day 
+ medium change supernatant collect day 
+ sevs isolation characterization labeling 
+ sev hipscs npc isolate serum-free cell 
+ culture medium previously report Gurunathan et al. 
+ 2019 briefly medium collect sequentially 
+ centrifuge 300 × g 10 minute 2000 × g 10 minute 
+ 10,000 × g 30 minute 4 ° c remove cell 
+ debris filtration 0.22 μm pore filter 
+ supernatant ultracentrifuge 100,000 × g 4 ° c 
+ 70 minute Beckman Optima xe-100 ultracentrifuge 
+ Beckman Bria usa pellet obtain 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdggj2mwlzlei= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜589 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Research Article 
+ size concentration purify sev determine 
+ ZetaView nanoparticle tracking analysis pmx 110 Particle 
+ Metrix Meerbusch Germany ultrastructure sevs 
+ analyze transmission electron microscopy tem 
+ H-7650 Hitachi Ltd. Tokyo Japan western blotting 
+ examine protein expression alix cd9 tsg101 
+ calnexin sev pellet resuspend 100 µl sterile 
+ PBS 50 µl sev label pkh67 Fluorescent Cell 
+ Linker Kits pkh67gl sigma-aldrich Darmstadt Germany 
+ optic nerve crush sev administration 
+ Mice anesthetize intraperitoneal injection 30 
+ mg/kg 0.3 sodium pentobarbital p3761 sigma-aldrich 
+ 5 mg/kg xylazine Aladdin Shanghai China 0.5 
+ proparacaine hydrochloride Alcon Laboratories Fort Worth 
+ TX usa onc perform previously describe 
+ Cameron et al. 2020 briefly optic nerve side 
+ expose crush forceps 0203-n6-po Dumont 
+ Montignez Switzerland 0.5 mm posterior lamina 
+ cribrosa immediately crush 200 µg roughly 2 
+ × 1011 particle hipsc- npc-sevs pbs intravitreally 
+ inject 33 g Hamilton syringe Hamilton Company 
+ Reno NV America ofloxacin eye ointment 14200059683 
+ Shenyang Xingqi Pharmaceutical Company Shenyang China 
+ normally administer surgery 
+ immunofluorescence staining 
+ washing three-time pbs hipscs npc fix 
+ 4 paraformaldehyde 15 minute permeabilize 
+ PBS 0.5 Triton x-100 15 minute mouse 
+ anesthetize describe sacrifice cervical 
+ dislocation eyeball cryosection prepare 
+ cryostat cm1950 Leica Nussloch Germany thickness 
+ 12 μm sample block blocking buffer PBS 
+ 10 bovine serum albumin 0.1 Triton x-100 1 
+ hour incubate overnight 4 ° c primary antibody 
+ cell incubate secondary antibody 37 ° c 
+ 2 hour antibody information show additional Table 
+ 1 washing pbs sample mount antifade 
+ mounting medium 4′,6-diamidino-2-phenylindole p0131 
+ Beyotime Biotechnology Shanghai China 
+ western blot assay 
+ concentration sev quantify Pierce BCA 
+ protein assay kit 23225 Thermo Fisher Scientific Waltham 
+ MA usa equal amount sample electrophorese 
+ sodium dodecyl sulfate-polyacrylamide gel 10 p0052a 
+ Beyotime Biotechnology transfer polyvinylidene 
+ fluoride membrane ffp39 Beyotime Biotechnology 
+ Blots block 5 milk 1 hour incubate 
+ overnight primary antibody anti-mouse anti-rabbit 
+ immunoglobulin g horseradish peroxidase-conjugated 
+ antibody secondary antibody incubate 
+ 2 hour room temperature blot develop 
+ chemiluminescence reagent 1863096 Thermo Fisher 
+ Scientific image capture Invitrogen iBright 
+ 1500 ibright fl1500 Thermo Fisher Scientific gray value 
+ band analyze imagej software version 1.8.0 
+ National Institutes Health Bethesda MD usa Schneider 
+ et al. 2012 antibody information show additional 
+ Table 1 
+ optical coherence tomography 
+ optical coherence tomography oct perform 
+ anesthetize animal 7 14 day post-onc picture 
+ retina optic nerve head take 
+ Micron iv Retinal Imaging Microscope Phoenix Research 
+ Labs Pleasanton usa thickness ganglion 
+ cell complex gcc consist retinal nerve fiber layer 
+ ganglion cell layer inner plexiform layer 
+ correspond exactly anatomical distribution rgc 
+ retina Nakano et al. 2011 measure 
+ imagej. 
+ hematoxylin-eosin staining 
+ anesthetized mouse transcardially perfuse 4 
+ paraformaldehyde eye collect fix 4 
+ paraformaldehyde 48 hour 4 ° c fixed eye 
+ dehydrate embed paraffin specimen cut 
+ 5-mm thick retinal cross-section paraffin tissue section 
+ dewaxed rehydrate stain hematoxylin 
+ eosin c0105s Beyotime Biotechnology gcc thickness 
+ measure imagej. 
+ retinal flat mount analysis 
+ Eyes enucleate animal sacrifice 
+ fix 4 paraformaldehyde 20 minute 
+ anterior portion eye remove len 
+ remove fixation 4 paraformaldehyde 40 
+ minute retina separate eye cut 
+ quarter ophthalmic scissor retina 
+ place slide mount coverslip image 
+ retinal area central paracentral peripheral 
+ capture average number thy1-gfp-rgcs n = 8) 
+ average number grid-crossed point cx3cr1-gfp- 
+ microglia n = 5 count imagej software 
+ Flash visual evoke potential 
+ retinal functional variation evaluate 
+ electrophysiological diagnostic system reti-port21 Roland 
+ Munich Germany 7 day post-onc light stimulation 
+ intensity 3.0 cd·s/m2 stimulation frequency 2 Hz 
+ stimulation number 100 silver electrode 
+ insert anesthetize mouse skin occipital 
+ bone cheek tail wave record eye 
+ sev component analysis 
+ total rna extract trizol reagent life 
+ Technologies Carlsbad usa accord 
+ manufacturer instruction rna quality check 
+ perform Nanodrop2000 Thermo Fisher scientific 
+ Agilent 2100 Bioanalyzer Agilent Technologies Santa 
+ Clara usa rna sample concentration > 200 ng/μl 
+ 
+ absorbance 260/280 nm a260/a280 > 1.8 < 2.2 
+ a260/a230 ≥ 2.0 library construction mirna- 
+ seq library construct truseq small rna Sample 
+ Prep Kits Illumina San Diego usa accord 
+ manufacturer instruction briefly add adapter 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdggj2mwlzlei= 06/01/2024 
+ 590   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Research Article 
+ 3 5 termination mirna reverse transcribe 
+ 1st strand complementary dna cdna 
+ pcr amplification pcr product purify 6 
+ polyacrylamide gel electrophoresis library insert 
+ size determine Agilent 2100 Bioanalyzer finally 
+ qualified library sequence NovaSeq 6000 
+ platform Illumina 50 bp single-end read obtain 
+ Adapter sequence low-quality read mirna sequence 
+ remove cutadapt v3.2 National Bioinformatics 
+ Infrastructure Sweden nbis Uppsala University Uppsala 
+ Sweden Kechin et al. 2017 clean read map 
+ late mirbase Faculty Life Sciences University 
+ Manchester Manchester UK griffiths-jone et al. 2006 
+ Rfam database v14.4 European Bioinformatics Institute 
+ Wellcome Genome Campus Cambridge UK Kalvari et al. 
+ 2021 bowtie2 v2.4.5 Department Biostatistics 
+ Johns Hopkins Bloomberg School Public Health Baltimore 
+ MD usa Langmead Salzberg 2012 identify annotate 
+ mirna sequence overlap annotate 
+ sequence classify unannotated read mirdeep2 
+ v2.0.1.2 Berlin Institute Medical Systems Biology bimsb 
+ Hannoversche Berlin Germany Friedländer et al. 2012 
+ identify novel mirna base secondary structure 
+ dicer enzyme cleavage site minimum free energy index 
+ Raw read count estimate mirdeep2 analyze 
+ differentially express mirna demirnas stage 
+ deseq2 v1.34.0 Genetics Department Biostatistics 
+ Department UNC-Chapel Hill NC USA love et al. 2014 
+ mirna threshold p value < 0.05 log2(fold- 
+ change > 1 < –1 consider demirnas 
+ gene ontology enrichment Kyoto Encyclopedia 
+ Genes Genomes kegg pathway analysis 
+ perform clusterprofiler v4.4.4 School Basic 
+ Medical Sciences Southern Medical University Guangzhou 
+ China Yu et al. 2012 enriched term kegg pathway 
+ p value < 0.05 consider significant 
+ statistical analysis 
+ experiment repeat time 
+ animal exclude analysis datum analyze 
+ evaluator blind grouping student t-t 
+ group one-way analysis variance group 
+ follow Tukey post hoc test perform 
+ GraphPad Prism version 8.0.1 Windows GraphPad 
+ Software Boston ma usa www.graphpad.com difference 
+ consider significant p < 0.05 
+ result 
+ isolation characterization sev hipscs 
+ hipsc-npcs 
+ obtain sev different stage stem cell hipscs 
+ directly differentiate npc serum-free medium 
+ established method figure 1a morphology 
+ hipscs npc immunostaining specific 
+ biomarker sox2 tra-1 60 hipscs pax6 
+ nestin npc indicate typical characteristic figure 
+ 1b c hipsc-sevs npc-sevs isolate cell 
+ culture supernatant ultracentrifugation method 
+ Figure 1d characterization sev confirm 
+ nanoparticle tracking analysis tem western blotting 
+ sev show typical cup-like structure 
+ tem analysis Figure 1E nanoparticle tracking analysis 
+ indicate mean size sev approximately 100 nm 
+ Figure 1f western blot analysis confirm 
+ sev positively express representative biomarker sdcbp 
+ tsg101 alix negative biomarker calnexin 
+ undetectable figure 1 g 
+ npc-sevs mitigate rgc degeneration optic nerve injury 
+ investigate uptake sev retinal cell sevs 
+ label fluorescently link pkh67 inject 
+ intravitreally flat mount analysis reveal green fluorescence 
+ retina 48 hour additional Figure 2a 7 day 
+ additional Figure 2B injection additionally note 
+ green fluorescent-labeled sev exist vitreous cavity 
+ 48 hour reduce day 7 additional Figure 
+ 2C contrast increase green fluorescent-labeled sevs 
+ observe gcc layer day 7 additional Figure 
+ 2d immunostaining show npc-sevs internalize 
+ multiple cell type 48 hour injection include rgc 
+ microglia astrocyte additional Figure 2e 
+ evaluate role hipsc-sevs npc-sevs 
+ neuroprotection optic nerve injury sevs 
+ intravitreally inject onc mouse rgc survival 
+ analyze day 7 14 figure 2a oct analysis show 
+ significant increase mean gcc layer thickness npc- 
+ sev treatment particularly day 7 14 post-onc figure 
+ 2B c histopathological change optic nerve injury 
+ confirm hematoxylin-eosin staining 
+ npc-sev-treated retina show thicker gcc layer day 
+ 14 figure 2d e addition npc-sev-treated retina 
+ contain cell ganglion cell layer ONC 
+ day 7 14 figure 2f 
+ conduct flat mount analysis retina 
+ thy1-gfp transgenic mouse specific gfp labeling 
+ rgc figure 3a b npc-sev treatment result great 
+ rgc survival pbs hipsc-sev treatment figure 3C 
+ d result suggest npc-sevs provide 
+ significant rgc protection hiPSC-sEVs optic nerve 
+ injury 
+ npc-sevs suppress microglial activation rescue visual 
+ impairment 
+ Neuroinflammation important pathological process 
+ neurodegenerative disease Microglia key mediator 
+ progression optic neuropathy suppress activation 
+ proliferation microglia alleviate neuroinflammation 
+ contribute visual function restoration ramirez et 
+ al. 2017 explore potential role npc-sevs 
+ neuroinflammation cx3cr1-gfp transgenic mouse 
+ specific gfp labeling microglia perform 
+ anti-ionized calcium binding adaptor molecule 1 iba1 
+ immunostaining retinal section flat-mount 
+ analysis retina immunostaining retinal section 
+ show significant reduction number migrated 
+ microglia sev-treated retina day 7 day 14 
+ ONC Figure 4a b flat-mounted retina cx3cr1-gfp 
+ mouse confirm reduce number microglia 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdggj2mwlzlei= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜591 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Research Article 
+ sev-treated retina day 7 paracentral region 
+ hipsc-sev-treated retina figure 4c e analysis 
+ grid-crossed point microglia reveal suppress 
+ microglial activation sev treatment figure 4f 
+ determine npc-sevs protect visual function 
+ onc mouse conduct flash visual evoke 
+ potential analysis quantitatively measure amplitude 
+ n1-p1 wave day 7 ONC figure 5a 
+ result show amplitude n1-p1 wave 
+ significantly restore npc-sev treatment Figure 5B 
+ c result suggest npc-sevs mitigate optic nerve 
+ injury contribute restoration visual function 
+ npc-sevs play neuroprotective role specific 
+ mirna delivery 
+ sev play important role cell cell communication 
+ transport bioactive molecule involve 
+ regulation biological process recipient 
+ cell mirna enrichment sev play important role 
+ pathophysiological process retinal disease mead 
+ Tomarev 2020 subsequently perform 
+ component mirna analysis high-throughput sequencing 
+ hipsc-sevs npc-sevs npc-sevs find 
+ total 163 differentially express mirna compare 
+ hiPSC-sEVs show volcano plot figure 6a analysis 
+ demirnas show mirna classify 
+ enriched mainly nervous system-related biological 
+ process figure 6b kegg pathway analysis find 
+ demirnas involve common neurodegenerative 
+ disorder nervous system development- 
+ growth-related pathway figure 6c heatmap show 
+ demirnas npc-sev hipsc-sev group 
+ classify enriched nervous system figure 
+ 6d mirna 22 mirna attract attention 
+ report participate neuroprotection 
+ anti-inflammation select 50 
+ abundant mirna npc-sevs accord sequence 
+ datum total 17 mirna consider neuroprotective 
+ abundant npc-sevs identify intersection analysis 
+ account 44.49 50 mirna 
+ Figure 6E f consequently speculate npc-sevs 
+ exhibit neuroprotective effect rgc degeneration 
+ mirna delivery 
+ Discussion 
+ rgc protection regeneration long-term challenge 
+ clinical treatment optic neuropathy pathogenesis 
+ neurodegenerative disease complex treatment 
+ target single gene meet clinical need stem 
+ cell therapy advantageous neurodegenerative disease 
+ act multiple target hipsc-differentiate 
+ npc avoid ethical issue human embryo 
+ particle ml ×10 
+ 6 
+ 4 
+ 3 
+ 2 
+ 1 
+ 0 
+ F 
+ d 
+ g 
+ e 
+ 
+ c 
+ b 
+ Diameter nm 
+ 0   100   200 300 400   500 600 700   800 900 1000 
+ cell         sevs 
+ 32 kda 
+ 44 kda 
+ 96 kda 
+ 90 kda 
+ sdcbp 
+ tsg101 
+ ALIX 
+ Calnexin 
+ 300 × g 
+ 2000 × g 
+ 100000 × g 
+ 100000 × g 
+ 10000 × g 
+ 4 ° c 
+ 10 min 
+ 4 ° c 
+ 10 min 
+ 4 ° c 
+ 30 min 
+ 4 ° c 
+ 70 min 
+ 4 ° c 
+ 70 min 
+ sevs 
+ cell 
+ supernatant 
+ ipscs 
+ d0 
+ neuroepithelium 
+ d10 
+ d14 
+ npc 
+ ipscs 
+ npc 
+ Figure 1 ｜isolation characterization 
+ sev hipscs hipsc-npcs 
+ schematic illustration direct npc 
+ differentiation hipscs b c representative 
+ morphology immunostaining hipscs 
+ hipsc-npcs hipscs show typical 
+ clone morphology sox2 tra-1- 
+ 60 expression hipsc-npc show typical 
+ epithelium morphology pax6 nestin 
+ expression scale bar 100 μm d schematic 
+ sev isolation protocol e Representative 
+ TEM image npc-sevs show typical 
+ cup-like structure scale bar 200 nm f 
+ size distribution npc-sevs inset 
+ snapshot image video tracking g western 
+ blot result positive sdcbp tsg101 
+ ALIX negative calnexin biomarker 
+ npc-sevs parental cell alix apoptosis- 
+ link gene 2-interacting protein x hipsc 
+ human induced pluripotent stem cell nem 
+ neural expansion medium nim neural 
+ induction medium npc neuronal progenitor 
+ cell pax6 pair box 6 sdcbp syndecan 
+ binding protein sev small extracellular vesicle 
+ sox2 sry-box transcription factor 2 tra-1 60 
+ tumor-related antigen-1 60 tsg101 tumor 
+ susceptibility 101 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdggj2mwlzlei= 06/01/2024 
+ 592   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Research Article 
+ Figure 2 ｜neuroprotective effect sev hipscs hipsc-npc oct staining  
+ schematic animal experiment b representative oct image mouse 7 14 day post-onc thickness retina decrease 
+ time scale bar 200 μm c oct statistical result mean thickness gcc layer n = 16 p < 0.05 p < 0.01 hipsc-sevs group 
+ vs. pbs group p < 0.05 p < 0.01 npc-sevs group vs. pbs group d representative image gcc layer mouse 7 14 day 
+ post-onc similar result obtain oct thickness retina decrease time scale bar 20 μm e statistical result 
+ mean thickness gcc layer n = 12 f quantification mean number cell gcl n = 12 p < 0.05 p < 0.001 datum 
+ express mean ± sem c mean ± sd e f analyze Student t-test c one-way analysis variance follow 
+ Tukey post hoc test e f gcc ganglion cell complex gcl ganglion cell layer hematoxylin-eosin hipsc human induce pluripotent 
+ stem cell immunofluorescence ipsc induce pluripotent stem cell npc neural progenitor cell ns significant oct optical coherence 
+ tomography onc optic nerve crush onh optic nerve head pbs phosphate buffer saline sev small extracellular vesicle vep visual evoke 
+ potential 
+ solve problem find source human neural cell 
+ beneficial treatment potential nervous system 
+ disorder study show hipsc-npcs promote 
+ neuronal protection rgc survival ju Tam 
+ 2022 transplant cell integrate 
+ tissue instead mainly involve secretion 
+ neurotrophic factor regulation microenvironment 
+ Karagiannis et al. 2019 view focus sev 
+ recognize cell-free therapeutic source 
+ deliver biomolecule parent cell recipient cell 
+ good biocompatibility low immunogenicity previous 
+ study show msc-derived sev potential 
+ treatment neurodegenerative disease mead et al. 
+ 2018 Hade et al. 2021 compare mscs ipsc 
+ pluripotency npc differentiate cell 
+ nervous system reason interested 
+ npc-derived sev advantageous 
+ neurodegenerative disease therapy 
+ study successfully develop hipsc-npc 
+ differentiation system obtain high-purity sev cell 
+ supernatant find sev cross inner limit 
+ membrane internalize ganglion cell layer cell 
+ include rgc microglia astrocyte early 48 
+ hour intravitreal injection consistent 
+ previous study Mathew et al. 2021 find treatment 
+ hipsc-npc-sev significantly reduce rgc loss 
+ partially restore visual function damage occur 
+ neurodegenerative disease degeneration progressive 
+ difficult stop maximize therapeutic effect sev 
+ treatment perform time injury 
+ rgc observable hipsc-npc-sev-treated 
+ retina 14 day ONC amplitude flash visual evoke 
+ potential decrease low level interestingly 
+ hipsc-npc-sev treatment cause significantly potent 
+ durable neuroprotective effect compare hipsc-sev 
+ treatment report msc play major 
+ role paracrine effect cell replacement 
+ Andrzejewska et al. 2021 intercellular communication 
+ sev play important role nervous system 
+ Budnik et al. 2016 alternatively optic nerve lamina 
+ region npc niche secrete growth factor promote 
+ neuronal extension Bernstein et al. 2020 novel 
+ study suggest npc-derived sev transport bioactive 
+ molecule parent cell play role rgc neuroprotection 
+ consider sev good biocompatibility low 
+ immunogenicity allogeneic hipsc- msc-derived npc- 
+ sev therapy clinic effectively avoid immune rejection 
+ unexpected effect 
+ Thickness gcc μm 
+ 60 
+ 55 
+ 50 
+ 45 
+ 40 
+ c 
+ 40 
+ 20 
+ 0 
+ Thickness gcc μm 
+ 55 
+ 50 
+ 45 
+ 40 
+ 35 
+ 30 
+ 15 
+ 0 
+ Distance ONH μm 
+ 550 
+ 500 
+ 400 
+ 300 
+ 200 
+ 0 
+ 200 
+ 300 
+ 400 
+ 500 
+ 550 
+ Distance ONH μm 
+ 550 
+ 500 
+ 400 
+ 300 
+ 200 
+ 0 
+ 200 
+ 300 
+ 400 
+ 500 
+ 550 
+ onc+pbs 
+ onc+ipscs sevs 
+ onc+npcs sevs 
+ onc+pbs 
+ onc+ipscs sevs 
+ onc+npcs sevs 
+ 14 d 
+ 7 d 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Thickness gcc μm 
+ 80 
+ 60 
+ 40 
+ 20 
+ 0 
+ E 
+ Thickness gcc μm 
+ 80 
+ 60 
+ 40 
+ 20 
+ 0 
+ cell number gcl 
+ 500 
+ 400 
+ 300 
+ 200 
+ 100 
+ 0 
+ F 
+ cell number gcl 
+ 500 
+ 400 
+ 300 
+ 200 
+ 100 
+ 0 
+ 7 d 
+ 14 d 
+ 7 d 
+ 14 d 
+ 
+ 
+ 
+ ns 
+ ns 
+ ns 
+ ns 
+ ns 
+ ns 
+ ns 
+ ns 
+ ns 
+ d 
+ 
+ b 
+ Control 
+ onc+pbs 
+ onc+ipscs sevs 
+ onc+npcs sevs 
+ Control 
+ onc+pbs 
+ onc+ipscs sevs onc+npcs sev 
+ 7 d 
+ 14 d 
+ 7 d 
+ 14 d 
+ Control 
+ onc+pbs 
+ onc+ipscs sevs 
+ onc+npcs sevs 
+ oct/vep 
+ staining/ flat-mounted retinas/if 
+ 7 d 
+ 14 d 
+ 0 d 
+ 200 μm 
+ 20 μm 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdggj2mwlzlei= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜593 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Research Article 
+ Figure 3 ｜ rgc survival onc mouse sev treatment 
+ flat-mounted retina onc mouse treatment sev day 7 day 14 post-onc rgc degeneration progressive 
+ ONC b schematic diagram different region flat-mounted retina central paracentral peripheral create Microsoft 
+ PowerPoint Professional 2019 c representative image central paracentral peripheral retinal region onc model mouse 
+ treatment sev follow treatment hipsc-sevs rgc survive retina day 7 post-onc follow 
+ treatment npc-sevs rgc survive retina day 7 14 scale bar 100 μm d quantification mean number 
+ rgc different retinal region 7 14 day n = 8/group datum express mean ± sd p < 0.05 p < 0.01 p < 0.001 one- 
+ way analysis variance follow Tukey post hoc test hipsc human induce pluripotent stem cell ipsc induce pluripotent stem cell 
+ npc neural progenitor cell ns significant onc optic nerve crush pbs phosphate buffer saline rgc retinal ganglion cell sev small 
+ extracellular vesicle 
+ Number rgc 
+ 200 
+ 150 
+ 100 
+ 50 
+ 0 
+ Central      Paracentral     peripheral 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 7 d 
+ d 
+ Number rgc 
+ 200 
+ 150 
+ 100 
+ 50 
+ 0 
+ Central     Paracentral     peripheral 
+ 
+ 
+ 
+ 
+ 
+ 
+ ns 
+ ns 
+ ns 
+ 14 d 
+ Control 
+ onc+pbs 
+ onc+ipscs-sevs 
+ onc+npcs-sevs 
+ 
+ b 
+ c 
+ Control 
+ Control 
+ onc+pbs 
+ onc+ipscs-sevs onc+npcs-sevs 
+ onc+pbs 
+ onc+ipscs-sevs onc+npcs-sevs 
+ onc+pbs 
+ onc+ipscs- 
+ sevs 
+ onc+npcs- 
+ sevs 
+ 7 d 
+ 14 d 
+ Central 
+ Paracentral 
+ Peripheral 
+ 7 d 
+ 14 d 
+ Neuroinflammation central nervous system play 
+ essential role protect tissue injury 
+ uncontrolle prolonged neuroinflammation lead 
+ secondary damage contribute factor 
+ neurodegeneration ramirez et al. 2017 sev react neural 
+ damage morphological change proliferation migration 
+ production inflammatory cytokine 
+ propagate neuroinflammation Wei et al. 2019 Microglia 
+ principal modulatory cell nervous system include 
+ brain retina injury play important role 
+ nutrition protection repair damage neuron Mundt 
+ et al. 2022 study find hipsc-npc-sevs 
+ minimize microglial activation result reconstruction 
+ microenvironment benefit rgc survival previously 
+ show sev derive primary npc preserve 
+ photoreceptor mouse model retinal degeneration 
+ inactivating microglia Bian et al. 2020 interestingly report 
+ show mscs treat gw4869 inhibitor 
+ sev biogenesis suppressive effect glial activation 
+ suggest therapeutic role msc neural injury 
+ occur sev secretion Deng et al. 2021 
+ investigate mechanism hipsc-npc- 
+ sev rgc protection numerous study show 
+ sev derive stem cell involve 
+ neuroprotection transport mirna mead Tomarev 
+ 2020 consequently sev cargo mirna detect 
+ high-throughput sequencing demirnas hipsc-npc- 
+ sev analyze compare hiPSC-sEVs 
+ find mirna mir-181 mir-9 mir-125b-5p 
+ let-7 family report play important 
+ role microglial activation neurogenesis bian et al. 
+ 2020 Fernández et al. 2020 tian et al. 2021 
+ mirna mir-122 5p mirna-9 5p mir-218 5p 
+ mirna-29 know exert neuroprotective effect 
+ Jayaram et al. 2015 Ma et al. 2023 overall upregulate 
+ mirna hipsc-npc-sevs enrich neuronal survival 
+ neurogenesis-related biological process tnf- mapk- 
+ 
+ neurotrophin- common neurodegenerative disorder- 
+ related signaling pathway ding et al. 2022 twenty-two 
+ upregulate mirna involve regulation 
+ neuroprotection anti-inflammation 17 22 
+ 50 abundant mirna analysis confirm 
+ sev multitarget therapeutic effect retinal 
+ cell transportation cargo mirna 
+ investigate rgc protection npc-sevs onc mouse 
+ target delivery sev optic nerve regeneration 
+ rgc axon need investigation role 
+ msc-sevs neural protection widely study comparative 
+ study msc-sevs npc-sevs essential identify 
+ underlying effect mechanism neural protection 
+ additionally find combination 17 mirna npc- 
+ sev play multitarget therapeutic effect rgc protection 
+ optimization mirna complex delivery 
+ optimized mirna complex interesting 
+ study 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdggj2mwlzlei= 06/01/2024 
+ 594   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Research Article 
+ Figure 5 ｜protective effect npc-sevs visual function onc mouse    
+ schematic diagram fvep create Microsoft PowerPoint Professional 2019 b mean amplitude n1–p1 wave detect 
+ fvep day 7 n = 8) datum express mean ± sd p < 0.001 one-way analysis variance follow Tukey post hoc test c 
+ overlapping fvep wave onc mouse treatment npc-sevs day 7 fvep Flash visual evoke potential npc neural 
+ progenitor cell onc optic nerve crush pbs phosphate buffer saline sev small extracellular vesicle 
+ Figure 4 ｜anti-inflammatory effect sev hipscs hipsc-npcs   
+ frozen section retina day 7 14 migrated microglia reduce sev-treated retina day 7 day 14 ONC 
+ scale bar 50 μm b quantification mean number iba1-positive cell field n = 5 c flat-mounted retina onc cx3cr1-gfp 
+ mouse day 7 number microglia increase retina onc decrease sev-treated retina d representative image 
+ central paracentral peripheral retinal region onc model cx3cr1-gfp mouse treatment sev day 7 
+ number microglia grid-crossed point microglia reduce sev-treated retina day 7 scale bar 100 μm e statistical 
+ result mean number microglia cx3cr1-gfp positive cell field different retinal region n = 5 f quantification mean grid- 
+ crossed point microglia n = 5 datum express mean ± sd p < 0.05 p < 0.01 p < 0.001 one-way analysis variance 
+ follow Tukey post hoc test cx3cr1 cx3c chemokine receptor 1 dapi 4’,6-diamidino-2-phenylindole gfp green fluorescent protein 
+ iba1 ionize calcium-binding adapter molecule 1 hipsc human induce pluripotent stem cell ipsc induce pluripotent stem cell npc 
+ neural progenitor cell ns significant onc optic nerve crush pbs phosphate buffer saline sev small extracellular vesicle 
+ 15 
+ 10 
+ 5 
+ 0 
+ b 
+ Number 
+ iba1 
+ + cell 
+ 7 d 
+ 14 d 
+ Control 
+ onc+pbs 
+ onc+ipsc-sevs 
+ onc+ipsc-npc-sevs 
+ ns 
+ ns 
+ 
+ 
+ 150 
+ 100 
+ 50 
+ 0 
+ E 
+ Number microgila 
+ central       Paracentral    peripheral 
+ Control 
+ onc+pbs 
+ onc+ipsc-sevs 
+ onc+npc-sevs 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ns 
+ ns 
+ 30 
+ 20 
+ 10 
+ 0 
+ F 
+ grid-crossed point 
+ 
+ 
+ ns 
+ Control 
+ onc+pbs 
+ onc+ipsc-sevs 
+ onc+npc-sevs 
+ 
+ Control 
+ onc+pbs 
+ onc+ipscs-sevs 
+ onc+npcs-sevs 
+ Control 
+ onc+pbs 
+ onc+ipscs-sevs 
+ onc+npcs-sevs 
+ Control 
+ onc+pbs 
+ onc+ipscs-sevs 
+ onc+npcs-sevs 
+ 14 d 
+ 7 d 
+ c 
+ Control 
+ onc+pbs 
+ onc+ipscs- 
+ sevs 
+ onc+npcs- 
+ sevs 
+ d 
+ Central          Paracentral        Peripheral 
+ 25 
+ 20 
+ 15 
+ 10 
+ 5 
+ b 
+ 5 
+ 4 
+ 3 
+ 2 
+ 1 
+ 0 
+ n1-p1 amplitude 
+ μv 
+ Control 
+ onc+pbs 
+ onc+npc-sevs 
+ 
+ 7 d 
+ 0.00005 
+ 0 
+ –0.00005 
+ normalize channel 
+ Values v 
+ c 
+ 7 d 
+ Control 
+ onc+pbs 
+ onc+npc-sevs 
+ Time s 
+ 0                         0.05                       0.10 
+ 
+ summary novel study show intravitreous 
+ injection hipsc-npc-sevs successfully take 
+ retinal cell alleviate rgc degeneration suppress 
+ microglial activation contribute visual function 
+ restoration optic nerve injury additionally multitarget 
+ regulation neuroretinal protection inflammatory 
+ microenvironment bioactive mirna potential 
+ therapeutic mechanism hipsc-npc-sevs finding 
+ suggest hipsc-npc-sevs promising cell-free 
+ biological therapeutic strategy treatment optic 
+ neuropathy 
+ Author contribution study design zlc tl experimental 
+ implementation datum collection analysis tl hmx hdq qg slx 
+ HM manuscript draft tl hmx zlc author review approve 
+ final version manuscript 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdggj2mwlzlei= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜595 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Research Article 
+ 
+ b 
+ d 
+ c 
+ e 
+ F 
+ Figure 6 ｜mirna sequencing analysis 
+ sev derive hipscs npc 
+ Volcano plot differentially express 
+ mirna hipsc-sevs npc-sevs b c 
+ kegg pathway enrichment analysis 
+ differentially express mirna d heatmap 
+ differentially express mirna related 
+ neural pathway e expression rank 
+ mirna npc-sevs f pie chart show 
+ percentage 17 neuroprotective mirna 
+ 50 mirna term expression 
+ DEG differentially express gene gene 
+ ontology hipsc human induce pluripotent 
+ stem cell kegg Kyoto Encyclopedia gene 
+ Genomes mirna microrna npc neural 
+ progenitor cell sev small extracellular vesicle 
+ TPM tag million 
+ conflict interest author declare compete interest 
+ data availability statement   datum generate analyze 
+ study include publish article additional file 
+ open access statement open access journal article 
+ distribute term Creative Commons Attribution- 
+ noncommercial-sharealike 4.0 License allow remix 
+ tweak build work non-commercially long appropriate 
+ credit give new creation license identical 
+ term 
+ open peer reviewer Alicia Mansilla Universidad de Alcala Spain 
+ additional file 
+ additional Figure 1 number distribution mouse experiment 
+ additional Figure 2 internalization sev retinal cell 
+ additional Table 1 antibody study 
+ additional file 1 open peer review report 1 
+ reference 
+ Ahmed M Kojima Y Masai 2022 strip1 regulate retinal ganglion cell 
+ survival suppress jun-mediated apoptosis promote retinal 
+ neural circuit formation elife 11:e74650 
+ Andrzejewska Dabrowska S Lukomska b Janowski M 2021 
+ mesenchymal stem cell neurological disorder Adv Sci Weinh 
+ 8:2002944 
+ Association Research Vision Ophthalmology 2021 ARVO 
+ Statement Use Animals Ophthalmic Vision Research 
+ Baloh rh et al. 2022 transplantation human neural progenitor cell 
+ secreting gdnf spinal cord patient als phase 1/2a 
+ trial nat Med 28:1813 1822 
+ Bernstein sl Guo Y Kerr c Fawcett RJ stern jh Temple S Mehrabian Z 
+ 2020 optic nerve lamina region neural progenitor cell niche 
+ Proc Natl Acad Sci U S 117:19287 19298 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdggj2mwlzlei= 06/01/2024 
+ 596   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Research Article 
+ Bian b Zhao c X Gong y ren c Ge L Zeng Y Li Q Chen M Weng 
+ c J Fang Y Xu h Yin ZQ 2020 Exosomes derive neural 
+ progenitor cell preserve photoreceptor retinal degeneration 
+ inactivate microglia j Extracell Vesicles 9:1748931 
+ Budnik V ruiz-cañada c Wendler F 2016 extracellular vesicle round 
+ communication nervous system nat rev Neurosci 17:160- 
+ 172 
+ Cameron EG Xia X Galvao J Ashouri M Kapiloff ms Goldberg JL 2020 
+ Optic nerve crush mouse study retinal ganglion cell survival 
+ regeneration bio protoc 10:e3559 
+ Channon lm tyma vm Xu Z Greening DW Wilson JS Perera CJ Apte 
+ MV 2022 small extracellular vesicle exosome cargo 
+ pancreatic cancer key role hallmark cancer biochim 
+ Biophys Acta Rev Cancer 1877:188728 
+ Chong MC Silva James PF Wu SSX Howitt J 2022 exercise increase 
+ release NAMPT extracellular vesicle alter nad(+ 
+ activity recipient cell aging cell 21:e13647 
+ Cui y Liu C Huang L Chen J Xu N 2021 protective effect intravitreal 
+ administration mesenchymal stem cell-derived exosome 
+ experimental model optic nerve injury exp cell res 407:112792 
+ Deng CL Hu CB ling ST Zhao N Bao LH Zhou F Xiong yc Chen t Sui BD 
+ Yu XR Hu CH 2021 photoreceptor protection mesenchymal stem 
+ cell transplantation identify exosomal MiR-21 therapeutic 
+ retinal degeneration cell death differ 28:1041 1061 
+ ding c Wu Y Dabas H Hammarlund M 2022 activation 
+ camkii-sarm1-ask1-p38 map kinase pathway protect axon 
+ degeneration cause loss mitochondria elife 11:e73557 
+ ding y Li Y Sun Z Han X Chen Y Ge Y Mao Z Wang W 2021 cell- 
+ derive extracellular vesicle membrane tissue repair j 
+ Nanobiotechnology 19:368 
+ Fernández V Martínez-Martínez M Prieto-Colomina Cárdenas Soler 
+ r Dori M Tomasello U Nomura y López-Atalaya jp Calegari F Borrell 
+ V 2020 repression irs2 let-7 mirna essential homeostasis 
+ telencephalic neuroepithelium embo j 39:e105479 
+ Fischer Dulin JN Lane MA 2020 transplant neural progenitor 
+ cell restore connectivity spinal cord injury nat rev Neurosci 
+ 21:366 383 
+ Friedländer MR Mackowiak sd Li N Chen W Rajewsky N 2012 
+ mirdeep2 accurately identify know hundred novel 
+ microrna gene seven animal clade nucleic acid Res 40:37 52 
+ Fu h Siggs OM knight ls Staffieri se Ruddle JB Birsner AE collante 
+ er Craig JE Wiggs JL d’amato rj 2022 thrombospondin 1 missense 
+ allele induce extracellular matrix protein aggregation tm 
+ dysfunction congenital glaucoma j Clin Invest 132:e156967 
+ Gandham S Su X Wood J Nocera AL Alli SC Milane L Zimmerman 
+ Amiji M ivanov AR 2020 technology standardization 
+ research extracellular vesicle trend biotechnol 38:1066 1098 
+ Gokoffski kk Lam p Alas BF Peng MG Ansorge HRR 2020 Optic nerve 
+ regeneration J Neuroophthalmol 40:234 242 
+ Goldman SA 2016 stem progenitor cell-based therapy 
+ central nervous system hope hype wishful thinking cell stem 
+ cell 18:174 188 
+ Griffiths-Jones S Grocock RJ van Dongen S Bateman Enright aj 2006 
+ mirbase microrna sequence target gene nomenclature 
+ Nucleic Acids Res 34:d140 144 
+ Guo X Zhou J Starr C Mohns ej Li Y Chen EP Yoon y Kellner cp Tanaka 
+ K Wang H Liu W Pasquale LR Demb JB Crair MC Chen b 2021 
+ Preservation vision camkii-mediated protection retinal 
+ ganglion cell cell 184:4299 4314.e12 
+ Gurunathan S Kang MH Jeyaraj M Qasim M Kim jh 2019 review 
+ isolation characterization biological function multifarious 
+ therapeutic approach exosome cell 8:307 
+ hade md suire cn suo z 2021 mesenchymal stem cell-derived 
+ exosome application regenerative medicine cell 10:1959 
+ hu t Meng S Zhang Q Song S Tan c Huang J Chen D 2022 astrocyte 
+ derive tsp2 contribute synaptic alteration visual dysfunction 
+ retinal ischemia/reperfusion injury cell Biosci 12:196 
+ Huang J U KP Yang F Ji Z Lin J Weng Z Tsang LL Merson TD Ruan 
+ yc Wan C Li g Jiang X 2022 human pluripotent stem cell-derived 
+ ectomesenchymal stromal cell promote robust functional 
+ recovery umbilical cord-derived mesenchymal stromal cell 
+ hypoxic-ischaemic brain damage theranostic 12:143 166 
+ Huang L Zhang L 2019 neural stem cell therapy hypoxic-ischemic 
+ brain injury prog Neurobiol 173:1 17 
+ ito d Morimoto S Takahashi S Okada K Nakahara J Okano h 2023 
+ Maiden voyage induce pluripotent stem cell-based drug screening 
+ amyotrophic lateral sclerosis brain 146:13 19 
+ Jayaram H Cepurna WO Johnson EC morrison jc 2015 microrna 
+ expression glaucomatous retina invest Ophthalmol Vis Sci 
+ 56:7971 7982 
+ Jiang D Xiong g Feng H Zhang Z Chen p Yan b Chen L Gandhervin K 
+ Ma c Li C Han S Zhang Y Liao C Lee tl Tse HF Fu QL Chiu K Lian Q 
+ 2019 donation mitochondria ipsc-derived mesenchymal stem 
+ cell protect retinal ganglion cell mitochondrial complex 
+ defect-induced degeneration theranostic 9:2395 2410 
+ ju Y Tam KY 2022 pathological mechanism therapeutic strategy 
+ Alzheimer disease neural Regen Res 17:543 549 
+ Kalluri R LeBleu VS 2020 biology function biomedical 
+ application exosome science 367:eaau6977 
+ Kalvari Nawrocki EP ontiveros-palacios n Argasinska J Lamkiewicz K 
+ Marz M Griffiths-Jones S toffano-nioche c Gautheret D Weinberg 
+ Z Rivas E Eddy SR Finn RD Bateman Petrov ai 2021 Rfam 14 
+ expand coverage metagenomic viral microrna family 
+ Nucleic Acids res 49:d192-d200 
+ Karagiannis p Takahashi K Saito M Yoshida Y Okita K Watanabe 
+ Inoue h Yamashita JK Todani M Nakagawa M Osawa M Yashiro y 
+ Yamanaka S Osafune K 2019 induced pluripotent stem cell 
+ use human model disease development physiol rev 99:79- 
+ 114 
+ Kechin Boyarskikh U Kel Filipenko M 2017 cutprimer new tool 
+ accurate cutting primer read target generation 
+ sequencing j Comput Biol 24:1138 1143 
+ Kerschensteiner d 2022 feature detection retinal ganglion cell 
+ Annu Rev Vis Sci 8:135 169 
+ Kirkeby Nelander J Parmar M 2012 generating regionalize neuronal 
+ cell pluripotency step-by-step protocol Cell Neurosci 
+ 6:64 
+ langmead b salzberg sl 2012 fast gapped-read alignment Bowtie 
+ 2 nat method 9:357 359 
+ Liu L Michowski W Kolodziejczyk Sicinski p 2019 cell cycle 
+ stem cell proliferation pluripotency differentiation nat cell Biol 
+ 21:1060 1067 
+ Liu Z Xue J Liu C Tang J Wu S Lin J Han J Zhang Q Wu C Huang H 
+ Zhao L Zhuo Y Li y 2023 selective deletion zinc transporter 3 
+ amacrine cell promote retinal ganglion cell survival optic nerve 
+ regeneration injury neural Regen Res 18:2773 2780 
+ love MI Huber W Anders S 2014 moderated estimation fold change 
+ dispersion rna-seq datum deseq2 genome biol 15:550 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdggj2mwlzlei= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜597 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Research Article 
+ Ma zx Liu Z Xiong hh Zhou ZP Ouyang ls Xie FK Tang YM Wu ZD 
+ Feng Y 2023 micrornas protective regulator neuron growth 
+ development neural Regen Res 18:734 745 
+ Mathew b Torres LA Gamboa Acha L Tran S Liu Patel r 
+ Chennakesavalu M Aneesh Huang CC Feinstein DL Mehraeen S 
+ Ravindran S Roth S 2021 uptake distribution administer 
+ bone marrow mesenchymal stem cell extracellular vesicle retina 
+ cell 10:730 
+ mead b Tomarev S 2017 bone marrow-derived mesenchymal stem 
+ cells-derived exosome promote survival retinal ganglion cell 
+ mirna-dependent mechanism stem cell Transl Med 
+ 6:1273 1285 
+ mead b Tomarev S 2020 extracellular vesicle therapy retinal 
+ disease prog Retin Eye Res 79:100849 
+ mead b Amaral J Tomarev S 2018 mesenchymal stem cell-derived 
+ small extracellular vesicle promote neuroprotection rodent model 
+ glaucoma invest Ophthalmol Vis Sci 59:702 714 
+ Mundt S Greter M Becher b 2022 cns mononuclear phagocyte 
+ system health disease neuron 110:3497 3512 
+ Nakano N Ikeda HO Hangai M muraoka y Toda Y Kakizuka Yoshimura 
+ n 2011 longitudinal simultaneous imaging retinal ganglion 
+ cell inner retinal layer mouse model glaucoma induce 
+ n-methyl-d-aspartate invest Ophthalmol Vis Sci 52:8754 8762 
+ Newman NJ yu-wai-man p Biousse V Carelli v 2023 understand 
+ molecular basis pathogenesis hereditary optic neuropathy 
+ improve diagnosis management lancet neurol 22:172- 
+ 188 
+ pan D Chang X Xu M Zhang M Zhang S Wang Y Luo X Xu J Yang X 
+ Sun X 2019 umsc-derived exosome promote retinal ganglion cell 
+ survival rat model optic nerve crush j Chem Neuroanat 96:134- 
+ 139 
+ Ramirez ai de Hoz R salobrar-garcia e salazar jj rojas b Ajoy d lópez- 
+ Cuenca rojas p Triviño Ramírez JM 2017 role microglia 
+ retinal neurodegeneration alzheimer disease Parkinson 
+ glaucoma Aging Neurosci 9:214 
+ Rong R Zhou X Liang g Li H M Liang Z Zeng Z Xiao h Ji D Xia 
+ X 2022 target cell membrane deplete ros dithiane 
+ thioketal-containing polymer pendant cholesterol deliver 
+ necrostatin-1 glaucoma treatment acs nano 16:21225 21239 
+ Schneider Rasband WS eliceiri kw 2012 NIH Image imagej 25 
+ year image analysis nat method 9:671 675 
+ sheller-miller S Trivedi J Yellon SM Menon r 2019 exosome cause 
+ preterm birth mouse evidence paracrine signaling pregnancy 
+ Sci Rep 9:608 
+ Shi Y Wang Y Li Q Liu K Hou J Shao c Wang y 2018 immunoregulatory 
+ mechanism mesenchymal stem stromal cell inflammatory 
+ disease nat rev nephrol 14:493 507 
+ Strnadel J et al. 2018 survival syngeneic allogeneic ipsc-derived 
+ neural precursor spinal grafting minipig Sci Transl Med 
+ 10:eaam6651 
+ Sugimoto N et al. 2022 iplat1 first-in-human clinical trial ipsc- 
+ derive platelet phase 1 autologous transfusion study blood 
+ 140:2398 2402 
+ tian t Cao L c ye Q Liang R W Zhang H Wu J Ye J tannous 
+ BA Gao J 2021 target delivery neural progenitor cell-derived 
+ extracellular vesicle anti-inflammation cerebral ischemia 
+ theranostic 11:6507 6521 
+ Van Gelder RN Chiang MF Dyer MA Greenwell TN Levin LA Wong ro 
+ Svendsen cn 2022 regenerative restorative medicine eye 
+ disease nat Med 28:1149 1156 
+ Wang Z Wiggs JL Aung t Khawaja AP Khor cc 2022a genetic basis 
+ adult onset glaucoma recent advance future direction prog 
+ Retin Eye res 90:101066 
+ Wang ZB Wang ZT Sun Y Tan L yu jt 2022b future stem cell 
+ therapy alzheimer disease ageing res rev 80:101655 
+ Wei X Cho ks Thee EF Jager MJ Chen df 2019 Neuroinflammation 
+ microglia glaucoma time paradigm shift j Neurosci Res 
+ 97:70 76 
+ Xue y Cai X Wang L Liao b Zhang H Shan Y Chen Q zhou t Li X Hou J 
+ Chen S Luo R Qin D Pei d pan g 2013 generate non-integrating 
+ human induced pluripotent stem cell bank urine-derived cell 
+ plos 8:e70573 
+ Yamanaka S 2020 pluripotent stem cell-based cell therapy-promise 
+ challenge cell stem cell 27:523 531 
+ Yokobayashi S Yabuta Y Nakagawa M Okita K Hu b murase y Nakamura 
+ t bourque g Majewski J Yamamoto t Saitou M 2021 inherent 
+ genomic property underlie epigenomic heterogeneity human 
+ induced pluripotent stem cell cell rep 37:109909 
+ yu g Wang LG Han Y qy 2012 clusterprofiler r package 
+ compare biological theme gene cluster omics 16:284 287 
+ Yuan S Stewart KS Yang Y Abdusselamoglu MD Parigi SM Feinberg 
+ ty Tumaneng K Yang H Levorse JM Polak L Ng D Fuchs E 
+ 2022 ras drive malignancy stem cell crosstalk 
+ microenvironment nature 612:555 563 
+ Zhang CL Liu JC zhou wj Yu YZ Tang CC Zou XL Zou YP 2023 
+ protective effect stem cell retinal ganglion cell regeneration 
+ Zhongguo Zuzhi Gongcheng Yanjiu 27:1593 1602 
+ p-reviewer Mansilla c-editor Zhao m s-editor Yu J Li CH 
+ l-editor Yu J Song lp t-editor Jia Y 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc1y0abggqzxdggj2mwlzlei= 06/01/2024 

@@ -1,0 +1,1682 @@
+resource 
+ microglia-astrocyte crosstalk amyloid plaque 
+ niche Alzheimer disease mouse model 
+ reveal spatial transcriptomic 
+ graphical abstract 
+ Highlights 
+ d microglial response plaque consistent 
+ different brain region 
+ d local neighborhood amyloid plaque demonstrate 
+ heterogeneous composition 
+ d astrocyte microglia-dense plaque niche acquire 
+ neurotoxic signature 
+ d activated astrocyte appear disrupt neuronal signaling 
+ Authors 
+ Anna Mallach Magdalena Zielonka 
+ Veerle van Lieshout 
+ I. Lorena Arancibia-Carcamo Mark Fiers 
+ Bart De Strooper 
+ Correspondence 
+ mark.ﬁers@kuleuven.be m.f. 
+ b.strooper@ukdri.ac.uk b.d.s. 
+ brief 
+ Mallach et al. resolve local 
+ environment amyloid pathology 
+ mouse microglia astrocyte 
+ emerge key signaling partner 
+ disease environment interact 
+ microglia neuron 
+ interrogating signaling pathway 
+ study highlight role activate 
+ astrocyte play disrupt neuronal 
+ signaling 
+ Mallach et al. 2024 Cell Reports 43 114216 
+ June 25 2024 ª 2024 publish Elsevier Inc. 
+ https://doi.org/10.1016/j.celrep.2024.114216 
+ ll 
+ Resource 
+ microglia-astrocyte crosstalk amyloid 
+ plaque niche Alzheimer disease mouse 
+ model reveal spatial transcriptomic 
+ Anna Mallach,1,2,3,8 Magdalena Zielonka,3,4,8 Veerle van lieshout,3,4 Yanru An,5 Jia Hui Khoo,5 Marisa vanheusden,3,4,6 
+ wei-ting chen,3,4,6 Daan Moechars,3,4 I. Lorena arancibia-carcamo,1,2 Mark fiers,1,2,3,4,7 Bart De strooper1,2,3,4,9 
+ 1uk Dementia Research Institute UCL University College London London WC1E 6bt UK 
+ 2the Francis Crick Institute London nw1 1at UK 
+ 3department Neurosciences Leuven Brain Institute KU Leuven Leuven Belgium 
+ 4laboratory Research Neurodegenerative Diseases VIB Center Brain Disease Research VIB Leuven Belgium 
+ 5BGI Research 49276 Riga Latvia 
+ 6Discovery Biology Muna Therapeutics Leuven Belgium 
+ 7department Human Genetics KU Leuven Leuven Belgium 
+ 8these author contribute equally 
+ 9lead contact 
+ correspondence mark.ﬁers@kuleuven.be m.f. b.strooper@ukdri.ac.uk b.d.s. 
+ https://doi.org/10.1016/j.celrep.2024.114216 
+ summary 
+ amyloid plaque niche pivotal hallmark alzheimer disease ad employ high-reso- 
+ lution spatial transcriptomic st platform cosmx Spatial enhance Resolution omics-sequencing 
+ stereo-seq characterize transcriptomic alteration cellular composition signaling perturba- 
+ tion amyloid plaque niche ad mouse model discover heterogeneity cellular compo- 
+ sition plaque niche mark increase microglial accumulation proﬁle transcriptomic al- 
+ teration glial cell vicinity plaque conclude microglial response plaque 
+ consistent different brain region astrocytic response heterogeneous 
+ microglial density plaque niche increase astrocyte acquire neurotoxic phenotype 
+ play key role induce gabaergic signaling decrease glutamatergic signaling hippocampal neu- 
+ ron accumulation microglia hippocampal plaque disrupt astrocytic 
+ signaling turn induce imbalance neuronal synaptic signaling 
+ INTRODUCTION 
+ Alzheimer disease ad common form dementia 
+ characterize progressive neurodegeneration spread 
+ brain widespread deposition amyloid-b ab 
+ plaque key neuropathological hallmark disease 
+ recent study ﬁeld elucidate importance 
+ study cellular phase disease.1 change microglia 
+ astrocyte strongly implicate disease pro- 
+ gression disease-associated microglia (dams)2–4 dis- 
+ ease-associated astrocyte (daas)5–7 identiﬁed cell state 
+ strongly associate ad 
+ study interaction cell 
+ spatially relate neuronal dysfunction ad long 
+ limit available technique previously identiﬁed 
+ network co-expressed gene term plaque-induced gene 
+ pig co-localize amyloid plaque con- 
+ nectivity expression level increase increase ab 
+ load AppNL-G-F mice.8 microglial astrocytic nature 
+ pig provide evidence spatially determined multicel- 
+ lular response amyloid stress involve complement sys- 
+ tem oxidative stress inﬂammation identiﬁcation 
+ module 
+ suggest 
+ 
+ 
+ microglia-astrocyte 
+ interaction 
+ strengthen increase plaque load.8 low resolution 
+ spatial transcriptomic st methodology time hin- 
+ dere ability dissect speciﬁc cell-type response 
+ rapid advancement st usher number 
+ platform boast cellular subcellular resolution 
+ order study cellular interaction high-resolution st 
+ reliable cell segmentation ideally base morphology marker 
+ simply nuclear stain important accurately 
+ assign transcript cell decide advantage 
+ cosmx platform large panel 950 gene provide 
+ possibility identify cell type interest 
+ query receptor-ligand rl interactions.9 parallel 
+ test sequencing-based Spatial enhance Resolution 
+ omics-sequencing (stereo-seq)10,11 technique allow 
+ unbiased proﬁling transcriptome albeit cell 
+ segmentation reliant nuclear stain technology 
+ commercially available feasible institute 
+ Cell Reports 43 114216 June 25 2024 ª 2024 publish Elsevier Inc. 
+ 1 
+ open access article cc by-nc-nd license http://creativecommons.org/licenses/by-nc-nd/4.0/ 
+ ll 
+ open access 
+ core facility set ease show 
+ promise previously publish study ﬁeld 
+ brain regeneration11 cancer research.12 
+ study assess insight CosMx 
+ stereo-seq technology shed amyloid plaque 
+ niche explore microglia- astrocyte-driven glial re- 
+ sponse interaction ad model describe 
+ way signaling pathway disrupt vicin- 
+ ity plaques.8 describe heterogeneity plaque 
+ niche demonstrate heterogeneity glial re- 
+ sponse 
+ capture 
+ 
+ 
+ subsequently 
+ inﬂuence 
+ signaling pathway glial neuronal cell local plaque 
+ environment perform relevant analysis demon- 
+ strate cellular resolution provide cosmx essential 
+ identify explore signaling pathway deep 
+ sequencing depth Stereo-seq platform allow vali- 
+ date gene expression change extend analysis bio- 
+ logical pathway fact direct identiﬁcation 
+ cell morphology hamper realization unbi- 
+ ase highly resolve approach discuss short- 
+ coming need consider technol- 
+ ogy study molecular neuropathology ad 
+ result 
+ stereo-seq cosmx experiment coronal 
+ section appnl-g-f mice13 figure 1a 1e coronal 
+ section c57bl/6 wild-type mouse proﬁle 
+ Stereo-seq match brain region mouse model 
+ previous st study.8 
+ cosmx platform analyze datum 
+ 18-month-old appnl-g-f mouse cover hippocampus 
+ adjacent region figure 1a section directly 
+ stain ab monoclonal ab antibody moab-2 fig- 
+ ure 1d stereo-seq obtain adjacent coronal 
+ brain cryosection 10 mm apart 3-month-old 
+ appnl-g-f mouse age-matched control 
+ 18-month-old appnl-g-f mouse age-matched 
+ control Figure 1E outer section stain am- 
+ yloid pathology 6e10 antibody middle 
+ process stereo-seq sequencing sequence 
+ transcript bin 20 3 20 dna nanoball (dnb)10 
+ obtain total 2,425,202 pseudo-cell size 
+ 10 mm width/height ﬁve chip figure s1h 
+ align adjacent section sample annotate 
+ pseudo-cell respective distance near edge 
+ plaque pathology 
+ cell identiﬁcation cosmx use pseudo-cell 
+ Stereo-seq 
+ 37,840 high-quality cell cosmx dataset 
+ able clearly identify major expect cell type 
+ figure 1b s1a note glutamatergic neuron 
+ cluster distinct cluster identiﬁed somatosensory 
+ s1 pyramidal ca1–ca3 ca4 dentate gyrus DG neuron 
+ base spatial distribution tissue Figure 1C 
+ contrast large stereo-seq dataset 
+ able recapitulate distinct cell-type cluster conﬁdently 
+ annotate cell cell type nuclear-staining-based 
+ cell-segmented data10 figure s1f s1 g cell segmenta- 
+ tion particularly complex brain contrast tis- 
+ sue high autoﬂuorescence tissue 
+ complex cell shape lack reliable cell membrane 
+ marker hypothesize effect rna diffusion,10 
+ difﬁculty segmentation prevent genera- 
+ tion clean cell conﬁdently annotate 
+ perform downstream analysis 20 3 20 dnb 
+ binned pseudo-cell indicate figure s1h conﬁrm 
+ bin approach yield biologically relevant information 
+ score stereo-seq pseudo-cells10 expression 
+ pig module gene figure 1f pseudo-cells high pig 
+ expression superimpose plaque staining figure 1 g 
+ conﬁrming generate biological meaningful datum us- 
+ ing Stereo-seq pseudo-cell 
+ amyloid plaque niche 
+ previously show complex global cellular re- 
+ sponse reﬂect astro- microgliosis neuroinﬂamma- 
+ tion amyloid plaque cellular niche.8 cosmx datum re- 
+ veale compare cell type microglia vastly 
+ overrepresente close proximity plaque 10 mm 
+ figure 2a continuous differential expression 
+ conﬁrme gene expression microglial cell 
+ alter depend distance pathology figure 2b 
+ marker gene homeostatic microglia HM cx3cr1 
+ tmem119 downregulate microglia proximity 
+ plaque Figure 2B leave DAM markers,2,3 include 
+ Apoe Lpl trem2 upregulate interestingly daa 
+ genes,5 gfap signiﬁcantly upregulate astro- 
+ cyte approach plaque Figure 2C leave 
+ shift cell state function distance pathology 
+ corroborate stereo-seq dataset correlate mean 
+ pig expression level pseudo-cell distance pla- 
+ que conﬁrme high expression pig module gene 
+ near plaque pathology rs = 0.855 p = 2.22e58 18 month 
+ Figure 2e correlation weak 
+ 3 month rs = 0.122 p = 0.034 figure s1e support 
+ previous ﬁnding pig response age-dependent 
+ response develop time.8 
+ investigate microglia astrocyte display 
+ similar response plaque different brain region 
+ compare response cell plaque 
+ hippocampus cortex find microglial gene 
+ show similar differential expression proﬁle cell ap- 
+ proache plaque regardless brain region Figure 2B right 
+ astrocyte contrast observe broad spread re- 
+ sponse suggest region-speciﬁc aspect astrocytic 
+ response plaque pathology Figure 2C right validate 
+ turn Stereo-seq find microglial DAM 
+ gene consistently similarly upregulate pseudo-cells 
+ proximity plaque independent 
+ located isocortex hippocampus figure 2F rs = 0.817 
+ p < 2.2e16 astrocytic daa gene great regional 
+ variability figure 2 g rs = 0.583 p < 2.2e16 fisher z-test 
+ difference correlation indicate correlation 
+ signiﬁcantly different p = 8e6 astrocytic daa 
+ 2 
+ Cell Reports 43 114216 June 25 2024 
+ Resource 
+ ll 
+ open access 
+ gene increase expression hippocampus close 
+ plaque comparison cortex include itm2b cpe 
+ c1qa hand astrocytic cortical response pla- 
+ que characterize atp1a1 Ckb kcnip4 base 
+ ﬁnding propose region-speciﬁc difference astro- 
+ cyte response plaque previous work show 
+ astrocyte display region-speciﬁc difference expression 
+ levels,15 surprising display re- 
+ gion-speciﬁc response plaque mind 
+ focus subsequent analysis relate astrocyte speciﬁcally 
+ hippocampus 
+ give dual microglial-astrocytic nature pig gene 
+ wonder extent ﬁnd evidence disrup- 
+ tion direct crosstalk glial cell 
+ type proximity plaque pathology seek iden- 
+ tify candidate disrupted pig rl pair microglia 
+ astrocyte 
+ cellphonedb algorithm16 predict 
+ rl pair likely active cell type 
+ speciﬁc focus pair component 
+ signiﬁcantly differentially express respect distance 
+ pathology base public database annotate rl pair 
+ algorithm investigate rl pair cell-type speciﬁc 
+ assign strength candidate pair base 
+ expression receptor ligand.16 predict 
+ rl pair cellphonedb take advantage spatial in- 
+ formation afford cosmx dataset test 1 
+ rl pair co-occur neighborhood 
+ 2 strength co-occurrence compo- 
+ nent change different environment e.g. cell approach 
+ Figure 1 resolve plaque niche 
+ spatial transcriptomic 
+ experimental setup cosmx experiment 
+ hippocampus adjacent cortical region 
+ 
+ coronal 
+ section 
+ 
+ 
+ 18-month-old 
+ appnl-g-f mouse assess plaque 
+ resolve section monoclonal 
+ ab antibody moab-2 
+ b uniform manifold approximation projec- 
+ tion 
+ UMAP show 
+ 37,840 segment 
+ cosmx cell cell unbiasedly cluster 
+ Leiden algorithm annotate 
+ reference 
+ mouse 
+ brain 
+ dataset.14 
+ 
+ gluta- 
+ matergic neuron resolve sub- 
+ cluster annotate accord 
+ spatial location 
+ c spatial localization cell individual 
+ tissue section color Leiden cluster 
+ show b spatially resolve cluster 
+ facilitate annotation glutamatergic 
+ neuron subtype 
+ d zoom-in image segment plaque white 
+ overlay segment cell color Leiden 
+ cluster show b c coor- 
+ dinate space representative plaque high- 
+ light arrow 
+ e schematic experimental setup 
+ stereo-seq experiment coronal sec- 
+ tion 18-month-old APPNL-G-F mouse 
+ coronal section age-matched control 
+ analyze 3-month time point two- 
+ half coronal section analyze 
+ APPNL-G-F mouse two-half coronal section 
+ age-matched control amyloid pathol- 
+ ogy stain 6e10 antibody 
+ adjacent 
+ slide 
+ 
+ align 
+ 
+ 
+ tran- 
+ scriptome Fiji landmark correspon- 
+ dence macro 
+ f pseudo-cells 18-month-old ad 
+ age-matched control hemisphere score 
+ color base relative expression pig 
+ module white low expression pig black 
+ high expression pseudo-cells ad hemisphere marked elevation pig expression score obtain score_gene function 
+ scanpy 
+ g leave representative image segment plaque white 18-month-old appnl-g-f mouse middle pseudo-cell coordinate space 
+ score expression pig module black high expression pig right spatial location select pig module transcript trem2 Hexb 
+ Tyrobp Ctsd lyz2 coordinate space scale bar represent 100 mm e scale bar represent 2 mm cp caudate 
+ putaman opc oligodendrocyte progenitor cell lh lateral habenula cosmx 4 biological replicate Stereo-seq 5 
+ Cell Reports 43 114216 June 25 2024 
+ 3 
+ Resource 
+ ll 
+ open access 
+ Figure 2 cellular response plaque 
+ Histogram show relative cell-type composition cell vary distance plaque resolve cosmx dataset tissue section n = 4 
+ appnl-g-f mouse 
+ b left ma plot show gene differential expression microglial cell respect distance plaque continuous covariate x axis show 
+ mean expression y axis log fold change lfc gene blue line y = 0 represent gene increase expression analyze cell 
+ cell close pathology green line indicate lfc represent doubling gene expression i.e. fc = 2 50 mm 
+ cell get close plaque green line indicate lfc represent halving gene expression 50 mm empirical Bayes 
+ quasi-likelihood f-test qlftest p value adjust benjamini-hochberg correction p.adj < 0.05 signiﬁcantly change gene 
+ label red right quadrant plot compare transcriptomic response microglia plaque pathology isocortex y axis hippocampus x 
+ axis cosmx dataset red gene signiﬁcant comparison gray gene signiﬁcant comparison blue gene signiﬁcant isocortical 
+ microglia green gene signiﬁcant hippocampal microglia empirical Bayes QLFTest p value adjust benjamini- 
+ Hochberg correction p.adj < 0.05 
+ c leave ma plot show gene differential expression astrocyte respect distance plaque continuous covariate x axis show 
+ mean expression y axis lfc gene upregulate cell approach show blue line y = 0 green line indicate lfc 
+ represent doubling gene expression i.e. fc = 2 50 mm cell get close plaque green line represent lfc 
+ represent halving gene expression 50 mm empirical Bayes QLFTest p value adjust benjamini-hochberg 
+ correction p.adj < 0.05 signiﬁcantly change gene label red right quadrant plot compare transcriptomic response astrocyte 
+ legend continue page 
+ 4 
+ Cell Reports 43 114216 June 25 2024 
+ Resource 
+ ll 
+ open access 
+ plaque calculate rl strength individual 
+ cell level receive cell take account 
+ expression level receptor receive cell 
+ average expression ligand send cell 
+ 50 mm radius receive cell schematic fig- 
+ ure 2d leave 
+ apply approach predict rl pair 
+ microglia astrocyte receptor 
+ ligand previously identiﬁed pig.8 da- 
+ taset cellphonedb identiﬁed 130 candidate rl pair 
+ microglia astrocyte 11 pig find 
+ strength identiﬁed pig rl pair signiﬁcantly increase 
+ strength cell approach plaque figure 2d right 
+ microglia approach plaque strength microglia-to-mi- 
+ croglia signaling csf1 csf1r interaction 
+ cd44 Tyrobp interaction strong cd44 
+ Tyrobp marker DAM.3 astrocyte-to-microglia cross- 
+ talk take form astrocytic cd44 clu Apoe interact 
+ microglial Tyrobp trem2 figure 2d Clu Apoe 
+ marker daa.5 cd44 show asso- 
+ ciate daa-like state sample patient ad.17 
+ suggest cell approach plaque development 
+ dam drive astrocytic signal mi- 
+ croglia receive PIG network encapsu- 
+ late signaling pathway microglia astrocyte 
+ limit gene cosmx panel likely 
+ rl pair form pig network 
+ interrogate 
+ cellular effect plaque niche 
+ explore cellular variation different cellular 
+ niche deﬁne plaque niche cell located 
+ 40 mm plaque edge count number cell 
+ area ﬁnd cellular composition niche highly 
+ heterogeneous average cosmx plaque niche repre- 
+ sente Figure 3a contain 3 microglia contain 
+ 11 microglia show Figure s2b 1 astrocyte 
+ maximum max 5 astrocyte 1 oligodendrocyte max 12 oligo- 
+ dendrocyte 1 gabaergic max 12 gabaergic neuron 2 
+ glutamatergic neuron max 24 glutamatergic neuron 
+ amyloid plaque vary size different plaque niche contain 
+ varying total cell count account compare 
+ cell-type density calculate number cell type 
+ divide total number cell present speciﬁc plaque 
+ niche plaque niche uniform manifold approximation 
+ projection umap reﬂective cell-type composition 
+ plaque niche reveal notable heterogeneity respect 
+ relative microglial density cell type 
+ figure 3b s2a 
+ validate heterogeneity stereo-seq ﬁrst 
+ pseudo-bulked transcript fall plaque niche 
+ deﬁne area 40 mm plaque edge 
+ Figure 3a unbiased clustering transcriptome 
+ plaque niche Figure 3f suggest transcriptomic het- 
+ erogeneity plaque niche strongly drive region 
+ deconvolve pseudo-bulked plaque niche transcrip- 
+ tome different cell type cell2location algorithm18 
+ well-established mouse brain reference dataset14 fig- 
+ ure 3 g s2e way obtain predict number 
+ cell type compose microenvironment 
+ plot predict number neuronal subtype tran- 
+ scriptomic UMAP conﬁrme presence region- 
+ speciﬁc neuron drive overall transcriptome plaque 
+ niche figure s2d estimation obtain cell2- 
+ location find plaque heterogeneous 
+ cell-type composition figure 2 g s2e notably microglial 
+ density plaque niche range 4 50 figure 3 g 
+ correspond range 0.3–20 estimate microglial cell 
+ plaque niche figure s2f heterogeneity microglial 
+ density observe analyze brain region fig- 
+ ure 3 g particularly pronounced plaque 
+ 18-month-old mouse figure 3h suggest amyloid pla- 
+ que niche mature time number microglia 
+ increase 
+ assess transcriptome microglia astro- 
+ cyte change depend composition plaque niche 
+ belong cosmx score microglia 
+ expression dam gene find positive correlation be- 
+ tween microglial density plaque niche microglial 
+ DAM score say plaque niche figure 3c perform dif- 
+ ferential expression astrocyte sit plaque niche 
+ respect respective plaque niche microglial density 
+ plaque pathology isocortex y axis hippocampus x axis strong response astrocyte see isocortex red gene signiﬁcant 
+ comparison gray gene signiﬁcant comparison blue gene signiﬁcant cortical astrocyte green gene signiﬁcant hippocampal 
+ astrocyte empirical Bayes QLFTest p value adjust benjamini-hochberg correction p.adj < 0.05 
+ d predict receptor-ligand rl pair microglia astrocyte obtain cellphonedb pair contain pig module gene 
+ extract leave schematic show co-occurrence rl calculate example csf1-csf1r rl pair microglia microglia 
+ expression receptor csf1r draw purple receive cell show black multiply average expression ligand csf1 draw 
+ blue express neighboring send cell red deﬁne sit 50 mm radius receive cell right change rl strength speciﬁc pair 
+ calculate receive cell express receptor approach plaque pearson correlation coefﬁcient r plot plot rl pair 
+ positive correlation indicate increase rl strength cell approach plaque 
+ e mean pig expression level 18-month-old stereo-seq pseudo-cell y axis give distance plaque x axis 100 mm plaque edge 
+ solid line represent ﬁt second-order polynomial equation 95 conﬁdence interval show translucent band pig score increase 
+ pseudo-cells approach plaque spearman correlation coefﬁcient rs respective p value calculate 
+ F quadrant plot show lfc gene pseudo-cell respect distance pathology hippocampus x axis isocortex y axis red dam 
+ marker gene lfc calculate empirical Bayes QLFTest rs value calculate Spearman correlation 
+ g quadrant plot show lfc gene pseudo-cell respect distance pathology hippocampus x axis isocortex y axis green daa 
+ marker gene lfc calculate empirical Bayes QLFTest rs value calculate Spearman correlation iso isocortex hip hippo- 
+ campus p < 0.01 p < 0.001 
+ Cell Reports 43 114216 June 25 2024 
+ 5 
+ Resource 
+ ll 
+ open access 
+ Figure 3 heterogeneity cellular composition amyloid plaque niche 
+ representative diagram highlight average cellular composition plaque niche plaque niche deﬁne circle center equal 
+ plaque niche centroid radius r equal plaque niche radius + 40 mm average amyloid plaque cellular niche compose microglia red 
+ oligodendrocyte orange astrocyte green gabaergic neuron purple glutamatergic neuron blue size different cell type 
+ scale note cellular composition amyloid plaque niche vary strongly discuss text 
+ legend continue page 
+ 6 
+ Cell Reports 43 114216 June 25 2024 
+ Resource 
+ ll 
+ open access 
+ figure 3d likewise see upregulation canonical daa 
+ marker s100b pfkp,19 downregulation ho- 
+ meostatic astrocyte ha gene mfge8.5 mfge8 pre- 
+ viously show able reverse neurotoxic daa-like 
+ phenotype astrocytes.20 conﬁrm trend perform 
+ gene set enrichment analysis GSEA test 
+ enrichment daa i.e. activate neurotoxic astrocytic marker 
+ gene differential expression GSEA reveal signif- 
+ icant enrichment daa highly microglia-dense plaque 
+ niche figure 3e addition change astrocytic cell 
+ state 
+ 
+ 
+ observe 
+ change 
+ 
+ neurotransmitter 
+ transporter decrease slc6a11 expression astro- 
+ cyte sit microglia-dense plaque niche figure 3d 
+ presence extracellular gaba tightly regulate 
+ slc6a11 encode astrocytic gaba transporter gat3 
+ gaba extracellular space 
+ see shift microglial astrocytic cell state 
+ Stereo-seq assess relationship 
+ predict number microglia plaque niche relevant 
+ expression dam hm gene niche figure 3i 
+ see plaque niche microglia high 
+ hm score expect microglia 
+ plaque niche inevitably mean microglial 
+ transcript homeostatic one present plaque 
+ niche fact DAM score increase fast 
+ rate hm score indicate microglia increas- 
+ ingly upregulate dam gene inhabit microglia- 
+ dense niche similarly see increase daa gene 
+ marker gene ha show small decrease figure 3j 
+ support hypothesis base cosmx datum 
+ microglia-dense plaque niche represent se- 
+ vere local plaque environment characterize concurrent 
+ development dam daa 
+ neuronal response glial change amyloid 
+ plaque niche 
+ investigate change plaque severity 
+ correspond effect cell plaque niche 
+ interestingly cosmx dataset astrocyte 
+ participate high number rl pair send 
+ cell figure 4a s3a astrocyte 15–20 rl 
+ pair cell time 
+ send cell 0–5 rl pair share cell 
+ type figure s3a normalize number rl 
+ pair number gene analyze cell type 
+ dramatic increase number rl pair astrocyte 
+ Figure 4a especially striking give 28 
+ analyze 
+ astrocytic 
+ gene 
+ 
+ CosMx 
+ 
+ find 
+ 
+ 
+ cellphonedb database contrast 66 microglial 57 
+ gene CA1–CA3 example combined indicate 
+ importance astrocytic signaling intercellular interac- 
+ tion cell expose local plaque environment 
+ consider differential expression gaba trans- 
+ porter slc6a11 observe astrocyte microglia-dense 
+ plaque niche figure 3d investigate signaling path- 
+ way postulate astrocyte neuron 
+ hippocampus calculate strength co- 
+ occur rl pair discuss show Figure 2d 
+ astrocyte send cell neuronal cell 
+ type receive cell find gaba-signaling 
+ b UMAP n = 619 cosmx plaque niche hippocampal section n = 4 18-month-old appnl-g-f mouse generate base cell-type 
+ density neighborhood plaque point represent plaque niche color estimate microglial density express percentage 
+ total cell count niche plaque niche 5 cell include analysis 
+ c pearson correlation associate p value microglia density plaque niche x axis high microglial DAM score say plaque 
+ niche y axis 
+ d ma plot show differentially express gene astrocyte sit plaque niche respect microglia density say plaque niche 
+ continuous covariate x axis show mean expression y axis lfc signiﬁcantly change gene label red green line indicate 
+ lfc represent doubling gene expression i.e. fc = 2 microglial density plaque niche increase 0 75 green 
+ line indicate lfc represent halving gene expression increase microglial density empirical Bayes QLFTest p 
+ value adjust benjamini-hochberg correction p.adj < 0.05 
+ e differential gene expression analysis d perform gene set enrichment analysis GSEA explore shift astrocytic phenotype 
+ see signiﬁcant positive enrichment daa gene astrocyte sit microglia-dense plaque niche indicate astrocyte adopt daa-like 
+ phenotype plaque niche thick black line indicate run enrichment score fc-ranked gene x axis vertical dot red 
+ line indicate enrichment score peak black vertical tick mark x axis location individual daa gene fc-ranked gene 
+ list p value calculate permutation analysis 
+ F UMAP represent integrated unbiasedly cluster transcriptome n = 4,285 stereo-seq plaque niche 18- 3-month-old appnl-g-f 
+ mouse spatial distribution cluster 3- 18-month-hold hemisphere plaque niche unbiasedly cluster Leiden algorithm 
+ g leave UMAP stereo-seq plaque niche generate base estimate cell-type density calculate cell2location point UMAP 
+ represent plaque niche color estimate microglial density calculate divide number estimate microglia total number estimate 
+ cell plaque niche cell-type density estimate cell2location right UMAP plaque niche belong certain region 
+ certain age color accord estimate microglial density remainder plaque niche show gray 
+ h boxplot compare predict microglial density plaque niche 3-month-old n = 682 niche 18-month-old mouse n = 3,603 niche 
+ box represent quartile dataset middle line indicate median whisker extend low upper limit 
+ distribution exception outlier point mann-whitney u test microglial density predict cell2location 
+ Blue correlation estimate microglial density x axis stereo-seq plaque niche expression level dam marker gene plaque niche 
+ dam score y axis orange correlation estimate microglial density x axis expression level hm marker gene hm score y axis pearson 
+ correlation microglial density estimate cell2location 
+ j Blue correlation estimate microglial density x axis stereo-seq plaque niche expression daa marker gene plaque niche daa 
+ score y axis orange correlation estimate microglial density x axis expression ha marker gene ha score y axis pearson correlation 
+ microglial density estimate cell2location iso isocortex bs brainstem hip hippocampus 3 m 3 month 18 m 18 month p < 0.001 
+ Cell Reports 43 114216 June 25 2024 
+ 7 
+ Resource 
+ ll 
+ open access 
+ Figure 4 cellular interaction plaque niche 
+ number rl pair different cell n = 316 cosmx hippocampal plaque niche predict cellphonedb number predict rl pair 
+ receive cell type express receptor send cell type express ligand divide number gene analyze cell 
+ type cosmx astrocyte high number rl interaction pair cell type 
+ b strength rl pair astrocyte neuron hippocampus signiﬁcant correlation microglial density plaque niche 
+ pearson correlation associate p value plot 
+ c ma plot show gene differential expression ca1–ca3 neuron plaque niche respect microglial density say plaque niche continuous 
+ covariate x axis show mean expression y axis lfc signiﬁcantly change gene label red gene associate gaba 
+ signaling gabrb1 highlight yellow green line indicate lfc represent doubling gene expression i.e. fc = 2 microglial density 
+ plaque niche increase 0 75 green line indicate lfc represent halving gene expression increase 
+ microglial density empirical Bayes QLFTest p value adjust benjamini-hochberg correction p.adj < 0.05 
+ d ma plot show gene differential expression n = 641 18-month-old hippocampal stereo-seq plaque niche pseudo-bulked respect niche 
+ predict microglial density predict cell2location continuous covariate gene upregulate high microglial density show 
+ legend continue page 
+ 8 
+ Cell Reports 43 114216 June 25 2024 
+ Resource 
+ ll 
+ open access 
+ rl pair astrocyte ca1–ca3 ca4 neuron 
+ astrocytic gad1/2 + slc6a11 neuronal gabbr2 increase 
+ strength Figure 4b plaque niche neuron 
+ inhabit densely pack microglia line 
+ find gabrb1 subunit gabaergic type-a 
+ receptor upregulate ca1–ca3 neuron microglia-dense 
+ plaque niche gabrb2 subunit gabaergic 
+ type-b receptor trend signiﬁcance adjust p value = 
+ 0.078 figure 4c 
+ concordance ﬁnding see decrease 
+ strength rl pair link glutamate signaling astrocytic 
+ gls + slc1a3 neuronal grik2 grm8 gria4 ca1–ca3 
+ DG neuron Figure 4b interestingly note 
+ decrease rl pair link gaba signaling DG neuron 
+ astrocytic gad2 + slc6a11 gabbr2 DG indicate 
+ complicated relationship astrocyte DG cell 
+ differential gene expression ca1–ca3 neuron 
+ respect plaque niche microglial density observe upre- 
+ gulation nav3 regulate axon guidance 
+ show upregulate patient ad.21,22 Neurons ex- 
+ press protein demonstrate strong 
+ degenerative morphology.22 hand nos1 encode 
+ neuronal nitric oxide synthase nnos decrease CA1–CA3 
+ neuron figure 4c nnos hippocampal neuron 
+ link long-term potentiation23 act increase gluta- 
+ matergic neurotransmission.24 
+ conﬁrm disruption synaptic signaling identi- 
+ ﬁed cosmx stereo-seq dataset investigate 
+ change transcriptome hippocampal plaque niche 
+ estimate microglial density increase figure 4d see 
+ downregulation term associate synaptic function 
+ like neurotransmitter secretion synapse assembly 
+ microglia-dense plaque niche figure s3b lieu reliable 
+ cell segmentation score pseudo-bulked plaque niche 
+ expression predict rl pair cosmx 
+ cellphonedb analysis separately pair associate 
+ gaba signaling glutamate signaling find 
+ pair link glutamate signaling decrease micro- 
+ glial density increase figure 4e see statisti- 
+ cally signiﬁcant change pair link gaba signaling take 
+ ﬁnding conﬁrme astrocytic signaling 
+ plaque pathology disrupt increase microglial 
+ density turn induce imbalance synaptic signaling 
+ neuron hippocampus 
+ DISCUSSION 
+ study employ novel high-resolution st tech- 
+ nique study local cellular gene expression change 
+ ab plaque mouse model ad assess 
+ regional speciﬁcity microglial astrocytic response pla- 
+ que conﬁrme component previously identiﬁed 
+ pig network represent microglial-astrocytic crosstalk further- 
+ find heterogeneity cellular composition 
+ plaque DAM daa phenotype speciﬁcally devel- 
+ oping microglia-dense plaque notably identiﬁed 
+ astrocyte key hub cellular interaction plaque 
+ niche impair neuronal synaptic functioning increase 
+ gabaergic signaling decrease glutamatergic signaling 
+ know transcriptome glial cell alter 
+ ad pathology characterize previously DAM 
+ daa phenotype develop cell approach 
+ plaques.25 appear microglial response plaque 
+ niche generic response consistent brain re- 
+ gion figure 2B right 2f conﬁrme previous work 
+ dam develop independent hippocampus cortex re- 
+ gion.3 hand astrocyte display heterogeneous 
+ response plaque dependent brain region origin 
+ figure 2C right 2 g study show astro- 
+ cyte display region-speciﬁc difference term 
+ phenotype19 function include calcium signaling.15 
+ furthermore know hippocampal astrocyte 
+ develop pronounced change aging akin develop 
+ daa phenotype compare cortical astrocytes.26 
+ daa signature originally characterize hippocampal as- 
+ trocytes,5 astrocyte region brain 
+ respond differently plaque initial descrip- 
+ tion daa phenotype,5 work expand 
+ nomenclature astrocyte substates.19,27 
+ cell-type-speciﬁc dam daa response 
+ previously find evidence microglial-astrocytic pig 
+ response plaque pathology represent crucial crosstalk be- 
+ tween cell type plaque niche.8,25,28 
+ single-cell resolution cosmx platform 
+ able detail probe candidate rl pair 
+ belong pig network rl pair affect 
+ proximity pathology microglial-microglial csf1 
+ ligand csf1r receptor pair take csf1r 
+ known role microglial proliferation,28 upregula- 
+ tion csf1 microglia approach plaque figure 2b 
+ provide evidence microglia proliferate activate 
+ csf1/ csf1r signaling vicinity plaque 
+ interestingly previously document plaque- 
+ associate microglia speciﬁcally remain insensitive elimina- 
+ tion csf1r inhibitors.29 increase document csf1r 
+ signaling plaque figure 2d potentially 
+ plaque-associated microglia resistant method 
+ inhibition exclude possibility 
+ signaling pathway activate microglia plaque confer 
+ protection csf1r inhibitor 
+ find number disrupt pig rl pair repre- 
+ send astrocyte-to-microglia signaling astrocytic signal 
+ blue line y = 0 signiﬁcantly change gene label red qlftest p value adjust benjamini-hochberg correction 
+ p.adj < 0.05 
+ e base predict rl pair cosmx dataset analyze expression gene link glutamate purple gaba blue signaling 
+ gene show network stereo-seq plaque niche score expression set gene median score plaque 
+ niche y axis give range microglial density x axis plot signiﬁcant decrease glutamate signaling pair increase microglial 
+ density plaque niche pearson correlation 
+ Cell Reports 43 114216 June 25 2024 
+ 9 
+ Resource 
+ ll 
+ open access 
+ cd44 clu Apoe target trem2 signaling pathway 
+ microglia bind trem2 downstream 
+ signaling partner dap12 figure 2d known driver 
+ DAM development.28 line mouse model 
+ Apoe speciﬁcally knock astrocyte microglia 
+ downregulation dam markers.30 note 
+ analysis identify disruption micro- 
+ glia-to-astrocyte pig signaling pair present 
+ cosmx panel cellphonedb database 
+ outright exclude existence pig microglia-to-astrocyte 
+ signaling instead raise interesting possibility 
+ communication microglia astrocyte vicinity 
+ plaque two-way street word activa- 
+ tion dam microglia approach plaque drive 
+ plaque autocrine microglia signaling 
+ signal microglia receive neighbor 
+ astrocyte 
+ find niche increase respective microglial 
+ density process appear happen time fig- 
+ ure 3h microglia astrocyte niche acquire 
+ disease-associated phenotype figure 3C 3e 3i 
+ 3j suggest microglial density proxy 
+ plaque severity correlate 
+ size plaque figure s2c explore pos- 
+ sibility investigate effect plaque severity 
+ cell plaque niche interestingly turn particu- 
+ larly astrocytic microglial signaling cell disrupt 
+ microglia density change plaque niche Figure 4a 
+ align previous ﬁnding activate astrocyte 
+ neurotoxic suggest astrocyte play crucial role 
+ cellular phase ad.6 
+ investigate rl pair astrocyte neuron 
+ hippocampus fact see decrease 
+ slc6a11 encode gaba transporter gat3 astro- 
+ cyte microglia-dense plaque niche figure 3d block 
+ gat3 gaba uptake hippocampal neuron 
+ active show lead hyperpolarization 
+ neuron increase gaba availability.31 downregula- 
+ tion astrocytic slc6a11 high-microglia plaque niche 
+ impair neuronal activity line see 
+ strength co-occurre rl pair astrocyte ex- 
+ pressing gad1/gad2 slc6a11 neuron express 
+ gabbr2 increase Figure 4b microglia-dense plaque 
+ niche astrocyte produce gaba mechanism 
+ include gad1 gad2,32 previous work show 
+ gaba release astrocyte increase model ad.33 
+ gaba release block impairment amelio- 
+ rated.34 CA1–CA3 neuron express range gaba receptor 
+ play important role synaptic plasticity memory 
+ formation.35 level gabaa receptor find 
+ increase ca1 region patient ad.36 
+ see putative downregulation signaling 
+ glutamate figure 4b 4e mediate astrocytic 
+ gls slc1a3 neuronal grik2 grm8 gria4 slc1a3 en- 
+ code glutamate transporter enable clearing extracellular 
+ glutamate downregulation slc1a3 previously find 
+ patient ad ad model particularly pla- 
+ ques,37 knockout gene exacerbated memory deﬁcit 
+ animal model ad.38 gria4 postsynaptic receptor 
+ play important role excitatory synaptic transmission 
+ downregulation transcriptomic proteo- 
+ mic level show patient ad.37,39 furthermore 
+ Stereo-seq statistical power wide 
+ selection gene find neuronal function 
+ regulation membrane potential disrupt plaque 
+ niche microglia figure s3b 
+ previous study show neuronal hyperexcitability 
+ early symptom ad related mouse models,40–42 
+ recent study explore speciﬁc hyperexcitability speciﬁc 
+ subset neuron layer 2–3 cortex human patients.40 
+ contrast propose loss synaptic function 
+ hippocampus drive astrocytic signal analyze 
+ mouse late stage disease miss 
+ preceding hyperexcitability describe publica- 
+ tions,42 region-speciﬁc effect 
+ cortex previously analyzed40 hippocampus 
+ particularly likely show heterogeneous response 
+ astrocyte plaque brain region Figure 2C 
+ Limitations study 
+ Overall novel spatial technique useful 
+ upscale development datum analysis resource 
+ improvement need maximize output 
+ approach new tool analyze downstream signaling 
+ nichenet,43 rl-independent method infer change 
+ transcriptome proximity cell ncem,44 
+ explore cell-cell interaction reliable 
+ cell segmentation remain limitation ﬁeld overall howev- 
+ er demonstrate important prerequi- 
+ site decipher change cellular transcriptome disrupt 
+ rl pair cellular crosstalk cellular phase ad 
+ find ability analyze cosmx dataset 
+ single-cell level vital drive conclusion amy- 
+ loid plaque niche include glial response crosstalk 
+ downstream neuronal response 
+ Stereo-seq dataset prove complementary 
+ validate conclusion demonstrate 
+ lack reliable cell segmentation pose limitation type 
+ analysis conduct method figure s1f 
+ confound factor likely diffusion transcript 
+ conﬁdent address subsequent version 
+ technique updated computational method 
+ believe Stereo-seq prove especially valuable 
+ unbiased proﬁling transcriptome desire 
+ include exploratory analysis focus 
+ broad spatial localization predeﬁne cell type state 
+ strongly distinct transcriptomic proﬁle unbiased nature 
+ provide valuable insight perform differential 
+ expression different condition wide trend 
+ functionally group gene discern howev- 
+ er potential brain research inevitably limit 
+ adequate cell segmentation obtain 
+ note mis-segmentation transcript 
+ appear occur extent cosmx datum especially 
+ highly express transcript example 
+ expect upregulation gfap astrocyte close 
+ 10 
+ Cell Reports 43 114216 June 25 2024 
+ Resource 
+ ll 
+ open access 
+ plaques5,45,46 Figure 2C upregulation gfap 
+ close plaque microglia figure 2b know ex- 
+ press gene furthermore cosmx technique inevitably 
+ limit size gene panel prevent reliably 
+ assigning previously describe cell states.47 
+ propose development daa pathologically 
+ severe plaque niche cause neuronal dysfunction neigh- 
+ boring neuron dysfunction lead decrease ﬁring 
+ hippocampal CA1–CA3 DG ultimately contribute 
+ memory deﬁcit 
+ validate hypothesis astrocyte uptake gaba 
+ test gaba sensor mouse 
+ treat mfg-e8 demonstrate reversal daa 
+ signature.20 experiment serve conﬁrmation 
+ hypoactivity neuron resolve target 
+ astrocytic cell state provide indication 
+ target development daa glial in- 
+ teraction drive daa formation serve potential 
+ therapeutic avenue 
+ conclusion 
+ study characterize cellular transcriptomic 
+ variation local amyloid plaque environment 
+ use novel st method expand previously 
+ deﬁned cell-type signature plaque niche provide 
+ evidence microglial-astrocytic crosstalk microenvi- 
+ ronment notably extend analysis glial cell 
+ type characterize disruptive effect microglial as- 
+ trocytic alteration neuronal synaptic signaling 
+ local amyloid plaque environment propose plaque 
+ pathology mature astrocytic interaction hippocampal 
+ neuron disrupt neuronal signaling increase inhibitory 
+ gabaergic signaling decrease excitatory glutamatergic 
+ signaling present candidate signaling partner 
+ link progression plaque pathology downstream detri- 
+ mental effect neuron parallel present framework 
+ computational approach analytical method 
+ probe high-resolution st dataset 
+ star+methods 
+ detailed method provide online version paper include 
+ follow 
+ d key resources table 
+ d resource availability 
+ b lead contact 
+ b material availability 
+ b Data code availability 
+ d experimental model study participant details 
+ b mouse 
+ d method details 
+ b stereo-seq experimental method 
+ b cosmx experimental method 
+ b ihc staining adjacent section 
+ d quantification STATISTICAL analysis 
+ b stereo-seq datum process 
+ b image-based single cell segmentation 
+ b stereo-seq raw datum process 
+ b transcript visualization 
+ b cosmx datum process 
+ b Unsupervised clustering cell bin 
+ b Amyloid segmentation 
+ b calculation distance plaque 
+ b dimensionality reduction deconvolution stereo-seq plaque 
+ niche 
+ b Plaque niche neighborhood analyse 
+ b gene set score calculation 
+ b differential gene expression analysis de 
+ b gene set enrichment analysis 
+ b receptor-ligand analysis 
+ b cell type reference 
+ supplemental INFORMATION 
+ supplemental information find online https://doi.org/10.1016/j 
+ celrep.2024.114216 
+ acknowledgments 
+ like thank BGI provide access training ste- 
+ reo-seq platform continue collaboration vib technol- 
+ ogy watch member Yu-Chun Wang facilitate collaboration BGI 
+ research like thank NanoString make cosmx experi- 
+ ment possible Technology Access Program Francis Crick 
+ Institute fund experiment thank go Tancredi Massimo 
+ Pentimalli inspire pursue neighborhood analysis present 
+ cosmx analysis work support UK Dementia Research 
+ Institute award number UK dri-1004 receive funding UK 
+ dri Ltd. fund UK Medical Research Council Alzheimer Society 
+ Alzheimer Research UK addition Medical Research Council Pro- 
+ gramme grant mr/y014847/1 award b.d.s. i.l.a.-c. 
+ work fund anonymous foundation grant title applica- 
+ tion spatial transcriptomic single-cell resolution Alzheimer disease 
+ work Leuven laboratory support funding European 
+ Research 
+ Council 
+ erc 
+ 
+ 
+ European 
+ Union 
+ Horizon 
+ 2020 
+ Research Innovation Programme grant agreement no. erc-834682 
+ cellphase_ad work support Flanders Institute 
+ Biotechnology vib vzw Methusalem grant KU Leuven 
+ Flemish Government Fonds voor Wetenschappelijk Onderzoek KU 
+ Leuven Queen Elisabeth Medical Foundation Neurosciences 
+ Opening Future campaign Leuven Universitair Fonds belgian 
+ Alzheimer Research Foundation sao-fra Alzheimer Association 
+ USA b.d.s. hold Bax-Vanluffelen Chair Alzheimer disease 
+ AUTHOR CONTRIBUTIONS 
+ Conceptualization A.M. m.z. M.V. w.-t.c. M.F. i.l.a.-c. b.d.s. 
+ methodology v.v l. Y.A. j.h.k. software m.z. d.m. M.F. valida- 
+ tion A.M. m.z. v.v l. formal analysis a.m. m.z. v.v l. D.M. M.F. 
+ investigation v.v l. Y.A. j.h.k. resource A.M. M.V. w.-t.c. Y.A. 
+ j.h.k. datum curation m.z. M.F. write original draft A.M. m.z. 
+ v.v l. write review editing A.M. m.z. i.l.a.-c. M.F. b.d.s. 
+ visualization A.M. m.z. supervision A.M. M.F. i.l.a.-c. b.d.s. 
+ project administration A.M. M.F. i.l.a.-c. b.d.s. funding acquisition 
+ A.M. i.l.a.-c. b.d.s. 
+ DECLARATION INTERESTS 
+ b.d.s. consultant Eli Lilly Biogen Janssen Pharmaceutica ei- 
+ sai abbvie company consultant muna therapeu- 
+ tic b.d.s. scientiﬁc founder Augustine Therapeutics scientiﬁc 
+ founder stockholder Muna Therapeutics m.f. consultant 
+ Muna Therapeutics Y.A. J.H.K. employee BGI Research 
+ M.V. w.t.-c. employ Muna Therapeutics w.t.-c. 
+ stockholder Muna Therapeutics 
+ Cell Reports 43 114216 June 25 2024 
+ 11 
+ Resource 
+ ll 
+ open access 
+ receive June 20 2023 
+ Revised February 2 2024 
+ Accepted April 25 2024 
+ REFERENCES 
+ 1 De Strooper B. Karran E. 2016 cellular phase Alzheimer 
+ disease cell 164 603–615 https://doi.org/10.1016/j.cell.2015.12.056 
+ 2 keren-shaul H. Spinrad a. Weiner a. matcovitch-natan O. dvir- 
+ Szternfeld R. Ulland T.K. David E. baruch K. Lara-Astaiso D. Toth 
+ B. et al. 2017 unique Microglia Type associate restrict 
+ Development Alzheimer disease cell 169 1276–1290.e17 https:// 
+ doi.org/10.1016/j.cell.2017.05.018 
+ 3 Sala Frigerio C. Wolfs L. Fattorelli N. Thrupp N. Voytyuk I. Schmidt 
+ I. Mancuso R. Chen W.T. Woodbury M.E. Srivastava G. et al. 2019 
+ Major Risk Factors Alzheimer disease Age sex gene 
+ Modulate Microglia Response Ab Plaques cell Rep. 27 1293– 
+ 1306.e6 https://doi.org/10.1016/j.celrep.2019.03.099 
+ 4 butovsky O. Weiner H.L. 2018 microglial signature role 
+ health disease nat Rev. Neurosci 19 622–635 https://doi.org/10 
+ 1038/s41583 018 0057 5 
+ 5 Habib N. McCabe C. Medina S. Varshavsk M. Kitsberg D. dvir- 
+ Szternfeld R. Green G. Dionne D. Nguyen L. Marshall J.L. et al. 
+ 2020 disease-associated astrocyte Alzheimer disease aging 
+ Nat 
+ Neurosci 
+ 23 
+ 701–706 
+ https://doi.org/10.1038/s41593 020- 
+ 06240 8 
+ 6 liddelow S.A. Guttenplan K.A. Clarke L.E. Bennett F.C. Bohlen C.J. 
+ Schirmer L. Bennett M.L. m€ 
+ unch A.E. Chung W.S. Peterson T.C. 
+ et al. 2017 neurotoxic reactive astrocyte induce activate mi- 
+ croglia nature 541 481–487 https://doi.org/10.1038/nature21029 
+ 7 zamanian J.L. Xu L. Foo L.C. Nouri N. Zhou L. Giffard R.G. 
+ Barres 
+ B.A. 
+ 2012 
+ genomic 
+ analysis 
+ 
+ reactive 
+ astrogliosis 
+ J. Neurosci 32 6391–6410 https://doi.org/10.1523/jneurosci.6221- 
+ 11.2012 
+ 8 Chen W.T. Lu a. craessaert K. Pavie B. Sala Frigerio C. Corthout 
+ N. Qian X. Lala 
+ ´ kova 
+ ´ J. k€ 
+ uhnemund M. Voytyuk I. et al. 2020 spatial 
+ Transcriptomics situ sequencing Study Alzheimer disease 
+ cell 182 976–991.e19 https://doi.org/10.1016/j.cell.2020.06.038 
+ 9 S. Bhatt R. Brown C. Brown E.A. Buhr D.L. Chantranuvatana K. 
+ Danaher P. Dunaway D. Garrison R.G. Geiss G. et al. 2022 high- 
+ plex imaging rna protein subcellular resolution ﬁxed tissue 
+ spatial molecular imaging nat biotechnol 40 1794–1806 https:// 
+ doi.org/10.1038/s41587 022 01483-z 
+ 10 Chen a. Liao S. Cheng M. Ma K. Wu L. lai Y. Yang J. Li W. Xu J. 
+ Hao S. et al. 2022 spatiotemporal transcriptomic atla mouse organ- 
+ ogenesis dna nanoball-patterend array cell 185 1777–1792.e21 
+ https://doi.org/10.1101/2021.01.17.427004 
+ 11 wei X. Fu S. Li H. Liu Y. Wang S. Feng W. Yang Y. Liu X. Zeng 
+ Y.-Y. Cheng M. et al. 2022 single-cell stereo-seq reveal induce pro- 
+ genitor cell involve axolotl brain regeneration science 377 
+ eabp9444 https://doi.org/10.1126/science.abp9444 
+ 12 Massimo Pentimalli T. Schallenberg S. Leo 
+ ´ n-perin 
+ ˜ 
+ ´ n D. Theurillat I. 
+ Thomas G. Boltengagen a. Fritzsche S. Nimo J. Ruff L. Dernbach 
+ G. et al. 2023 high-resolution molecular Atlas Lung Tumor 3d 
+ preprint biorxiv https://doi.org/10.1101/2023.05.10.539644 
+ 13 saito T. Matsuba Y. Mihira N. Takano J. Nilsson P. Itohara S. Iwata 
+ N. Saido T.C. 2014 single app knock-in mouse model alz- 
+ heimer disease nat Neurosci 17 661–663 https://doi.org/10.1038/ 
+ nn.3697 
+ 14 yao Z. van Velthoven C.T.J. Nguyen T.N. Goldy J. Sedeno-Cortes 
+ A.E. Baftizadeh F. Bertagnolli D. Casper T. Chiang M. Crichton K. 
+ et al. 2021 taxonomy transcriptomic cell type isocortex 
+ hippocampal formation cell 184 3222–3241.e26 https://doi.org/10 
+ 1016/j.cell.2021.04.021 
+ 15 Batiuk M.Y. Martirosyan a. Wahis J. de Vin F. Marneffe C. kus- 
+ serow C. Koeppen J. Viana J.F. Oliveira J.F. Voet T. et al. 2020 
+ Identiﬁcation 
+ 
+ region-speciﬁc 
+ astrocyte 
+ subtype 
+ 
+ single 
+ cell 
+ resolution nat commun 11 1220 https://doi.org/10.1038/s41467- 
+ 019 14198 8 
+ 16 efremova M. Vento-Tormo M. Teichmann S.A. Vento-Tormo R. 
+ 2020 cellphonedb infer cell cell communication combined 
+ expression multi-subunit ligand receptor complex nat protoc 15 
+ 1484–1506 https://doi.org/10.1038/s41596 020 0292-x 
+ 17 dai D.L. Li M. Lee E.B. 2023 human Alzheimer disease reactive 
+ astrocyte exhibit loss homeostastic gene expression acta neuropa- 
+ thol commun 11 127 https://doi.org/10.1186/s40478 023 01624 8 
+ 18 kleshchevnikov V. Shmatko a. Dann E. Aivazidis a. King H.W. Li 
+ T. Elmentaite R. Lomakin a. Kedlian V. Gayoso a. et al. 2022 
+ cell2location map ﬁne-grained cell type spatial transcriptomic 
+ nat biotechnol 40 661–671 https://doi.org/10.1038/s41587 021- 
+ 01139 4 
+ 19 sadick J.S. o’dea M.R. Hasel P. Dykstra T. faustin a. Lidde- 
+ low S.A. 2022 astrocyte oligodendrocyte undergo subtype-spe- 
+ ciﬁc transcriptional change alzheimer disease neuron 110 1788– 
+ 1805.e10 https://doi.org/10.1016/j.neuron.2022.03.008 
+ 20 xu X. Zhang a. Zhu Y. W. Di W. Fang Y. Shi X. 2018 mfg- 
+ e8 reverse microglial-induced neurotoxic astrocyte a1 nf-kb 
+ pi3k-akt pathway J. Cell physiol 234 904–914 https://doi.org/10 
+ 1002/jcp.26918 
+ 21 
+ ´ bert S.S. Horre 
+ ´ K. Nicolaı 
+ ¨ L. Papadopoulou A.S. mandemaker 
+ W. Silahtaroglu A.N. Kauppinen S. Delacourte a. De Strooper 
+ B. 2008 loss microrna cluster mir-29a/b-1 sporadic Alzheimer 
+ disease correlate increase bace1/b-secretase expression proc 
+ natl acad Sci usa 105 6415–6420 https://doi.org/10.1073/pna 
+ 0710263105 
+ 22 Shioya M. Obayashi S. Tabunoki H. Arima K. Saito Y. Ishida 
+ T. Satoh J. 2010 aberrant microrna expression brain 
+ neurodegenerative disease mir-29a decrease alzheimer 
+ disease brain target neurone navigator 3 neuropathol appl 
+ Neurobiol 36 320–330 https://doi.org/10.1111/j.1365 2990.2010 
+ 01076.x 
+ 23 azargoonjahromi a. 2023 dual Role Nitric Oxide Alzheimer dis- 
+ ease Nitric Oxide https://doi.org/10.1016/j.niox.2023.03 
+ 24 chakroborty S. Kim J. Schneider C. West A.R. Stutzmann G.E. 
+ 2015 nitric oxide signaling recruit compensatory mechanism 
+ 
+ sustaining 
+ synaptic 
+ plasticity 
+ 
+ Alzheimer 
+ disease 
+ mouse 
+ J. Neurosci 35 6893–6902 https://doi.org/10.1523/jneurosci.4002- 
+ 14.2015 
+ 25 Zeng H. Huang J. Zhou H. Meilandt W.J. Dejanovic B. Zhou Y. 
+ Bohlen C.J. Lee s.-h. ren J. Liu A. et al. 2023 integrative situ 
+ mapping single-cell transcriptional state tissue histopathology 
+ Alzheimer disease model nat Neurosci 26 430–446 https://doi 
+ org/10.1101/2022.01.14.476072 
+ 26 Clarke L.E. Liddelow S.A. Chakraborty C. m€ 
+ unch A.E. Heiman M. 
+ barre B.A. 2018 normal aging induce a1-like astrocyte reactivity 
+ Proc natl acad Sci usa 115 e1896–e1905 https://doi.org/10.1073/ 
+ pnas.1800165115 
+ 27 hasel P. Rose i.v.l. Sadick J.S. Kim R.D. Liddelow S.A. 2021 
+ Neuroinﬂammatory astrocyte subtype mouse brain nat Neurosci 
+ 24 1475–1487 https://doi.org/10.1038/s41593 021 00905 6 
+ 28 deczkowska a. keren-shaul H. Weiner a. Colonna M. Schwartz M. 
+ Amit I. 2018 disease-associated Microglia Universal Immune 
+ Sensor Neurodegeneration cell 173 1073–1081 https://doi.org/10 
+ 1016/j.cell.2018.05.003 
+ 12 
+ Cell Reports 43 114216 June 25 2024 
+ Resource 
+ ll 
+ open access 
+ 29 Spangenberg E. Severson P.L. Hohsﬁeld L.A. Crapser J. Zhang J. 
+ Burton E.A. Zhang Y. Spevak W. Lin J. Phan N.Y. et al. 2019 sus- 
+ taine microglial depletion CSF1R inhibitor impair parenchymal pla- 
+ que development Alzheimer disease model nat commun 10 
+ 3758 https://doi.org/10.1038/s41467 019 11674-z 
+ 30 Wang C. Xiong M. Gratuze M. Bao X. Shi Y. Andhey P.S. Manis M. 
+ Schroeder C. Yin Z. Madore C. et al. 2021 selective removal astro- 
+ cytic apoe4 strongly protect tau-mediated neurodegeneration 
+ decrease synaptic phagocytosis microglia neuron 109 1657– 
+ 1674.e7 https://doi.org/10.1016/j.neuron.2021.03.024 
+ 31 kersante 
+ ´ F. Rowley S.C.S. Pavlov I. Gutie 
+ ` rrez-Mecinas M. semya- 
+ nov a. Reul j.m.h.m. Walker M.C. linthorst a.c.e. 2013 func- 
+ tional role g-aminobutyric acid gaba transporter-1 gaba 
+ transporter-3 modulation extracellular gaba gabaergic 
+ tonic conductance rat hippocampus J. Physiol 591 2429–2441 
+ https://doi.org/10.1113/jphysiol.2012.246298 
+ 32 Liu J. Feng X. Wang Y. Xia X. Zheng J.C. 2022 astrocyte ga- 
+ baceptive gabaergic cell Brain Cell Neurosci https:// 
+ doi.org/10.3389/fncel.2022.892497 
+ 33 brawek B. Chesters R. Klement D. m€ 
+ uller J. Lerdkrai C. Hermes M. 
+ Garaschuk O. 2018 bell-shaped dependence amyloid- 
+ osis gaba accumulation astrocyte mouse model alz- 
+ heimer disease neurobiol aging 61 187–197 https://doi.org/10 
+ 1016/j.neurobiolaging.2017.09.028 
+ 34 jo S. Yarishkin O. Hwang Y.J. Chun Y.E. Park M. Woo D.H. Bae 
+ J.Y. Kim T. Lee J. Chun H. et al. 2014 gaba reactive astrocyte 
+ impair memory mouse model alzheimer disease nat med 
+ https://doi.org/10.1038/nm.3639 
+ 35 Magnin E. Francavilla R. Amalyan S. Gervais E. David L.S. Luo X. 
+ Topolnik L. 2019 input-speciﬁc synaptic location function 
+ a5 gaba receptor subunit mouse ca1 hippocampal neuron 
+ J. Neurosci 39 788–801 https://doi.org/10.1523/jneurosci.0567- 
+ 18.2018 
+ 36 kwakowsk a. Calvo-Flores Guzman B. Pandya M. Turner C. waldvo- 
+ gel H.J. Faull R.L. 2018 gabaa receptor subunit expression 
+ change human Alzheimer disease hippocampus subiculum en- 
+ torhinal cortex superior temporal gyrus J. Neurochem 145 https:// 
+ doi.org/10.1111/jnc.14179 
+ 37 Jacob C.P. Koutsilieri E. Bartl J. Neuen-Jacob E. Arzberger T. 
+ Zander N. Ravid R. Roggendorf W. Riederer P. Gr€ 
+ unblatt E. 
+ 2007 alteration expression Glutamatergic Transporters re- 
+ ceptor Sporadic Alzheimer disease J. Alzheimers Dis 11 97–116 
+ https://doi.org/10.3233/jad-2007 11113 
+ 38 mookherjee P. Green P.S. Watson G.S. Marques M.A. Tanaka K. 
+ Meeker K.D. Meabon J.S. Li N. Zhu P. olson V.G. Cook D.G. 
+ 2011 glt-1 loss Accelerates Cognitive Deﬁcit Onset Alzheimer 
+ Disease Animal Model J. Alzheimers Dis 26 447–455 https://doi.org/10 
+ 3233/jad-2011 110503 
+ 39 bereczki E. Branca R.M. Francis P.T. Pereira J.B. Baek j.-h. horto- 
+ bagyi T. Winblad B. Ballard C. Lehtio J. Aarsland D. 2018 
+ synaptic Markers cognitive Decline Neurodegenerative Diseases 
+ Proteomic Approach brain https://doi.org/10.1093/brain/awx360 
+ 40 gazestani V. Kamath T. Nadaf N.M. Dougalis a. Burris S.J. Rooney 
+ B. Junkkari A. Vanderburg C. Pelkonen a. gomez-budia M. et al. 
+ 2023 early Alzheimer disease pathology human cortex involve tran- 
+ sient cell state cell 186 4438–4453.e23 https://doi.org/10.1016/j.cell 
+ 2023.08.005 
+ 41 shah D. Gsell W. Wahis J. Luckett E.S. Jamoulle T. Vermaercke B. 
+ Preman P. moechar D. Hendrickx V. Jaspers T. et al. 2022 
+ astrocyte calcium dysfunction cause early network hyperactivity alz- 
+ heimer disease cell Rep. 40 111280 https://doi.org/10.1016/j.celrep 
+ 2022.111280 
+ 42 Calafate S. o 
+ ¨ zturan G. Thrupp N. Vanderlinden J. santa-marinha L. 
+ Morais-Ribeiro R. Ruggiero a. Bozic I. Rusterholz T. lorente- 
+ Echeverrı 
+ ´ B. et al. 2023 early alteration MCH system link aber- 
+ rant neuronal activity sleep disturbance mouse model alz- 
+ heimer disease nat Neurosci 26 1021–1031 https://doi.org/10 
+ 1038/s41593 023 01325 4 
+ 43 browaey R. Saelens W. Saeys Y. 2020 nichenet model 
+ intercellular communication link ligand target gene nat 
+ method 17 159–162 https://doi.org/10.1038/s41592 019 0667 5 
+ 44 fischer D.S. Schaar A.C. Theis F.J. 2023 model intercellular 
+ communication tissue spatial graph cell nat biotechnol 
+ 41 332–336 https://doi.org/10.1038/s41587 022 01467-z 
+ 45 nagele R.G. d’andrea M.R. Lee H. Venkataraman V. Wang H.Y. 
+ 2003 astrocyte accumulate ab42 rise astrocytic amyloid 
+ plaque alzheimer disease brain brain res 971 197–209 https:// 
+ doi.org/10.1016/s0006 8993(03)02361 8 
+ 46 Srinivasan R. Lu T.Y. Chai H. Xu J. Huang B.S. Golshani P. Cop- 
+ pola G. Khakh B.S. 2016 new transgenic Mouse line selec- 
+ tively target Astrocytes study Calcium Signals Astrocyte Pro- 
+ cesse situ vivo neuron 92 1181–1195 https://doi.org/10 
+ 1016/j.neuron.2016.11.030 
+ 47 mancuso R. Fattorelli N. Martinez-Muriana a. Davis E. Wolfs L. 
+ Van Den Daele J. Geric I. Premereur J. Polanco P. Bijnens B. 
+ et al. 2024 xenografted human microglia display diverse transcrip- 
+ tomic state response alzheimer disease-related amyloid- 
+ b 
+ pathology 
+ Nat 
+ Neurosci 
+ https://doi.org/10.1038/s41593 024- 
+ 01600-y 
+ 48 stringer C. Wang T. Michaelos M. Pachitariu M. 2021 cellpose 
+ generalist algorithm cellular segmentation nat method 18 
+ 100–106 https://doi.org/10.1038/s41592 020 01018-x 
+ 49 schneider C.A. Rasband W.S. Eliceiri K.W. 2012 nih image 
+ ImageJ 25 year image analysis nat method 9 671–675 https:// 
+ doi.org/10.1038/nmeth.2089 
+ 50 dobin a. Davis C.A. Schlesinger F. Drenkow J. Zaleski C. Jha S. 
+ Batut P. Chaisson M. Gingeras T.R. 2013 star ultrafast univer- 
+ sal rna-seq aligner bioinformatic 29 15–21 https://doi.org/10.1093/ 
+ bioinformatics/bts635 
+ 51 van Der Walt S. Scho 
+ ¨ nberger J.L. Nunez-Iglesias J. Boulogne F. 
+ Warner J.D. Yager N. Gouillart E. Yu T. 2014 scikit-image 
+ Image processing python peerj 2014 https://doi.org/10.7717/ 
+ peerj.453 
+ 52 solorzano L. Partel G. wa 
+ ¨ hlby C. 2020 tissuumaps interactive 
+ visualization large-scale spatial gene expression tissue morphology 
+ datum bioinformatic 36 4363–4365 https://doi.org/10.1093/bioinformat- 
+ ics/btaa541 
+ 53 palla G. spitzer H. Klein M. Fischer D. Schaar A.C. Kuemmerle L.B. 
+ Rybakov S. Ibarra I.L. Holmberg O. Virshup I. et al. 2022 squidpy 
+ scalable framework spatial omic analysis nat method 19 171–178 
+ https://doi.org/10.1038/s41592 021 01358 2 
+ 54 Wolf F.A. Angerer P. Theis F.J. 2018 scanpy large-scale sin- 
+ gle-cell gene expression datum analysis genome Biol 19 15 https://doi 
+ org/10.1186/s13059 017 1382 0 
+ 55 bankhead P. Loughrey M.B. Ferna 
+ ´ ndez J.A. Dombrowski Y. McArt 
+ D.G. Dunne P.D. McQuaid S. Gray R.T. Murray L.J. Coleman 
+ H.G. et al. 2017 qupath open source software digital pathology im- 
+ age analysis sci Rep. 7 16878 https://doi.org/10.1038/s41598 017- 
+ 17204 5 
+ 56 Virtanen P. Gommers R. Oliphant T.E. Haberland M. Reddy T. cour- 
+ napeau D. Burovski E. Peterson P. Weckesser W. bright J. et al. 
+ 2020 scipy 1.0 fundamental algorithms scientiﬁc compute py- 
+ thon nat method 17 261–272 https://doi.org/10.1038/s41592 019- 
+ 0686 2 
+ 57 Korsunsky I. Millard N. Fan J. Slowikowski K. Zhang F. Wei K. 
+ Baglaenko Y. Brenner M. Loh P.R. Raychaudhuri S. 2019 
+ Fast sensitive accurate integration single-cell datum Harmony 
+ Cell Reports 43 114216 June 25 2024 
+ 13 
+ Resource 
+ ll 
+ open access 
+ Nat 
+ method 
+ 16 
+ 1289–1296 
+ https://doi.org/10.1038/s41592 019- 
+ 0619 0 
+ 58 robinson M.D. McCarthy D.J. Smyth G.K. 2010 edger bio- 
+ conductor package differential expression analysis digital gene 
+ expression datum bioinformatic 26 139–140 https://doi.org/10.1093/bio- 
+ informatics/btp616 
+ 59 wu T. Hu E. Xu S. Chen M. Guo P. dai Z. Feng T. Zhou L. Tang 
+ W. Zhan L. et al. 2021 clusterproﬁler 4.0 universal enrichment tool 
+ interpret omic datum innovation 2 100141 https://doi.org/10 
+ 1016/j.xinn.2021.100141 
+ 60 lein E.S. Hawrylycz M.J. Ao N. ayre M. Bensinger a. Bernard a. 
+ Boe A.F. Boguski M.S. Brockway K.S. byrne E.J. et al. 2007 
+ genome-wide atla gene expression adult mouse brain nature 
+ 445 168–176 https://doi.org/10.1038/nature05453 
+ 61 wolock S.L. Lopez R. Klein A.M. 2019 scrublet computa- 
+ tional Identiﬁcation Cell Doublets single-cell transcriptomic 
+ Data cell syst 8 281–291.e9 https://doi.org/10.1016/j.cels.2018 
+ 11.005 
+ 62 xie Z. Li X. Mora a. 2023 comparison cell-cell interaction 
+ prediction Tools base scrna-seq Data biomolecule 13 1211 
+ https://doi.org/10.3390/biom13081211 
+ 14 
+ Cell Reports 43 114216 June 25 2024 
+ Resource 
+ ll 
+ open access 
+ star+methods 
+ key resources table 
+ reagent resource 
+ source 
+ identifier 
+ antibody 
+ GFAP 
+ Synaptic Systems 
+ Cat 173004 rrid ab_10641162 
+ moab-2 
+ Abcam 
+ Cat ab126649 rrid ab_3095985 
+ Goat anti-guinea pig Alexa 568 
+ Invitrogen 
+ Cat a11075 rrid ab_2534119 
+ 6e10 conjugate alexa 488 
+ Biolegend 
+ Cat 803013 rrid ab_2564765 
+ chemical peptide recombinant protein 
+ Methanol 
+ Acros Organics 
+ 2170955 
+ ssdna assay kit 
+ Qubit 
+ q10212 
+ DAPI 
+ Sigma 
+ D9542 
+ Paraformaldehyde 
+ Thermo Scientiﬁc 
+ 199077 
+ 5 donkey serum 
+ Jackson Immunolabs 
+ 017 000 121 
+ PBS 
+ Gibco ThermoFisher 
+ 2293633 
+ Triton x- 
+ sigma-aldrich 
+ bccf3162 
+ 1x TrueBlack 
+ Biotium 
+ 23007 
+ Ethanol 
+ Fisher Chemical 
+ 2351404 
+ ssc buffer 
+ sigma-aldrich 
+ slcj5290 
+ Glycerol 
+ Acros Organics 
+ 1528302 
+ critical commercial assay 
+ stereo-seq s1 kit 
+ BGI 
+ 1000028496 
+ stereo-seq gene expression chip 
+ BGI 
+ 1000028497 
+ stereo-seq Library Prep kit 
+ BGI 
+ 1000028498 
+ fresh frozen slide preparation kit 
+ Nanostring 
+ 121500007 
+ cosmx mouse Neuroscience rna Probe 
+ Mix 
+ Nanostring 
+ 121500003 
+ CosMx Mouse Neuroscience Cell 
+ segmentation kit 
+ Nanostring 
+ 121500024 
+ CosMx Mouse Neuroscience Supplemental 
+ segmentation kit 
+ Nanostring 
+ 121500025 
+ deposited datum 
+ Allen brain reference atla 
+ Yao et al. 202114 
+ https://portal.brain-map.org/atlases-and- 
+ data/rnaseq/mouse-whole-cortex-and- 
+ hippocampus-10x 
+ Microglia gene signature 
+ Frigerio et al. 20193 
+ GEO gse127893 
+ astrocyte gene signature 
+ Habib et al. 20205 
+ GEO gse143758 
+ Raw datum count matrix spatial 
+ transcriptomic 
+ paper 
+ GEO GSE263793 
+ experimental model organisms/strain 
+ App NL-G-F 
+ Saito et al. 201413 
+ Available Saido lab 
+ c57bl/6j 
+ Janvier 
+ c57bl/6jrj 
+ Software algorithms 
+ Cellpose 
+ Stringer et al. 202148 
+ github.com/mouseland/cellpose 
+ imagej 
+ NIH49 
+ https://imagej.nih.gov/ij/ 
+ saw pipeline 
+ BGI 
+ github.com/BGIResearch/SAW 
+ STAR 
+ Dobin et al. 201250 
+ github.com/alex 
+ dobin/star 
+ scikit-image 
+ Van der Walt et al. 201451 
+ github.com/scikit-image/scikit-image 
+ Continued page 
+ Cell Reports 43 114216 June 25 2024 
+ 15 
+ Resource 
+ ll 
+ open access 
+ resource availability 
+ Lead contact 
+ information request resource reagent direct fulﬁlle lead contact Professor 
+ Bart De Strooper 
+ material availability 
+ study generate new unique reagent 
+ Data code availability 
+ d spatial datum include imaging raw sequencing expression datum deposit GEO publicly avail- 
+ able date publication accession number list key resource table microscopy image share 
+ lead contact request 
+ d paper report original code 
+ d information request datum analysis datum availability direct fulﬁlle Professor 
+ Mark Fiers additional information require re-analyze datum report paper available request 
+ experimental model study participant DETAILS 
+ Mice 
+ animal experiment conduct line approve protocol Ethical Committee Laboratory Animals KU 
+ Leuven male mouse contain appnl-g-f knock-in mutation13 express app mutation c57bl/6j background 
+ previously show sex difference animal model.3 mouse house ad libitum access food water 
+ 14-h light/10 h dark cycle 21c. appnl-g-f model contain humanize ab sequence swedish nl Arctic 
+ g iberian f mutation show accumulate ab pathology suffer cognitive impairment age 
+ 6 month onwards,13 make relevant model interest local environment plaque spatial transcriptomic 
+ single cell experiment prefer mouse model express app endogenous promoter reduce artifact 
+ cause over-expression off-target processing spatial transcriptomic experiment appnl-g-f mouse wildtype wt con- 
+ trol sacriﬁce 3 month 3 m 18 month 18 m carbon dioxide overdose follow cervical dislocation leave 
+ right hemisphere embed cold oct snap-frozen isopentane chill liquid nitrogen store 80c. 
+ method DETAILS 
+ stereo-seq experimental method 
+ Stereo-seq 10 mm thick tissue section adhere stereo-seq chip incubate 37c 3 min,10 immediately 
+ adjacent slide collect staining section ﬁxe methanol 30 min 20c. section stain 
+ ssdna image obtain nucleus location information tissue section permeabilize 12 min reverse transcrip- 
+ tion perform overnight 42c. afterward tissue digest cdna release chip recover cdna ampli- 
+ ﬁed total 20ng fragment library construction pcr product puriﬁed sequence mgi dnbseq-tx 
+ Continued 
+ REAGENT resource 
+ source 
+ identifier 
+ rearrr 
+ Ludvig R. Olsen 
+ github.com/ludivfolsen/rearrr 
+ stereopy 
+ BGI 
+ github.com/bgiresearch/stereopy 
+ TissUUmaps 
+ Solorzano et al. 202052 
+ github.com/wahlby-lab/tissuumap 
+ squidpy 
+ Palla et al. 202253 
+ github.com/theislab/squidpy 
+ scanpy 
+ Wolf et al. 201854 
+ github.com/scverse/scanpy 
+ QuPath 
+ Bankhead et al. 201755 
+ https://qupath.github.io/ 
+ Scipy 
+ Virtanen et al. 202056 
+ github.com/scipy/scipy 
+ Harmony 
+ Korsunsky et al. 201957 
+ github.com/immunogenomics/harmony 
+ cell2location 
+ Kleshchevnikov et al. 202218 
+ github.com/bayraktarlab/cell2location 
+ EdgeR 
+ Robinson et al. 201058 
+ bioconductor.org/packages/release/bioc/ 
+ html/edger.html 
+ clusterproﬁler 
+ Wu et al. 202159 
+ github.com/yulab-smu/clusterproﬁler 
+ cellphonedb 
+ Efremova et al. 202016 
+ github.com/teichlab/cellphonedb 
+ 16 
+ Cell Reports 43 114216 June 25 2024 
+ Resource 
+ ll 
+ open access 
+ sequencer mixed hemisphere hemisphere wt mouse appnl-g-f mouse pro- 
+ cessed 3 m animal whilst coronal section process 18 m appnl-g-f mouse coronal section 
+ age-matched control 
+ cosmx experimental method 
+ 10 mm thick tissue section collect ﬁxed.9 follow kit target retrieval perform follow tissue digestion 
+ 30 min room temperature situ hybridisation perform rna mouse neuroscience panel include 18s rna 
+ probe antibody morphology stain perform cell segmentation kit dilution 1:25 staining histone glial 
+ ﬁbrillary acidic protein gfap 40,6-diamidino-2-phenylindole dapi addition moab-2 1:25 dilution stain am- 
+ yloid-b information 84 fov fov size 510 mm 3 510 mm analyze datum acquisition decoding 
+ individual transcript segmentation cell base cellpose,48 performed.9 Data acquire coronal section 
+ 18 m hemisphere appnl-g-f mouse 
+ ihc staining adjacent section 
+ Adjacent slide stereo-seq experiment stain standard ihc protocol visualize reactive astrocyte 
+ amyloid-b plaque brief ﬁxation 4 paraformaldehyde 10 min 90 min incubation blocking solution 
+ 5 donkey serum 0.5 Triton x- pbs room temperature tissue section incubate gfap antibody 
+ 1:500 dilution anti-amyloid-b 3–8 6e10 antibody conjugate ﬂuorophore alexa 488 1:200 dilution overnight 4c. 
+ follow day section incubate appropriate secondary antibody goat anti-Guinea Pig Alexa 568 1:200 dilution 
+ 90 min room temperature ﬁve wash step autoﬂuorescence quench treat section 30 s 1x trueblack 
+ solution dilute 70 ethanol afterward section rinse dip slide 20x PBS nucleus visualize incu- 
+ bate section dapi staining 15 min room temperature section rinse ssc buffer 100 ml glycerol 
+ add coverslip apply 
+ 16-bit ﬂuorescent image dapi 6e10 GFAP acquire Zeiss Axioscan z1 slidescanner 20x/0.8 NA air 
+ objective ZEN blue software version 3.1 Carl Zeiss Microscopy gmbh different fov stitch 
+ online stitching conﬁguration software 
+ quantification STATISTICAL analysis 
+ detail number subject sample find result section corresponding ﬁgure legend 
+ appropriate normality assess Shapiro-Wilk test appropriate nonparametric test assump- 
+ tion normality meet correlation analysis pearson correlation state 
+ stereo-seq datum processing 
+ stereo-seq raw datum processing perform publicly available saw pipeline https://github.com/bgiresearch/ 
+ saw).10 fastq ﬁle generate mgi dnbseq-tx sequencer cid sequence 1–25 bp ﬁrst read ﬁrst 
+ map design coordinate situ capture chip allow 1 base mismatch low quality read ﬁltere 
+ retain read align mm10 reference genome star.50 Mapped read mapq > 10 count 
+ annotate corresponding gene umi cid gene locus collapse allow 1 
+ base mismatch result cid-containing expression proﬁle matrix 
+ image-based single cell segmentation 
+ single cell segmentation perform ﬁrst align nucleic acid staining stereo-seq chip apply 
+ watershed algorithm scikit-image package v0.18.1 number marker require watershe algorithm 
+ obtain gaussian-weighted local threshold binarization block size 41 offset 0.003 exact 
+ euclidean distance transformation distance 13 15 background remove image segment cell 
+ umi dnb corresponding segmentation aggregate per-gene sum generate cell gene 
+ matrix centroid cell determine rearrr https://github.com/ludvigolsen/rearrr 
+ stereo-seq raw datum process 
+ gem ﬁle specify x/y coordinate mid count dnb read stereopy read_gem https://github.com/ 
+ bgiresearch/stereopy generate bin20 expression matrix argument bin_size = 20 cell_bin expression matrix 
+ argument bin_type = cell_bin dataset manually align 13 brain region deﬁne Allen Brain Mouse 
+ atlas,60 cell/bin assign region figure s1d cells/bin overlap white matter cerebral nucleus 
+ region remove 13 brain region group 5 coarse region brain stem cortical subplate hippocampus 
+ isocortex olfactory bulb remove low-quality bin bin high low number gene mid mitochondrial 
+ content remove furthermore gene express 0.1 bin give sample remove total 
+ 2,425,202 high-quality bin20s 5 tissue section retain subsequent analysis 
+ Cell Reports 43 114216 June 25 2024 
+ 17 
+ Resource 
+ ll 
+ open access 
+ Transcript visualization 
+ Visualization spatial localization stereo-seq transcript overlay segment plaque image perform 
+ TissUUmaps (v3.0.10).52 brief bin1 gem ﬁle 18 m appnl-g-f mouse upload marker tab 
+ TissUUmaps interface run local server select pig transcript trem2 Hexb Tyrobp Ctsd lyz2 select 
+ visualization corresponding aligned amyloid plaque mask upload Image Layers tab allow overlay 
+ select transcript plaque mask 
+ cosmx datum processing 
+ expression matrix metadata fov ﬁle appnl-g-f tissue section read squidpy read_nano- 
+ string function transcript associate negative probe remove count matrix cell manually assign 
+ regional annotation base visual alignment Allen Brain Mouse Atlas reference figure s1c cell high low 
+ number gene transcript remove order identify likely mis-segmented doublet i.e. cell incorrectly 
+ identiﬁed cell segmentation process scrublet61 run hippocampal section separately cell 
+ assign high doublet probability remove 
+ account potential non-speciﬁc binding probe amyloid plaque analyze expression level 
+ gene include negative probe cell overlap plaque correlate plaque overlap find 
+ particularly negative probe show strong correlation r2 = 0.65 negprb1 r2 = 0.47 negprb7 indicate non-spe- 
+ ciﬁc binding probe arguably gene plaque discard transcript high correlation 
+ negative probe total 56 probe analysis likely candidate nonspeciﬁc binding remove cell 
+ contaminate subclustere microglial cell identiﬁed cluster cell characterize high count 
+ negative probe count remove cluster 141 cell subsequent analysis total 37,840 high-quality cell 
+ tissue section retain subsequent analysis 
+ Unsupervised clustering cell bin 
+ cells/bin pass quality control dataset process scanpy workﬂow raw gene expression 
+ count ﬁrst log-transformed normalize library size normalize_total log1p function subsequently 
+ scale unit variance zero mean scale function principal Component analysis pca perform expres- 
+ sion proﬁle gene cells/bin different stereo-seq chip integrate harmony57 account inter-chip batch 
+ effect ﬁrst 20 pc input dimensionality reduction Uniform Manifold Approximation Projection 
+ UMAP cosmx cell cluster Leiden method resolution 0.45 obtain 15 cluster require inte- 
+ gration figure s1b cluster annotate cell type base relative expression cell type marker gene determine 
+ score_gene function subcluster characterize glutamatergic neuron cluster annotate base 
+ regional spatial distribution 
+ Amyloid segmentation 
+ amyloid-b plaque annotate QuPath software pixel classiﬁcation threshold additional size 
+ threshold 65,000 px discriminate pathology background artiﬁcial staining segmentation manually 
+ check ensure segment plaque high quality segment plaque export imagej convert 
+ binary mask alignment transcriptome 
+ previously describe technique adjacent slide staining align transcriptome stereo-seq chip 
+ selection corresponding landmark staining transcriptome.8 Fiji landmark correspon- 
+ dence plugin staining align overlay transcriptome method follow alignment 
+ Allen Brain Atlas transcriptome allow assignment brain region transcriptome figure s1c s1d 
+ alignment adjacent slide staining segment mask chip sum obtain binary 
+ amyloid segmentation mask chip 
+ calculation distance plaque 
+ distance center bin/cell edge nearest segment plaque calculate Scipy kdtree 
+ package https://github.com/scipy/scipy/blob/main/scipy/spatial/kdtree.py 
+ dimensionality reduction deconvolution stereo-seq plaque niche 
+ transcriptomic proﬁle plaque niche stereo-seq dataset acquire pseudo-bulking transcript iden- 
+ tiﬁed 40 mm 80 pixel edge plaque inclusive overlay plaque processing pseudobulke 
+ niche perform scanpy plaque niche 10 transcript lowly express gene discard 
+ analysis result total n = 4,285 analyze plaque niche resultant expression matrix log-normalized 
+ scale factor 10,000 total transcript count regress principal Component analysis pca perform 
+ niche integrate sample harmony.57 ﬁrst 10 principal component construct UMAP 
+ resolution 0.3 cluster niche cell2location infer cellular composition 
+ 18 
+ Cell Reports 43 114216 June 25 2024 
+ Resource 
+ ll 
+ open access 
+ pseudo-bulked plaque niche scrna-seq dataset Allen Brain Mouse atlas14 reference dataset single- 
+ cell reference dataset ﬁrst ﬁltere ﬁlter_gene parameter cell_count_cutoff = 5 cell_percentage_cutoff2 = 0.03 
+ nonz_mean_cutoff = 1.12 regression model reference datum initialize default setting model 
+ train maximum 1,000 epochs reference spatial dataset ﬁltere shared gene inferred reference 
+ cell type signature spatial cell-type mapping hyperparameter n_cells_per_location = 30 detec- 
+ tion_alpha = 15 cell2location model train datum 15,000 epochs cell abundance estimation 
+ extract 
+ plaque niche neighborhood analyse 
+ Plaque x cell type density matrix create counting plaque number give cell type lie 40 mm 
+ distance 80 pixel Stereo-seq 240 pixel cosmx plaque edge divide number total number cell 
+ radius case cosmx dataset segment cell count take plaque consideration con- 
+ taine 5 cell stereo-seq cell type composition infer cell2location resultant matrix 
+ dimensionality reduction scanpy sc.tl.pca sc.pp.neighbor sc.tl.umap function 
+ gene set score calculation 
+ obtain gene set score plaque niche cell stereo-seq cosmx respectively pn cell log-normalized 
+ scale factor 10,000 score relative expression relevant gene set i.e. dam marker gene hm marker genes,3 
+ daa marker homeostatic astrocyte markers5 scanpy score_gene function dam score cosmx plaque 
+ niche take max dam score microglia give plaque niche 
+ differential gene expression analysis de 
+ de analysis conduct ﬁtte generalized linear model glm distance plaque pathology plaque niche 
+ microglial density continuous covariate interest allow capture extent change limit 
+ analysis speciﬁc binary comparison require arbitrary cut-off cell 10 mm pathology comparison 
+ cell away glm model test de edger quasi-likelihood f-test qlftest account 
+ uncertainty dispersion estimation de respect distance pathology perform respect log1p(d 
+ d distance cell/bin centroid plaque centroid cosmx stereo-seq model repre- 
+ sent transcriptional change cell/bin near plaque microglial density model represent transcriptional change 
+ gene expression additional microglial density cell respective plaque niche multiplicity correction perform 
+ apply benjamini-hochberg bh method associate p-value signiﬁcance threshold p.adj < 0.05 
+ de de cosmx dataset perform individual cell cell-type basis limit analysis cell 
+ type marker give cell type cell type marker obtain run differential expression cluster i.e. 
+ cell type scanpy rank_genes_group function ﬁltere gene signiﬁcantly differentially express 
+ p.adj > 0.05 log2fc > 0.5 
+ gene set enrichment analysis 
+ Gene set enrichment analysis GSEA perform r clusterproﬁler package,59 log2 fold change value gene 
+ rank associate p-value calculate base permutation-generated null distribution reﬂect probability un- 
+ der null distribution obtain enrichment score value strong observe random permutation 
+ receptor-ligand analysis 
+ analyze rl pair microglia astrocyte approach plaque run CellPhoneDB,16 high spec- 
+ iﬁcity precision compare algorithms.62 run algorithm hippocampal cell cpdb_degs_analysis_- 
+ method limit predict rl pair gene differentially express regard distance plaque 
+ Methods differential gene expression analysis gene express 10 cell give cell 
+ type identiﬁed rl pair limit pair contain gene previously identiﬁed pig analyze 
+ change plaque niche regard microglial density follow similar approach analyze cell present 
+ hippocampal plaque niche limit rl pair pair partner predict differentially express 
+ cell type regard microglial density plaque niche 
+ number rl pair combination cell type generate count number signiﬁcant rl pair 
+ second step normalize total number gene differential gene expression perform 
+ co-occurrence analysis take signiﬁcant rl pair generate cellphonedb analyze single-cell 
+ level receive cell give cell type multiply log-normalized expression receptor average 
+ log-normalized expression ligand express cell corresponding send cell type 50 mm radius 416.5 pixel 
+ limit analysis rl pair spatially co-occur require 10 receiver cell express 
+ receptor expose neighboring ligand condition meet exclude rl pair downstream 
+ analysis 
+ Cell Reports 43 114216 June 25 2024 
+ 19 
+ Resource 
+ ll 
+ open access 
+ cell type reference 
+ 2020 10x Genomics scrna-seq dataset mouse cortex hippocampus download Allen 
+ Brain Atlas Institute webpage analysis subset datum generate include region annotate rsp 
+ tea-peri-ect aca ai sss-gu-visc-aip aud MOp mos_frp pl-ila-orb PTLp SSp VIS VISl VISm 
+ VISp HIP remain cell randomly sample retain 12.5 cell 131,169 total cell wilcoxon rank-sum 
+ test multiplicity correction benjamini-hochberg bh method obtain 200 marker annotate 
+ cell type glutamatergic neuron gabaergic neuron microglia astrocyte endothelial oligodendrocyte 
+ 20 
+ Cell Reports 43 114216 June 25 2024 
+ Resource 
+ ll 
+ open access 

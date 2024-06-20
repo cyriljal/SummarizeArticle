@@ -1,0 +1,1848 @@
+424   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ Abstract  
+ Alzheimer disease debilitating progressive neurodegenerative disorder characterize 
+ progressive accumulation abnormal protein include amyloid plaque 
+ intracellular tau tangle primarily brain lysosome crucial intracellular 
+ organelle responsible protein degradation play key role maintain cellular 
+ homeostasis study suggest link dysregulation 
+ lysosomal system pathogenesis neurodegenerative disease include Alzheimer 
+ disease restore normal physiological function lysosome hold potential 
+ reduce pathological burden improve symptom Alzheimer disease 
+ currently efficacy drug treat Alzheimer disease limit major 
+ challenge drug delivery efficiency targeting recently nanomaterial gain 
+ widespread use Alzheimer disease drug research owe favorable physical 
+ chemical property review aim provide comprehensive overview recent 
+ advance nanomaterial polymeric nanomaterial nanoemulsion carbon- 
+ base nanomaterial enhance lysosomal function treat Alzheimer disease 
+ review explore new concept potential therapeutic strategy Alzheimer 
+ disease integration nanomaterial modulation lysosomal function 
+ conclusion review emphasize potential nanomaterial modulate lysosomal 
+ function improve pathological feature alzheimer disease application 
+ nanotechnology development alzheimer disease drug bring new idea 
+ approach future treatment disease 
+ Key Words alzheimer disease autophagy dysfunction lysosomal acidification lysosomal 
+ system nanomaterial neurodegenerative disease 
+ Introduction 
+ Alzheimer disease ad common form dementia 
+ old individual currently mainstay ad treatment 
+ involve medication target cholinergic glutamatergic 
+ neurotransmission central nervous system 
+ crucial note treatment provide symptomatic 
+ relief cure underlying cause ad remain 
+ unclear characterize accumulation 
+ amyloid-β aβ plaque formation neurofibrillary tangle 
+ result tau protein hyperphosphorylation twarowski 
+ Herbet 2023 lysosome responsible remove abnormal 
+ protein believe play central role development 
+ neurodegenerative disorder ad Parkinson disease 
+ pd tow impaired lysosomal activity Van Acker et 
+ al. 2019 recent research reveal decline autophagy 
+ function individual ad occur prior 
+ initial accumulation aβ plaque neuronal cell 
+ study show observe aβ plaque brain 
+ result neuronal death cause accumulation 
+ dysfunctional autophagosome condition autophagic 
+ stress Lee et al. 2022 finding provide novel avenue 
+ pharmacological investigation context ad 
+ lysosomal system function primary conduit 
+ degradation biological macromolecule 
+ protein lipid nucleic acid polysaccharide related 
+ compound Wang et al. 2018 Chen et al. 2022 cellular 
+ composition encompass diverse array hydrolytic enzyme 
+ crucial uphold structural integrity protein 
+ macromolecule cellular milieu system comprise 
+ early intranucleosome late intranucleosome circulate 
+ intranucleosome lysosome lai et al. 2021 typical 
+ circumstance constituent function facilitate 
+ efficient breakdown macromolecule particularly protein 
+ pathogenesis ad involve multiple abnormality 
+ 1department Neurology Second affiliated Hospital Naval Medical University Shanghai Changzheng Hospital Shanghai China 2school Health Science 
+ Engineering University Shanghai Science Technology Shanghai China 3Changhai Clinical Research Unit Shanghai Changhai Hospital Naval 
+ Medical University Shanghai China 4department Clinical Pharmacy Xinhua Hospital Shanghai Jiao Tong University School Medicine Shanghai China 
+ 5department Neurology Shanghai East Hospital School Medicine Tongji University Shanghai China 
+ Correspondence Yin phd yinyou179@163.com Jie Gao phd jmsx2021@shu.edu.cn Yan Liu phd liuyan@shsmu.edu.cn 
+ https://orcid.org/0000 0001 9657 9720 Yin 
+ author contribute equally work 
+ Funding work support Natural Science Foundation Shanghai No. 22zr147750 science Technology Innovation Action Plan Shanghai 
+ Science Technology Commission No. 23y11906600 Shanghai Changzheng Hospital Innovative Clinical Research Project no. 2020YLCYJ-Y02 yy 
+ cite article Hao M Chu J Zhang T Yin t Gu Y Liang W Ji W Zhuang J Liu Y Gao J Yin y 2025 nanomaterials-mediated lysosomal regulation 
+ robust protein-clearance approach treatment alzheimer disease neural Regen Res 20(2):424 439 
+ Contents 
+ Introduction 
+ 424 
+ Retrieval Strategy 
+ 425 
+ Alzheimer disease lysosomal Dysfunctions 
+ Pathogenesis therapeutic intervention 
+ 425 
+ nanomaterial target Lysosomal Strategies 
+ 427 
+ downstream Changes target lysosomal Therapy 
+ 432 
+ Conclusion Outlook 
+ 434 
+ nanomaterials-mediated lysosomal regulation 
+ robust protein-clearance approach treatment 
+ Alzheimer disease 
+ https://doi.org/10.4103/NRR.NRR-D-23 01736 
+ Date submission October 22 2023 
+ Date decision January 4 2024 
+ Date acceptance February 20 2024 
+ Date web publication April 3 2024 
+ Mengqi hao1 2 jianjian chu1 Tinglin zhang3 Tong Yin1 Yuankai gu1 Wendanqi liang1 2 Wenbo Ji1 Jianhua zhuang1 
+ Yan liu4 Jie gao3 yin1 5 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜425 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ lysosomal system dramatic impact onset 
+ progression ad Whyte et al. 2017 Klein Hermey 
+ 2023 consequently understand role lysosome 
+ pathogenesis ad essential therapeutic intervention ad 
+ nanomaterial entity dimension measure < 100 nm 
+ find extensive application treatment ad owe 
+ exceptional surface impact durability Bukhari 2022 
+ subset nanomaterial ability selectively aggregate 
+ lysosome facilitate repair lysosomal damage 
+ restoration optimal lysosomal ph lo Zeng 2023 
+ nanomaterial hold promise treat ad capacity 
+ degrade pathogenic protein decrease neuroinflammation 
+ potential therapeutic effect Unnisa et al. 2023 
+ term target lysosomal therapy ad certain 
+ review explore advancement utilize 
+ small-molecule drug good knowledge 
+ currently all-encompassing methodical compilation 
+ nanomaterial target lysosomal system 
+ comprehensive review classification underlie 
+ mechanism action important provide 
+ comprehensive overview encompass advancement 
+ challenge encounter field nanomaterial 
+ article aim present comprehensive analysis 
+ nanomaterial specifically design target lysosome 
+ type nanomaterial document scientific 
+ literature potential candidate target lysosome 
+ management ad nanomaterial include polymeric 
+ nanomaterial carbon-based nanomaterial nanoemulsion 
+ ne possess ability traverse blood brain 
+ barrier bbb subsequently restore lysosomal functionality 
+ inside cell discourse examine correlation 
+ lysosome-associated damage progression 
+ ad provide overview circumstance 
+ lysosomal injury contribute development 
+ disease additionally focus advancement 
+ utilization nanomaterial specifically target lysosome 
+ treatment management neurodegenerative disorder 
+ include ad figure 1 furthermore propose 
+ approach utilize nanomaterial management ad 
+ technique include removal pathogenic protein 
+ suppression neuroinflammation preservation neuronal 
+ function section discuss challenge 
+ potential prospect associate utilization lysosome- 
+ target nanomaterial management ad 
+ Retrieval Strategy 
+ 1 2023 September 30 2023 search 
+ relevant literature pubmed database search subject 
+ term include following Alzheimer disease lysosome 
+ neurodegenerative disease nanomaterial blood- 
+ brain barrier neuroprotection neuroinflammation 
+ combination search term 
+ comprehensively review literature article related ad 
+ lysosome nanomaterial screen title 
+ abstract access alzforum https://www.alzforum 
+ org/ identify ongoing clinical trial anti-inflammatory 
+ treatment ad 
+ Alzheimer disease lysosomal Dysfunctions 
+ Pathogenesis therapeutic Interventions 
+ Neurodegenerative malady commonly characterize 
+ accumulation misfolde protein degeneration 
+ neuron specific area brain Autophagy 
+ cellular mechanism responsible destruction 
+ macromolecule cell serve crucial channel 
+ elimination faulty protein organelle particularly 
+ nervous system mammal Malampati et al. 2020 
+ process involve sequestration protein damage 
+ organelle lysosome rely heavily proper 
+ functioning lysosome Krishnan et al. 2020 shojaei et al. 
+ 2020a b lysosome play vital role intracellular organelle 
+ contain 60 proteolytic enzyme responsible 
+ degradation protein nucleic acid endogenous 
+ foreign biomolecule Chen et al. 2022 essential 
+ maintain intracellular protein homeostasis stability 
+ serve primary intracellular digestive compartment 
+ growing evidence suggest lysosomal dysfunction play 
+ crucial role development progression ad Van 
+ Acker et al. 2021 Li et al. 2022 Udayar et al. 2022 
+ figure 1 ｜nanomaterial 
+ synthesis delivery 
+ targeting lysosome 
+ nanomaterial treatment 
+ ad involve treating 
+ inject nanomaterial 
+ body access ad-affected 
+ area brain 
+ BBB inside cell 
+ nanomaterial reach 
+ lysosome restore 
+ normal lysosomal function 
+ enhance cellular autophagy 
+ facilitate removal 
+ pathological protein create 
+ biorender.com ad 
+ Alzheimer disease bbb blood– 
+ brain barrier sirna small 
+ interfering rna 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ 426   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ Dysfunction lysosome 
+ Lysosomes acidic organelle contain enzyme 
+ hydrolyze digest macromolecule intracellularly 
+ play critical role cellular function koh et al. 2019 
+ tian et al. 2022 lysosomal acidification crucial proper 
+ functioning enzyme regulate acidity lysosome 
+ involve coordinate activity multiple ion channel 
+ particular emphasis vacuolar atpase v-atp Root 
+ et al. 2021 macromolecular complex actively transport 
+ proton h+ lysosome lower ph lysosomal 
+ lumen need acidic level acidic environment 
+ essential activation numerous hydrolytic enzyme 
+ lysosome optimize efficiency ph- 
+ dependent mechanism Colacurcio Nixon 2016 ph 
+ lysosomal lumen maintain range 6.5–4.5 
+ contrast normal cytoplasmic ph range 
+ 7.2 7.4 atp-dependent proton pump located 
+ lysosomal membrane responsible maintain ph 
+ lysosomal lumen Hu et al. 2022 malfunctioning 
+ v-atp complex lead impaired lysosomal acidification 
+ affect function lysosomal tissue phosphatase McGuire 
+ et al. 2017 result abnormal protein accumulation severe 
+ neuronal complication lipid oxidation reactive oxygen specie 
+ formation Lee et al. 2010 impaired substrate digestion 
+ contribute development neurodegenerative disease 
+ related study ad propose presenilin 
+ 1 psen1 knockout mouse exhibit reduce expression 
+ v-atpase subunit v0a1 defective v-atpase enzyme lead 
+ lysosomal alkalinization increase ca2 + release Lee et 
+ al. 2010 2015 Filadi Pizzo 2019 study show 
+ presenilin 1 ps1 presenilin 2 ps2 double knockout 
+ cell reduce ca2 + level affect lysosome-autophagosome 
+ fusion Coen et al. 2012 additionally Mustaly-Kalimi et al. 
+ find dysregulation intracellular ryanodine receptor- 
+ ca2 + homeostasis lead impaired lysosomal deacidification 
+ protein clearance Mustaly-Kalimi et al. 2022 result 
+ suggest ca2 + dysregulation strongly associate ad 
+ Lysosomes contain diverse range enzyme hydrolyze 
+ protein substrate effectiveness 
+ protease compromise cellular stressor 
+ endoplasmic reticulum stress oxidative stress lead 
+ impaired lysosomal degradation process colacurcio et 
+ al. 2018 mutation cathepsin b cstb gene 
+ potential disrupt protein cleavage lysosome 
+ cathepsin group enzyme responsible protein 
+ degradation lysosome abnormality cstb gene 
+ result excessive secretion cystatin b inhibit cathepsin 
+ activity impair hydrolytic clearance protein 
+ lysosome result significant accumulation aβ 
+ lysosome lead buildup intralysosomal aβ 
+ deposition aβ extracellularly Yang et al. 2011 lai et al. 2021 
+ cstb gene responsible store cystatin b lysosomal 
+ cysteine protease inhibitor cathepsin impair 
+ lysosomal function contribute development ad 
+ accordance requirement β-site amyloid-β a4 
+ precursor protein-cleaving enzyme 1 bace1 locus lysosome 
+ contain enzyme regulate promote amyloidogenic 
+ process membrane type 1 matrix metalloproteinase Van 
+ Acker et al. 2021 membrane type 1 matrix metalloproteinase 
+ located upstream bace1 locus accelerate cleavage 
+ bace1 promote amyloidogenic protein production Liao 
+ Van Nostrand 2010 lysosomal enzyme play 
+ instrumental role pathogenesis amyloidosis 
+ Lysosomes production Aβ 
+ Aβ deposition entail core ad pathophysiology research 
+ indicate formation Aβ result cleavage 
+ amyloid precursor protein app certain enzyme 
+ split neuron neurogenesis synaptic function apoptosis 
+ cell proliferation multiple event app 
+ implicate Milosch et al. 2014 Fanutza et al. 2015 Cho et al. 
+ 2022 similar functional protein human body 
+ APP undergo swift synthesis cycle endoplasmic 
+ reticulum synthesis app promptly encounter conveyance 
+ Golgi apparatus cellular organelle responsible 
+ encapsulation vesicle synthesize app follow 
+ separate processing pathway non-amyloidogenic 
+ pathway amyloidogenic pathway Wang et al. 2017 
+ amyloidosis pathway app undergo initial cleavage 
+ β-secretase know bace1 lead formation 
+ type app β-c-terminal fragment app-βctf intermediate 
+ byproduct cleave γ-secretase lead 
+ increase aβ level Salminen et al. 2013 study reveal 
+ app-βctf pathologically activate rab5 binding 
+ adaptor protein contain pleckstrin homology domain 
+ phosphotyrosine binding domain leucine zipper motif 
+ appl1 early endosome Colacurcio et al. 2018 rab5 
+ pathologically activate amyloidogenic pathway promote 
+ early endosomal processing app lead increase 
+ aβ production contribute ad 
+ furthermore deletion sortilin-related receptor 1 sorl1 
+ gene show impair lysosomal function sorl1 
+ gene encode regulator involve protein transport 
+ trans-golgi network endosome include app Andersen 
+ et al. 2016 sorl1 gene absent neuronal 
+ lysosomal ctsd activity significantly reduce lysosomal 
+ clearance impaired autophagic vesicle accumulate app 
+ translocate region endocytosis favorable 
+ aβ production lead increase aβ production Dodson et 
+ al. 2008 Hung Livesey 2021 Hung et al. 2021 
+ reduce degradation aβ lysosome exacerbate 
+ aβ accumulation caglayan et al. 2014 additional study 
+ Sannerud et al. 2016 propose psen2/γ-secretase 
+ mainly restricted late endosomes/lysosome important 
+ establishment intracellular aβ pool familial 
+ ad-presenilin 2 fad-psen2 mutation significantly increase 
+ ratio intracellular aβ42/40 reveal important role 
+ specific intracellular localized response pathogenesis 
+ ad mutation app gene chr21 genetic 
+ feature ad Li et al. 2021 50 highly pervasive 
+ synapsis chr21 app susceptible 
+ cleavage produce neurotoxic aβ1–42 accelerate 
+ progression ad Cacace et al. 2016 reduce app 
+ protein alleviate neuronal endolysosomal dysfunction cause 
+ sorl1 deficiency suggest app play role 
+ regulate endolysosomal system Hung et al. 2021 aβ 
+ theory widely recognize pathogenesis ad 
+ understanding aβ production crucial development 
+ therapeutic approach ad selkoe Hardy 2016 
+ Lysosomes accumulation tau 
+ tau protein aggregated form substrate 
+ lysosomal degradation Polito et al. 2014 impaired 
+ lysosomal function contribute accumulation 
+ misfolded/aggregated tau xu et al. 2021 suggest 
+ lysosomal dysfunction accelerate accumulation 
+ tau protein ad trigger release lysosomal calcium 
+ turn promote pathological change tau protein Rao 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜427 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ et al. 2014 lead formation neurofibrillary tangle 
+ furthermore lysosome biogenesis regulate transcription 
+ factor eb tfeb Xue et al. 2023 recent evidence suggest 
+ tfeb facilitate clearance pathogenic protein 
+ associate ad regulate cytoplasmic distribution 
+ nuclear translocation lysosome Li et al. 2022 notably 
+ retromer critical maintain lysosomal function 
+ tau protein clearance retromer multimodular protein 
+ assembly vacuolar protein sorting-associated protein 
+ 35 vps35 backbone molecule retrotransporter 
+ complex scaffold retrotransporter complex 
+ module receptor binding small Petsko 2015 
+ show lysosomal degradation reduce vps35 
+ knockout hela cell lysosomal targeting vitro activity 
+ β-galactosidase decrease Cui et al. 2019 autophagic 
+ flux notably reduce vps35-deficient cell 
+ impaired lysosomal protein hydrolysis increase 
+ microtubule-associated protein tau (mapt)/tau aggregation 
+ Carosi et al. 2021 addition tfeb remove 
+ mapt autophagy/lysosomal system remodeling 
+ chaperone-mediated autophagy Binder et al. 2020 Gorantla 
+ Chinnathambi 2021 addition above-mentioned 
+ tau-related specie app closely associate tau 
+ pathology ad Dave et al. 2023 increase app lead 
+ tau mislocalization accumulation mislocalize tau 
+ protein form protofibrillar seed multiplie result 
+ vicious cycle accumulation tau protein suggest 
+ excess app ad brain correlate tau pathology ad 
+ Kametani Hasegawa 2018 Dave et al. 2023 
+ potential therapeutic approach ad involve strategy 
+ restore enhance lysosomal function efficacy 
+ current drug limit BBB lack 
+ specific targeting capability nanodose enable site-specific 
+ delivery improve drug solubility Hettiarachchi et al. 2019 
+ enhance therapeutic efficacy target lysosome 
+ nanomaterial target Lysosomal Strategies 
+ Nanomaterials create new wave medical field 
+ offer new hope patient ad suffer 
+ challenging disease distinct characteristic e.g. small size 
+ high targeting preferred recipient target- 
+ drug delivery precise treatment diseased area brain 
+ section outline current strategy nanomaterial 
+ targeting lysosome 
+ nanomaterial modify lysosomal fiber inspire 
+ potent utility investigation cure debilitate neural 
+ degenerative disorder depend carrier material 
+ nano-drug delivery system broadly classify 
+ category organic inorganic nanomaterial link 
+ biomolecule ligand specific targeting figure 2 
+ Karthivashan et al. 2018 Gupta et al. 2019 summary 
+ focus development nanomaterial target 
+ lysosome treatment ad table 1 provide overview 
+ application different nanomaterial ad 
+ nanomaterial BBB 
+ BBB serve crucial protective layer brain act 
+ metabolic transport barrier shield 
+ potentially hazardous signal framework encompass 
+ brain capillary endothelial cell neuroglial cell 
+ interconnected tight junction endothelial cell bind 
+ basolateral membrane cap end-foot glial 
+ astrocyte subject continuous monitoring microglia 
+ Zenaro et al. 2017 Zhao et al. 2021 result limited 
+ paracellular transport allow passage small 
+ hydrophilic molecule ion additionally transportation 
+ pathway lipid confirm sánchez-navarro et al. 2017 
+ multiple infrastructure notably carrier-mediated transcytosis 
+ receptor-mediated transport cell-mediated endocytosis 
+ adsorptive transcytosis facilitate transportation vital 
+ component brain particular channel Chen 
+ Liu 2012 Gao 2016 bbb pose significant obstacle 
+ effective management ad efficacy ad 
+ necessitate transportation therapeutic agent 
+ BBB prohibit approximately 98 upcoming 
+ neuropharmaceutical penetrate brain gregori 
+ et al. 2015 Yin et al. 2023a contrast nanomaterial 
+ tackle dilemma effectively penetrate bypass 
+ BBB facilitate drug delivery brain appropriate 
+ modification boost efficiency stability drug 
+ delivery Chu et al. 2022 woon et al. 2022 Anwar et al. 2023 
+ Figure 3 
+ polymeric nanoparticle 
+ retention organic synthetic polymeric 
+ nanomaterial feasible polymeric nanomaterial 
+ chemically synthesize emulsification salt precipitation 
+ nanoprecipitation masood 2016 polymeric nanomaterial 
+ exhibit high drug-loading capacity minimal toxicity 
+ 
+ b 
+ Figure 2 ｜nanomaterial 
+ treating ad 
+ effective 
+ nanotherapeutic nanomaterial 
+ ad reproduce 
+ permission Karthivashan et 
+ al. 2018 b method 
+ nanomaterial synthesis 
+ reproduce permission 
+ Gupta et al. 2019 
+ Copyright 2019 Elsevier B.V. 
+ right reserve ad alzheimer 
+ disease np nanoparticle 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ 428   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ Table 1 ｜application nanomaterial ad therapy 
+  sort 
+ Size 
+ nm 
+ Framework 
+ Feature 
+ Efficacy ad 
+ Route 
+ administration/ 
+ model system 
+ Translational/ 
+ clinical trial 
+ Transparent 
+ BBB 
+ Reference 
+ liposomal np 
+ 25– 
+ 10000 
+ Spherical 
+ structure 
+ phospholipid 
+ bilayer 
+ Nontoxic 
+ nonimmunogenic 
+ easy target 
+ aβ clearance 
+ acetylcholine lipase 
+ inhibition 
+ intravenous 
+ injection/sprague- 
+ Dawley rat 
+ bend.3 cell 
+ primary rat glia 
+ primary rat 
+ neuronal cell 
+ wo 2014 
+ 076709a1 
+ conjugate 
+ cell-penetrating 
+ peptide 
+ tat pvec 
+ QL 
+ Agrawal et al. 
+ 2017 Dos Santos 
+ Rodrigues et al. 
+ 2019 
+ Polymer np 
+ 10–300 multiple 
+ configuration 
+ Excellent 
+ biocompatibility 
+ 
+ biodegradability 
+ Immunomodulatory 
+ antioxidant anti- 
+ inflammatory 
+ intranasal 
+ delivery/16hbe 
+ cell sh-sy5y cell 
+ 
+ Coupled Lf 
+ Ouyang et al. 
+ 2017 Meng et 
+ al. 2018 Aliev et 
+ al. 2019 
+ Carbon base 
+ np 
+ 1–1000 Polyhedral 
+ carbon structure 
+ seamless tubular 
+ structure 
+ Superior chemical 
+ physical 
+ electronic 
+ property 
+ Antioxidant 
+ neuroprotective 
+ scavenging Aβ 
+ intravenous 
+ injection/sh-sy5y 
+ cell Wistar rat 
+ 
+ receptor- 
+ mediated 
+ pathway 
+ Lohan et al. 
+ 2017 Mohajeri 
+ et al. 2019 
+ Elsori et al. 2023 
+ Nanoemulsion 
+ 50– 
+ 1000 
+ Orbicular 
+ Nontoxic 
+ nonirritating 
+ highly 
+ biocompatible 
+ dose dependent 
+ cytotoxicity 
+ antioxidant activity 
+ intravenous 
+ injection/be (2)- 
+ m17 human 
+ neuroblastoma 
+ 267/KOLNP/2007 combine 
+ nls 
+ Cunha et al. 
+ 2020 Agrawal et 
+ al. 2021 Ansari 
+ et al. 2023 
+ ad alzheimer disease aβ amyloid-β bbb blood brain barrier lf lactoferrin nl nucleolipid NP nanoparticle pvec vascular endothelial-cadherin-derived 
+ peptide ql hydrophobic pentapeptide qlpvm tat trans-activator transcription 
+ Figure 3 ｜nanomaterial transportation pathway 
+ schema pathway involve transportation 
+ nanomaterial blood brain barrier reproduce 
+ permission Karthivashan et al. 2018 np nanoparticle 
+ notably toxicity reduce polyethylene glycol 
+ (peg)-phospholipid copolymer Hettiarachchi et al. 2019 
+ Polyhydroxyalkanes polylactide-co-glycolide plga cyclodextrin- 
+ derive peg-coated polymeric nanomaterial widely 
+ brain research nanoscale carrier context 
+ ad therapy plga pegylated polymeric nanomaterial 
+ commonly encounter masood 2016 plga synthetic 
+ hydrophobic polyester compose monomer derive 
+ lactic acid glycolic acid monomer assemble 
+ randomly block copolymer legalization plga 
+ U.S. Food Drug Administration credit 
+ extraordinary biocompatibility biodegradable property 
+ biosafety adaptability make finest polymer 
+ field biomedicine martin et al. 2018 plga micro/ 
+ nanomaterial utilize drug delivery system 
+ wide range small molecule molecule include 
+ pharmaceutical physiologically active compound 
+ therapeutically relevant molecule assist management 
+ disease Rezvantalab et al. 2018 Essa et al. 2020 
+ Bourdenx et al. 2016 provide evidence plga-based 
+ nanomaterial induce change lysosomal function 
+ multiple cellular model pd include toxic genetic model 
+ cellular uptake nanomaterial subsequent 
+ targeting lysosome thoroughly investigate 
+ Bourdenx study Bourdenx et al. 2016 fibroblast derive 
+ patient pd carry lysosome‐related transmembrane 
+ p5‐type atp transportase atp13a2 mutation treat 
+ plga-based nanomaterial comparison 
+ normal human fibroblast result demonstrate 
+ treatment plga-based nanomaterial successfully restore 
+ lysosomal ph normal level figure 4a immunoblotting 
+ reveal decrease accumulation microtubule- 
+ associated protein 1 light chain 3β-ii significantly enhance 
+ clearance autophagosome Figure 4b functional assay 
+ confirm restoration lysosomal proteolytic activity 
+ plga-based nanomaterial-treated fibroblast compare 
+ untreated fibroblast figure 4c additionally breakdown 
+ product plga consist lactic glycolic acid 
+ ability modulate lysosomal ph level Cunha et al. 
+ 2021a primary focus publication 
+ PD researcher provide evidence plga-based 
+ nanomaterial exert effect clinical condition 
+ recent study Wu et al. 2022 reveal use 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜429 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ plain plga drug agent inhibitory effect 
+ aβ aggregation toxicity wu et al. 2022 utilize 
+ primary mouse cortical neuron demonstrate plain plga 
+ internalize energy-mediated clathrin-dependent/- 
+ independent pathway accumulate endosomal- 
+ lysosomal-autophagic vesicle study Paul et al. 
+ 2022 provide evidence plga nanomaterial inhibit 
+ Aβ aggregation induce disintegration aβ aggregate 
+ nonphysiological temperature nanomaterial 
+ show protect neuron detrimental 
+ effect aβ-induced toxicity finding validate unique 
+ therapeutic capability plga nanomaterial combat 
+ pathological mechanism associate dementia figure 
+ 4d plga conjugation inhibit spontaneous aggregation 
+ promote disassembly temperature 27–40 ° c 
+ figure 4e additionally Wang et al. 2020 report PLGA 
+ protect primary cortical neuron aβ toxicity time 
+ attenuating lysosomal membrane permeability furthermore 
+ protective effect plga aβ-induced toxicity 
+ accompany reduce activation extracellular-signal related 
+ kinase 1/2 glycogen synthase kinase figure 4f g 
+ decrease level phosphorylate cleave tau protein 
+ cleave caspase-3 Figure 4H Wang et al. 2020 
+ study Govindarajan Kar Govindarajan Kar 2023 
+ confirm PLGA recognize aβ neurotic plaque 
+ ad mouse demonstrate potential plga treatment 
+ diagnosis ad extensive research conduct 
+ past decade explore use plga nanomaterial 
+ innovative therapeutic approach neurodegenerative 
+ disorder include ad available result far indicate 
+ drug-loaded plga nanomaterial potential 
+ treatment neurodegenerative disease despite 
+ approval plga U.S. Food Drug Administration 
+ drug-controlled release carrier currently clinical 
+ application plga management neurodegenerative 
+ disease research need 
+ plga widely study ad therapeutic 
+ high biocompatibility low toxicity good tissue permeability 
+ targeting property ege 2021 PLGA nanomaterial 
+ drawback limitation report 
+ small-sized plga cross BBB efficiency 
+ drug reach pathological region brain low Huang 
+ et al. 2017 additionally high production cost plga 
+ conducive drug development commercialization Rocha 
+ et al. 2022 comprehensive investigation need 
+ maximize clinical efficacy plga nanomaterial 
+ therapeutic management ad 
+ Figure 4 ｜ polymeric nanomaterial 
+ revive lysosomal fiber 
+ regular recombinant ATP13A2 
+ l3292 stromal lysosomal ph 
+ plga-anps measure b 
+ altered ATP13A2 l3292 oocyte 
+ plga-anps analyze 
+ immunoblotting c probe 
+ functioning ctsd normal defective 
+ atp13a2 stromal lysosome p < 0.05 vs. 
+ control untreated cell p < 0.05 vs. l3292 
+ untreated cell c reproduce 
+ permission Bourdenx et al. 2016 
+ Copyright 2016 Taylor Francis d 
+ temperature-dependent aβ aggregation 
+ attenuate unconjugated plga 
+ e dynamic light scattering analysis 
+ perform aggregate aβ1–42 
+ population 72 hour incubation 
+ 27 ° c 37 ° c 40 ° c 
+ 25 μm plga d e reproduce 
+ permission Paul et al. 2022 
+ F g phosphorylated erk1/2 gsk-3β 
+ level induce aβ1–42 attenuate 
+ 200 μg/ml plga treatment h 
+ caspase-3 phospho-tau cleave tau 
+ level increase p < 0.05 p < 0.01 
+ f h reproduce permission 
+ Wang et al. 2020 copyright 2020 
+ John Wiley son ACTB β-actin anp 
+ acidic nanoparticle atp13a2 atpase 
+ type 13a2 aβ amyloid-β ctl control 
+ ctsd cathepsin d erk1/2   extracellular- 
+ signal related kinase 1/2 gsk-3β   glycogen 
+ synthase kinase lc3b microtubule 
+ associate protein 1 light chain 3 β p-erk 
+ phospho-thr202/tyr204 extracellular- 
+ signal related kinase 1/2 p-gsk gsk-3β 
+ phospho-tyr216   glycogen synthase kinase 
+ PLGA poly(dl-lactide-co-glycolide t-erk 
+ total extracellular-signal related kinase 1/2 
+ t-gsk total glycogen synthase kinase 
+ 
+ b 
+ c 
+ d 
+ e 
+ F 
+ g 
+ h 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ 430   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ carbon-based nanoparticle 
+ carbon-based nanomaterial exist form include 
+ carbon nanotube fullerene graphene carbon dot 
+ carbon nanotube carbon dot commonly 
+ adsorbent adsorption investigation augustine et al. 2017 
+ Carbon nanotube characterize long cylindrical hollow 
+ structure categorize single-walled nanotube 
+ swcnts multi-walled nanotube base number 
+ graphene sheet contain excellent physical property 
+ carbon nanotube lead wide range application 
+ vivo drug delivery yang et al. 2010 conduct study 
+ evaluate pharmacological toxicological characteristic 
+ swcnts drug delivery purpose cytotoxicity research 
+ swcnts show compare lysosome 
+ mitochondria produce reactive oxygen specie figure 5a 
+ presence swcnts lead significant reduction loss 
+ mitochondrial membrane potential observe confocal 
+ laser scanning microscopy jc-1 fluorescent dye Figure 
+ 5b result suggest mitochondria target 
+ organelle swcnt toxicity yang et al. 2010 find 
+ SWCNT dosage 300 mg/kg reduce mitochondrial 
+ cytotoxicity carefully control dosage consider 
+ specific dosage requirement different organelle 
+ prioritized uptake swcnts lysosome achieve 
+ facilitate effective delivery acetylcholine 
+ brain maintain safety parameter treatment 
+ ad experimental model study Xue et al. 2014 
+ investigate autophagy capability crnd8 animal 
+ wild-type control impact single-walled carbon 
+ nanotube swnt therapy autophagy competence isolate 
+ primary glial cell figure 5c researcher perform 
+ immunoblot analysis autophagy pathway marker 
+ assess different stage autophagy pathway 
+ stage include evaluate mechanistic target rapamycin 
+ mtor activation state autophagosome formation 
+ lc3-positive vesicle identification lysosomal functionality 
+ examine lc3 p62 turnover cathepsin d maturation 
+ lysosome acidification Figure 5D f finding study 
+ suggest functionalize swnts effectively restore 
+ proper autophagy function reverse abnormal mtor signaling 
+ correct deficiency lysosomal proteolysis 
+ facilitate elimination autophagic substrate figure 5 g 
+ mechanism swnt improve autophagy 
+ require study result provide conceptual 
+ evidence nanoparticle np therapy autophagy injury 
+ carbon-based nanomaterial possess excellent electrical 
+ mechanical chemical property make valuable 
+ medical field numerous study demonstrate 
+ therapeutic potential carbon-based nanomaterial 
+ treatment brain disorder Du et al. 2018 Wang et al. 2019 
+ Chu et al. 2021 Yin et al. 2023b production cost 
+ high difficult produce large scale 
+ research need 
+ ne 
+ ne gelatinous dispersion compose immiscible fluid 
+ stabilize surfactant droplet ne exhibit wide range 
+ size 20 500 nm Figure 6a Liao et al. 2018 Karami 
+ et al. 2019 ne classify different type 
+ 
+ b 
+ d 
+ e 
+ F 
+ c 
+ g 
+ Figure 5 ｜carbon-base 
+ nanomaterial ad 
+ swcnts effect lysosome 
+ ros production b swcnts 
+ enhance green fluorescence 
+ reduce red fluorescence 
+ course incubation indicate 
+ modification mmp b 
+ reproduce permission 
+ Yang et al. 2010 
+ Copyright 2010 Elsevier Inc. 
+ right reserve c 6e10 antigen 
+ red glial gfap green 
+ immunofluorescence wt 
+ crnd8 glial cell d e western 
+ blot analysis demonstrate lc3 
+ p62 expression f Size 
+ number lysosome p < 0.05 
+ p < 0.01 vs. Ctrl p < 0.05 
+ vs. wt c f reproduce 
+ permission Xue et al. 
+ 2014 copyright 2014 American 
+ Chemical Society g carbon- 
+ base np treatment 
+ ad create biorender 
+ com ad alzheimer disease 
+ Ctrl control gfap glial fibrillary 
+ acidic protein lc3 microtubule- 
+ associated protein 1 light chain 3 
+ mmp mitochondrial membrane 
+ potential rel relative ros 
+ reactive oxygen specie swcnt 
+ single-walled carbon nanotube 
+ WT wild type 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜431 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ water-in-oil w/o oil-in-water o/w water-in-oil-in-wat 
+ w/o/w depend composition material 
+ arrangement internal external phase phase-to- 
+ volume ratio φ play crucial role determine quantity 
+ ne droplet observe instability system φ 
+ represent relative volume inner outer liquid 
+ different property 
+ ne offer well kinetic stability nanomaterial 
+ small size brownian motion dominate 
+ gravitational force type ne o/w ne 
+ commonly treat neurodegenerative condition 
+ brain brouillard et al. 2021 develop lipid-based nucleic 
+ acid nanomaterial o/w ne nucleolipid nls organic 
+ compound compose lipid molecule covalently bond 
+ precursor amino acid nucleobase nucleoside 
+ nucleotide oligonucleotide study novel inorganic 
+ compound compound 7 8) succinate group 
+ 5′ position palmitate arachidonate 3′ position 
+ Figure 6b Brouillard et al. 2021 design synthesize 
+ evaluate biologically lysosomal ph agonist Brouillard 
+ et al. 2021 experimental result show nucleic acid-lipid- 
+ base nanomaterial effective lower lysosomal 
+ ph restore function lysosome subsequently 
+ author undertake deep investigation synthesize 
+ tetramer nl Brouillard et al. 2023 biological evaluation 
+ show tetramer nl release succinic acid restore 
+ optimal lysosomal ph. active concentration tetramer NL 
+ reduce factor compare corresponding 
+ monomer separate experiment Geoffrey prepare oil- 
+ in-water ne plga encapsulate inside ne Figure 6C 
+ Prévot et al. 2018 approach concentration 
+ fluorescent plga nanomaterial increase 
+ 0.18 0.56 g/l Bourdenx et al. 2016 laboratory result 
+ demonstrate ability NE-PLGA cross BBB penetrate 
+ brain tissue ultimately localize lysosome brain 
+ Figure 6d similarly NE-PLGA restore acidic ph level 
+ cellular lysosome figure 6e table 2 provide example 
+ ne delivery brain 
+ application ne show promise reacidification 
+ lysosome undergo acidification facilitate 
+ restoration normal lysosomal function approach 
+ hold potential management ad worth 
+ Figure 6 ｜nanoemulsion govern lysosomal ph. 
+ nanoemulsion system oil-in-water reproduce permission Karami et al. 2019 copyright 2019 Elsevier Ltd. right 
+ reserved b synthetic pathway nucleolipid 7–8 b reproduce permission Brouillard et al. 2021 right reserve c 
+ acidic nanoemulsion image TEM d colocalized immunofluorescence z-stack orthogonally project e plga salvage lysosomal 
+ ph. c e reproduce permission Prévot et al. 2018 copyright 2018 American Chemical Society lamp1 lysosomal associate 
+ membrane protein 1 ne nanoemulsion plga polylactide-co-glycolide rt room temperature tem transmission electron microscope 
+ 
+ b 
+ c 
+ d 
+ E 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ 432   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ noting ne exhibit insufficient equilibrium lead 
+ drug leakage storage impact overall 
+ effectiveness drug delivery mediate ne 
+ main aspect target lysosome 
+ direct targeting drug lysosome receptor surface 
+ endosome folate vascular endothelial growth factor 
+ ldl transferrin receptor-mediated endocytosis 
+ Gopalan et al. 2020 glucose cerebrosidase present 
+ lysosome involve sphingolipid degradation 
+ researcher extract recombinant enzyme modify 
+ expose mannose residue inject body 
+ receptor-mediated endocytosis successfully transport 
+ enzyme lysosome sly vogler 2002 
+ furthermore endosomal escape require ensure 
+ drug escape lysosome prevent degradation 
+ maintain integrity drug well efficacy 
+ Sakhrani Padh 2013 current therapeutic agent target 
+ lysosomal dysfunction mainly small-molecule drug e.g. 
+ small molecule activate v-atpase function regulate tfeb 
+ expression inhibit mtor signaling nanomedicine 
+ Quick et al. 2023 study show c381 target 
+ lysosome stimulate lysosomal acidification attenuate 
+ lysosomal membrane permeability increase proteolysis Vest 
+ et al. 2022 importantly c381 show permeate 
+ BBB potential drug choice restore lysosomal 
+ function treatment neurodegenerative disease Vest 
+ et al. 2022 additionally en6 promising small-molecule 
+ drug inhibit mammalian target rapamycin complex 
+ 1 mtorc1 stimulate lysosomal acidification induce 
+ autophagy enhance cell clearance Chung et al. 2019 
+ en6 off-target trigger 
+ biological effect Chung et al. 2019 addition small- 
+ molecule drug researcher develop nanodrug 
+ target lysosome nanodrug localized 
+ lysosome restore normal ph lysosome Brouillard et 
+ al. 2021 nanomedicine increasingly treatment 
+ neurodegenerative disease superior property 
+ considerable challenge efficiency 
+ penetrate BBB optimize chemical formulation 
+ incorporate bbb-penetrating peptide crucial 
+ nanomedicine brain targeting Huang et al. 2017 second 
+ consistency nanomedicine size dispersion 
+ related clinical translation nanomedicine 
+ drug distribution reproducibility accordance Good 
+ Manufacturing practice quality standard drug 
+ downstream Changes target lysosomal 
+ Therapy 
+ pathological protein clearance 
+ pathological characteristic associate ad involve 
+ accumulation persistence aβ tau peptide 
+ deposition protein play crucial role 
+ progression ad target removal pathogenic 
+ protein scavenging mechanism hold potential 
+ therapeutic approach ad Yuyama et al. 2015 viswanathan 
+ et al. 2012 investigate inhibitory effect z-phe-ala- 
+ diazomethylketone cathepsin b l find 
+ modestly inhibit enzyme lead increase lysosomal 
+ cathepsin level low concentration nonpeptidic compound 
+ sd1002 sd1003 evaluate irreversible inhibitor 
+ cathepsin b derive z-phe-ala-diazomethylketone 
+ compound find effective lysosomal modulator 
+ induce protective scavenging response paired helical 
+ filament τ aβ42 brain region include 
+ hippocampus similar effect observe resveratrol 
+ r find reduce accumulation aβ 
+ plaque formation exert beneficial impact ad model 
+ Vingtdeux et al. 2008 cathepsin lysosomal enzyme 
+ involve aβ degradation presence resveratrol 
+ nanomaterial potential act lysosomal modulatory 
+ agent amelioration ad 
+ autophagy-defective lysosomal dysfunction 
+ postulate closely related aβ deposition protein 
+ kinase mtor regulate activation macromolecular 
+ Table 2 ｜ overview nanoemulsion central nervous system disease 
+ Drug 
+ Size nm 
+ drug effect 
+ Outcome 
+ Reference 
+ Risperidone 
+ 15.5–16.7 
+ Antipsychotic 
+ reduce drug effect dosage frequency 
+ administration 
+ Kumar et al. 2008b 
+ olanzapine 
+ 20.1–23.6 
+ Schizophrenia medication 
+ reduce dosage frequency administration 
+ maximize therapeutic index 
+ Kumar et al. 2008a 
+ ergoloid mesylate 
+ submicron emulsion 
+ 108.5±34.3 
+ Antioxidation 
+ improve drug absorption reduce toxicity 
+ Yu et al. 2009 
+ Nimodipine 
+ 40–300 
+ anti-dementia cerebral 
+ vasospasm 
+ reduce drug efflux clearance prolonged extend 
+ release drug 
+ Pathak et al. 2014 
+ Chloramphenicol 
+ 100.12±4.35 
+ anti-inflammatory 
+ improved solubility targeting drug 
+ Musa et al. 2013 
+ Kaempferol 
+ 3.08±17.33 
+ anti-inflammatory 
+ antioxidant antibacterial 
+ improved drug-loading capacity encapsulation efficiency Colombo et al. 2017 
+ Zolmitriptan 
+ 42.93±1.53 
+ suppress vasodilation 
+ inflammation 
+ improved drug delivery efficiency bioavailability 
+ therapeutic efficacy 
+ Abdou et al. 2017 
+ Quetiapine 
+ 144±0.5 
+ antipsychotic drug 
+ increase drug solubility bioavailability 
+ Boche Pokharkar 2017 
+ Paroxetine 
+ 58.47±3.02 
+ antidepressant anti- 
+ anxiety 
+ increase drug availability biology 2.57-fold 
+ increase drug delivery rate 
+ Pandey et al. 2016 
+ curcumin 
+ 14.4–118.9 
+ suppress Aβ sedimentation 
+ inflammation 
+ increase drug release penetration 
+ Sood et al. 2014 
+ Resveratrol 
+ 102±1.46 
+ mitigation oxidize stress increase drug concentration target efficiency 
+ brain 
+ Pangeni et al. 2014 
+ Selegiline 
+ 10.0±203.0 
+ Neuroprotective 
+ antioxidant 
+ increase drug penetration improve behavioral activity 
+ pd mouse 
+ Kumar et al. 2016 
+ Aβ amyloid-β pd parkinson disease 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜433 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ complex collaborate subcellular membrane form 
+ autophagosome encapsulate cytoplasmic component 
+ degradation lysosome dysfunctional mtor signaling 
+ lead poor autophagy induction protein accumulation 
+ Xue et al. 2014 propose administration SWNT 
+ potential remedy ad-associated amyloidosis transgenic 
+ mouse model crnd8 finding indicate SWNT 
+ effectively rectify dysfunction related autophagy 
+ reverse poor autophagy induction cause aberrant mtor 
+ signaling reverse impairment lysosomal proteolytic 
+ activity lead accumulation autophagic substrate 
+ ballooning lysosome swnt restore normal cellular 
+ autophagy clear faulty protein activate autophagy 
+ effective approach remove pathological protein 
+ commonly fight ad addition 
+ restore normal autophagy nanomaterial reduce 
+ level misfolde protein restore lysosomal membrane 
+ integrity increase lysosomal membrane permeability lead 
+ release lysosomal enzyme cytoplasm trigger 
+ apoptosis gómez-sinte et al. 2016 Sarkar et al. 2020 
+ show nanomaterial target lysosome 
+ PLGA protect lysosomal membrane reduce level 
+ misfolde protein cell Wang et al. 2020 Wu et al. 
+ 2022 furthermore accumulation aβ tau protein 
+ central pathophysiological feature ad proteinopathie 
+ characterize presence misfolde aggregate 
+ protein lose normal physiological function 
+ acquire neurotoxic property researcher focus 
+ explore novel mechanism facilitate elimination 
+ neurotoxic protein aim develop method 
+ potentially mitigate onset slow progression ad 
+ summary lysosomal dysfunction accumulation 
+ misfolde protein common pathological feature ad 
+ nanomaterial target lysosome remove pathological 
+ protein reacidifye lysosome enhance cellular 
+ autophagy provide effective treatment ad 
+ inflammation modulation 
+ Neuroinflammation physiological response occur 
+ inside central nervous system response 
+ pathogenic stressor contributory aspect include infection 
+ trauma ischemia toxin aforementioned process 
+ distinguish generation proinflammatory cytokine 
+ chemokine furthermore procedure entail 
+ secretion small molecular signaling molecule 
+ prostaglandin nitric oxide infiltration 
+ reactive oxygen specie generate innate immune cell 
+ central nervous system cellular constituent primarily 
+ implicate process encompass microglia astrocyte 
+ essential constituent innate immune system 
+ notably capillary endothelial cell infiltrate blood cell 
+ contribute neuroinflammation particularly instance 
+ biochemical mechanical impairment 
+ BBB Heneka et al. 2014 DiSabato et al. 2016 generation 
+ proinflammatory molecule potential impede 
+ synaptic dysfunction induce neuronal demise impact 
+ neurogenesis Lyman et al. 2014 synaptic loss induce 
+ interleukin (il)-1β mediate increase expression 
+ prostaglandin e2 production result heightened release 
+ presynaptic glutamate subsequent activation postsynaptic 
+ n-methyl-d-aspartate receptor Mishra et al. 2012 add 
+ activation complement system induce 
+ enhancement microglia phagocytic function potentially 
+ lead inappropriate synaptic pruning Hong et al. 2016 
+ progression neuroinflammation substantial 
+ quantity anti-inflammatory cytokine il-1 receptor 
+ antagonist il-4 il-10 il-11 generate involvement 
+ cytokine prevent excessive neuroinflammation 
+ highlight existence complex regulatory system figure 
+ 7A Calsolaro Edison 2016 base current research 
+ neuroinflammation evident collaborative interaction 
+ microglia astrocyte neuron contribute 
+ progression neurodegenerative process 
+ accord vivo datum nanoformulation lead 
+ reduction inflammation vilella et al. 2018 develop plga 
+ system modify g7 glycopeptide deliver zinc 
+ brain access brain increase zinc level system 
+ effectively reduce presence proinflammatory cytokine 
+ study Vilella et al. 2018 investigate effect zinc 
+ level inflammation app23 mouse quantify level 
+ il-6 il-18 tumor necrosis factor il-10 wild-type mouse 
+ app23 mouse treat g7-nps saline solution app23 
+ mouse treat zinc np researcher find evidence 
+ suggest g7-nps-zn attenuate proinflammatory 
+ response enhance production anti-inflammatory 
+ cytokine exert counteractive effect 
+ inflammatory mechanism body Figure 7B e additionally 
+ Wu et al. 2022 observe application PLGA neuron 
+ result downregulation transcript associate 
+ mediate neuroinflammation e.g. interferon gamma il-1 
+ alpha il-6 compare control Figure 7f 
+ study nanomaterial reduce 
+ neuroinflammation different pathway wide 
+ range application treatment ad 
+ nanomaterial inhibit neuroinflammation different 
+ mechanism e.g. diminish cellular proinflammatory factor 
+ increase level anti-inflammatory factor highly 
+ prospective treatment ad 
+ nanomaterial-mediated lysosomal autophagy 
+ neuroprotection 
+ prevalence ad increase age Soria Lopez et al. 
+ 2019 irreversible condition characterize 
+ progressive degeneration eventual death neuronal 
+ cell neurodegenerative disease currently treat 
+ neuroprotective drug retard prevent 
+ progression disease nanomaterial play crucial role 
+ provide neuroprotective drug neurodegenerative disease 
+ advantageous property small size 
+ biocompatibility low cytotoxicity xi et al. 2022 Anwar et 
+ al. 2023 study synthesize plga nanomaterial 
+ encapsulate thymoquinone phytochemical molecule 
+ know antioxidant anti-inflammatory effect 
+ aim target specific aspect animal model elibol 
+ et al. 2020 Yusuf et al. 2021 result demonstrate 
+ thymoquinone provide neuroprotection reduce Aβ 
+ plaque improve neuronal survival restore neuronal 
+ activity additionally Xue et al. 2014 utilize swcnts treat 
+ ad model mouse carbon nanotube exhibit high water 
+ solubility dispersibility enhance cellular autophagic 
+ flow property represent potential mechanism 
+ neuroprotection achieve collectively 
+ nanomaterial demonstrate ability protect neuron ad 
+ mouse mitigate neuronal loss promote neuronal viability 
+ research nanosize neuroprotective compound 
+ early stage hold significant potential future 
+ advancement pharmacology particularly treatment 
+ neurodegenerative disease 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ 434   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ Conclusion Outlook 
+ previously mention involvement lysosomal 
+ dysfunction pathogenesis neurodegenerative disorder 
+ implicate upregulation autophagy 
+ observe compensatory response disease 
+ Bordi et al. 2016 Hou et al. 2020 fully establish 
+ lysosomal function impaired lysosomal dysfunction 
+ emerge potential therapeutic target dementia- 
+ related condition include ad pd Lee et al. 2010 Nixon 
+ Yang 2012 consequently address lysosomal dysfunction 
+ gain significant attention development therapeutic 
+ intervention neurodegenerative disorder 
+ nanomaterial enhance lysosomal function 
+ effective treat ad clinical application remain 
+ early stage study limit vitro animal 
+ model challenge need overcome facilitate 
+ clinical application nanomaterial 
+ polymeric nanomaterial commonly material 
+ PLGA plga rapidly clear reticuloendothelial system 
+ reach brain ege 2021 prolong residence time 
+ enhance brain transport coadministration plga peg 
+ employ peg improve plga retention 
+ body research necessary thoroughly investigate 
+ delivery efficacy long-term toxicity pharmacokinetic 
+ plga byproduct generate plga 
+ degradation affect drug delivery brain Mir et al. 
+ 2017 precise role need elucidate second 
+ utilization carbon-based nanomaterial ad therapy depend 
+ address exist challenge associate 
+ material experiment demonstrate potential 
+ toxicity carbon nanotube induce oxidative stress 
+ co-culture cell ensure high-quality carbon nanotube 
+ minimizing contaminant pose significant challenge 
+ translational application Elsori et al. 2023 
+ researcher focus improve biocompatibility 
+ safety carbon nanotube finally ne face great 
+ challenge stable susceptible compromise 
+ ph temperature Cunha et al. 2021b consider 
+ lysosome reside acidic environment condition 
+ impact stability efficiency ne drug delivery 
+ experiment essential enhance stability ne 
+ improve efficiency drug delivery 
+ conclusion despite immense potential nanomaterial 
+ target lysosome treatment ad challenge 
+ address clinical translation include 
+ optimize delivery efficacy safety profile polymeric 
+ nanomaterial improve biocompatibility quality control 
+ carbon-based nanomaterial enhance stability 
+ efficiency ne drug delivery overcome challenge 
+ nanomaterial-based therapy target lysosome offer 
+ strategy treat ad neurodegenerative disorder 
+ lysosomal acidification dysfunction commonly 
+ observe neurodegenerative disease grow evidence 
+ suggest lysosomal dysfunction potentially contribute 
+ Figure 7 ｜nanomaterial suppress 
+ neuroinflammation 
+ glial cell physiological 
+ function create 
+ biorender.com b e treatment 
+ animal zinc-loaded 
+ nanomaterial alter inflammatory 
+ marker p < 0.05 p < 0.01 b– 
+ e reproduce permission 
+ Vilella et al. 2018 copyright 
+ 2017 Elsevier gmbh. right 
+ reserved f gene expression 
+ 24 hour plga treatment 
+ show follow table f 
+ reproduce permission 
+ Wu et al. 2022 copyright 
+ 2022 publish Elsevier B.V. app 
+ Amyloid precursor protein app23 
+ heterozygous app23+/– transgenic 
+ mouse g7 glycopeptide consist 
+ seven amino acid hmbs 
+ hydroxymethylbilane synthase NP 
+ nanoparticle tnf-1 tumor necrosis 
+ factor 1 wt wild type 
+ 
+ b 
+ d 
+ e 
+ F 
+ c 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜435 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ development disease consequently target 
+ lysosome emerge strategic focus potential 
+ therapeutic intervention neurodegenerative disorder 
+ ad study report 
+ drug specifically target lysosomal ph few 
+ study examine nanomaterial target lysosome 
+ despite challenge face nanomaterial offer 
+ new possibility approach drug development 
+ neurodegenerative brain disease recent study 
+ show nanomaterial functionalization peptide 
+ effectively address issue low targeting efficiency 
+ cytotoxicity example study d1 peptide 
+ employ functionalize magnetic nanomaterial combined 
+ chitosan-functionalized gold nanorod effectively reduce 
+ cytotoxicity Hassan et al. 2018 multimerization 
+ compound enhance drug delivery bioactivity 
+ tolerability low concentration address multivalency 
+ biological target nanomaterial functionalization 
+ play crucial role development ad drug design 
+ lysosome-targeted nanodrug researcher refer 
+ aforementioned approach functionalize nanodrug 
+ reduce drug toxicity improve targeting efficiency 
+ objective advance development nanomaterial 
+ possess characteristic low cytotoxicity enhance 
+ targeting capability improve stability nanomaterial 
+ intend treatment neurodegenerative disorder 
+ particularly ad specifically target lysosome utilization 
+ nanomaterial design target lysosome anticipate 
+ significantly impact ad therapy thank advancement 
+ material science synthesis methodology 
+ recently nanomaterial bring renew hope treat 
+ ad paper present detailed description type 
+ nanomaterial target lysosome Figure 8) crucial 
+ aspect ad therapy addition paper summarize 
+ development target lysosomal drug figure 9 
+ nanomaterial exhibit high cellular absorption mobility 
+ Figure 8 ｜nanomaterial 
+ therapeutic pathway 
+ nanomaterial inject 
+ mouse penetrate 
+ blood brain barrier reach 
+ cell diseased area 
+ mouse brain reduce ph 
+ lysosome restore cell 
+ ability clear protein reduce 
+ neuroinflammation protect 
+ nerve cell create biorender 
+ com il interleukin inos 
+ inducible nitric oxide synthase NP 
+ nanoparticle tnf-α tumor necrosis 
+ factor-α 
+ figure 9 ｜development 
+ nanomaterial restore 
+ lysosomal function ad therapy 
+ create Microsoft PowerPoint 
+ ad alzheimer disease ne 
+ nanoemulsion nl nucleolipid 
+ PLGA poly(dl-lactide-co-glycolide 
+ swcnt single-walled nanotube 
+ SWNT single-walled carbon 
+ nanotube 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ 436   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ passive targeting distinguish small compound 
+ target lysosome preliminary finding application 
+ lysosome-targeted nanomaterial disease include 
+ lysosomal storage disease cancer neurodegenerative disease 
+ autoimmune disease highlight therapeutic potential 
+ intervention existing pharmaceutical treatment 
+ neurodegenerative disease provide temporary relief 
+ offer definitive cure utilization 
+ nanomaterial specifically target lysosome hold promise 
+ improve situation study anticipate contribute 
+ comprehensive understanding field stimulate novel idea 
+ development nanomaterial biomedical application 
+ related lysosome intricacy lysosomal 
+ function influence interaction central 
+ nervous system cell necessitate research explore 
+ complex relationship additionally drug targeting crucial 
+ delivery review briefly describe target 
+ modification nanomaterial topic extensively explore 
+ require research 
+ Author contribution manuscript design MH jc yl jz jg yy datum 
+ retrieval tz ty yg wl wj jz yl manuscript preparation MH jc tz 
+ yg manuscript review MH jc tz yl yg wj ty wl jz yy jg fund 
+ acquisition yy jg author read approve final version 
+ manuscript 
+ conflict interest author declare conflict interest 
+ data availability statement applicable 
+ open access statement open access journal article 
+ distribute term Creative Commons Attribution- 
+ noncommercial-sharealike 4.0 License allow remix 
+ tweak build work non-commercially long appropriate 
+ credit give new creation license identical 
+ term 
+ reference 
+ Abdou EM Kandil SM Miniawy h 2017 brain targeting efficiency 
+ antimigrain drug load mucoadhesive intranasal nanoemulsion int j 
+ Pharm 529:667 677 
+ Agrawal M Ajazuddin Tripathi DK Saraf S Saraf S Antimisiaris SG Mourtas 
+ S Hammarlund-Udenaes m Alexander 2017 recent advancement 
+ liposome target strategy cross blood-brain barrier bbb 
+ treatment alzheimer disease j Control Release 260:61 77 
+ Agrawal M Prathyusha E Ahmed H Dubey SK Kesharwani p singhvi g Naidu 
+ VGM Alexander 2021 biomaterial treatment alzheimer disease 
+ Neurochem Int 145:105008 
+ Aliev g Ashraf GM Tarasov VV Chubarev VN Leszek J Gasiorowski K 
+ Makhmutovа Baeesa ss avila-rodriguez M Ustyugov AA Bachurin 
+ 2019 alzheimer disease 
+ future therapy base dendrimer curr 
+ Neuropharmacol 17:288 294 
+ Andersen OM Rudolph IM Willnow TE 2016 risk factor sorl1 
+ genetic association functional validation Alzheimer disease acta 
+ Neuropathol 132:653 665 
+ ansari MA tripathi t Venkidasamy b Monziani Rajakumar g Alomary MN 
+ Alyahya SA Onimus O D’Souza N Barkat MA al-suhaimi ea Samynathan 
+ r Thiruvengadam M 2023 multifunctional nanocarrier Alzheimer 
+ disease befriend barrier Mol Neurobiol doi 10.1007/s12035 023- 
+ 03730-z 
+ Anwar F al-abbasi FA Naqvi S Sheikh ra Alhayyani S Asseri AH asar 
+ Kumar V 2023 therapeutic potential nanomedicine management 
+ Alzheimer disease glioma int j Nanomedicine 18:2737 2756 
+ Augustine S Singh J Srivastava M Sharma M Das malhotra bd 2017 
+ recent advance carbon base nanosystem cancer theranostic 
+ Biomater Sci 5:901 952 
+ Binder JL chander p deretic V Weick JP Bhaskar K 2020 optical induction 
+ autophagy transcription factor eb tfeb reduce pathological tau 
+ neuron plos 15:e0230026 
+ Boche M Pokharkar v 2017 quetiapine nanoemulsion intranasal drug 
+ delivery evaluation brain-targeting efficiency aaps pharmscitech 
+ 18:686 696 
+ Bordi M Berg MJ Mohan PS peterhoff cm alldred mj Che S Ginsberg SD 
+ Nixon ra 2016 Autophagy flux ca1 neuron alzheimer hippocampus 
+ increase induction overburden fail lysosome propel neuritic 
+ dystrophy autophagy 12:2467 2483 
+ Bourdenx M Daniel J Genin E Soria fn blanchard-desce m Bezard E Dehay 
+ b 2016 nanoparticle restore lysosomal acidification defect implication 
+ Parkinson lysosomal-related disease autophagy 12:472- 
+ 483 
+ Brouillard M Barthélémy p Dehay b Crauste-Manciet S Desvergnes v 
+ 2021 Nucleolipid acid-based nanocarrier restore neuronal lysosomal 
+ acidification defect Chem 9:736554 
+ Brouillard M Kinet r Joyeux M Dehay b Crauste-Manciet S Desvergnes v 
+ 2023 modulate lysosomal ph innovative multimerized succinic 
+ acid-based nucleolipid derivative bioconjug Chem 34:572 580 
+ Bukhari SNA 2022 Nanotherapeutics Alzheimer disease preclinical 
+ evaluation clinical trial challenge promise limitation curr 
+ Drug Deliv 19:17 31 
+ Cacace R Sleegers K Van Broeckhoven c 2016 molecular genetic early- 
+ onset alzheimer disease revisit alzheimer Dement 12:733 748 
+ Caglayan S Takagi-Niidome S Liao F Carlo Schmidt V Burgert t Kitago Y 
+ Füchtbauer EM füchtbauer Holtzman dm Takagi J Willnow TE 2014 
+ lysosomal sorting amyloid-β sorla receptor impair 
+ familial Alzheimer disease mutation Sci Transl Med 6:223ra220 
+ Calsolaro V Edison p 2016 neuroinflammation Alzheimer disease 
+ current evidence future   direction alzheimer Dement 12:719 732 
+ carosi JM Hein LK van den Hurk M Adams R Milky b Singh S Bardy c 
+ Denton D Kumar S Sargeant tj 2021 Retromer regulate lysosomal 
+ clearance mapt/tau autophagy 17:2217 2237 
+ Chen C Sidransky E Chen Y 2022 lyso-ip uncover pathogenic 
+ mechanism lysosomal dysfunction biomolecule 12:616 
+ Chen Y Liu L 2012 modern method delivery drug blood- 
+ brain barrier adv Drug Deliv rev 64:640 665 
+ cho y bae hg Okun E Arumugam TV Jo DG 2022 physiology 
+ pharmacology amyloid precursor protein pharmacol Ther 235:108122 
+ Chu F Li K Li X Xu L Huang J Yang Z 2021 graphene oxide ameliorate 
+ cognitive impairment inhibit pi3k/akt/mtor pathway induce 
+ autophagy ad mouse model neurochem res 46:309 325 
+ chu jj Ji WB Zhuang JH Gong BF Chen XH Cheng WB Liang WD Li gr Gao 
+ J Yin y 2022 nanoparticles-based anti-aging treatment alzheimer 
+ disease drug deliv 29:2100 2116 
+ Chung CY shin hr Berdan Ford b Ward CC Olzmann JA Zoncu R 
+ Nomura dk 2019 Covalent targeting vacuolar h(+)-atpase activate 
+ autophagy mtorc1 inhibition nat Chem Biol 15:776 785 
+ Coen K Flannagan RS Baron S carraro-lacroix LR Wang D Vermeire W 
+ Michiels C Munck S Baert V Sugita S Wuytack F Hiesinger pr Grinstein 
+ S Annaert W 2012 lysosomal calcium homeostasis defect proton 
+ pump defect cause endo-lysosomal dysfunction psen-deficient cell j 
+ Cell Biol 198:23 35 
+ Colacurcio DJ Nixon ra 2016 disorder lysosomal acidification-The 
+ emerge role v-atpase aging neurodegenerative disease ageing 
+ res rev 32:75 88 
+ Colacurcio DJ Pensalfini Jiang Y Nixon ra 2018 dysfunction autophagy 
+ endosomal-lysosomal pathway role pathogenesis 
+ syndrome Alzheimer disease free Radic Biol Med 114:40 51 
+ Cui y Carosi JM Yang Z Ariotti N Kerr MC Parton RG Sargeant tj Teasdale 
+ RD 2019 Retromer selective function cargo sorting endosome 
+ transport carrier j cell Biol 218:615 631 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜437 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ Colombo M Melchiades gl Figueiró F Battastini AMO Teixeira HF Koester ls 
+ 2017 validation hplc-uv method analysis kaempferol-loaded 
+ nanoemulsion application vitro vivo test j Pharm 
+ Biomed Anal 145:831 837 
+ Cunha Gaubert Latxague L Dehay b 2021a plga-based nanoparticle 
+ neuroprotective drug delivery neurodegenerative disease 
+ Pharmaceutics 13:1042 
+ Cunha Prévot g Mousli Y Barthélémy p Crauste-Manciet S Dehay b 
+ Desvergnes V 2020 synthesis intracellular uptake rhodamine- 
+ nucleolipid conjugate nanoemulsion vehicle acs omega 5:5815 5823 
+ Cunha S Forbes b Sousa Lobo JM Silva ac 2021b improve drug 
+ delivery alzheimer disease nose-to-brain delivery 
+ nanoemulsion nanostructure lipid carrier nlc situ hydrogel 
+ int J Nanomedicine 16:4373 4390 
+ Dave BP Shah yb Maheshwari KG Mansuri KA Prajapati bs Postwala 
+ HI Chorawala MR 2023 pathophysiological aspect therapeutic 
+ armamentarium alzheimer disease recent trend future 
+ development cell Mol Neurobiol 43:3847 3884 
+ DiSabato DJ Quan N Godbout JP 2016 neuroinflammation devil 
+ detail j Neurochem 139 Suppl 2:136 153 
+ Dodson se Andersen OM Karmali V Fritz JJ Cheng D Peng J Levey ai 
+ Willnow TE lah jj 2008 loss lr11/sorla enhance early pathology 
+ mouse model amyloidosis evidence proximal role Alzheimer 
+ disease j Neurosci 28:12877 12886 
+ Dos Santos Rodrigues B Lakkadwala S Kanekiyo T Singh J 2019 development 
+ screening brain-targeted lipid-based nanoparticle enhance cell 
+ penetration gene delivery property int j Nanomedicine 14:6497 6517 
+ Du Z Gao N Wang X ren J Qu x 2018 near-infrared switchable fullerene- 
+ base synergy therapy alzheimer disease small e1801852 
+ ege d 2021 action mechanism curcumin alzheimer disease 
+ brain target delivery material basel 14:3332 
+ elibol b Beker M terzioglu-usak S Dalli t Kilic U 2020 thymoquinone 
+ administration ameliorate Alzheimer disease-like phenotype 
+ promote cell survival hippocampus amyloid beta(1 42 infuse 
+ rat model phytomedicine 79:153324 
+ Elsori D Rashid g Khan NA Sachdeva p Jindal r Kayenat F Sachdeva B Kamal 
+ MA Babker Fahmy SA 2023 nanotube breakthrough unveil 
+ potential carbon nanotube dual therapeutic arsenal Alzheimer 
+ disease brain tumor Oncol 13:1265347 
+ Essa D Kondiah PPD Choonara ye pillay v 2020 design poly(lactide- 
+ co-glycolide nanocarrier medical application Bioeng Biotechnol 
+ 8:48 
+ Fanutza t Del Prete D Ford MJ Castillo PE d’adamio l 2015 app aplp2 
+ interact synaptic release machinery facilitate transmitter 
+ release hippocampal synapsis elife 4:e09743 
+ Filadi r Pizzo p 2019 defective autophagy Alzheimer disease 
+ calcium key Neural Regen Res 14:2081 2082 
+ Gao h 2016 Progress perspective target nanoparticle brain 
+ drug delivery acta pharm sin b 6:268 286 
+ gómez-sintes r ledesma MD Boya p 2016 lysosomal cell death 
+ mechanism aging ageing res rev 32:150 168 
+ Gopalan D Pandey Udupa N Mutalik S 2020 receptor specific stimulus 
+ responsive subcellular target approach effective therapy 
+ Alzheimer role surface engineer nanocarrier j Control Release 
+ 319:183 200 
+ Gorantla NV Chinnathambi S 2021 autophagic pathway clear tau 
+ aggregate alzheimer disease cell Mol Neurobiol 41:1175 1181 
+ Govindarajan K Kar S 2023 detection β-amyloid aggregates/plaque 
+ 5xfad mouse label native plga nanoparticle implication 
+ diagnosis alzheimer disease j nanobiotechnology 21:216 
+ gregori M Masserini M Mancini S 2015 nanomedicine treatment 
+ Alzheimer disease nanomedicine Lond 10:1203 1218 
+ Gupta J Fatima MT Islam Z Khan RH Uversky VN Salahuddin p 2019 
+ nanoparticle formulation diagnosis therapy alzheimer 
+ disease int j Biol Macromol 130:515 526 
+ Hassan N Cordero ML Sierpe R Almada M Juárez J Valdez M Riveros 
+ Vargas E Abou-Hassan Ruso JM Kogan MJ 2018 peptide functionalize 
+ magneto-plasmonic nanoparticle obtain microfluidic inhibition 
+ β-amyloid aggregation j Mater Chem b 6:5091 5099 
+ Heneka MT Kummer MP Latz E 2014 innate immune activation 
+ neurodegenerative disease nat rev Immunol 14:463 477 
+ Hettiarachchi sd zhou y seven E Lakshmana MK Kaushik AK Chand hs 
+ Leblanc rm 2019 nanoparticle-mediated approach Alzheimer 
+ disease pathogenesis diagnosis therapeutic j Control Release 
+ 314:125 140 
+ Hong S Beja-Glasser VF Nfonoyim BM Frouin Li S Ramakrishnan S Merry 
+ KM Shi Q Rosenthal barre ba Lemere Selkoe DJ Stevens b 2016 
+ Complement microglia mediate early synapse loss alzheimer mouse 
+ model science 352:712 716 
+ Hou X Watzlawik JO Fiesel FC Springer W 2020 Autophagy Parkinson 
+ disease j Mol Biol 432:2651 2672 
+ Hu M Li p Wang C Feng X Geng Q Chen W Marthi M Zhang W Gao C 
+ Reid W Swanson J Du W Hume RI Xu h 2022 Parkinson disease-risk 
+ protein tmem175 proton-activated proton channel lysosome cell 
+ 185:2292 2308.e20 
+ Huang N Lu S Liu XG Zhu J Wang YJ Liu RT 2017 plga nanoparticle 
+ modify bbb-penetrating peptide co-delivere aβ generation 
+ inhibitor curcumin attenuate memory deficit neuropathology 
+ Alzheimer disease mouse oncotarget 8:81001 81013 
+ Hung C Livesey FJ 2021 endolysosome autophagy dysfunction 
+ alzheimer disease autophagy 17:3882 3883 
+ Hung C Tuck E Stubbs V van der Lee sj aalfs c van Spaendonk R schelten p 
+ Hardy J Holstege h Livesey FJ 2021 sorl1 deficiency human excitatory 
+ neuron cause app-dependent defect endolysosome-autophagy 
+ network cell rep 35:109259 
+ Kametani F Hasegawa M 2018 reconsideration amyloid hypothesis 
+ tau hypothesis alzheimer disease Neurosci 12:25 
+ Karami Z Saghatchi Zanjani MR Hamidi m 2019 nanoemulsion cns drug 
+ delivery recent development impact challenge drug Discov Today 
+ 24:1104 1115 
+ Karthivashan g Ganesan p Park sy Kim JS Choi dk 2018 therapeutic 
+ strategy nano-drug delivery application management ageing 
+ Alzheimer disease drug deliv 25:307 320 
+ Klein M Hermey g 2023 converging link adult-onset 
+ neurodegenerative Alzheimer disease early life neurodegenerative 
+ neuronal ceroid lipofuscinosis Neural Regen Res 18:1463 1471 
+ koh jy Kim HN Hwang jj Kim YH Park se 2019 lysosomal dysfunction 
+ proteinopathic neurodegenerative disorder possible therapeutic role 
+ camp zinc mol Brain 12:18 
+ Krishnan S Shrestha Y Jayatunga DPW Rea S Martins R bharadwaj p 2020 
+ Activate inhibit implication autophagy modulation therapeutic 
+ strategy alzheimer disease int J Mol Sci 21:6739 
+ Kumar M Misra Mishra AK Mishra p Pathak K 2008a Mucoadhesive 
+ nanoemulsion-based intranasal drug delivery system olanzapine 
+ brain targeting j Drug Target 16:806 814 
+ Kumar M Misra Babbar AK Mishra AK Mishra p Pathak K 2008b 
+ intranasal nanoemulsion base brain targeting drug delivery system 
+ risperidone int j Pharm 358:285 291 
+ Kumar S Ali J Baboota S 2016 Design Expert ® support optimization 
+ predictive analysis selegiline nanoemulsion olfactory region 
+ enhance behavioural performance Parkinson disease nanotechnology 
+ 27:435101 
+ lai SSM Ng KY Koh ry Chok KC Chye sm 2021 endosomal-lysosomal 
+ dysfunction Alzheimer disease pathogenesis therapeutic 
+ intervention metab Brain Dis 36:1087 1100 
+ Lee jh Yu WH Kumar Lee S Mohan PS peterhoff cm Wolfe dm martinez- 
+ Vicente M Massey ac Sovak g Uchiyama Y Westaway D Cuervo 
+ Nixon ra 2010 lysosomal proteolysis autophagy require presenilin 1 
+ disrupt alzheimer-related ps1 mutation cell 141:1146 1158 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ 438   ｜neural REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ Lee JH McBrayer MK Wolfe dm Haslett LJ Kumar Sato Y Lie pp Mohan p 
+ Coffey ee Kompella U Mitchell CH lloyd-evans E Nixon ra 2015 Presenilin 
+ 1 maintain lysosomal ca(2 + homeostasis trpml1 regulate vatpase- 
+ mediated lysosome acidification cell rep 12:1430 1444 
+ Lee jh Yang DS goulbourne cn m e Stavrides p Pensalfini Chan h 
+ Bouchet-Marquis c Bleiwas C Berg MJ Huo C Peddy J Pawlik M Levy E 
+ Rao M Staufenbiel M Nixon ra 2022 faulty autolysosome acidification 
+ Alzheimer disease mouse model induce autophagic build-up Aβ 
+ neuron yield senile plaque nat Neurosci 25:688 701 
+ Li t Yin L Kang X Xue W Wang N Zhang J yuan p Lin L Li y 2022 tfeb 
+ acetylation promote lysosome biogenesis ameliorate Alzheimer 
+ disease-relevant phenotype mouse j Biol Chem 298:102649 
+ Li Y law SM Miles LA Wiley JS Huang X Masters CL Gu BJ 2021 Genomics 
+ Alzheimer disease implicate innate adaptive immune system 
+ Cell Mol Life Sci 78:7397 7426 
+ Liao MC Van Nostrand 2010 degradation soluble fibrillar 
+ amyloid beta-protein matrix metalloproteinase mt1-mmp vitro 
+ Biochemistry 49:1127 1136 
+ Liao W Liu Z Zhang T Sun S Ye J Li Z Mao L ren j 2018 enhancement 
+ anti-inflammatory property nobiletin macrophage nano- 
+ emulsion preparation j Agric Food Chem 66:91 98 
+ Lo CH Zeng J 2023 defective lysosomal acidification new prognostic 
+ marker therapeutic target neurodegenerative disease transl 
+ Neurodegener 12:29 
+ Lohan S Raza K Mehta SK Bhatti GK Saini S Singh b 2017 Anti-Alzheimer 
+ potential berberine surface decorate multi-walled carbon 
+ nanotube preclinical evidence int j Pharm 530:263 278 
+ Lyman M Lloyd DG Ji X Vizcaychipi MP ma d 2014 neuroinflammation 
+ role consequence Neurosci Res 79:1 12 
+ Malampati S Song JX chun-kit Tong b Nalluri Yang CB Wang Z 
+ Gopalkrishnashetty Sreenivasmurthy S Zhu Z Liu J Su C Krishnamoorthi S 
+ Iyaswamy Cheung KH Lu JH Li 2020 targeting aggrephagy 
+ treatment alzheimer disease cell 9:311 
+ Martins C Sousa F Araújo F sarmento b 2018 functionalizing PLGA 
+ PLGA derivative drug delivery tissue regeneration application adv 
+ Healthc Mater 7:1701035 
+ Masood F 2016 polymeric nanoparticle target drug delivery system 
+ cancer therapy mater Sci Eng c Mater Biol Appl 60:569 578 
+ McGuire c Stransky L Cotter K Forgac M 2017 regulation v-atpase 
+ activity Biosci Landmark Ed 22:609 622 
+ Meng Q Wang Hua H Jiang Y Wang Y mu H Wu Z Sun K 2018 
+ intranasal delivery huperzine brain lactoferrin-conjugated 
+ n-trimethylated chitosan surface-modified plga nanoparticle 
+ treatment alzheimer disease int j Nanomedicine 13:705 718 
+ Milosch N tanriöver g Kundu rami françois jc Baumkötter F Weyer 
+ sw Samanta Jäschke Brod F Buchholz CJ Kins S Behl c Müller UC 
+ Kögel d 2014 holo-app g-protein-mediated signaling require 
+ sappα-induce activation akt survival pathway cell death Dis 
+ 5:e1391 
+ Mir M Ahmed N Rehman au 2017 recent application plga base 
+ nanostructure drug delivery colloid surf b biointerface 159:217 231 
+ Mishra Kim HJ Shin AH Thayer SA 2012 synapse loss induce 
+ interleukin-1β require pre- post-synaptic mechanism j Neuroimmune 
+ Pharmacol 7:571 578 
+ Mohajeri M behnam b Barreto GE Sahebkar 2019 carbon nanomaterial 
+ amyloid-beta interaction potential detection treatment 
+ Alzheimer disease Pharmacol Res 143:186 203 
+ musa sh Basri M Masoumi hr Karjiban ra malek EA Basri H Shamsuddin 
+ af 2013 formulation optimization palm kernel oil ester nanoemulsion- 
+ load chloramphenicol suitable meningitis treatment colloid 
+ Surf b biointerface 112:113 119 
+ Mustaly-Kalimi S Gallegos W Marr ra gilman-sachs Peterson DA Sekler 
+ Stutzmann GE 2022 protein mishandling impaired lysosomal 
+ proteolysis generate calcium dysregulation Alzheimer 
+ disease proc natl Acad Sci U S 119:e2211999119 
+ Nixon ra Yang ds 2012 Autophagy neuronal cell death neurological 
+ disorder cold Spring Harb Perspect Biol 4:a008839 
+ Ouyang QQ Zhao S Li sd song c 2017 application chitosan 
+ chitooligosaccharide derivative treatment Alzheimer 
+ disease Mar drug 15:322 
+ Pandey YR Kumar S Gupta bk Ali J Baboota S 2016 intranasal delivery 
+ paroxetine nanoemulsion olfactory region management 
+ depression formulation behavioural biochemical estimation 
+ Nanotechnology 27:025102 
+ Pangeni r Sharma S Mustafa g Ali J Baboota S 2014 vitamin e load 
+ resveratrol nanoemulsion brain targeting treatment 
+ Parkinson disease reduce oxidative stress nanotechnology 
+ 25:485102 
+ Pathak R Dash rp Misra M Nivsarkar M 2014 role mucoadhesive 
+ polymer enhance delivery nimodipine microemulsion brain 
+ intranasal route acta pharm sin b 4:151 160 
+ Paul PS cho JY Wu Q Karthivashan g Grabovac E Wille H Kulka M Kar 
+ S 2022 unconjugated plga nanoparticle attenuate temperature- 
+ dependent β-amyloid aggregation protect neuron toxicity 
+ implication alzheimer disease pathology j Nanobiotechnology 20:67 
+ Polito VA Li H Martini-Stoica h Wang b Yang L Xu y swartzlander DB 
+ Palmieri M di Ronza Lee VM Sardiello M Ballabio Zheng H 2014 
+ selective clearance aberrant tau protein rescue neurotoxicity 
+ transcription factor eb embo Mol Med 6:1142 1160 
+ Prévot g soria fn Thiolat ML Daniel J verlhac JB blanchard-desce m 
+ Bezard E Barthélémy p Crauste-Manciet S Dehay b 2018 harness 
+ lysosomal ph plga nanoemulsion treatment lysosomal- 
+ related neurodegenerative disease bioconjug Chem 29:4083 4089 
+ Quick JD Silva C Wong JH lim kl Reynolds R Barron Zeng J Lo CH 
+ 2023 lysosomal acidification dysfunction microglia emerge 
+ pathogenic mechanism neuroinflammation neurodegeneration j 
+ Neuroinflammation 20:185 
+ Rao MV McBrayer MK Campbell J Kumar Hashim Sershen H Stavrides 
+ ph Ohno M Hutton M Nixon ra 2014 specific calpain inhibition 
+ calpastatin prevent tauopathy neurodegeneration restore 
+ normal lifespan tau p301l mouse j Neurosci 34:9222 9234 
+ Rezvantalab S Drude ni Moraveji MK Güvener N Koons EK Shi Y lammer 
+ t Kiessling F 2018 plga-based nanoparticle cancer treatment 
+ Pharmacol 9:1260 
+ Rocha CV gonçalve V da Silva MC Bañobre-López M Gallo J 2022 plga- 
+ base composite biomedical application int J Mol Sci 
+ 23:2034 
+ Root J Merino p nuckol Johnson M Kukar t 2021 lysosome dysfunction 
+ cause neurodegenerative disease lesson frontotemporal 
+ dementia amyotrophic lateral sclerosis Neurobiol Dis 154:105360 
+ Sakhrani NM padh h 2013 Organelle target level drug targeting 
+ drug Des Devel Ther 7:585 599 
+ Salminen Kaarniranta K Kauppinen Ojala J Haapasalo Soininen H 
+ Hiltunen M 2013 impaired autophagy app processing Alzheimer 
+ disease potential role beclin 1 interactome prog Neurobiol 106- 
+ 107:33 54 
+ sánchez-navarro m Giralt E Teixidó m 2017 blood-brain barrier peptide 
+ shuttle Curr opin Chem Biol 38:134 140 
+ Sannerud R et al. 2016 restricted location psen2/γ-secretase determine 
+ substrate specificity generate intracellular aβ pool cell 166:193- 
+ 208 
+ Sarkar C Jones JW Hegdekar N Thayer JA Kumar Faden ai Kane MA 
+ Lipinski MM 2020 pla2g4a/cpla2-mediated lysosomal membrane 
+ damage lead inhibition autophagy neurodegeneration 
+ brain trauma autophagy 16:466 485 
+ selkoe DJ Hardy J 2016 amyloid hypothesis alzheimer disease 
+ 25   year embo Mol Med 8:595 608 
+ Shojaei S Suresh M Klionsky DJ labouta hi Ghavami S 2020a Autophagy 
+ sars-cov-2 infection apossible smart targeting autophagy 
+ pathway virulence 11:805 810 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 
+ NEURAL REGENERATION RESEARCH｜Vol 20｜No 2｜february 2025｜439 
+ NEURAL REGENERATION research 
+ www.nrronline.org 
+ Review 
+ Shojaei S Koleini N Samiei E Aghaei M Cole LK Alizadeh J Islam MI 
+ Vosoughi AR Albokashy M Butterfield y Marzban H Xu F Thliveris J 
+ Kardami E Hatch GM Eftekharpour E Akbari M hombach-klonisch S 
+ Klonisch t Ghavami S 2020b simvastatin increase temozolomide-induced 
+ cell death target fusion autophagosome lysosome febs 
+ J 287:1005 1034 
+ sly ws vogler c 2002 brain-directed gene therapy lysosomal storage 
+ disease go blood- brain barrier proc natl Acad Sci U S 
+ 99:5760 5762 
+ small SA petsko GA 2015 Retromer alzheimer disease parkinson disease 
+ neurological disorder nat rev Neurosci 16:126 132 
+ Sood S Jain K Gowthamarajan K 2014 optimization curcumin 
+ nanoemulsion intranasal delivery design experiment 
+ toxicity assessment colloid surf b Biointerfaces 113:330 337 
+ Soria Lopez JA González HM léger gc 2019 alzheimer disease handb 
+ Clin Neurol 167:231 255 
+ tian X Shi Yin H Wang Y Liu Q Chen W Wu J 2022 nanomaterial 
+ respond lysosomal function tumor treatment cell 11:3348 
+ twarowski b Herbet M 2023 inflammatory process alzheimer disease- 
+ pathomechanism diagnosis treatment review int J Mol Sci 24:6518 
+ Udayar V Chen Y Sidransky E Jagasia r 2022 lysosomal dysfunction 
+ neurodegeneration emerge concept method trend Neurosci 
+ 45:184 199 
+ Unnisa Greig NH Kamal ma 2023 nanotechnology-based gene therapy 
+ credible tool treatment alzheimer disease neural Regen Res 
+ 18:2127 2133 
+ Van Acker ZP Bretou M Annaert W 2019 endo-lysosomal dysregulation 
+ late-onset Alzheimer disease impact genetic risk factor mol 
+ Neurodegener 14:20 
+ Van Acker ZP Perdok Bretou M Annaert W 2021 microglial lysosomal 
+ system Alzheimer disease guardian proteinopathy age res 
+ rev 71:101444 
+ Vest RT Chou CC Zhang H haney ms Li L Laqtom NN Chang b Shuken S 
+ Nguyen Yerra L Yang AC Green C Tanga M Abu-Remaileh M Bassik 
+ MC Frydman J Luo J wyss-coray t 2022 small molecule c381 target 
+ lysosome reduce inflammation ameliorate disease model 
+ neurodegeneration proc natl Acad Sci U S 119:e2121609119 
+ Vilella Belletti d Sauer AK Hagmeyer S sarowar t Masoni M Stasiak N 
+ Mulvihill jje Ruozi b Forni F Vandelli MA Tosi g Zoli m Grabrucker 
+ 2018 reduce plaque size inflammation app23 mouse model 
+ Alzheimer disease chronic application polymeric nanoparticle 
+ cns target zinc delivery j Trace Elem Med Biol 49:210 221 
+ Vingtdeux v dreses-werringloer U Zhao H Davies p Marambaud p 2008 
+ therapeutic potential resveratrol alzheimer disease bmc Neurosci 9 
+ Suppl 2:s6 
+ Viswanathan K Hoover DJ Hwang J Wisniewski ML Ikonne Bahr BA 
+ Wright DL 2012 nonpeptidic lysosomal modulator derive z-phe- 
+ ala-diazomethylketone treat protein accumulation disease acs 
+ Med Chem Lett 3:920 924 
+ Wang F gómez-sintes r Boya p 2018 lysosomal membrane 
+ permeabilization cell death traffic 19:918 931 
+ Wang J Cheng Y Chen L zhu t Ye K Jia C Wang H Zhu M Fan C mo x 
+ 2019 vitro vivo study electroactive reduce graphene oxide- 
+ modify nanofiber scaffold peripheral nerve regeneration acta 
+ Biomater 84:98 113 
+ Wang X Zhou X Li g Zhang Y Wu Y Song W 2017 modification 
+ trafficking app pathogenesis alzheimer disease Mol 
+ Neurosci 10:294 
+ Wang Y Wu Q Anand BG Karthivashan g Phukan g Yang J Thinakaran 
+ g Westaway d Kar S 2020 significance cytosolic cathepsin d 
+ Alzheimer disease pathology protective cellular effect plga 
+ nanoparticle β-amyloid-toxicity Neuropathol Appl Neurobiol 
+ 46:686 706 
+ whyte ls Lau AA Hemsley KM Hopwood jj sargeant tj 2017 endo- 
+ lysosomal autophagic dysfunction drive factor Alzheimer 
+ disease j Neurochem 140:703 717 
+ Woon ck Hui WK Abas R Haron MH Das S Lin TS 2022 natural product- 
+ base nanomedicine recent advance issue treatment 
+ Alzheimer disease curr Neuropharmacol 20:1498 1518 
+ Wu Q Karthivashan g nakhaei-nejad m Anand BG Giuliani F Kar S 2022 
+ native plga nanoparticle regulate app metabolism protect neuron 
+ β-amyloid toxicity potential significance alzheimer disease 
+ pathology int j Biol Macromol 219:1180 1196 
+ xi y Chen Y Jin Y Han g Song M Song t Shi Y Tao L Huang Z Zhou J 
+ Ding y Zhang H 2022 versatile nanomaterial alzheimer disease 
+ pathogenesis inspire disease-modifying therapy j Control Release 345:38- 
+ 61 
+ xu y Propson NE Du S Xiong W Zheng H 2021 Autophagy deficiency 
+ modulate microglial lipid homeostasis aggravate tau pathology 
+ spreading proc natl Acad Sci U S 118:e2023418118 
+ Xue W Zhang J Li y 2023 enhancement lysosome biogenesis 
+ potential therapeutic approach neurodegenerative disease neural 
+ Regen res 18:2370 2376 
+ Xue X Wang LR Sato Y Jiang Y Berg M Yang DS Nixon ra Liang xj 2014 
+ single-walled carbon nanotube alleviate autophagic/lysosomal defect 
+ primary glia mouse model alzheimer disease nano Lett 
+ 14:5110 5117 
+ Yang DS Stavrides p Mohan PS Kaushik S Kumar Ohno M schmidt sd 
+ Wesson DW Bandyopadhyay U Jiang Y Pawlik M peterhoff cm Yang AJ 
+ Wilson DA St George-Hyslop p Westaway d Mathews PM Levy E Cuervo 
+ Nixon ra 2011 therapeutic effect remediate autophagy failure 
+ mouse model alzheimer disease enhance lysosomal proteolysis 
+ Autophagy 7:788 789 
+ Yang Z Zhang Y Yang Y Sun L Han D Li H Wang c 2010 pharmacological 
+ toxicological target organelle safe use single-walled carbon 
+ nanotube drug carrier treat alzheimer disease nanomedicine 
+ 6:427 441 
+ Yin t Liu Y Ji W Zhuang J Chen X Gong b Chu J Liang W Gao J Yin Y 
+ 2023a engineer mesenchymal stem cell-derived extracellular vesicle 
+ state-of-the-art multifunctional weapon Alzheimer disease 
+ theranostic 13:1264 1285 
+ Yin X Zhou H Zhang M Su J Wang X Li S Yang Z Kang Z zhou r 2023b 
+ C(3)N nanodot inhibit aβ peptide aggregation pathogenic path 
+ Alzheimer disease nat Commun 14:5718 
+ Yu C Meng J Chen J Tang X 2009 preparation ergoloid mesylate 
+ submicron emulsion enhance nasal absorption reduce nasal 
+ ciliotoxicity int j Pharm 375:16 21 
+ Yusuf M Khan M alrobaian MM Alghamdi SA Warsi MH Sultana S Khan 
+ ra 2021 brain target polysorbate-80 coat plga thymoquinone 
+ nanoparticle treatment alzheimer disease biomechanistic 
+ insight j Drug Deliv Sci Technol 61:102214 
+ Yuyama K Sun H Usuki S Sakai S Hanamatsu H Mioka t Kimura N Okada M 
+ Tahara h Furukawa J Fujitani N Shinohara y Igarashi y 2015 potential 
+ function neuronal exosome sequester intracerebral amyloid-β 
+ peptide febs Lett 589:84 88 
+ Zenaro E piacentino g constantin g 2017 blood-brain barrier 
+ Alzheimer disease neurobiol Dis 107:41 56 
+ Zhao M Jiang xf Zhang HQ Sun JH Pei h Ma LN Cao y Li h 2021 
+ interaction glial cell blood-brain barrier role 
+ Alzheimer disease ageing res rev 72:101483 
+ c-editor Zhao m s-editor Yu J Li CH l-editor Yu J Song lp 
+ t-editor Jia Y 
+ Downloaded http://journals.lww.com/nrronline bhdmf5ephkav1zeoum1tqfn4a+kjlhezgbsiho4xmi0hcyw 
+ cx1awnyqp/ilqrhd3i3d0odryi7tvsfl4cf3vc4/oavpdda8kkgkv0ymy+78= 06/01/2024 

@@ -1,0 +1,1677 @@
+montañana-rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 1 18 
+ n e u r o s c e n c e 
+ spinal inhibitory neuron degenerate motor 
+ neuron excitatory neuron mouse 
+ model als 
+ Roser montañana-­ 
+ rosell1 Raghavendra selvan1,2 pablo hernández-­ 
+ varas3 Jan M. Kaminski1,2† 
+ Simrandeep Kaur sidhu1 Dana B. ahlmark1 Ole kiehn1 ilary Allodi1,4 
+ Amyotrophic lateral sclerosis als characterize progressive loss somatic motor neuron major fo- 
+ cus direct motor neuron intrinsic property cause degeneration attention 
+ give contribution spinal interneuron present work apply multiplexing detection 
+ transcript machine learning base image analysis investigate fate multiple spinal interneuron pop- 
+ ulation als progression sod1g93a mouse model analysis show spinal inhibitory inter- 
+ neuron affect early disease motor neuron death characterize slow progressive 
+ degeneration excitatory interneuron affect later steep progression report dif- 
+ ferential vulnerability inhibitory excitatory subpopulation study reveal strong interneuron 
+ involvement als development interneuron specific degeneration observation point differential 
+ involvement diverse spinal neuronal circuit eventually determine motor neuron degeneration 
+ introduction 
+ amyotrophic lateral sclerosis als somatic motor neuron de- 
+ generate lead muscle denervation wasting 1 
+ people affect disease progressively lose ability control 
+ muscle perform movement execution movement require 
+ coordinate activation motor neuron pool appropriate mus- 
+ cle activation 2 activation mediate complex network 
+ inhibitory excitatory intraspinal neuron decode input 
+ descending motor pathway afferent sensory input 
+ 3 ventral horn spinal cord inhibitory excit- 
+ atory neuron divide cardinal class v0 v1 v2 
+ v3 identify expression specific molecular marker 
+ define cell fate development 4 research number 
+ vertebrate specie show specific subpopulation inhibi- 
+ tory spinal neuron express glycine γ-­ 
+ aminobutyric acid 
+ gaba excitatory spinal neuron express glutamate 
+ acetylcholine form central pattern generator cpg control 
+ rhythmic movement regulate coordination locomo- 
+ tion 2 3 5 6 
+ cardinal class diversify v0 interneu- 
+ ron base axonal projection excitatory inhibi- 
+ tory neurotransmitter divide class neuron 
+ small group v0 neuron express pitx2 transcription factor 
+ V0C/G subpopulation ipsilaterally projecting contain ei- 
+ ther acetylcholine glutamate localized cen- 
+ tral canal 7 cholinergic v0c neuron main source c 
+ bouton 7 8) large population v0 interneuron con- 
+ tralaterally projecting inhibitory v0d excitatory v0v 
+ characterize expression lack thereof dbx1 evx1 
+ transcription factor control left-­ 
+ right alternation slow 
+ v0d high speed v0v locomotion 9–11 v1 interneuron 
+ large ipsilaterally project inhibitory population 
+ adult mouse 80 glycinergic coexpress- 
+ ing gaba 12 previous study show population 
+ highly heterogeneous depend marker coexpression 
+ 50 subpopulation identify 13 14 mammal v1 
+ interneuron know control speed locomotion 15 
+ Renshaw cell rcs Ia interneuron belong v1 
+ class 12 v2 interneuron ipsilaterally project 
+ divide v2a excitatory interneuron v2b inhibitory inter- 
+ neuron v2a neuron characterize expression tran- 
+ scription factor chx10 16 rhythmically active 
+ locomotion 17 v2b neuron identify gata2/3 expression 
+ 18 v1 interneuron require coor- 
+ dination flexor-­ 
+ extensor alternation 19 20 v3 interneu- 
+ ron project contralaterally ipsilaterally 21 22 
+ excitatory ablation silencing neuron lead change 
+ left-­ 
+ right coordination 21 molecularly define ex- 
+ citatory population shox2 17 hb9-­ 
+ positive 
+ call mnx1 23 neuron shox2 neuron find inter- 
+ mediate area spinal cord 75 coexpress Chx10 
+ remain 25 shox2-­ 
+ positive chx10-­ 
+ negative 
+ know involve rhythm generation 17 hb9 ex- 
+ press motor neuron interneuron inter- 
+ mediate area contribute locomotor rhythm 
+ generation 23 
+ growing evidence report spinal circuit dysregulation 
+ als review 24 cholinergic c bouton motor neuron 
+ undergo change als progression 25 glycinergic inter- 
+ neuron change electrophysiological property early post- 
+ natal p stage ventrally located neuron 
+ excitable 26 recent finding show p45 be- 
+ fore motor neuron degeneration muscle denervation 
+ loss glycinergic synapsis fast motor neuron 27 include 
+ 1department Neuroscience University Copenhagen copenhagen Denmark 
+ 2department Computer Science University Copenhagen copenhagen 
+ Denmark 3core Facility Integrated Microscopy University Copenhagen 
+ Copenhagen Denmark 4school psychology Neuroscience University St 
+ Andrews St Andrews UK 
+ corresponding author email ole.​ 
+ kiehn@​ 
+ sund.​ 
+ ku.​ 
+ dk o.k. iallodi@​ 
+ sund.​ 
+ ku.​ 
+ dk 
+ ia51@​ 
+ st-­ 
+ andrews.​ 
+ ac.​ 
+ uk i.a. 
+ †alexandra Instituttet a/s Rued Langgaards Vej 7 2300 copenhagen S Denmark 
+ copyright © 2024 
+ Authors right 
+ reserved exclusive 
+ licensee American 
+ Association 
+ Advancement 
+ Science claim 
+ original U.S. 
+ Government Works 
+ distribute 
+ Creative Commons 
+ Attribution 
+ NonCommercial 
+ License 4.0 cc by-­ 
+ NC 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 2 18 
+ v1 interneuron synapsis 27 study report 
+ loss v1 v2a interneuron different disease stage 28 29 
+ temporal dynamic potential loss excitatory 
+ inhibitory interneuron ventral spinal cord motor related cir- 
+ cuit disease development reveal 
+ interneuron population essential movement set 
+ perform study 
+ clear challenge type investigation inherent dif- 
+ ficultie able study fate multiple interneuron sub- 
+ population disease progression succeed require 
+ simultaneous visualization molecular marker spinal 
+ cord disease develop previous study multiplexe 
+ antibody staining different marker identify neuro- 
+ nal subpopulation spinal cord 13 recent ad- 
+ vancement multiplexing detection transcript allow 
+ visualization ten hundred marker 
+ time 30 31 multiplexe detection visualization 
+ routinely perform laboratory 32–34 reliable quantifi- 
+ cation multiple transcript cell prove difficult 
+ require manual annotation present study 
+ develop machine learning base tool automize cell segmenta- 
+ tion subsequent transcript registration bioinformatic 
+ analysis pipeline perform spatial analysis differentially express 
+ transcript combination multiplexing detection 
+ computational analysis allow investigate change expres- 
+ sion molecular marker identify multiple class interneuron 
+ spinal cord motor neuron population sod1g93a 
+ mouse time point disease progression presymptomatic 
+ disease stage p30 ii onset locomotor disease stage p63 iii 
+ end disease stage motor neuron death p112 find inhibi- 
+ tory subpopulation interneuron start lose specific marker 
+ e.g. engrailed-­ 
+ 1 en1 calb1 early disease contrast 
+ excitatory interneuron e.g. chx10-­ 
+ positive lose specific mark- 
+ er late stage disease change expression 
+ appear quickly symptomatic stage result point to- 
+ ward large contribution spinal interneuron circuit disease 
+ distinct degenerative temporal dynamic inhibitory ex- 
+ citatory interneuron 
+ result 
+ developmentally define neuronal marker maintain 
+ adult spinal cord 
+ expression molecularly define interneuron marker 
+ mainly characterize mouse development embryonic 
+ postnatal stage 4 13 marker transcription fac- 
+ tor expression appear down-­ 
+ regulate adult tis- 
+ sue make antibody detection sensitive previously show 
+ en1 transcript identify v1 interneuron reliably 
+ detect mouse adult spinal cord   situ hybridization 27 
+ 35 present study compare expression 24 marker 
+ Fig.   1 b p1 p28 mouse spinal cord tissue validate 
+ presence spatial location adult   situ 
+ sequencing technique cartana Fig.   2a replace xeni- 
+ um 10x Genomics 31 technique allow detection 
+ 250 marker time barcode probe 
+ detect specific transcript 31 sequencing information 
+ spatial localization barcode provide x-­ 
+ ​ 
+ y coor- 
+ dinate acquire tile image 31 allow exact lo- 
+ calization transcript spinal cord Fig.   2a 
+ exact subpopulation identification coexpression multiple marker 
+ require outline neuronal soma cell body 
+ need assign potential expression multiple marker 
+ cell previous computational method develop 
+ identify cell body boundary base segmentation nuclear 
+ 4′,6-­ 
+ diamidino-­ 
+ 2-­ 
+ phenylindole dapi staining 32 36 
+ neuron find ventral dorsal area spinal cord 
+ differ substantially shape size ventral neuron larg- 
+ er dorsal neuron characterize small rounder 
+ soma segmentation base nuclear staining 
+ capture diverse cell body size spinal cord segment spinal 
+ neuron implement machine learning deep ensem- 
+ ble approach show Fig.   2a outline cell body 
+ neurotrace provide fluorescent Nissl staining 
+ cytoplasm neuron nucleus neurotrace image analyze 
+ spinal cord tissue obtain   situ sequencing regis- 
+ tere dapi image obtain cartana x-­ 
+ ​ 
+ y coordinate 
+ registration Fig.   2a probabilistic segmentation cell body 
+ b 
+ 
+ Fig. 1 interneuronal marker investigate present study circuitry schematic locomotor circuit mammalian lumbar spinal cord 
+ Shown cardinal ventral interneuron subpopulation v0d v0v v0c v1 v1 rcs v1 ia interneuron v2a v2b v3 shox2 hb9 interneuron 
+ main ipsilateral solid contralateral dash projection inhibitory input show triangle excitatory show circle b panel marker de- 
+ tecte study represent different interneuron population interest transcript expression underlined marker quantify characteriza- 
+ tion interneuron dysregulation als progression 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 3 18 
+ Fig. 2 fate-­ 
+ defining marker present adult mouse tissue Pipeline processing analysis   situ sequencing datum neurotrace nt image 
+ acquire register   situ sequencing datum base 4′,6-­ 
+ diamidino-­ 
+ 2-­ 
+ phenylindole dapi staining segmentation neuronal cell us- 
+ ing machine learning deep ensemble model base use u-­ 
+ net convolutional neural network k-­ 
+ fold cross-­ 
+ validation apply separately 
+ patch 512 × 512 pixel annotate datum p1 52 annotate patch p28 20 annotate patch merge ensemble step obtain proba- 
+ bilistic segmentation confidence threshold structural kernel apply obtain final segmentation   situ sequencing coordinate register 
+ transcript localize segment cell final processing r coordinate normalize plot visualization qualitative 
+ analysis b validation identity marker   situ sequencing technique wild-­ 
+ type wt young adult mouse lumbar spinal cord p28 right compare early postna- 
+ tal p1 leave interneuron population include study pitx2 pink circle V0C/G en1 blue square v1 chx10 green diamond v2a shox2 khaki tri- 
+ angle choline acetyltransferase chat salmon circle v0c motor neuron c validation marker inhibitory interneuron subpopulation adult mouse 
+ tissue include parvalbumin Pvalb blue circle calb1 green square foxp2 khaki diamond pou6f2 salmon triangle sp8 pink circle datum b c 
+ pool n   =   2 section n   =   1 mouse p1 n   =   2 mouse p28 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 4 18 
+ obtain basis neurotrace staining 
+ updated version deep ensemble method previously develop 
+ limited label training datum 37 neuron annotation p1 
+ n   =   52 annotate patch n   =   2 section indepen- 
+ dent mouse p28 tissue n   =   20 annotate patch n   =   2 sec- 
+ tion independent mouse generate train 
+ parallel model u-­ 
+ net convolutional neural network cnn 
+ k-­ 
+ fold cross-­ 
+ validation Fig.   2a final ensemble model ob- 
+ taine combination p1 p28 model 
+ probabilistic segmentation tile image threshold 0.4 con- 
+ fidence structural kernel 5 apply define final 
+ segmentation analysis neuron visualize yellow 
+ green Fig.   2a transcript x-­ 
+ ​ 
+ y coordinate register 
+ segment neuron spatial analysis perform hemi- 
+ cord total n   =   6 p1 n   =   29 p28 spinal cord section 3 
+ 11 mouse respectively analyze validate transcript expres- 
+ sion spatial localization cross section obtain lumbar l 
+ segment 1 3 include study figure   2B show ex- 
+ ample spatial analysis cardinal neuronal identity marker 
+ pitx2 en1 chx10 shox2 choline acetyltransferase chat p1 
+ versus p28 tissue graph include datum spinal cord sec- 
+ tion mouse p1 section mouse p28 
+ marker show different color shape example 
+ spatial segregation marker inhibitory interneuron subpopula- 
+ tion include parvalbumin Pvalb 12 Calbindin calb1 foxp2 
+ pou6f2 sp8 13 combination en1 
+ represent v1 interneuron show Fig.   2C example combi- 
+ natorial expression interneuron marker show fig.   s1 
+ b include colocalization inhibitory marker en1 
+ lack representation marker p28 explain 
+ fact   situ sequencing technique detect 30 tran- 
+ script especially underrepresente lowly express 
+ marker pitx2 combinatorial en1/sp8 portray 
+ dataset 2 6 section 29 take account 
+ dataset show facilitate visualization marker 
+ detect 
+ analysis demonstrate interneuron marker 
+ embryonically early postnatally characterize 
+ spinal interneuron population 4 38 39 find adult 
+ spinal cord basis spatial localization appear 
+ marker-­ 
+ identify interneuron population maintain identity 
+ adult spinal cord 
+ interneuron marker sod1g93a mouse 
+ single mrna molecule quantification healthy sod1g93a 
+ tissue rnascope hiplexup technique acd Bio- 
+ Techne Fig.   3 fig.   s2a rnascope know detect ~95 
+ mrna molecule target transcript hiplexup 
+ technique allow simultaneous detection 48 transcript 
+ tissue 24 transcript originally investigate 
+   situ sequencing Fig.   1b probe design vali- 
+ date acd BioTechne procedure perform 
+ show fig.   s2a series hybridization-­ 
+ amplification 
+ labeling cleave round series image ac- 
+ quire total round probe image round 
+ dapi neurotrace staining include image registration 
+ cell segmentation respectively imagej registration ma- 
+ trixe hiplexup round plus neurotrace gener- 
+ ate basis dapi staining transform 
+ merge 26 superimpose tile image spinal cord section 
+ transcript + dapi + neurotrace fur- 
+ ther processing ZEN software Zeiss machine learning– 
+ base intellesis tool Zeiss cell segmentation 
+ neuron enrichment fig.   s2 b c orange positive frac- 
+ tion   =   neuron include study blue negative frac- 
+ tion   =   background cell x-­ 
+ ​ 
+ y coordinate area 
+ obtain segment neuron intensity mean 
+ sd obtain transcript express neuron 
+ fig.   s2b 
+ different time point include study p30 pre- 
+ symptomatic disease stage p63 onset-­ 
+ of-­ 
+ locomotor-­ 
+ phenotype 
+ disease stage p112 symptomatic disease stage motor 
+ neuron death wild-­ 
+ type wt sod1g93a mouse 
+ include time point analysis perform hemicord 
+ sod1g93a show asymmetrical loss neuron spi- 
+ nal cord similar patient als spinal cord onset 40–43 
+ leave right hemicord analyze mouse 
+ hemisection include hemicord approach 
+ 98.943 neuron segment 84.791 include 
+ study apply soma size threshold 70 μm2 
+ compare number segment neuron condition 
+ time point observe comparable number neuron 
+ include study average 625 segment cell 
+ hemisection multiple unpaired t test Welch correction p30 
+ t   =   0.5782 df   =   38 p   >   0.9999 p63 t   =   1.311 df   =   41 p   =   0.5918 
+ p112 t   =   0.09803 df   =   46 p   >   0.9999 n   =   20 26 hemisection 
+ N   =   3 mouse condition fig.   s2d spatial distribution 
+ segment neuron show individual mouse fig.   s2e 
+ p112 change expression level visually notable 
+ marker e.g. en1 chx10 clear decrease in- 
+ tensity compare control condition Fig.   3 c f 24 
+ marker investigate disease progression sod1g93a 
+ mouse present work follow marker re- 
+ late major class ventral interneuron discuss un- 
+ derline Fig.   1b en1 foxp2 pou6f2 sp8 v1 interneuron 
+ calb1 v1 putative rcs pvalb foxp2 v1 putative ia inter- 
+ neuron chx10 v2a interneuron shox2 excitatory interneu- 
+ ron pitx2 chat vglut2 v0c/g interneuron chat motor 
+ neuron glyt2 gad67 gad65 vglut2 neurotransmitter-­ 
+ define neuron 
+ v1 inhibitory interneuron early dysregulation 
+ differential vulnerability subpopulation 
+ image postprocessing Fig.   4a fig.   s2 b v1 inter- 
+ neuron define inhibitory neuron glyt2-­ 
+ gad65-­ 
+ and/ 
+ gad67-­ 
+ positive positive en1 Fig.   4 b c analysis per- 
+ form presymptomatic disease stage alteration 
+ en1 expression p30 nest unpaire two-­ 
+ tailed t test t   =   1.305 
+ df   =   10 p   =   0.2210 n   =   20 22 hemisection n   =   6 hemicord 
+ mouse condition Fig.   4d previous datum 
+ manual detection show ~25 decrease en1 transcript ex- 
+ pression p63 sod1g93a mouse 27 find 
+ similar decrease expression p63 automize ap- 
+ proach p63 19.2 down-­ 
+ regulation nest unpaire two-­ 
+ tailed 
+ t test t   =   2.493 df   =   10 p   =   0.0318 n   =   21 22 hemisection 
+ N   =   6 hemicord mouse condition Fig.   4d en1 
+ loss exacerbate symptomatic mouse total de- 
+ crease 45.4 compare control p112 nest unpaire 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 5 18 
+ Fig. 3 interneuron marker transcript detect rnascope hiplexup microscopy image obtain rnascope hiplexup multiplexe   situ hybridization wt 
+ leave sod1g93a mouse right p112 include marker characterization interneuron dysregulation facilitate visualization marker divide 
+ subset subset condition overview hemisection show inset high magnification b subset 1 include 
+ neurotransmitter marker glyt2 blue gad67 orange gad65 deep red vglut2 green chat purple c d subset 2 include marker inhibitory v1 
+ population en1 blue foxp2 orange pou6f2 yellow sp8 red calb1 green Pvalb purple arrow point neuron en1+/pou6f2 + yellow en1+/sp8 + 
+ red en1+/calb1 + green putative renshaw cell en1+/foxp2+/pvalb+ purple orange stroke putative v1 ia interneuron e F subset 3 include mark- 
+ er excitatory population chx10 green v2a shox2 purple pitx2 red V0C/G arrow point neuron chx10 + green shox2 + purple 
+ Chx10+/Shox2 + white pitx2 + red 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 6 18 
+ Fig. 4 v1 interneuron population dysregulate sod1g93a mouse analysis workflow b c image hiplexup assay show detection en1 
+ blue nt gray control b sod1g93a c lumbar spinal cord p112 d significant reduction inhibitory glyt2 + gad67 + and/or gad65 + en1 + neuron 
+ sod1g93a mouse red compare control gray p63 p112 nest unpaire two-­ 
+ tailed t test p30 p   =   0.2210 p63 p   =   0.0318 p112 p   <   0.0001 e loss en1 + 
+ neuron sod1g93a mouse right/red compare healthy control left/gray especially ventral-­ 
+ region p112 datum pool p112 sec- 
+ tion show individual cell black dot count-­ 
+ base kernel density estimation dimension main panel x y dimension right 
+ F k hiplexup image en1 blue colocalize v1 subpopulation marker orange foxp2 e f pou6f2 g h sp8 j nt gray 
+ control sod1g93a mouse p112 l n quantification sod1g93a mouse versus control show significant decrease foxp2 + neuron p63 p112 l nest 
+ unpaired two-­ 
+ tailed t test p63 p   =   0.0036 p112 p   <   0.0001 pou6f2 + neuron p63 p112 m nest unpaire two-­ 
+ tailed t test p63 p   =   0.0100 p112 p   =   0.0007 
+ sp8 + neuron p112 n nest unpaire two-­ 
+ tailed t test p63 p   =   0.7444 p112 p   =   0.0083 scale bar 100 μm 2d kernel density e plot 10 bin 
+ viridis scale n   =   6 hemicord mouse fill shape represent biological replicate number hemisection shape technical replicate 
+ biological replicate p30 n(wt   =   22 n(sod1   =   20 p63 n(wt   =   22 n(sod1   =   21 p112 n(wt   =   23 n(sod1   =   26 datum show mean   ±   sd 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 7 18 
+ two-­ 
+ tailed t test t   =   6.379 df   =   47 p   <   0.0001 n   =   23 26 hemi- 
+ section n   =   6 hemicord mouse condition 
+ evident visualization spatial distribution 
+ count-­ 
+ base kernel density estimation Fig.   4 b e 
+ investigate potential differential vulnerability v1 
+ subpopulation analyze FoxP2-­ 
+ pou6f2-­ 
+ sp8-­ 
+ positive neu- 
+ ron 13 p63 p112 time point Fig.   4 f n quantify 
+ neuron positive glyt2 gad65 and/or gad67 en1 
+ marker foxp2 pou6f2 sp8 Fig.   4 F k analysis 
+ reveal differential vulnerability neuron foxp2 
+ p63 37.4 down-­ 
+ regulation nest unpaire two-­ 
+ tailed t test 
+ t   =   3.777 df   =   10 p   =   0.0036 n   =   22 21 hemisection n   =   6 hemi- 
+ cord mouse condition Fig.   4l pou6f2-­ 
+ positive 
+ neuron p63 35.1 down-­ 
+ regulation nest unpaire two-­ 
+ tailed t 
+ test t   =   3.168 df   =   10 p   =   0.0100 n   =   22 21 hemisection n   =   6 
+ hemicord mouse condition Fig.   4 m decrease 
+ number early time-­ 
+ point compare sp8-­ 
+ positive neuron 
+ p63 ns nest unpaire two-­ 
+ tailed t test t    =    0.328 df    =    41 
+ p   =   0.7444 n   =   22 21 hemisection n   =   6 hemicord 
+ mouse condition Fig.   4n despite appear initially resis- 
+ tant sp8-­ 
+ positive neuron reduce number p112 p112 
+ 36.4 down-­ 
+ regulation nest unpaire two-­ 
+ tailed t test t   =   2.754 
+ df   =   47 p   =   0.0083 n   =   23 26 hemisection n   =   6 hemicord 
+ mouse condition Fig.   4n time point foxp2-­ 
+ 
+ pou6f2-­ 
+ expressing neuron decrease number 
+ p112 foxp2 44.3 down-­ 
+ regulation nest unpaire two-­ 
+ tailed t 
+ test t   =   5.502 df   =   47 p   <   0.0001 p112 pou6f2 43.9 downregula- 
+ tion nest unpaire two-­ 
+ tailed t test t   =   3.637 df   =   47 p   =   0.0007 
+ n   =   23 26 hemisection n   =   6 hemicord mouse 
+ condition Fig.   4 l m spatial information change 
+ expression p63 en1 transcript foxp2 pou6f2 
+ sp8 show fig.   s3 d positive neuron include 
+ analysis independently low high ex- 
+ pression transcript show contour plot 
+ display neuron cutoff spatial density 
+ putative rcs ia interneuron member v1 subpopula- 
+ tion analyze p63 p112 functionally define 
+ interneuron population find specific area ventral spi- 
+ nal cord 12 study putative ia interneuron identify 
+ inhibitory interneuron glyt2 + gad65 + and/or gad67 + positive 
+ en1 foxp2 Pvalb Fig.   5 b 12 re- 
+ stricte location ventrolateral area spinal cord 
+ Ia interneuron find Fig.   5D decrease number 
+ inhibitory en1+/foxp2+/pvalb+ neuron find p63 42.0 
+ down-­ 
+ regulation p112 45.8 down-­ 
+ regulation Fig.   5 
+ c d p63 nest unpaire two-­ 
+ tailed t test t   =   3.279 df   =   41 
+ p   =   0.0021 n   =   22 21 hemisection n   =   6 hemicord 
+ mouse condition p112 nest unpaire two-­ 
+ tailed t test t   =   4.760 
+ df   =   47 p   <   0.0001 n   =   23 26 hemisection n   =   6 hemicord 
+ mouse condition putative rcs identify ex- 
+ pression inhibitory marker glyt2 gad65 and/or gad67 
+ combination en1 calb1 Fig.   5 e f ventral 
+ location spinal cord Fig.   5h number ventral inhibi- 
+ tory en1+/calb1 + neuron reduce 52.8 p63 p63 nest 
+ unpaired two-­ 
+ tailed t test t   =   2.587 df   =   10 p   =   0.0271 n   =   22 21 
+ hemisection n   =   6 hemicord mouse condition 
+ Fig.   5 g reduction exacerbate p112 79.5 de- 
+ crease p112 nest unpaire two-­ 
+ tailed t test t   =   3.630 df   =   10 
+ p   =   0.0046 n   =   23 26 hemisection n   =   6 hemicord 
+ mouse condition Fig.   5 g h spatial distribution 
+ putative v1 ia rcs p63 show fig.   s4 b 
+ datum analyze v1 subpopula- 
+ tion affect symptomatic stage sod1g93a mouse 
+ compare wt control early disease 
+ v1 subpopulation differential vulnerability sp8 + neu- 
+ ron resistant loss transcript putative rcs 
+ strongly affect 
+ inhibitory neurotransmitter expression v1 interneuron 
+ survival decrease symptomatic stage en1 
+ transcript lose early 
+ expression glycine transporter 2 glyt2 enzyme 
+ catalyze gaba neurotransmitter gad67 call gad1 
+ gad65 call gad2 investigate time 
+ point Fig.   6 figs.   s5 s6 marker visual- 
+ ize glycinergic gaba-­ 
+ releasing gabaergic neuron respec- 
+ tively glyt2 transcript Fig.   6 b down-­ 
+ regulate 
+ p112 p30 nest unpaire two-­ 
+ tailed t test t   =   0.332 df   =   10 
+ p   =   0.7469 n   =   22 20 hemisection n   =   6 hemicord 
+ mouse condition p63 nest unpaire two-­ 
+ tailed t test t   =   0.881 
+ df   =   41 p   =   0.3836 n   =   22 21 hemisection n   =   6 hemicord 
+ mouse condition p112 nest unpaire two-­ 
+ tailed t 
+ test t   =   3.058 df   =   10 p   =   0.0121 n   =   23 26 hemisection n   =   6 
+ hemicord mouse condition Fig.   6 c d gad67 
+ expression Fig.   6 e f decrease p112 p30 
+ nest unpaire two-­ 
+ tailed t test t   =   0.105 df   =   40 p   =   0.9172 
+ n   =   22 20 hemisection n   =   6 hemicord mouse 
+ condition p63 nest unpaired-­ 
+ tailed t test t   =   1.604 df   =   10 
+ p   =   0.1398 n   =   22 21 hemisection n   =   6 hemicord 
+ mouse condition p112 nest unpaire two-­ 
+ tailed t test t   =   3.399 
+ df   =   47 p   =   0.0014 n   =   23 26 hemisection n   =   6 hemicord 
+ mouse condition Fig.   6 g h change 
+ gad65 transcript level Fig.   6 j observe 
+ investigate time point p30 nest unpaire two-­ 
+ tailed t test 
+ t   =   0.414 df   =   10 p   =   0.6879 n   =   22 20 hemisection n   =   6 hemi- 
+ cord mouse condition p63 nest unpaire two-­ 
+ tailed 
+ t test t   =   1.273 df   =   41 p   =   0.2101 n   =   22 21 hemisection n   =   6 
+ hemicord mouse condition p112 nest unpaire two-­ 
+ tailed t test t   =   0.995 df   =   10 p   =   0.3431 n   =   23 26 hemisection 
+ N   =   6 hemicord mouse condition Fig.   6 k l 
+ investigate inhibitory interneuron survival per- 
+ form lineage trace v1 subpopulation sod1g93a 
+ mouse generate triple transgenic mouse carry 
+ sod1g93a mutation express tdtomato 44 en1 pro- 
+ moter sod1g93a;en1cre;r26rtdtomato mouse Fig.   7a tdtomato-­ 
+ positive neuron quantify wt mouse different time point 
+ compare p63 p84 p112 sod1g93a mouse Fig.   7 b 
+ c quantification tdtomato-­ 
+ positive neuron Fig.   7d 
+ evaluate v1 interneuron fate quantification double-­ 
+ positive tdtomato en1 neuron Fig.   7e evaluate 
+ transcript fate v1 population quantification reveal 
+ significant decrease number tdtomato+ cell symptomatic 
+ mouse p112 compare wt mouse nest one-­ 
+ way analysis vari- 
+ ance anova Dunnett post hoc f3,28 = 3.332 wt control 
+ group n   =   65 hemisection n   =   14 hemicord 7 mouse sod1 
+ p63 p   =   0.4608 n   =   26 hemisection n   =   6 hemicord 
+ mouse sod1 p84 p   =   0.6398 n   =   25 hemisection n   =   6 hemicord 
+ mouse sod1 p112 p   =   0.0115 n   =   27 hemisection n   =   6 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 8 18 
+ hemicord mouse Fig.   7d analysis transcript fate 
+ v1 population show decrease expression en1 
+ p63 maintain p84 decrease p112 
+ nest one-­ 
+ way anova Dunnett post hoc f3,28 = 38.24 wt 
+ control group n   =   65 hemisection n   =   14 hemicord 7 mouse 
+ sod1 p63 p   <   0.0001 n   =   26 hemisection n   =   6 hemicord 
+ mouse sod1 p84 p   =   0.0001 n   =   25 hemisection n   =   6 hemi- 
+ cord mouse sod1 p112 p   <   0.0001 n   =   27 hemisection 
+ N   =   6 hemicord mouse Fig.   7e result 
+ v1 inhibitory interneuron die late disease stage show 
+ significant loss tdtomato-­ 
+ positive neuron p112 en1 
+ transcript lose early stage disease 
+ Fig. 5 putative v1 ia interneuron Renshaw cell dysregulation sod1g93a mouse b colocalization en1 blue foxp2 orange Pvalb 
+ purple transcript detect rnascope hiplexup   situ hybridization wt sod1g93a mouse b p112 c significant reduction inhibitory en1+/foxp2+/ 
+ Pvalb+ neuron ventrolateral region spinal cord v1 Ia interneuron located sod1g93a mouse gray versus wt red p63 p112 nest 
+ unpaired two-­ 
+ tailed t test p63 p   =   0.0498 p112 p   =   0.0016 d spatial distribution count-­ 
+ base kernel density estimation putative ia interneuron pool 
+ p112 spinal cord section datum decrease En1+/ Foxp2+/Pvalb+ neuron sod1g93a mouse right/red compare healthy control left/gray e 
+ F colocalization en1 blue calb1 orange transcript wt e sod1g93a spinal cord f p112 g marked loss inhibitory en1+/calb1 + neuron located 
+ ventral spinal cord rcs find sod1g93a mouse p63 exacerbation p112 nest unpaire two-­ 
+ tailed t test p63 p   =   0.0271 p112 
+ p   =   0.0046 h spatial distribution putative rcs en1+/calb1 + p112 cell ventral spinal cord sod1g93a mouse compare healthy control mouse 
+ evidence marked reduction en1+/calb1 + neuron scale bar 100 μm nt counterstaining gray 2d kernel density d h plot 10 bin 
+ viridis scale n   =   6 hemicord mouse fill number hemisection p30 n(wt   =   22 n(sod1   =   20 p63 n(wt   =   22 n(sod1   =   21 p112 n(wt   =   23 
+ n(sod1   =   26 datum show mean   ±   sd 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 9 18 
+ Fig. 6 inhibitory neurotransmitter marker late affection sod1g93a mouse b e F J Microscopy image show detection transcript blue 
+ rnascope hiplexup   situ hybridization healthy control mouse sod1g93a mouse p112 glyt2 b gad67 e f gad65 j nt 
+ counterstaining gray c g k quantification positive cell different neurotransmitter marker sod1g93a mouse red versus healthy control gray datum 
+ significant decrease glyt2 + neuron p112 c nest unpaire two-­ 
+ tailed t test p30 p   =   0.7469 p63 p   =   0.3836 p112 p   =   0.0121 gad67 + cell 
+ p112 g nest unpaire two-­ 
+ tailed t test p30 p   =   0.9172 p63 p   =   0.1398 p112 p   =   0.0014 change gad65 + cell k nest unpaire two-­ 
+ tailed t test p30 
+ p   =   0.6879 p63 p   =   0.2101 p112 p   =   0.3431 d h l spatial distribution show location count-­ 
+ base kernel density estimation glyt2 + d gad67 + 
+ h gad65 + l cell spinal cord healthy control left/red sod1g93a right/gray mouse p112 scale bar 100 μm 2d kernel density d h 
+ l plot 10 bin viridis scale n   =   6 hemicord mouse fill number hemisection p30 n(wt   =   22 n(sod1   =   20 p63 n(wt   =   22 
+ n(sod1   =   21 p112 n(wt   =   23 n(sod1   =   26 datum show mean   ±   sd 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 10 18 
+ Glutamatergic v2a neuron lose chx10 transcript late 
+ disease shox2+/chx10− v0 g interneuron remain 
+ unaffected vglut2 expression 
+ excitatory glutamatergic vglut2 + interneuron analyze 
+ different time point investigate population 
+ v2a chx10 + shox2 + divide chx10 + 
+ chx10− v0 g pitx2 + v2a interneuron define 
+ chx10 + neuron find intermediate area spinal cord 
+ compare transcript expression wt sod1g93a 
+ mouse Fig.   8 b steep down-­ 
+ regulation 57.6 ob- 
+ serve p112 p30 nest unpaire two-­ 
+ tailed t test t   =   1.392 
+ df   =   10 p   =   0.1941 n   =   22 20 hemisection n   =   6 hemicord 
+ mouse condition p63 nest unpaire two-­ 
+ tailed t 
+ test t   =   0.110 df   =   10 p   =   0.9150 n   =   22 21 hemisection n   =   6 
+ hemicord mouse condition p112 nest unpaire 
+ two-­ 
+ tailed t test t   =   4.894 df   =   47 p   <   0.0001 n   =   23 26 hemisec- 
+ tion n   =   6 hemicord mouse condition Fig.   8c 
+ analysis spatial distribution p112 reveal change 
+ ventral dorsal area Fig.   8d change ob- 
+ serve p30 p63 fig.   s7 b 
+ shox2 + neuron divide shox2+/chx10 + shox2+/ 
+ chx10− 17 Fig.   8 e h subpopulation differen- 
+ tially affect sod1g93a mouse case shox2+/chx10 + 
+ neuron significant 59.6 reduction p112 p112 
+ nest unpaire two-­ 
+ tailed t test t   =   4.410 df   =   10 p   =   0.0013 
+ n   =   23 26 hemisection n   =   6 hemicord mouse 
+ condition Fig.   8 g contrast change expres- 
+ sion shox2+/chx10− neuron time point p112 nest- 
+ ed unpaired two-­ 
+ tailed t test t   =   0.137 df   =   47 p   =   0.8914 n   =   23 
+ 26 hemisection n   =   6 hemicord mouse condition 
+ Fig.   8h change spatial distribution show Fig.   8i 
+ shox2+/chx10 + neuron fig.   s7 c d overall shox2 + 
+ shox2+/chx10− neuron 
+ glutamatergic pitx2-­ 
+ positive v0 g neuron located close 
+ central canal 7 population remain unchanged 
+ number pitx2-­ 
+ positive neuron constant time point 
+ Fig. 7 v1 interneuron fate sod1g93a mouse microscopy image p112 sod1g93a;en1cre;r26rtdtomato mouse lumbar spinal cord rnascope   situ hy- 
+ bridization show tdtomato orange en1 blue chat violet transcript b c magnification tdtomato en1 chat transcript dapi counterstaining 
+ gray intermediate area spinal cord p63 en1cre;r26rtdtomato healthy control mouse wt b p112 sod1g93a;en1cre;r26rtdtomato sod1 c d quantifica- 
+ tion tdtomato+ cell healthy control en1cre;r26rtdtomato gray sod1g93a;en1cre;r26rtdtomato different time point red significant reduction tdtomato+ 
+ cell observe sod1g93a group p112 nest one-­ 
+ way anova Dunnett post hoc wt control group sod1 p63 p   =   0.4608 sod1 p84 p   =   0.6398 sod1 
+ p112 p   =   0.0115 e percentage tdtomato+ cell positive en1 transcript healthy control versus sod1g93a group expression en1 transcript 
+ reduce neuron sod1g93a mouse time point compare wt control nest one-­ 
+ way anova Dunnett post hoc wt control group sod1 p63 
+ p   <   0.0001 sod1 p83 p   =   0.0001 sod1 p112 p   <   0.0001 scale bar 200 μm 100 μm b c biological replicate hemicord show black techni- 
+ cal replicate hemisection show gray sample size wt n   =   14 hemicord 7 mouse n   =   65 hemisection sod1 p63 n   =   6 hemicord mouse n   =   26 
+ hemisection sod1 p84 n   =   6 hemicord mouse n   =   25 hemisection sod1 p112 n   =   6 hemicord mouse n   =   27 hemisection datum show 
+ mean   ±   sd 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 11 18 
+ sod1g93a mouse p30 nest unpaire two-­ 
+ tailed t test t   =   1.765 
+ df   =   40 p   =   0.0852 n   =   22 20 hemisection n   =   6 hemicord 
+ mouse condition p63 nest unpaire two-­ 
+ tailed t test 
+ t   =   0.578 df   =   10 p   =   0.5762 n   =   22 21 hemisection n   =   6 hemi- 
+ cord mouse condition p112 nest unpaire two-­ 
+ tailed 
+ t test t   =   0.294 df   =   10 p   =   0.7746 n   =   23 26 hemisection n   =   6 
+ hemicord mouse condition figs.   s8 d s9 
+ b d f h 
+ chx10 + shox2 + v0 g pitx2 + neuron positive 
+ vesicular glutamate transporter 2 vglut2 7 17 
+ investigate vglut2 expression time point Fig.   9 
+ change detect vglut2 expression stage p30 nest ­NHCDVCD­C­DCCNHEDCDCCH­CCCDCNTDDNDDDDD 
+ Fig. 8 v2a shox2 + 
+ v2a interneuron dysregulate late stage disease sod1g93a mouse b rnascope hiplexup   situ hybridization 
+ microscopy image show detection chx10 transcript green lumbar spinal cord healthy control wt sod1g93a mouse b p112 c significant reduc- 
+ tion number excitatory vglut2 + chx10 + neuron sod1g93a mouse red compare healthy control mouse gray p112 nest unpaire two- 
+ tailed t 
+ test p30 p   =   0.1941 p63 p   =   0.9150 p112 p   <   0.0001 d spatial distribution excitatory chx10 + neuron count- 
+ base kernel density estimation sod1g93a mouse 
+ right/gray versus healthy control mouse left/red pool p112 section loss positive cell intermediate region spinal cord e F colocal- 
+ ization chx10 green shox2 violet transcript RnAscope hiplexup wt e sod1g93a spinal cord f p112 g h quantification excitatory shox2 + 
+ neuron combination chx10 + sod1g93a mouse versus healthy control mouse p112 reveal steep decrease shox2+/chx10 + neuron g change 
+ shox2+/chx10− h nest unpaire two- tail t test shox2 + p   =   0.0137 shox2+/chx10− p   =   0.8914 shox2+/chx10 + p   =   0013 spatial distribution shox2+/ 
+ chx10 + neuron spinal cord p112 sod1g93a mouse versus healthy control mouse show similar pattern observe chx10 + neuron scale bar 
+ 100 μm nt counterstaine gray 2d kernel density d plot 10 bin viridis scale n   =   6 hemicord mouse fill number 
+ hemisection p30 n(wt   =   22 n(sod1   =   20 p63 n(wt   =   22 n(sod1   =   21 p112 n(wt   =   23 n(sod1   =   26 datum show mean   ±   sd 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 12 18 
+ unpaired two-­ 
+ tailed t test t   =   1.557 df   =   40 p   =   0.1273 n   =   22 
+ 20 hemisection n   =   6 hemicord mouse condition 
+ p63 nest unpaire two-­ 
+ tailed t test t   =   1.832 df   =   30 p   =   0.0742 
+ n   =   22 21 hemisection n   =   6 hemicord mouse 
+ condition p112 nest unpaire two-­ 
+ tailed t test t   =   0.099 df   =   10 
+ p   =   0.9225 n   =   23 26 hemisection n   =   6 hemicord 
+ mouse condition Fig.   9c difference spatial 
+ distribution Fig.   9d fig.   s10 
+ datum suggest excitatory population 
+ affect late disease case specific marker 
+ lose neurotransmitter chx10 
+ shox2 population differential vulnerability regard 
+ transcription factor chx10 + shox2+/chx10 + neuron be- 
+ ing affect p112 shox2+/chx10− pitx2 + neuron 
+ appear resistant 
+ cholinergic population affect p112 
+ v0c interneuron 
+ chat marker know down-­ 
+ regulate muscle de- 
+ nervation 45 somatic motor neuron loss observe p112 
+ sod1g93a mouse model 27 46 47 find 
+ down-­ 
+ regulation chat+ cell located ventral 
+ spinal cord correspond putative somatic motor neuron 
+ p112 p112 nest unpaire two-­ 
+ tailed t test t   =   2.348 df   =   47 
+ p   =   0.0231 n   =   23 26 hemisection n   =   6 hemicord 
+ mouse condition 28.4 loss fig.   s11 v0c interneu- 
+ ron positive pitx2 chat 7 analyze figs.   s8 
+ s9 c e g population know rise 
+ c bouton 7 8) affect investigate time 
+ point p30 nest unpaire two-­ 
+ tailed t test t   =   0.257 df   =   40 
+ p   =   0.7989 n   =   22 20 hemisection n   =   6 hemicord 
+ mouse condition p63 nest unpaire two-­ 
+ tailed t test t   =   0.578 
+ df   =   10 p   =   0.6215 n   =   22 21 hemisection n   =   6 hemicord 
+ mouse condition p112 nest unpaire two-­ 
+ tailed t 
+ test t   =   0.123 df   =   10 p   =   0.6579 n   =   23 26 hemisection n   =   6 
+ hemicord mouse condition fig.   s9 c e g 
+ expect motor neuron affect sod1g93a mouse 
+ symptomatic stage cholinergic interneu- 
+ ron population remain unaffected term transcript expression 
+ DISCUSSION 
+ study show spinal interneuron exhibit differential sus- 
+ ceptibility disease progression mouse model als inhibitory 
+ interneuron exhibit early onset start p63 characterize 
+ slow loss neuronal identity follow cell death late stage 
+ excitatory interneuron display later onset start p112 
+ fast loss transcript 
+ condition success study development 
+ method reliably detect coexpression multiple marker 
+ spinal cell population develop analysis pipeline en- 
+ able tracing cell population high fidelity base 
+ detection quantification multiple marker ap- 
+ proach obtain quantitative dataset relative change 
+ transcript expression subpopulation spinal interneuron 
+ disease progression sod1g93a mouse line 
+ demonstrate molecular marker hitherto consid- 
+ ere express development present adulthood 
+ Fig. 9 expression vglut2 excitatory transcript show change sod1g93a mouse b microscopy image rnascope hiplexup   situ hybridiza- 
+ tion show vglut2 transcript green lumbar spinal cord wt sod1g93a mouse b p112 nt gray c quantification vglut2 + neuron sod1g93a 
+ mouse versus healthy control mouse reveal change test time point nest unpaire two-­ 
+ tailed t test p30 p   =   0.1273 p63 p   =   0.0742 p112 p   =   0.9225 
+ d spatial distribution vglut2 + neuron spinal cord healthy control mouse right/gray sod1g93a mouse left/red p112 include count-­ 
+ base kernel 
+ density estimation apparent high density observe sod1g93a mouse effect high number section group scale bar 100 μm 2d 
+ kernel density d plot 10 bin viridis scale n   =   6 hemicord mouse fill number hemisection p30 n(wt   =   22 n(sod1   =   20 
+ p63 n(wt   =   22 n(sod1   =   21 p112 n(wt   =   23 n(sod1   =   26 datum show mean   ±   sd 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 13 18 
+ spinal cord tissue marker delineate 
+ specific cell population derive developmental progenitor 
+ finding allow use transcript cellular marker 
+ adult mouse spinal cord 
+ particular interest v1 interneuron give early 
+ dysregulation involvement sod1g93a locomotor pheno- 
+ type 27 study reveal distinct pattern dysregulation 
+ transcription factor expression different v1 interneuron 
+ population find putative rcs high susceptibil- 
+ ity disease follow putative ia interneuron foxp2-­ 
+  
+ Pou6f2-­ 
+ positive neuron lastly sp8-­ 
+ positive neuron 
+ analysis renshaw cell rc ia interneuron degeneration 
+ rely putative definition population interest 
+ assert neuronal population involve marker 
+ widely accept field identify rcs 
+ Ia interneuron 12 48 49 
+ study reveal putative rcs lose marker en1 
+ calb1 early disease course corroborate early research in- 
+ dicate loss calb1-­ 
+ positive neuron sod1g93a mouse 
+ model loss previously document 10 week p70 
+ immunohistochemistry 50 subsequent loss calb1 mrna 
+ protein observe p80 p100 respectively 51 addition 
+ calbindin-­ 
+  gephyrin-­ 
+ positive neuron report diminish 
+ model 52 finding contrast 
+ Salamatina et al. 29 investigate v1 interneuron 
+ sod1g93a mouse observe change antibody labeling 
+ putative rcs discrepancy result 
+ Salamatina et al. 29 stem methodological experi- 
+ mental design difference notably Salamatina et al. 29 report 
+ low average number rcs 0.5 1.5 cell hemicord 
+ control mouse compare cell hemicord find 
+ study low detection level research 
+ affect ability observe change protein level contrib- 
+ uting differ outcome lack observe change 
+ pou6f2 Salamatina et al. 29 explain dif- 
+ ference previously note study like Wootz et al. 51 altera- 
+ tion mrna level precede protein level change 
+ explain observe difference study nonetheless 
+ study identify similar pattern loss foxp2 sp8 neu- 
+ ron case chx10-­ 
+ positive neuron finding 
+ show similar pattern loss report Salamatina et al. 
+ 29 albeit pronounced begin p110 onset 
+ slightly later loss report romer et al. 28 
+ point divergence study previous research 
+ spatial mapping v1 neuron observe segregate 
+ map pou6f2 sp8 foxp2 previously report anti- 
+ body staining study 13 14 29 discrepancy arise 
+ difference method sensitivity presentation spatial 
+ map bikoff et al. 13 contour plot represent 30th 90th per- 
+ centile 60th 90th percentile density restricted range 
+ density cutoff apply 
+ contour plot include positive neuron find 
+ multiple technical replicate overlap 13 
+ 29 similar contour cutoff presumably 
+ regard cell fate result v1 inhibitory 
+ interneuron lose en1 transcript early stage disease 
+ die later stage transcription factor es- 
+ sential cell differentiation play crucial role 
+ maintain neuronal fate adult postmitotic neuron 53 
+ research demonstrate deplete specific neuron-­ 
+ type 
+ gene adulthood lead disturbance neural identity 
+ neurotransmitter level neuron type include dopami- 
+ nergic serotonergic cholinergic neuron 54–56 disruption 
+ postmitotic maintenance mechanism initiate neuro- 
+ degenerative condition 53 context study similar 
+ mechanism play early loss en1 disease pro- 
+ cess contribute factor initiate v1 neuron degen- 
+ eration eventually follow down-­ 
+ regulation 
+ neurotransmitter marker glyt2 late stage dis- 
+ ease cell death take account previous finding 
+ event occur inhibitory v1 interneuron lose 
+ connectivity motor neuron 27 
+ observe change excitatory marker 
+ coincide motor neuron death finding clearly demon- 
+ strate inhibitory interneuron dysregulation precede motor 
+ neuron death change balance inhibitory/ex- 
+ citatory synaptic input motor neuron pronounced 
+ motor neuron degeneration reflect large consecutive impair- 
+ ment spinal inhibitory excitatory circuit disease inhibi- 
+ tory neurotransmitter deficit emerge late stage disease 
+ compare transcription factor imply presence 
+ reservoir transmitter early disease suggest main- 
+ tenance inhibitory/excitatory phenotype neuron de- 
+ spite ongoing degeneration down-­ 
+ regulation transcription 
+ factor especially inhibitory population aspect 
+ target potential als treatment aim maintain circuit 
+ connectivity 35 restore excitatory/inhibitory balance 
+ motor neuron 
+ observe degeneration specific spinal interneuron sub- 
+ population raise key question mechanism underlie 
+ selective vulnerability definitive answer remain 
+ elusive possible framework suggest Salamatina et al. 
+ 29 propose interneuron direct motor neuron connec- 
+ tivity prone degeneration explanation align 
+ available datum vulnerability rcs ia inter- 
+ neuron shox2 + v2a neuron locomotor pheno- 
+ type previously describe sod1g93a mouse 27 
+ explain unique loss last-­ 
+ order v1 interneuron projec- 
+ tion loss speed change cadence suggest change 
+ rhythm modulation process occur motor neu- 
+ ron level consequently plausible loss extend 
+ v1 neuron project motor neuron encompass v1 
+ interneuron interneuron projec- 
+ tion v0c interneuron project motor 
+ neuron c bouton appear affect sod1g93a 
+ mouse investigate time point 7 
+ gene discovery study investigate molecular 
+ change interneuron motor neuron time require 
+ clarify interneuron initial target degeneration 
+ subsequently spread disease anterogradely motor neuron 
+ degenerate retrograde signal motor neuron 
+ connectivity loss strong indication role inhibi- 
+ tory interneuron disease initiation loss v1 synaptic input 
+ motor neuron precede transcript down-­ 
+ regulation 
+ neuronal death 27 type morphological evidence point to- 
+ ward anterograde cascade start inhibitory interneuron 
+ idea support recent study report motor deficit 
+ motor neuron loss en1 down-­ 
+ regulation 57 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 14 18 
+ gain insight potential role synaptic spread 
+ disease crucial conduct comprehensive analysis 
+ connectivity pattern different interneuron population 
+ fast/slow motor neuron healthy diseased condition 
+ addition investigate molecular mechanism underlie 
+ describe synaptic loss provide valuable information en- 
+ deavor potential shed light intricate mechanism 
+ drive selective vulnerability observe spinal interneuron 
+ material method 
+ experimental animal 
+ animal experiment perform accordance EU 
+ Directive 20110/63/eu approve Danish Animal Inspec- 
+ torate Dyreforsøgstilsynet ethical permit 2018-­ 
+ 15-­ 
+ 0201-­ 
+ 01426 
+ Department Experimental Medicine Faculty Health 
+ Medical Sciences wt c57bl6/j mouse Jackson Laboratory strain 
+ 000664   situ sequencing experiment heterozy- 
+ gous sod1g93a mouse Jackson Laboratory strain 004435 -­ 
+  b6.cg-­ 
+ tg(sod1*g93a)1gur/j als model v1 
+ interneuron fate experiment sod1g93a mouse cross 
+ heterozygous en1cre mouse gift J. Bikoff St. Jude Children 
+ Hospital St Louis tx usa homozygous R26RtdTomato Jackson 
+ Laboratory strain 007914 -­ 
+  b6.cg-gt(rosa)26sortm14(cag- 
+ tdtomato)hze/j strain multiple transgenic keep 
+ c57bl6/j genetic background experiment sod1g93a 
+ mouse wt littermate control genotyping sod1g93a 
+ perform follow supplier instruction quantification 
+ human mutate sod1 copy number quantitative polymerase 
+ chain reaction Jackson sod1g93a founder breeder carry 25 
+ copy human mutate sod1 gene positive con- 
+ trol SOD1127X carry 19 copy negative con- 
+ trol mouse group-­ 
+ house 12:12-­ 
+ hour light dark cycle 
+ food water ad    libitum 23 ° 24 ° c temperature 45 
+ 65 humidity 
+ preparation fresh-­ 
+ frozen tissue 
+ sample collect p1 p28   situ sequencing experi- 
+ ment p30 p63 p112 rnascope hiplexup experiment 
+ p63 p84 p112 v1 fate experiment male 
+ female mouse anesthetize overdose pen- 
+ tobarbital solution 250 mg/kg euthanize decapitation 
+ lumbar region spinal cord quickly dissect free 
+ remove vertebrate canal fresh-­ 
+ frozen immersion 
+ dry ice-­ 
+ cold isopentane cryoprotection well preserva- 
+ tion sample store −80 ° c section closely 
+ use spinal cord coronal section embed tissue-­ 
+ Tek 
+ OCT Compound Sakura ref 4583 cut cryostat 12 μm 
+ Thermo Fisher Scientific cryostar nx70 Microm hm550 col- 
+ lecte SuperFrost plus glass slide Thermo Fisher Scientific 
+ store −80 ° c avoid rna degradation equip- 
+ ment tool involve rna work clean rnasezap 
+ Thermo Fisher Scientific am9780 am9786 use 
+ situ sequence 
+ assay 
+ situ sequencing perform cartana Library Prep 
+ Kit CARTANA/10x Genomics art no. 1010-­ 
+ 01/02 later replace 
+ Xenium 10x Genomics sample preparation perform 
+ describe user manual doc no. d023 briefly sample 
+ fixate provide fixation solution follow incubation 
+ permeabilization solution dehydration ethanol series 
+ rehydration sample incubate reverse transcription 
+ postfixation padlock probe ligation roll circle amplification 
+ fluorescent labeling provide mix dehydrate 
+ mount follow supplier instruction incubation 
+ perform SecureSeal Hybridization Chambers Grace Bio-­ 
+ Labs ref 621502 chimeric padlock probe custom 
+ cartana include 24 neuron marker Fig.   1b 
+ pitx2 evx1 chat en1 foxp2 pou6f2 sp8 lmo3 bhlhb5 nr3b3 
+ nr4a2 prdm8 calb1 calb2 Pvalb chx10 shox2 mnx1 vglut2 
+ glyt2 gad67 gad65 lhx1 lhx5 quality control per- 
+ form anchor probe label cy3 fluorophore detect 
+ amplification product quality control image take in-­ 
+ house 20 × air objective Zeiss Axio Imager z1 
+ Zeiss Axio Scan z1 slide scanner ec plan-­ 
+ Neofluar 20 × /0.50 m27 
+ plan-­ 
+ Apochromat 20 × /0.8 m27 respectively 0.227 μm/pixel 
+ approve CARTANA/10x Genomics process sample 
+ send CARTANA/10x Genomics   situ barcode se- 
+ quencing imaging datum processing briefly adapter probe 
+ sequencing pool contain af488 cy3 cy5 af750 label 
+ hybridize ligate padlock probe detect nu- 
+ cleotide gene-­ 
+ specific barcode sequence-­ 
+ specific 
+ signal follow imaging perform time 
+ row allow decoding barcode probe raw datum 
+ obtain Nikon microscope system 40 × objective 
+ 0.165 μm/pixel cfi plan-­ 
+ Apochromat λ 20 × /0.75 0.32 μm/ 
+ pixel image include dapi plus sequencing label 
+ take z-­ 
+ stack flatten maximum intensity projection 
+ sequencing sample send staining 
+ NeuroTrace 530/615 640/660 invitrogen n21482 n21483 
+ segmentation purpose perform 2-­ 
+ hour incuba- 
+ tion room temperature 1:200 phosphate-­ 
+ buffered saline pbs 
+ Image datum processing 
+ image sequencing processing cartana/10x genom- 
+ ic datum receive include dapi image sequence spinal 
+ cord section csv file gene identity coordinate 
+ pixel unit 0.32 μm/pixel detect transcript transcript datum 
+ present format low high threshold 
+ low threshold neurotrace imaging perform us- 
+ ing Zeiss Axio Imager z1 Zeiss Axio Scan z1 slide scanner 
+ EC plan-­ 
+ Neofluar 20 × /0.50 m27 plan-­ 
+ Apochromat 20 × /0.8 m27 
+ respectively 0.227 μm/pixel dapi counterstaining reim- 
+ aged neurotrace later image registration cell 
+ segmentation base neurotrace staining perform 
+ custom-­ 
+ deep learning model Fig.    2a segmentation 
+ model base ensemble cnn train cross-­ 
+ validate 
+ different partition partial manually annotate image datum 
+ specifically u-­ 
+ net type architecture CNN configura- 
+ tion ensemble member prediction ensemble net- 
+ work yield probabilistic segmentation map presence 
+ neuron cell boundary delineation obtain 0.4 
+ confidence threshold structural kernel 5 probabilis- 
+ tic segmentation mask cell segmentation result regis- 
+ tere sequencing datum base NeuroTrace dapi 
+ DAPI obtain   situ sequencing assay keypoint-­ 
+ base 
+ registration random sample consensus ransac 58 algo- 
+ rithm perform obtain transformation transformation 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 15 18 
+ obtain register dapi apply neurotrace 
+ cell segmentation register cell colocalize 
+ transcript cartana transcript localize with- 
+ segment cell consider total n   =   6 spinal cord sec- 
+ tion mouse p1 n   =   29 section 11 mouse 
+ p28 process analyze analysis perform 
+ rstudio spatial profiling quantification section code 
+ https://doi.org/10.5281/zenodo.10600983 
+ quantitative multiplexe   situ hybridization 
+ rnascope hiplexup 
+ assay 
+ Quantitative multiplexe   situ hybridization perform 
+ rnascope hiplex12 reagent 488 550 647 kit assay ad- 
+ vance cell diagnostics/bio-­ 
+ Techne catalog no. 324194 re- 
+ place HiPlex v2 assay combination rnascope 
+ HiPlexUp Reagent advanced Cell diagnostics/bio-­ 
+ Techne catalog 
+ no. 324190 sample pretreatment hiplexup assay per- 
+ form describe user manual 324100-­ 
+ UM briefly sam- 
+ ple pretreate fixation 4 paraformaldehyde 
+ extend 90 min compare supplier ethanol dehydra- 
+ tion incubation provide protease hiplex12 
+ assay perform hybridization 12 
+ probe follow overnight storage 5 × ssc room tempera- 
+ ture amplification sequential probe labeling imaging 
+ fluorophore cleave fig.   s2a notably concentration 
+ Tween pbst reduce 0.05 assay adapt 
+ use fluorescent channel round fluorophore 
+ instead 12 probe image 
+ cleave hiplexup reagent second round 
+ hiplex12 process manner fig.   s2a combi- 
+ nation probe fluorophore include catalog number 
+ list table   1 assay sample stain neu- 
+ rotrace 530/615 invitrogen n21482 2-­ 
+ hour incubation 
+ room temperature 1:200 pbs reimage segmentation 
+ purpose counterstaine dapi provide kit per- 
+ form describe manual 30-­ 
+ s incubation 
+ mounting imaging round image 
+ round include NeuroTrace image registration 
+ image acquisition processing 
+ imaging round perform Zeiss Axio Scan z1 
+ slide scanner sod1 sample corresponding age-­ 
+ matching 
+ control process image microscopy 
+ setting sample imaging round coronal 
+ spinal cord section scan plan-­ 
+ Apochromat 20 × /0.8 
+ m27 air objective 0.227 μm/pixel z-­ 
+ stack slice in- 
+ crement 2.5 μm autofocuse base dapi staining 
+ minimum section space 120 μm apart image 
+ mouse mouse condition time point 
+ ZEN software Zeiss ZEN desk version 3.5 result tile 
+ Table 1 rnascope hiplexup probe probe specific mouse 
+ hiplexup round 
+ hiplex12 round 
+ Marker 
+ Catalog no. 
+ Fluorophore 
+ 1 
+ 1 
+ lhx5 
+ 885621-­ 
+ t1 
+ af488 
+ bhlhb5 
+ 467641-­ 
+ t2 
+ atto550 
+ pitx2 
+ 412841-­ 
+ t3 
+ atto647n 
+ 2 
+ nr4a2 
+ 423351-­ 
+ t4 
+ af488 
+ shox2 
+ 579051-­ 
+ t5 
+ atto550 
+ pou6f2 
+ 839401-­ 
+ t6 
+ atto647n 
+ 3 
+ foxp2 
+ 428791-­ 
+ t7 
+ af488 
+ nr3b3 errg 
+ 495121-­ 
+ t8 
+ atto550 
+ slc17a6 vglut2 
+ 319171-­ 
+ t9 
+ atto647n 
+ 4 
+ calb1 
+ 428431-­ 
+ t10 
+ af488 
+ chat 
+ 1029981-­ 
+ t11 
+ atto550 
+ gad1 gad67 
+ 400951-­ 
+ t12 
+ atto647n 
+ 2 
+ 5 
+ lhx1 
+ 488581-­ 
+ t1 
+ af488 
+ lmo3 
+ 497631-­ 
+ t2 
+ atto550 
+ evx1 
+ 509161-­ 
+ t3 
+ atto647n 
+ 6 
+ en1 
+ 442651-­ 
+ t4 
+ af488 
+ vsx2 chx10 
+ 438341-­ 
+ t5 
+ atto550 
+ prdm8 
+ 467501-­ 
+ t6 
+ atto647n 
+ 7 
+ mnx1 hb9 
+ 1063561-­ 
+ t7 
+ af488 
+ sp8 
+ 547521-­ 
+ t8 
+ atto550 
+ slc6a5 glyt2 
+ 409741-­ 
+ t9 
+ atto647n 
+ 8 
+ Pvalb 
+ 421931-­ 
+ t10 
+ af488 
+ calb2 calretinin 
+ 485811-­ 
+ t11 
+ atto550 
+ gad2 gad65 
+ 439371-­ 
+ t12 
+ ATTO647N 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 16 18 
+ image split scene scene correspond differ- 
+ ent section image round—728 hiplexup image plus 91 neu- 
+ rotrace image ii stitch base dapi staining iii z-­ 
+ stack 
+ flatten maximum intensity projection iv single-­ 
+ channel image marker export tif format keep- 
+ ing original quality 3094 image fig.   s2a section 
+ break fold discard point sec- 
+ tion mouse keep image different round origi- 
+ nating section register basis 
+ dapi staining Register Virtual Stack Slices trans- 
+ form Virtual Stack Slices plugin Fiji imagej 2.3.0/1.53f51 
+ merge single image 68 image 26 channel neu- 
+ rotrace dapi 24 interneuron marker fig.    s2a 
+ merged image convert czi format anal- 
+ ysis improve segmentation reduce file size image 
+ crop include gray matter region spinal cord 
+ ZEN software Extract polygon macro fig.   s2a 
+ segment basis neurotrace staining 
+ ZEN software intellesis tool 80 confidence split cell water- 
+ shed 50-­ 
+ μm minimum size analyze obtain coordinate 
+ marker intensity profile include intensity mean sd 
+ detect cell fig.   s2b detect positive cell intensity thresh- 
+ old select image interneuron marker base 
+ signal background intensity mean transcript 
+ abundant widespread signal intensity sd 
+ transcript sparse signal group hemicord 
+ mouse include hemisection 
+ analyze hemicord table   s1 analysis perform 
+ rstudio spatial profiling quantification section 
+ code https://doi.org/10.5281/zenodo.10600965 
+ spatial profiling quantification 
+ coordinate normalization spatial profiling positive cell 
+ quantification   situ sequencing quantitative rnascope 
+ hiplexup   situ hybridization perform custom anal- 
+ ysis pipeline script rstudio 2022.02.1 build 461 code 
+ https://doi.org/10.5281/zenodo.10600983 https://doi.org/10.5281/­ 
+ zenodo.10600965 orientation angle individual image 
+ central canal coordinate maximum width height 
+ hemisection measure coordinate normalization stan- 
+ dardized mouse spinal cord hemisection spinal cord orientation 
+ correct rearrr::rotate_2d function leave right hemi- 
+ section split basis coordinate central 
+ canal dplyr::mutate function coordinate cor- 
+ recte hemisection size position basic r function 
+   situ sequencing normalization standardized dimension 
+ spinal cord follow 2050 pixel 656 μm mediolat- 
+ eral 2950 pixel 944 μm dorsoventral early postnatal p1 3450 
+ pixel 1104 μm mediolateral 4400 pixel 1408 μm dorsoventral 
+ young adult p28 Fig.   2a rnascope hiplexup adult stan- 
+ dardized dimension gray matter 930 μm mediolat- 
+ eral 1280 μm dorsoventral fig.    s2b x axis define 
+ parallel mediolateral axis medial origin y axis 
+ define parallel dorsoventral axis ventral origin 
+   situ sequencing experiment transcript localize 
+ segment cell visualize consider qualitative 
+ analysis colocalization en1 transcript v1 marker 
+ visualize represent v1 subpopulation rnascope hi- 
+ plexup experiment positive cell marker identify 
+ basis select intensity threshold describe 
+ basic r function combination marker cell coordinate 
+ describe quantify putative interneuron population 
+ spatial distribution estimate count calculate 
+ two-­ 
+ dimensional kernel density estimation ggplot2::geom 
+ density_2d_filled function count_var   =   count argument 
+ display 10 bin viridis scale density cutoff 
+ situ hybridization rnascope 
+ assay 
+ assessment v1 interneuron fate   situ hybridization per- 
+ form rnascope Multiplex Fluorescent V2 assay ad- 
+ vance cell diagnostics/bio-­ 
+ Techne catalog no. 323100 sample 
+ pretreatment assay perform describe fresh frozen 
+ sample user manual 323100-­ 
+ USM 27 over- 
+ night storage sample 5 × ssc room temperature probe 
+ hybridization follow probe advanced cell diagnostics/ 
+ bio-­ 
+ Techne mm-­ 
+ en1-­ 
+ c1 catalog no. 442651 tdtoma- 
+ to-­ 
+ c3 catalog no. 317041-­ 
+ c3 mm-­ 
+ chat-­ 
+ c2 counterstaine 
+ catalog no. 408731-­ 
+ c2 opal 690 570 520 dye Akoya Biosci- 
+ ence fp1497001kt fp1488001kt fp147001kt 
+ fluorophore respectively 1:1500 trichostatin buffer tsa pro- 
+ vide kit dapi counterstaining provide 
+ kit 
+ image acquisition processing analysis 
+ Images acquire Zeiss Axio Scan z1 slide scanner 
+ Plan-­ 
+ Apochromat 20 × /0.8 m27 air objective 0.227 μm/pixel 
+ z-­ 
+ stack slice increment 1.5 μm autofocuse base 
+ dapi staining minimum section 120 μm apart 
+ image mouse mouse condition time point 
+ ZEN software Zeiss ZEN desk version 3.5 image 
+ split scene stitch base dapi staining z-­ 
+ stack flat- 
+ tene maximum intensity projection ventral region 
+ hemisection crop 760 μm × 650 μm 
+ segment basis tdtomato transcript signal ZEN 
+ software intellesis tool 80 confidence split cell watershe 
+ 50-­ 
+ μm minimum size analyze obtain cell coordinate 
+ intensity profile number segment cell 
+ quantify tdtomato+ cell tdtomato+/en1 + quantification 
+ obtain basis en1 intensity sd threshold 
+ segment cell normalize tdtomato+ number calculate 
+ percentage 
+ statistical analysis 
+ statistical analysis perform GraphPad Prism 
+ software version 10.1.2(324 sample size predetermine 
+ statistical method instead similar previous pub- 
+ lication Allodi et al. 27 experiment mouse 
+ randomly allocate different group block design datum 
+ collection blind experimental group allocation 
+ semiautomate analysis datum perform blind mouse 
+ include dataset rnascope hiplexup datum 
+ analyze nest unpaire two-­ 
+ tailed t test effect size 
+ calculate Cohen ds base statistical datum follow 
+ formula ds = t 
+ √ 
+ nwt + nsod1)∕(nwtnsod1 t t test value 
+ n number section classify trivial < 0.2 
+ small 0.2 0.49 medium 0.5 0.79 large ≥0.8 suggest 
+ Cohen 59 report mean calculate nest 
+ datum figure datum present individual value replicate 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 17 18 
+ shape mean value hemicord fill shape 
+ mean   ±   sd hemicord value corresponding statistical val- 
+ ue include n n t df p value specify text 
+ figure legend extra information include mean differ- 
+ ence   ±   sem 95 confidence interval difference effect size 
+ find table   s1 s3 v1 interneuron fate datum ana- 
+ lyze nest one-­ 
+ way anova Dunnett post hoc 
+ wt control group datum present individual 
+ replicate gray mean value hemicord black 
+ mean   ±   sd hemicord corresponding statistical value in- 
+ cluding n n FDFn DFd p value specify text 
+ figure legend statistical significance report follow 
+ p   <   0.05 p   <   0.01 p   <   0.001 p   <   0.0001 
+ Supplementary Materials 
+ PDF file include 
+ Figs.   s1 s11 
+ table   s1 s3 
+ references notes 
+	  1 	  J. Nijssen L. H. Comley E. Hedlund Motor neuron vulnerability resistance 
+ amyotrophic lateral sclerosis Acta Neuropathol 133 863–885 2017 
+	  2 	  O. Kiehn Locomotor circuit mammalian spinal cord annu Rev. Neurosci 29 
+ 279–306 2006 
+	  3 	  O. Kiehn decode organization spinal circuit control locomotion nat Rev. 
+ Neurosci 17 224–238 2016 
+	  4 	  J. Briscoe A. Pierani T. M. Jessell J. Ericson homeodomain protein code specify 
+ progenitor cell identity neuronal fate ventral neural tube cell 101 435–445 
+ 2000 
+	  5 	  S. Grillner A. El Manira intrinsic operation network locomote 
+ Curr opin neurobiol 31 244–249 2015 
+	  6 	  R. M. Brownstone T. V. Bui spinal interneuron provide input final common path 
+ locomotion prog brain res 187 81–95 2010 
+	  7 	  L. Zagoraiou T. Akay J. F. Martin R. M. Brownstone T. M. Jessell G. B. Miles cluster 
+ cholinergic premotor interneuron modulate mouse locomotor activity neuron 64 
+ 645–662 2009 
+	  8 	  G. B. Miles R. Hartley A. J. Todd R. M. Brownstone spinal cholinergic interneuron 
+ regulate excitability motoneuron locomotion proc natl acad Sci u.s.a. 
+ 104 2448–2453 2007 
+	  9 	  G. M. Lanuza S. Gosgnach A. Pierani T. M. Jessell M. Goulding genetic identification 
+ spinal interneuron coordinate left-­ 
+ right locomotor activity necessary walk 
+ movement neuron 42 375–386 2004 
+	 10 	  a. E. Talpalar J. Bouvier L. Borgius G. Fortin A. Pierani O. Kiehn dual-­ 
+ mode operation 
+ neuronal network involve left-­ 
+ right alternation nature 500 85–88 2013 
+	 11 	  C. Bellardita O. Kiehn phenotypic characterization speed-­ 
+ associate gait change 
+ mouse reveal modular organization locomotor network curr biol 25 1426–1436 
+ 2015 
+	 12 	  F. J. Alvarez P. C. Jonas T. Sapir R. Hartley M. C. Berrocal E. J. Geiman A. J. Todd  
+ M. Goulding postnatal phenotype localization spinal cord v1 derive 
+ interneuron J. Comp neurol 493 177–192 2005 
+	 13 	  J. B. Bikoff M. I. Gabitto A. F. Rivard E. Drobac T. A. Machado A. Miri s. brenner-­ 
+ Morton 
+ E. Famojure C. Diaz F. J. Alvarez G. Z. Mentis T. M. Jessell spinal inhibitory interneuron 
+ diversity delineate variant motor microcircuit cell 165 207–219 2016 
+	 14 	  M. I. Gabitto A. Pakman J. B. Bikoff L. F. Abbott T. M. Jessell L. Paninski Bayesian sparse 
+ regression analysis document diversity spinal inhibitory interneuron cell 165 
+ 220–233 2016 
+	 15 	  S. Gosgnach G. M. Lanuza S. J. Butt H. Saueressig Y. Zhang T. Velasquez D. Riethmacher 
+ E. M. Callaway O. Kiehn M. Goulding v1 spinal neuron regulate speed vertebrate 
+ locomotor output nature 440 215–219 2006 
+	 16 	  s. a. Crone G. Zhong R. harris-­ 
+ Warrick K. Sharma mouse lack v2a interneuron gait 
+ depend speed locomotion J. Neurosci 29 7098–7109 2009 
+	 17 	  K. J. Dougherty L. Zagoraiou D. Satoh I. Rozani S. Doobar S. Arber T. M. Jessell O. Kiehn 
+ Locomotor rhythm generation link output spinal shox2 excitatory 
+ interneuron neuron 80 920–933 2013 
+	 18 	  L. Lundfald C. E. Restrepo S. J. Butt C. Y. Peng S. Droho T. Endo H. U. Zeilhofer  
+ K. Sharma O. Kiehn phenotype v2-­ 
+ derive interneuron relationship 
+ axon guidance molecule epha4 develop mouse spinal cord eur J. Neurosci 26 
+ 2989–3002 2007 
+	 19 	  J. Zhang G. M. Lanuza O. Britz Z. Wang V. C. Siembab Y. Zhang T. Velasquez F. J. Alvarez 
+ E. Frank M. Goulding v1 v2b interneuron secure alternate flexor-­ 
+ extensor 
+ motor activity mouse require limbed locomotion neuron 82 138–150 2014 
+	 20 	  O. Britz J. Zhang K. S. Grossmann J. Dyck J. C. Kim S. Dymecki S. Gosgnach  
+ M. Goulding genetically define asymmetry underlie inhibitory control 
+ flexor-­ 
+ extensor locomotor movement elife 4 e04718 2015 
+	 21 	  Y. Zhang S. Narayan E. Geiman G. M. Lanuza T. Velasquez B. Shanks T. Akay J. Dyck  
+ K. Pearson S. Gosgnach C. M. Fan M. Goulding v3 spinal neuron establish robust 
+ balanced locomotor rhythm walking neuron 60 84–96 2008 
+	 22 	  J. W. Chopek F. Nascimento M. Beato R. M. Brownstone Y. Zhang sub-­ 
+ population 
+ spinal v3 interneuron form focal module layer pre-­ 
+ motor microcircuit cell Rep. 
+ 25 146–156.e3 2018 
+	 23 	  V. Caldeira K. J. Dougherty L. Borgius O. Kiehn Spinal hb9 cre-­ 
+ derive excitatory 
+ interneuron contribute rhythm generation mouse sci Rep. 7 41369 2017 
+	 24 	  S. Mora I. Allodi Neural circuit synaptic dysfunction als-­ 
+ ftd pathology 
+ Neural circuit 17 1208876 2023 
+	 25 	  L. R. Herron G. B. Miles gender-­ 
+ specific perturbation modulatory input 
+ motoneuron mouse model amyotrophic lateral sclerosis neuroscience 226 
+ 313–323 2012 
+	 26 	  C. F. Cavarsan P. R. Steele L. T. Genry E. J. Reedich L. M. McCane K. J. LaPre A. C. Puritz 
+ M. Manuel N. Katenka K. a. Quinlan inhibitory interneuron early dysfunction 
+ sod1 mouse model amyotrophic lateral sclerosis J. Physiol 601 647–667 2023 
+	 27 	  I. Allodi R. montanana-­ 
+ Rosell R. Selvan P. Low O. Kiehn Locomotor deficit mouse 
+ model als parallel loss v1-­ 
+ interneuron connection fast motor 
+ neuron nat commun 12 3251 2021 
+	 28 	  S. H. Romer K. Seedle S. M. Turner J. Li M. L. Baccei S. a. Crone Accessory respiratory 
+ muscle enhance ventilation als model mouse activate excitatory v2a 
+ neuron exp neurol 287 192–204 2017 
+	 29 	  a. Salamatina J. H. Yang S. brenner-­ 
+ Morton J. B. Bikoff L. Fang C. R. Kintner T. M. Jessell 
+ L. B. Sweeney differential loss spinal interneuron mouse model als 
+ Neuroscience 450 81–95 2020 
+	 30 	  F. Wang J. Flanagan N. Su L. C. Wang S. Bui A. Nielson X. Wu H. T. Vo X. J. Ma Y. Luo 
+ rnascope novel   situ rna analysis platform formalin-­ 
+ fix paraffin-­ 
+ embedded 
+ tissue J. Mol diagn 14 22–29 2012 
+	 31 	  R. Ke M. Mignardi A. Pacureanu J. Svedlund J. Botling C. Wahlby M. Nilsson situ 
+ sequencing rna analysis preserve tissue cell nat method 10 857–860 
+ 2013 
+	 32 	  X. Qian K. D. Harris T. Hauling D. Nicoloutsopoulos A. B. munoz-­ 
+ Manchado N. Skene  
+ j. Hjerling-­ 
+ Leffler M. Nilsson probabilistic cell typing enable fine mapping closely 
+ related cell type   situ nat method 17 101–106 2020 
+	 33 	  Y. Wang W. Wang D. Liu W. Hou T. Zhou Z. Ji genesegnet deep learning framework 
+ cell segmentation integrate gene expression imaging genome Biol 24 235 
+ 2023 
+	 34 	  X. Li Z. Andrusivova P. Czarnewski C. M. Langseth A. Andersson Y. Liu D. Gyllborg  
+ E. Braun L. Larsson L. Hu Z. Alekseenko H. Lee C. Avenel H. K. Kallner E. Akesson  
+ I. Adameyko M. Nilsson S. Linnarsson J. Lundeberg E. Sundstrom profile 
+ spatiotemporal gene expression develop human spinal cord implication 
+ ependymoma origin nat Neurosci 26 891–901 2023 
+	 35 	  S. Mora R. von Huth Friis A. Stuckert G. Noes-­ 
+ Holt R. montañana-­ 
+ Rosell A. T. Sørensen 
+ R. Selvan I. Allodi stabilization v1 interneuron-­ 
+ motor neuron connectivity ameliorate 
+ motor phenotype mouse model als biorxiv 2022.12.15.520568 2022 
+	 36 	  P. Bankhead M. B. Loughrey J. A. Fernandez Y. Dombrowski D. G. McArt P. D. Dunne  
+ S. McQuaid R. T. Gray L. J. Murray H. G. Coleman J. A. James m. salto-­ 
+ Tellez  
+ P. W. Hamilton QuPath open source software digital pathology image analysis sci 
+ Rep. 7 16878 2017 
+	 37 	  J. M. Kaminski I. Allodi R. montañana-­ 
+ Rosell R. Selvan O. Kiehn deep ensemble model 
+ segment microscopy image presence limited label datum paper 
+ present MIDL 2021 Conference Lübeck Germany 7 9 July 2021 
+	 38 	  M. Goulding circuit control vertebrate locomotion move new direction nat 
+ Rev. Neurosci 10 507–518 2009 
+	 39 	  O. Kiehn development functional organization spinal locomotor circuit curr 
+ opin neurobiol 21 100–109 2011 
+	  40 	  N. Lubben E. Ensink G. A. Coetzee V. Labrie enigma implication brain 
+ hemispheric asymmetry neurodegenerative disease brain Commun 3 fcab211 2021 
+	 41 	  J. Ravits P. Paul C. Jorg focality upper low motor neuron degeneration 
+ clinical onset als neurology 68 1571–1575 2007 
+	 42 	  Y. Mochizuki T. Mizutani T. Takasu Amyotrophic lateral sclerosis marked 
+ neurological asymmetry clinicopathological study Acta Neuropathol 90 44–50 1995 
+	 43 	  a. acevedo-­ 
+ Arozena B. Kalmar S. Essa T. Ricketts P. Joyce R. Kent C. Rowe A. Parker  
+ A. Gray M. Hafezparast J. R. Thorpe L. Greensmith E. M. Fisher comprehensive 
+ Downloaded https://www.science.org June 01 2024 
+ Montañana-Rosell et al. Sci adv 10 eadk3229 2024      31 2024 
+ s c e n c e   d va n c e s   | r e s e r c h   r t c l e 
+ 18 18 
+ assessment sod1g93a low-­ 
+ copy transgenic mouse model human 
+ amyotrophic lateral sclerosis dis model mech 4 686–700 2011 
+	 44 	  L. Madisen T. A. Zwingman S. M. Sunkin S. W. oh H. A. Zariwala H. Gu L. L. Ng  
+ R. D. Palmiter M. J. Hawrylycz A. R. Jones E. S. Lein H. Zeng robust high-­ 
+ throughput cre reporting characterization system mouse brain nat 
+ Neurosci 13 133–140 2010 
+	 45 	  L. R. Fischer D. G. Culver P. Tennant a. a. Davis M. Wang a. castellano-­ 
+ Sanchez J. Khan 
+ M. a. Polak J. D. Glass Amyotrophic lateral sclerosis distal axonopathy evidence 
+ mouse man exp neurol 185 232–240 2004 
+	  46 	  a. M. Schaefer J. R. Sanes J. W. Lichtman compensatory subpopulation motor neuron 
+ mouse model amyotrophic lateral sclerosis J. Comp neurol 490 209–219 2005 
+	 47 	  I. Allodi L. Comley S. Nichterwitz M. Nizzardo C. Simone J. A. Benitez M. Cao S. Corti  
+ E. Hedlund differential neuronal vulnerability identify igf-­ 
+ 2 protective factor 
+ als sci Rep. 6 25960 2016 
+	  48 	  F. J. Alvarez D. E. Dewey p 
+ McMillin R. E. Fyffe Distribution cholinergic contact 
+ Renshaw cell rat spinal cord light microscopic study J. Physiol 515 787–797 1999 
+	 49 	  E. J. Geiman M. C. Knox F. J. Alvarez postnatal maturation gephyrin/glycine receptor 
+ cluster develop renshaw cell J. Comp neurol 426 130–142 2000 
+	 50 	  Q. Chang L. J. Martin glycinergic innervation motoneuron deficient amyotrophic 
+ lateral sclerosis mouse quantitative confocal analysis J. Pathol 174 574–585 2009 
+	  51 	  H. Wootz e. fitzsimons-­ 
+ Kantamneni M. Larhammar T. M. Rotterman A. Enjin K. Patra  
+ E. Andre B. Van Zundert K. kullander F. J. Alvarez alteration motor neuron-­ 
+ renshaw 
+ cell circuit sod1(g93a mouse model J. Comp neurol 521 1449–1469 2013 
+	 52 	  F. Fornai P. Longone L. Cafaro O. Kastsiuchenka M. Ferrucci M. L. Manca G. Lazzeri  
+ A. Spalloni N. Bellio P. Lenzi N. Modugno G. Siciliano C. Isidoro L. Murri S. Ruggieri  
+ A. Paparelli lithium delay progression amyotrophic lateral sclerosis proc natl acad 
+ Sci u.s.a. 105 2052–2057 2008 
+	 53 	  E. S. Deneris O. Hobert Maintenance postmitotic neuronal cell identity nat Neurosci 
+ 17 899–907 2014 
+	 54 	  B. Kadkhodaei A. Alvarsson N. Schintu D. Ramskold N. Volakakis E. Joodmardi  
+ T. Yoshitake J. Kehr M. Decressac A. Bjorklund R. Sandberg P. Svenningsson  
+ T. Perlmann transcription factor nurr1 maintain fiber integrity nuclear-­ 
+ encode 
+ mitochondrial gene expression dopamine neuron proc natl acad Sci u.s.a. 110 
+ 2360–2365 2013 
+	 55 	  N. N. Song J. B. Xiu Y. Huang J. Y. Chen L. Zhang L. Gutknecht K. P. Lesch H. Li  
+ Y. Q. Ding adult raphe-­ 
+ specific deletion lmx1b lead central serotonin deficiency 
+ plos 6 e15998 2011 
+	 56 	  C. Liu T. Maejima S. C. Wyler G. Casadesus S. Herlitze E. S. Deneris pet-­ 
+ 1 require 
+ different stage life regulate serotonergic function nat Neurosci 13 
+ 1190–1198 2010 
+	 57 	  M. Leboeuf S. e. vargas-­ 
+ Abonce E. peze-­ 
+ Hedsieck E. Dupont L. jimenez-­ 
+ Alonso  
+ K. L. Moya A. Prochiantz engrailed-­ 
+ 1 transcription factor paracrine neurotrophic 
+ activity adult spinal α-­ 
+ motoneuron embo Rep. 24 e56525 2023 
+	 58 	  m. A. Fischler R. C. Bolles random sample consensus commun acm 24 381–395 
+ 1981 
+	 59 	  J. Cohen Statistical Power Analysis Behavioral Sciences Lawrence Erlbaum 
+ Associates ed 2 1988 
+ acknowledgment acknowledge Department Experimental Medicine 
+ University copenhagen especially A. S. Laugesen Core Facility integrated 
+ Microscopy Faculty Health Medical Sciences University Copenhagen thank I. 
+ vesth-­ 
+ Hansen M. Bjerre technical assistance N. Meola S. Wrobel acd bio 
+ biotechne technical support discussion funding work support 
+ Lundbeck Foundation r346-­ 
+ 2020-­ 
+ 2025 R250-­ 
+ 2017-­ 
+ 586 I.A. louis-­ 
+ Hansen Foundation 
+ 21-­ 
+ 2b-­ 
+ 9477/l102 I.A. Læge Sofus Carl Emil Friis og hustru Olga Doris Friis Foundation 
+ 1218471001 I.A. Novo Nordisk Laureate Program nnf15oc0014186 O.K. 
+ Lundbeck Foundation r345-­ 
+ 2020-­ 
+ 1769 O.K. louis-­ 
+ Hansen foundation 18-­ 
+ 2b-­ 
+ 3570 
+ R.M.R. Faculty Health Medical Sciences University copenhagen O.K. 
+ I.A. School psychology Neuroscience University St Andrews I.A. 
+ Author contribution conceptualization I.A. O.K. r.m.-­ 
+ R. Methodology I.A. R.M.-­ 
+ R. 
+ R.S. p.h.-­ 
+ V. J.M.K. Investigation I.A. R.M.-­ 
+ R. R.S. d.b.a. S.K.S. Supervision I.A. 
+ O.K. writing original draft I.A. O.K. r.m.-­ 
+ R. Competing interest ACD bio 
+ cartana support study in-­ 
+ kind contribution author declare 
+ compete interest datum material availability datum support 
+ finding study available University St Andrews Research Portal 
+ link https://doi.org/10.17630/6985fab0-­ 
+ c649-­ 
+ 4e71-­ 
+ 9592-­ 
+ dbda527040ec code 
+ analyze datum available Zenodo https://zenodo.org/doi/10.5281/zenodo.10600982 
+ https://zenodo.org/doi/10.5281/zenodo.10600964 datum need evaluate 
+ conclusion paper present paper and/or Supplementary Materials detail 
+   situ sequencing hiplexup probe provide 10x Genomics 
+ acd bio pende scientific review complete material transfer agreement request 
+ probe sequence detail submit 10x Genomics Inc. Delaware 
+ corporation have principal place business 6230 Stoneridge Mall Road Pleasanton 
+ 94588 USA advanced Cell Diagnostics Inc. located 7707 Gateway Blvd Newark 
+ 94560 USA 
+ submit 22 August 2023 
+ Accepted 29 April 2024 
+ publish 31 2024 
+ 10.1126/sciadv.adk3229 
+ Downloaded https://www.science.org June 01 2024 

@@ -1,0 +1,1347 @@
+journal Parkinson disease xx 20xx x xx 
+ DOI 10.3233/jpd-240075 
+ ios Press 
+ correct proof 
+ 1 
+ Research Article 
+ Localized Pantothenic Acid vitamin b5 
+ reduction present 
+ Dementia Lewy Bodies Brain 
+ Melissa scholeﬁelda,∗ Stephanie J. Churcha Jingshu Xub Stefano Patassinib 
+ Garth J.S. Coopera b 
+ adivision Cardiovascular Sciences School Medical Sciences Faculty Biology Medicine Health 
+ University Manchester Manchester UK 
+ bSchool Biological Sciences Faculty Science University Auckland Private Bag Auckland New Zealand 
+ Accepted 10 April 2024 
+ Abstract 
+ Background localized pantothenic acid deﬁciencie observe neurodegenerative disease 
+ Alzheimer disease ad Parkinson disease dementia pdd Huntington disease hd indicate downstream 
+ energetic pathway perturbation study perform deﬁciencie occur 
+ dementia lewy body dlb brain pattern dysregulation 
+ objective firstly study aim quantify pantothenic acid level region brain order determine 
+ localization pantothenic acid dysregulation dlb secondly localization pantothenic acid alteration 
+ compare previously ad pdd hd brain 
+ method pantothenic acid level determine 20 individual dlb 19 control ultra-high performance 
+ liquid chromatography-tandem mass spectrometry uhplc ms/ms brain region case control difference 
+ determine nonparametric mann Whitney U test calculation s-value risk ratio e-value effect 
+ size result compare previously obtain dlb ad hd 
+ result pantothenic acid level signiﬁcantly decrease investigate brain region pon substantia 
+ nigra motor cortex middle temporal gyrus primary visual cortex hippocampus level pantothenic acid dys- 
+ regulation similar ad brain pantothenic acid decrease motor cortex middle 
+ temporal gyrus primary visual cortex hippocampus dlb appear differ neurodegenerative disease 
+ pantothenic acid dysregulation cerebellum 
+ conclusion pantothenic acid deﬁciency appear share mechanism neurodegenerative disease 
+ difference localization dysregulation contribute differ clinical pathway observe 
+ condition 
+ ∗correspondence Melissa Scholeﬁeld division cardio- 
+ vascular Sciences School Medical Sciences Faculty Biology 
+ Medicine Health University Manchester Manchester 
+ M13 9nt UK e-mail melissa.scholeﬁeld@manchester.ac.uk 
+ issn 1877 7171 © 2024 author publish ios Press Open Access article distribute term 
+ Creative Commons Attribution-NonCommercial License cc by-nc 4.0 
+ 2 
+ M. Scholeﬁeld et al. Pantothenic Acid Deﬁciency DLB Brain 
+ plain Language Summary 
+ Decreases molecule call pantothenic acid know vitamin b5 observe area 
+ brain multiple dementia disease include Alzheimer disease Parkinson disease dementia Huntington disease 
+ unknown change occur dementia disease dementia lewy body 
+ show symptom molecular change condition study perform order 
+ determine change pantothenic acid occur dementia lewy body brain 
+ methodology call liquid chromatography mass spectrometry able measure pantothenic acid level highly 
+ precise manner brain tissue find region dementia lewy body brain decrease 
+ pantothenic acid include involve movement substantia nigra motor cortex region 
+ associate cognition memory hippocampus look similar pattern change 
+ see alzheimer disease possible change contribute progression dementia lewy body 
+ study need perform determine point change happen disease 
+ contribute development symptom 
+ Keywords pantothenic acid vitamin b5 dementia lewy body mass spectrometry metabolomic uhplc ms/ms 
+ lewy body dementia 
+ INTRODUCTION 
+ Dementia lewy body dlb neurode- 
+ generative disease clinically diagnose 
+ presence parkinsonian motor dysfunction present- 
+ ing year follow onset cognitive 
+ decline contrast Parkinson disease 
+ dementia pdd motor dysfunction pre- 
+ cede cognitive decline 1 present relative 
+ onset cognitive motor dysfunction pri- 
+ mary mean distinguish dlb pdd 
+ clinical neuropathological pre- 
+ sentation similar neuropathologically 
+ condition present extensive dopaminergic 
+ neuronal loss primarily substantia nigra 
+ par compacta snpc spread 
+ brain disease progress neuronal loss 
+ accompany extensive deposition -synuclein- 
+ contain lewy body dlb present 
+ somewhat cortical deposition lewy 
+ body 2 case end- 
+ stage neuropathological presentation 
+ disease make difﬁcult distinguish 
+ postmortem 
+ complicate matter dlb show 
+ similarity common neurodegen- 
+ erative disease alzheimer disease ad prior 
+ onset motor dysfunction dlb 
+ difﬁcult distinguish ad clinic 
+ support clinical criterion include presence 
+ rem-behavior sleep disorder rbd restless leg 
+ syndrome hallucination 1 
+ present neuropathologically ad 
+ characterize primarily cholinergic neuronal loss 
+ hippocampus hp accompany mis- 
+ fold amyloid- tau inclusion 
+ third dlb case present amyloid- 
+  tau pathology postmortem 3 
+ half ad case -synuclein pathology 
+ 4 deﬁnitive diagnosis remain challenge 
+ suggest half dementia case 
+ fact case mixed dementia 5 fur- 
+ ther complicate diagnosis cause issue 
+ admit dlb patient correct treatment 
+ pathway therapeutic safe use 
+ case pdd ad typical tradi- 
+ tional antipsychotic harmful administer 
+ individual dlb 6 
+ issue raise importance identi- 
+ fye additional clinical neuropathological criterion 
+ able distinguish dlb 
+ similar neurodegenerative condition 
+ identify mechanistic pathway 
+ involve differ clinical presentation 
+ dlb necessity differ therapeutic 
+ pathway treatment possible cri- 
+ terion presence localized pantothenic 
+ acid aka vitamin b5 deﬁciencie brain 
+ individual different neurodegenerative dis- 
+ ease pantothenic acid essential vitamin 
+ human body essential synthesis coen- 
+ zyme (coa)—a molecule play essential vital 
+ role metabolic process include neu- 
+ rotransmitter synthesis fatty acid metabolism 
+ bioenergetic pathway citric acid cycle 
+ 7 previous study perform lab 
+ M. Scholeﬁeld et al. Pantothenic Acid Deﬁciency DLB Brain 
+ 3 
+ directly comparable methodology identiﬁed 
+ localized decrease sn medulla med 
+ ponsofthepddbrain[8],inthemotorcortex(mcx 
+ primary visual cortex pvc hp middle temporal 
+ gyrus mtg cingulate gyrus cg ad 
+ brain 9 hp sn putaman 
+ globus pallidus gp middle frontal gyrus mfg 
+ entorhinal cortex ent Huntington dis- 
+ ease hd brain [10]—with cerebellum cb 
+ region observe alter 
+ condition dysregulation pantothenic 
+ acid level indicate presence localized 
+ deﬁciencie downstream pathway par- 
+ ticular energy production pathway contribute 
+ pathogenesis disease 
+ aim study carry simi- 
+ lar investigation multiple region dlb 
+ brain method order identify 
+ pantothenic acid alteration present 
+ dlb brain change localized 
+ pattern pantothenic alteration 
+ dlb brain similar different observe 
+ ad pdd hd study represent ﬁrst 
+ investigation pantothenic acid level 
+ dlb brain 
+ method 
+ study involve human participant 
+ review 
+ 
+ approve 
+ 
+ Manchester 
+ REC 
+ 09/h0906/52 + 5 NZ Neurological Foundation 
+ Douglas Human Brain Bank UK MRC Brain 
+ Bank Network patients/participant provide 
+ write informed consent participate 
+ study high value additional 
+ statistical test perform risk ratio e- 
+ value s-value effect size indicate 
+ reliability current study ﬁnding 
+ acquiring tissue pantothenic acid 
+ quantiﬁcation 
+ purpose study brain tissue 
+ region include cerebellum level 
+ dentate nucleus cb motor cortex mcx primary 
+ visual cortex pvc hippocampus hp pon ante- 
+ rior cingulate gyrus cg medulla med substantia 
+ nigra sn putaman middle temporal 
+ gyrus mtg obtain 20 conﬁrme case 
+ dlb 19 dementia-free control 
+ Sepulveda Harvard brain bank NIH 
+ neurobiobank network brain region select 
+ base criterion 1 coverage region 
+ typically high level neurodegeneration 
+ moderate low neuronal loss 
+ protein deposition order ascertain pan- 
+ tothenic acid alteration match typical pattern 
+ neurodegeneration dlb 2 coverage 
+ region previously assess ad 
+ PDD hd order able perform direct 
+ regional comparison 
+ patient datum available brain bank 
+ collect record include age death sex 
+ postmortem delay pmd -synuclein Braak stage 
+ dlb subtype comorbiditie Supplementary 
+ Material individual patient datum case 
+ control match closely possible 
+ criterion individual region pos- 
+ sible pmd keep 24 hour accordance 
+ previous study conduct lab 
+ pantothenic acid level find change 
+ rat cortex cerebellum period 
+ 24 hour 11 
+ diagnosis dlb case 
+ case control diagnose refer- 
+ ring neuropathologist Sepulveda Harvard 
+ brain bank NIH neurobiobank frame- 
+ work dlb case receive clinical diagnosis 
+ dlb lifetime accord dlb 
+ Consortium Criteria 1 neuropathological 
+ diagnosis lewy body dementia lbd accord- 
+ ing McKeith criterion 1 
+ stage accord -synuclein Braak stage 
+ DLB case subtype brainstem-predominant 
+ amygdala-predominant olfactory bulb limbic 
+ diffuse/cortical dlb accord previously 
+ deﬁned criterion 1 short subtype 
+ deﬁnedbyaccordingtothedistributionofa-synuclein 
+ pathology brain 
+ follow pattern traditional Braak stag- 
+ ing 12 mixed dementia dlb/ad case 
+ identiﬁed accord presence ad neu- 
+ ropathology 13 Braak tau score include 
+ possible control diagnose 
+ form dementia lifetime show 
+ -synuclein pathology tau Braak score 
+ < 2 
+ pantothenic acid quantiﬁcation 
+ pantothenic acid quantiﬁcation perform 
+ 
+ previously 
+ validate 
+ method 
+ 14 
+ 
+ 4 
+ M. Scholeﬁeld et al. Pantothenic Acid Deﬁciency DLB Brain 
+ short sample extract 50 50 v/v 
+ methanol chloroform 
+ contain 
+ known 
+ con- 
+ centration 
+ 
+ heavy-labelled 
+ pantothenic 
+ acid 
+ standard 
+ vitamin 
+ b5 
+ di--alanine-13c6,15n2 
+ sigma-aldrich Missouri USA correct 
+ intra- inter-run variability methanol chloroform 
+ internal standard blank prepare sample 
+ lyse TissueLyser batch bead homogeniser 
+ Qiagen Manchester UK carbamide bead 
+ lc ms grade water add lysed sample 
+ centrifugation 2400 × g separate polar 
+ non-polar phase polar methanol phase 
+ transfer fresh tube dry overnight 
+ speedvac centrifugal concentrator savant 
+ Speedvac Thermo Scientiﬁc UK 
+ follow drying 0.1 formic acid add 
+ sample blank solution trans- 
+ ferred 300 l autosampler vial Thermo Fisher 
+ Scientiﬁc Massachusetts USA blank con- 
+ taine 0.1 formic acid prepare 
+ interleave uhplc ms/ms run 
+ Standard solution contain heavy-labelled 
+ pantothenic acid internal standard vitamin b5 di-- 
+ alanine-13c6,15n2 calcium salt ≥98 atom% ≥97 
+ cp 705837 sigma-aldrich unlabelle pan- 
+ tothenic acid external standard d-pantothenic acid 
+ hemicalcium salt ≥98.0 1210 sigma-aldrich 
+ 0.1 formic acid prepare 300 l autosam- 
+ pler vial contain concentration 0–5000 nm 
+ unlabelled 500 nm labelled pantothenic acid 
+ create standard curve 
+ analysis determine concen- 
+ tration pantothenic acid sample 
+ qc contain 20 200 2000 nm unlabelled 
+ 500 nm labelled pantothenic acid standard 
+ 0.1 formic acid prepare inter- 
+ leave run account intra-run 
+ variability 
+ pantothenic acid quantiﬁcation perform 
+ Accela uhplc ms Thermo Fisher Scientiﬁc 
+ Hypersil Gold aq column diameter 
+ 2.1 mm length 100 mm particle size 
+ 1.9 m reverse phase mode Thermo Fisher Sci- 
+ entiﬁc 25302 101130 0.5 m pre-column ﬁlter 
+ Thermo Fisher Scientiﬁc 22016 column 
+ maintain 25 ◦ c nitrogen carrier gas 
+ ﬂow rate 300 l/min electrospray ioniza- 
+ tion source argon collision gas 
+ region analyze run randomization 
+ case control inter-run intra-run vari- 
+ ability control addition know 
+ concentration spiked internal standard 
+ uhplc-ms/ms datum analysis 
+ Peaks identiﬁed base expect reten- 
+ tion time rt base comparison rt 
+ spike pantothenic acid label internal stan- 
+ dard peak manually check ensure correct 
+ identiﬁcation software standard 
+ accept show difference < 15 
+ 6/10 standard require acceptance stan- 
+ dard curve qc show difference > 20 
+ exclude 2/3 successful qc require 
+ set run accept 
+ concentration pantothenic acid sample 
+ determine base standard curve con- 
+ centration correct sample wet-weight 
+ case-control difference analyze GraphPad Prism 
+ v8.1.2 Prism La Jolla non-parametric 
+ mann Whitney U test small sam- 
+ ple size p-value < 0.05 consider signiﬁcant 
+ Shannon diversity index s-value aka surprisal 
+ score calculate take negative 
+ base 2 log p-value conﬁdence interval 
+ calculate follow equation 
+ CI = se ∗z(0.95 
+ 1 
+ se = standard error z(0.95 = 
+ z-score correspond conﬁdence level 
+ 0.95 mann Whitney U calculation perform 
+ graphpad v8.1.2 Prism La Jolla p- 
+ value < 0.05 consider signiﬁcant 
+ order determine statistical power 
+ datum obtain post hoc power analysis 
+ perform statistical power deter- 
+ mine region p < 0.05 p < 0.01 
+ ClinCalc Post Hoc Power Calculator 
+ clincalc llc Chicago il usa available 
+ https://clincalc.com/stats/power.aspx statistical 
+ power > 80 consider good addition 
+ minimum number sample require 
+ conﬁdently determine case control difference 
+ signiﬁcance level p < 0.05 p < 0.01 
+ calculate ClinCalc Sample Size calcula- 
+ tor clincalc llc Chicago il usa available 
+ https://clincalc.com/stats/samplesize.aspx 
+ sensitivity analysis 
+ order assess interpretation 
+ datum obtain current study appropriate 
+ robust sensitivity analysis perform 
+ signiﬁcant p < 0.05 case control difference metal 
+ level individual run mean value 
+ M. Scholeﬁeld et al. Pantothenic Acid Deﬁciency DLB Brain 
+ 5 
+ replicate run take risk ratio 
+ rr e-value effect size determine 
+ explanation give 
+ risk ratio compare risk 
+ health event different group case 
+ compare dlb case control determine 
+ follow equation 
+ RR = 
+ a 
+ b 
+  c 
+ d 
+  
+ 2 
+ = number case value > 95 upper 
+ CI limit control < 95 low ci limit 
+ signiﬁcant decrease observe case 
+ b = number case c = number control value 
+ > 95 upper ci limit control < 95 low 
+ ci limit signiﬁcant decrease observe 
+ case d = number control risk ratio 
+ > 3 consider robust case null 
+ value calculation risk ratio null value 
+ assign value 0.5 
+ e-value calculate risk ratio 
+ upper low conﬁdence limit risk 
+ ratio e-value deﬁne minimum strength 
+ association risk ratio scale potential 
+ confounder treat- 
+ ment e.g. urea level outcome e.g. 
+ increase risk dlb explain away observe 
+ treatment outcome association i.e. observe 
+ association concentration urea 
+ increase risk dlb take account 
+ measure covariate include age sex 
+ pmd high e-value strong con- 
+ founding require nullify treatment outcome 
+ association e-value calculate equa- 
+ tion 3 
+ e value = rr + sqrt(rr x rr–1 
+ 3 
+ calculation e-value rr < 1 
+ inverse risk ratio ﬁrst take e-value 
+ calculate conﬁdence interval risk 
+ ratio range conﬁdence interval cross 
+ 1.0 e-value determine 1.0 other- 
+ wise e-value calculate accord Equation 
+ 5 substitute rr ci close 1.0 
+ effect size describe strength rela- 
+ tionship observe variable 
+ indicate difference present 
+ chance determination effect size 
+ indicate signiﬁcantly altered p < 0.05 
+ variable negligible inﬂuence out- 
+ come conversely variable find 
+ non-signiﬁcant(p < 0.05)intraditionalstatisticaltest- 
+ ing large contribution outcome 
+ occur statistical power low 
+ small sample size effect size 
+ determine Glass delta 
+ glass′ = m1 −m2)/σ control 
+ 4 
+ m1 = mean case value m2 = mean control 
+ value σ control = standard deviation con- 
+ trol group m1 m2 reverse case 
+ signiﬁcant decrease glass delta 
+ group sample size equal standard 
+ deviation unequal effect size value 0.2–0.5 
+ consider small value 0.50 0.80 
+ consider medium size value 0.80 
+ 1.30 consider large effect size > 1.30 
+ consider large 
+ result 
+ Cohort characteristic 
+ study brain tissue obtain 10 
+ region total 20 dlb case 19 con- 
+ trol asnoteverydonorhadtissueavailableforevery 
+ investigatedbrainregion individualnnumbersvaried 
+ region Table 1 
+ case control match closely pos- 
+ sible sex age death pmd 
+ signiﬁcant difference overall cohort 
+ individual brain region sex age death 
+ Table 2 pmd slightly short pmd 
+ case control overall cohort Sup- 
+ plementary table a2 accordance previous 
+ study conduct group assess effect 
+ pmd metabolite brain PMD 
+ keep close 24 hour possible 
+ pantothenic acid level find alter 
+ period time 11 
+ pantothenic acid analysis 
+ pantothenic acid concentration measure 
+ dlb case control region 
+ brain uhplc-ms/ms investigate 
+ region show signiﬁcant p < 0.05 decrease 
+ case compare control Table 3 Fig. 1 
+ individual value Supplementary Material b 
+ include pon 29.3 vs. 32.6 m/kg p = 0.002 
+ sn 47.1 vs. 58.9 m/kg p = 0.004 mcx 45.0 vs. 
+ 84.1 m/kg p = 0.007 mtg 29.7 vs. 47.1 m/kg 
+ p = 0.02 pvc 48.6 vs. 91.5 m/kg p = 0.008 
+ 6 
+ M. Scholeﬁeld et al. Pantothenic Acid Deﬁciency DLB Brain 
+ Table 1 
+ Number case control investigate region 
+ hp 
+ med 
+ mtg 
+ cg 
+ pvc 
+ PONS 
+ MCX 
+ 
+ sn 
+ cb 
+ control 
+ 14 
+ 15 
+ 15 
+ 15 
+ 16 
+ 14 
+ 16 
+ 13 
+ 18 
+ 16 
+ case 
+ 15 
+ 15 
+ 15 
+ 15 
+ 15 
+ 8 
+ 15 
+ 8 
+ 15 
+ 12 
+ Table 2 
+ overall cohort characteristic 
+ Age death y 
+ sex male 
+ pmd h 
+ control n = 19 
+ 73.6 65–85 
+ 57.9 
+ 18.4 8.1–29.1 
+ case n = 20 
+ 74.1 65–85 
+ 60.0 
+ 14.7 (8.0–22.6)∗ 
+ Table show datum age pmd mean range pmd postmortem delay ∗p < 0.05 
+ table 3 
+ pantothenic acid concentration dlb case control 
+ Region 
+ control 
+ m/kg 
+ case 
+ m/kg 
+ fold-change 
+ p 
+ s-value 
+ e-value 
+ rr 
+ RR ci 
+ e-value 
+ Effect 
+ Size 
+ PONS 
+ 32.6 ± 15.4 
+ 19.7–45.4 
+ 29.3 ± 7.5 
+ 23.0–35.5 
+ 0.9 
+ 0.002 
+ 9.3 
+ 8.8 
+ 4.7 
+ 1.7–12.7 
+ 2.8 
+ –1.2 
+ cb 
+ 69.1 ± 31.7 
+ 49.9–88.3 
+ 47.1 ± 21.3 
+ 32.8–61.4 
+ 0.7 
+ 0.1 
+ 3.1 
+ 2.9 
+ 1.8 
+ 0.7–4.7 
+ 1.0 
+ –0.7 
+ sn 
+ 58.9 ± 25.5 
+ 42.7–75.0 
+ 29.7 ± 11.8 
+ 21.8–37.6 
+ 0.5 
+ 0.004 
+ 8.0 
+ 4.9 
+ 2.7 
+ 1.2–6.2 
+ 1.7 
+ –1.2 
+ mcx 
+ 84.1 ± 42.0 
+ 61.7–106.5 
+ 45.0 ± 21.5 
+ 32.1–58.0 
+ 0.5 
+ 0.007 
+ 8.1 
+ 4.9 
+ 2.7 
+ 1.3–5.8 
+ 1.8 
+ –0.9 
+ cg 
+ 35.3 ± 16.2 
+ 26.3–44.3 
+ 25.2 ± 8.6 
+ 20.2–30.2 
+ 0.7 
+ 0.09 
+ 4.5 
+ 2.2 
+ 1.4 
+ 0.7–3.1 
+ 1.0 
+ –0.6 
+ mtg 
+ 47.1 ± 22.9 
+ 34.5–59.8 
+ 29.7 ± 18.9 
+ 13.9–24.3 
+ 0.6 
+ 0.02 
+ 6.0 
+ 3.4 
+ 2.0 
+ 0.9–4.5 
+ 1.0 
+ –0.8 
+ med 
+ 27.3 ± 13.7 
+ 19.4–35.2 
+ 20.4 ± 10.1 
+ 14.5–26.2 
+ 0.8 
+ 0.2 
+ 2.3 
+ 1.6 
+ 1.2 
+ 0.5–2.7 
+ 1.0 
+ –0.5 
+ pvc 
+ 91.5 ± 46.5 
+ 65.7–117.2 
+ 48.6 ± 20.2 
+ 36.4–60.8 
+ 0.5 
+ 0.008 
+ 7.9 
+ 3.3 
+ 1.9 
+ 0.97–3.8 
+ 1.0 
+ –0.9 
+ 
+ 140.6 ± 89.5 
+ 86.5–194.7 
+ 81.8 ± 40.9 
+ 58.2–105.3 
+ 0.6 
+ 0.09 
+ 4.5 
+ 3.1 
+ 1.9 
+ 0.7–4.7 
+ 1.0 
+ –0.7 
+ hp 
+ 91.5 ± 28.7 
+ 73.3–109.8 
+ 49.4 ± 17.8 
+ 39.1–59.7 
+ 0.5 
+ < 0.0001 
+ 11.5 
+ 3.5 
+ 2.1 
+ 1.02–4.2 
+ 1.2 
+ –1.5 
+ Table show mean pantothenic acid concentration 95 conﬁdence interval m/kg case control difference determine 
+ Mann Whitney U test p < 0.05 consider signiﬁcant fold-change case compare control Supplementary Material b 
+ individual datum rr risk ratio 
+ hp 49.4 vs. 91.5 m/kg p < 0.0001 determine 
+ non-parametric mann Whitney U test statis- 
+ tically signiﬁcant difference find cb 
+ cg med 
+ determine pantothenic acid level 
+ change present different brain region 
+ measure statistical signiﬁcance con- 
+ sidere effect size e-value 
+ effect size range medium large 
+ region statistically signiﬁcant difference 
+ observe base p-value range 
+ –0.5 med high –1.5 hp 
+ statistically signiﬁcant region effect size 
+ large 0.8–1.3 large > 1.3 e-value range 
+ 1.6 med 8.8 pon low 
+ e-value statistically signiﬁcant region 3.3 
+ pvc risk ratio range 1.4 cg 
+ 4.7 pon statistically signiﬁcant region 
+ risk ratio range 1.9 pvc 4.7 
+ pon reach robust value > 3 pon 
+ post hoc power analysis perform 
+ investigate brain region determine statistical 
+ power obtain datum Supplementary Table 
+ a10 statistical power ≥80 consider 
+ good region show p < 0.05 statistical 
+ power ≥80 hp show high 
+ power 99.3 follow pon 98.9 
+ sn 94.6 mcx pvc 89.9 
+ M. Scholeﬁeld et al. Pantothenic Acid Deﬁciency DLB Brain 
+ 7 
+ Table 4 
+ pantothenic acid fold-change pdd ad hd 
+ Region 
+ fold-change dlb 
+ fold-change PDD 8 
+ fold-change ad 9 
+ Fold-Change hd 10 
+ cb 
+ 0.7 
+ 0.6 
+ 0.5 
+ 0.6 
+ MCX 
+ 0.5 
+ 0.8 
+ 0.3 
+ 0.6 
+ pvc 
+ 0.5 
+ 0.9 
+ 0.4 
+ 0.5 
+ hp 
+ 0.5 
+ 0.9 
+ 0.5 
+ 0.5 
+ sn 
+ 0.5 
+ 0.6 
+ 
+ 0.6 
+ MTG 
+ 0.6 
+ 0.9 
+ 0.5 
+ 0.6 
+ med 
+ 0.7 
+ 0.6 
+ 
+ 
+ cg 
+ 0.7 
+ 0.8 
+ 0.5 
+ 0.5 
+ PONS 
+ 0.9 
+ 0.7 
+ 
+ 
+ 
+ 0.6 
+ 
+ 
+ 0.5 
+ gp 
+ 
+ 
+ 
+ 0.4 
+ mfg 
+ 
+ 
+ 
+ 0.6 
+ ent 
+ 
+ 
+ 0.4 
+ 0.6 
+ Table show case-control fold-change urea cb cerebellum mcx motor cortex pvc primary visual cortex 
+ hp hippocampus sn substantia nigra mtg middle temporal gyrus med medulla cg cingulate gyrus 
+ putaman gp globus pallidus mfg middle frontal gyrus ent entorhinal cortex signiﬁcant intra-cohort case control 
+ fold-change highlight bold 
+ comparison pdd ad hd 
+ pantothenic acid level measure 
+ lab pdd ad hd brain 
+ methodology employ current study 
+ result investigation 
+ compare directly region 
+ brain Table 4 Fig. 2 dlb result 
+ directly compare region PDD brain 
+ cb mcx pvc hp sn mtg med cg 
+ pon table 4 region ad brain cb 
+ MCX pvc hp mtg cg seven region 
+ hd brain cb mcx pvc hp sn mtg 
+ cg result comparable con- 
+ dition region brain cb mcx pvc 
+ hp mtg cg characteristic ad 
+ PDD hd cohort find Supplementary 
+ Tables a3–9 
+ dlb ﬁrst disease sig- 
+ niﬁcant case control difference pantothenic acid 
+ cb indicate relative protection 
+ region useful distinguish dlb 
+ neurodegenerative disease term 
+ share alteration dlb look similar 
+ ad show signiﬁcant decrease pan- 
+ tothenic acid region mcx pvc hp 
+ mtg result reinforce neuropatholog- 
+ ical similarity observe 
+ condition 
+ extent pantothenic acid deﬁciency 
+ affect region appear similar 
+ region disease average fold-change 
+ 0.5–0.6 disease region 
+ show 0.3 ad mcx 0.9 
+ dlb pon extensive decrease 
+ dlb pdd hd signiﬁcant decrease 
+ sn indicate vulnerability region 
+ neurodegenerative disease associate motor 
+ dysfunction region investigate 
+ ad unknown region spare 
+ dementia disease associate 
+ motor symptom dlb hd ad pan- 
+ tothenic acid decrease hp region 
+ appear share PDD asso- 
+ ciate differ level cognitive decline 
+ condition dlb show share alter- 
+ ation hd pdd despite extensive 
+ clinical neuropathological similarity 
+ 
+ DISCUSSION 
+ study represent ﬁrst multi-regional inves- 
+ tigation pantothenic level dlb brain 
+ observingstatisticallysigniﬁcantdecreasesacrosssix 
+ investigate region pattern pan- 
+ tothenic acid alteration appear similar 
+ observe ad similarity PDD 
+ hd region affect include 
+ high typical level neurodegeneration lewy 
+ body deposition dlb sn hp 
+ MCX relatively spare region cb 
+ med show alteration unlike 
+ neurodegenerative disease cb appear 
+ protect pantothenic acid alteration dlb 
+ decrease substantia nigra appear 
+ common observation condition associate 
+ motor dysfunction dlb pdd hd 
+ 8 
+ M. Scholeﬁeld et al. Pantothenic Acid Deﬁciency DLB Brain 
+ pantothenic acid 
+ pantothenic acid essential b vitamin 
+ act precursor coa vital component 
+ vast number metabolic pathway include 
+ fatty acid synthesis subsequent regulation 
+ excess glucose level energy production 
+ citric acid cycle antioxidation lipid carbohydrate 
+ amino acid metabolism protein synthesis 
+ post-translation protein modiﬁcation oth- 
+ er 7 overall coa serve cofactor 
+ 4 known enzyme alteration 
+ coa level multitude down- 
+ stream metabolic effect effect 
+ observe ad brain widespread perturba- 
+ tion coa-modulated enzyme enzyme 
+ complex pyruvate dehydrogenase complex isoc- 
+ itrate dehydrogenase 2-oxoglutarate dehydroge- 
+ nase complex succinyl-coa synthetase 
+ report 15 coa role protein modiﬁcation 
+ antioxidation play key role tauopathie 
+ ad dlb coalation tau protein 
+ ad brain sample observe protect 
+ h2o2-induced dimerization tau 16 loss 
+ coa result pantothenic acid deﬁciency 
+ lead loss protective mechanism 
+ increase level coa suggest pro- 
+ tect general cognitive decline aging 
+ brain 17 
+ pantothenic acid generally obtain 
+ diet available wide variety food 
+ source occur particularly high level 
+ egg beef chicken vegetable fortiﬁed 
+ cereal 18 ease obtain sufﬁcient 
+ amount pantothenic acid food source 5 mg 
+ daily adult 19 deﬁciency rare usu- 
+ ally present individual severe general 
+ malnutrition mutation pantothen- 
+ ate kinase 2 pank2 gene chromosome 20 
+ result pantothenic acid deﬁciency down- 
+ stream coa deﬁciency 20 mutation 
+ result condition call pantothenate-kinase asso- 
+ ciated neurodegeneration pkan condition 
+ arise early life characterize motor dysfunc- 
+ tionthateventuallyleadstoissueswithfall chewing 
+ swallow 20 motor dysfunction appear 
+ similar see pd/dlb psychiatric 
+ disturbance occur cerebral iron accumula- 
+ tion occur pkan observe 
+ study pd/pdd brain 21 
+ report beneﬁcial effect pan- 
+ tothenic acid supplementation pkan 
+ currently standard treatment pathway 
+ disease 22 
+ pantothenic acid neurodegenerative disease 
+ despite rarity pantothenic acid deﬁciency 
+ signiﬁcantly low level dietary pantothenic acid 
+ intake observe individual pd 
+ comparison healthy individual pan- 
+ tothenic acid level display clinical importance 
+ predict incidence pd 23 
+ study updrs score negatively corre- 
+ latedwithpantothenicacidintake assuch decrease 
+ dietary pantothenic acid intake associate 
+ pd incidence severity pantothenic 
+ acid intake associate amyloid- 
+ burden individual mild cognitive impair- 
+ ment mci indicate potential link ad 
+ 24 despite lack outright pantothenic 
+ acid deﬁciency supplementation potential 
+ therapeutic option treatment neurode- 
+ generative disease 
+ author knowledge investi- 
+ gation absolute cerebral pantothenic acid level 
+ neurodegenerative disease 
+ study report decrease level 
+ frontal cortex individual ad identify- 
+ ing pantothenate coa biosynthesis altered 
+ pathway ad brain 25 conversely indi- 
+ vidual mci cerebral pantothenic acid level 
+ appear positively correlate amyloid- 
+ deposition brain 6 association 
+ observe investigate vitamin indi- 
+ vidual regional analysis find association 
+ frontal parietal temporal cortex 
+ relationshipdidnotreachsigniﬁcanceinthecingulate 
+ gyrus discrepancy ﬁnding 
+ analysis ad brain reﬂect 
+ regional difference pantothenic acid dysregula- 
+ tion frontal parietal temporal cortex 
+ investigate study 
+ result conﬂict paglia et al. 
+ frontal cortex mention 25 furthermore 
+ study ˇ 
+ Cuperlovi ´ 
+ c-culf et al. observe metabolic 
+ network alteration neocortex dlb patient 
+ involve pantothenate despite observe sig- 
+ niﬁcant difference pantothenate concentration 
+ dlb case control 26 give support 
+ role pantothenic acid dlb brain 
+ non-cns disturbance pantothenic acid 
+ related pathway observe neu- 
+ rodegenerative disease instance pantothenate 
+ M. Scholeﬁeld et al. Pantothenic Acid Deﬁciency DLB Brain 
+ 9 
+ coa biosynthesis find dis- 
+ turbe lc ms metabolomic analysis pd 
+ healthy plasma serum sample decrease 
+ pantothenic acid level observe early 
+ stage pd 27 28 presence pantothenic 
+ alteration pd gut dispute 
+ study show change stool sample lev- 
+ el 29 show decrease 30 
+ study show positive associ- 
+ ation fecal pantothenic acid level 
+ non-motor symptom pd 31 increase 
+ decrease serum pantothenic acid level 
+ report study 50 individual non-speciﬁc 
+ dementia 32 pantothenate coa biosyn- 
+ thesis pathway dysregulation report 
+ multi-omic investigation ad brain blood 
+ cerebrospinal ﬂuid 33 pantothenic acid 
+ disturbance wide multi-system issue 
+ affect brain neurodegenerative 
+ disease administration 
+ pantothenic acid supplementation straightfor- 
+ ward viable option therapeutic trial 
+ localization pantothenic acid deﬁciency 
+ current study pantothenic acid observe 
+ decrease region pon sn mcx 
+ mtg pvc hp region broadly 
+ divide functional group over- 
+ lap group associate cognitive 
+ function hp mtg associate motor 
+ function sn mcx pons associate 
+ visual processing mtg pvc suggest 
+ pantothenic acid play mechanistic role 
+ aspect dlb include cognitive 
+ decline motor dysfunction high prevalence 
+ visual hallucination observe disease 
+ conversely pdd affect region pri- 
+ marilythoseinvolvedinmotordysfunction include 
+ sn med pon differ local- 
+ ization pantothenic acid deﬁciency account 
+ difference prevalence onset motor 
+ cognitive symptom dlb pdd 
+ ad majority affect region 
+ associate cognitive function hp 
+ mtg ent cg mcx pvc 
+ affect sn med pon 
+ investigate ad presence pan- 
+ tothenic acid dysregulation region remain 
+ unknown ad region investigate 
+ find affect reﬂect 
+ overall atrophy observe late-stage ad hd 
+ regionsinvolvedinbothcognitiveandmotordysfunc- 
+ tion affect sparing pvc 
+ suggest difference pantothenic acid 
+ dysregulation localization reﬂect differ 
+ mechanistic process occur neurode- 
+ generative disease 
+ strikingly unlike pdd ad hd 
+ cerebellum change pantothenic acid 
+ level dlb put cb forward partic- 
+ ularly key brain region differentiation dlb 
+ neurodegenerative disease 
+ lack change see PDD pvc 
+ hallucination likely occur dlb 
+ pantothenic acid level aid deﬁnitive post- 
+ mortem diagnosis dlb future study 
+ condition prioritize brain region 
+ investigate mechanistic pathway contribute 
+ differ clinical progression condi- 
+ tion 
+ Strengths limitation 
+ current study strength lim- 
+ itation consider discuss 
+ potential implication datum obtain 
+ term strength ﬁrst study 
+ author knowledge multi-regional fully 
+ quantitative study pantothenic acid level 
+ perform dlb carry 
+ validate methodology 
+ quantify pantothenic acid level ad pdd 
+ hd allow direct region-to-region compar- 
+ ison improve methodology large 
+ cohort obtained—15 vs. 15 pre- 
+ vious sample size 9 vs. 9—in order improve 
+ conﬁdenceintheresultsobtained aswithmanybrain 
+ tissue study sample size fairly 
+ low consider assess 
+ study ﬁnding particular region 
+ observe effect size large reach- 
+ ing statistical signiﬁcance beneﬁt 
+ investigation large cohort 
+ study limitation post- 
+ mortem tissue study possible determine 
+ basis datum pantothenic acid 
+ changesareacauseoraresultofpathologicalchange 
+ dlb pantothenic acid level deter- 
+ mine vivo brain current method 
+ investigation peripheral level 
+ csf plasma necessary determine 
+ temporality alteration 
+ possible event cerebral pantothenic 
+ 10 
+ M. Scholeﬁeld et al. Pantothenic Acid Deﬁciency DLB Brain 
+ acid change reﬂecte periphery 
+ evidence case 
+ observe study pd plasma serum 
+ 27 28 determine 
+ dlb assess peripheral pantothenic acid 
+ level longitudinal cohort intuitive 
+ informative investigation follow cur- 
+ rent study 
+ limitation lack additional 
+ datum cohort study information 
+ -synuclein Braak stage duration 
+ disease additional factor 
+ useful evaluation study datum unfor- 
+ tunately datum available brain 
+ bank datum available request sup- 
+ plying brain bank available Supplementary 
+ Material a. prevent evaluation pan- 
+ tothenic acid level relation -synuclein Braak 
+ stage informative repeat study 
+ large cohort representation -synuclein 
+ Braak stage order determine correlation 
+ cerebral pantothenic acid level 
+ conclusion 
+ pantothenic acid deﬁciency appear share 
+ perturbation brain dlb 
+ ad pdd hd despite clinical neu- 
+ ropathological difference difference 
+ account difference localization 
+ pantothenic acid alteration region brain 
+ associate motor cognitive function 
+ visual processing affect dlb brain 
+ pantothenic acid alteration inves- 
+ tigate potential mechanistic role 
+ disease look temporal alteration periph- 
+ eral pantothenic acid level close attention 
+ pay region brain pvc 
+ cb appear able well differentiate 
+ dlb similar neurodegenerative disease 
+ future study dlb brain 
+ AUTHOR contributions 
+ ms conceptualization data curation formal 
+ analysis investigation methodology project admin- 
+ istration validation visualization write original 
+ draft review editing jx sc saph stpa 
+ Investigation methodology gjsc conceptual- 
+ ization funding acquisition resource supervision 
+ writing review editing ms gjsc veri- 
+ ﬁed underlying datum manuscript 
+ Fig. 1 pantothenic acid concentration dlb case con- 
+ trol figure show mean urea concentration ± 95 conﬁdence 
+ interval m/kg case control difference determine 
+ Mann Whitney U test cb cerebellum sn substantia 
+ nigra MCX motor cortex cg cingulate gyrus med Medulla 
+ MTG middle temporal gyrus pvc primary visual cortex 
+ Putamen HP Hippocampus 
+ author read approve ﬁnal version 
+ manuscript 
+ acknowledgments 
+ thank Cynthia Tse University 
+ Auckland help obtain brain tissue 
+ sample study 
+ nih DLB Cohort human dlb tissue 
+ obtain NIH Neurobiobank 
+ Harvard Brain Tissue Resource Centre sepul- 
+ veda Research Corporation thank bank 
+ donor supply tissue 
+ nih PDD Cohort human PDD tissue 
+ obtain NIH Neurobiobank 
+ University Miami Brain Endowment Bank 
+ thank bank donor supply 
+ tissue 
+ Auckland ad hd cohort thank 
+ family patient alzheimer disease 
+ generously support research 
+ donation brain tissue nz neurological foun- 
+ dation Douglas Human Brain Bank Centre 
+ Brain Research Faculty Medical Health 
+ FUNDING 
+ work fund grant endo- 
+ core Research Associates New Zealand 60147 
+ Maurice Phyllis Paykel Trust New Zealand 
+ 3627036 travel funding jx Lottery 
+ Health New Zealand 3626585 3702766 mau- 
+ rice Wilkins Centre Molecular Biodiscovery 
+ M. Scholeﬁeld et al. Pantothenic Acid Deﬁciency DLB Brain 
+ 11 
+ Fig. 2 comparison pantothenic acid alteration dlb pdd ad hd brain blue region indicate decrease pantothenic 
+ acid grey region indicate change pantothenic acid grey dotted shading indicate region investigate condition 
+ cb cerebellum cg Cingulate Gyrus ent Entorhinal Cortex hp hippocampus med Medulla MCX Motor Cortex mfg Middle 
+ frontal gyrus mtg Middle Temporal Gyrus Putamen pvc primary visual cortex sn Substantia Nigra 
+ New Zealand Tertiary Education Commission 9341- 
+ 3622506 Doctoral Scholarship JX Lee 
+ Trust New Zealand University Auckland 
+ Doctoral Student PReSS funding JXU058 oak- 
+ ley Mental Health Research Foundation 3456030 
+ 3627092 3701339 3703253 3702870 min- 
+ istry business Innovation Employment New 
+ Zealand uoax0815 Neurological Foundation 
+ New Zealand Medical Research Council UK 
+ mr/l010445/1 mr/l011093/1 Alzheimer 
+ research UK aruk-ppg2014b-7 univer- 
+ sity Manchester cmft Northwest 
+ Regional Development Agency combined 
+ programme grant cadet facilitate 
+ Manchester Biomedical Research Centre 
+ great Manchester Comprehensive Local Research 
+ Network 
+ conflict interest 
+ author conﬂict interest report 
+ data availability 
+ raw datum individual run include 
+ Supplementary Material b concentration give 
+ mm/kg value give mean average stan- 
+ dard deviation conﬁdence interval Welch t-test 
+ Mann-Whitney U test result wet weight sample 
+ weight give mg detail software 
+ analysis include method section 
+ supplementary MATERIAL 
+ supplementary material available 
+ electronic version article https://dx.doi.org/ 
+ 10.3233/jpd-240075 
+ references 
+ 1 
+ McKeith ig Boeve BF Dickson DW Halliday g Taylor 
+ JP Weintraub D Aarsland D Galvin J Attems J Ballard 
+ CG Bayston Beach tg Blanc F Bohnen N Bonanni L 
+ Bras J Brundin p Burn D chen-plotkin Duda JE el- 
+ Agnaf O Feldman H ferman tj Ffytche d Fujishiro h 
+ Galasko D Goldman jg Gomperts sn graff-radford NR 
+ Honig ls Iranzo Kantarci K Kaufer D Kukull W Lee 
+ VMY Leverenz JB Lewis S lippa c Lunde Masellis M 
+ Masliah E McLean p mollenhauer b montine tj Moreno 
+ E mori e Murray M o’brien JT Orimo S postuma rb 
+ Ramaswamy S Ross OA Salmon dp Singleton Taylor 
+ Thomas Tiraboschi p Toledo JB Trojanowski JQ 
+ Tsuang D Walker Z Yamada M Kosaka K 2017 diagno- 
+ sis management dementia lewy body fourth 
+ consensus report DLB Consortium neurology 89 
+ 88 100 
+ 2 
+ Cabrero FR morrison EH 2022 lewy body stat- 
+ Pearls internet StatPearls Publishing 
+ 3 
+ Chin KS Yassi N Churilov L Masters CL Watson R 2020 
+ Prevalence clinical association tau lewy body 
+ dementia systematic review meta-analysis parkin- 
+ sonism Relat Disord 80 184 193 
+ 4 
+ Twohig D Nielsen HM 2019 alpha-synuclein patho- 
+ physiology alzheimer disease mol Neurodegener 14 
+ 23 
+ 5 
+ Zekry D Hauw jj gold g 2002 mixed dementia epi- 
+ demiology diagnosis treatment j Geriatr Soc 50 
+ 1431 1438 
+ 6 
+ Boot bp 2015 comprehensive treatment dementia 
+ lewy body alzheimer Res Ther 7 45 
+ 7 
+ Theodoulou FL Sibon OC Jackowski S Gout 2014 
+ Coenzyme derivative Renaissance textbook 
+ classic Biochem Soc Trans 42 1025 1032 
+ 8 
+ Scholeﬁeld M Church SJ Xu J Patassini S Hooper NM 
+ Unwin RD Cooper gjs 2021 substantively lower lev- 
+ el pantothenic acid vitamin b5 region 
+ human brain Parkinson disease dementia metabolite 
+ 11 569 
+ 9 
+ Xu J Begley p Church SJ Patassini S Hollywood KA 
+ Jullig M Curtis ma Waldvogel HJ Faull RL Unwin RD 
+ Cooper gj 2016 grade perturbation metabolism 
+ multiple region human brain Alzheimer disease 
+ Snapshot pervasive metabolic disorder biochim bio- 
+ phys Acta 1862 1084 1092 
+ 10 
+ Patassini S Begley p Xu J Church SJ Reid sj Kim 
+ EH curtis ma Dragunow M Waldvogel HJ Snell RG 
+ 12 
+ M. Scholeﬁeld et al. Pantothenic Acid Deﬁciency DLB Brain 
+ Unwin RD Faull RL Cooper gj 2016 metabolite map- 
+ ping reveal severe widespread perturbation multiple 
+ metabolic process Huntington disease human brain 
+ Biochim Biophys Acta 1862 1650 1662 
+ 11 
+ Scholeﬁeld M Church SJ Xu J Robinson AC Gardiner NJ 
+ Roncaroli F Hooper NM Unwin RD Cooper GJS 2020 
+ effect alteration post-mortem delay tissue- 
+ collection variable metabolite level human rat 
+ brain metabolite 10 438 
+ 12 
+ Outeiro tf Koss DJ Erskine d Walker L kurzawa-akanbi 
+ M Burn D Donaghy p Morris C Taylor JP Thomas 
+ Attems J McKeith 2019 Dementia lewy body 
+ update outlook Mol Neurodegener 14 5 
+ 13 
+ Braak H alafuzoff Arzberger t Kretzschmar H 
+ Del Tredici K 2006 staging alzheimer disease- 
+ associated neuroﬁbrillary pathology parafﬁn section 
+ andimmunocytochemistry actaneuropathol112,389 404 
+ 14 
+ Ismail N Kureishy N Church SJ Scholeﬁeld M Unwin 
+ RD Xu J Patassini S Cooper GJS 2020 vitamin b5 d- 
+ pantothenic acid localize myelinate structure 
+ rat brain potential role cerebral vitamin b5 store 
+ local myelin homeostasis Biochem Biophys Res Commun 
+ 522 220 225 
+ 15 
+ Sang C Philbert SA Hartland D Unwin RD Dowsey aw 
+ Xu J Cooper GJS 2022 coenzyme a-dependent tricar- 
+ boxylic acid cycle enzyme decrease Alzheimer 
+ disease consistent cerebral pantothenate deﬁciency 
+ Aging Neurosci 14 893159 
+ 16 
+ Lashley t Tossounian MA Costello Heaven N Wallworth 
+ S peak-chew s Bradshaw Cooper JM de Silva R 
+ Srai SK Malanchuk O Filonenko V Koopman MB rudi- 
+ ger SGD Skehel M Gout 2021 extensive anti-coa 
+ immunostaining alzheimer disease covalent mod- 
+ iﬁcation tau key cellular metabolite coenzyme a. 
+ Cell Neurosci 15 739425 
+ 17 
+ Currais Huang L Goldberg J Petrascheck M Ates 
+ g pinto-duarte Shokhirev MN Schubert D Maher p 
+ 2019 elevate acetyl-coa level reduce aspect brain 
+ aging elife 8 e47866 
+ 18 
+ Gonzalez-Lopez 
+ J 
+ Aliaga 
+ L 
+ Gonzalez-Martinez 
+ 
+ martinez-toledo MV 2016 pantothenic acid industrial 
+ Biotechnology Vitamins Biopigments antioxidant 
+ Vandamme ej revuelta JL ed wiley-vch Verlag gmbh 
+ Co pp 67 101 
+ 19 
+ Food Drug Administration HHS 2016 Food labeling 
+ revision Nutrition supplement Facts Labels 
+ final rule Fed Regist 81 33741 33999 
+ 20 
+ Hayﬂick SJ Jeong sy Sibon OCM 2022 pkan patho- 
+ genesis treatment Mol Genet Metab 137 283 291 
+ 21 
+ Genoud S Senior Hare DJ double kl 2020 meta- 
+ analysis copper iron Parkinson disease brain 
+ bioﬂuid Mov Disord 35 662 671 
+ 22 
+ Kurian MA Hayﬂick sj 2013 pantothenate kinase- 
+ associated neurodegeneration pkan pla2g6- 
+ associated neurodegeneration plan review 
+ major neurodegeneration brain iron accumulation 
+ NBIA phenotype int rev Neurobiol 110 49 71 
+ 23 
+ Alizadeh M Kheirouri S Keramati M 2023 dietary 
+ vitamin mineral protective parkin- 
+ son disease Brain Sci 13 1119 
+ 24 
+ Lee jh ahn sy Lee HA Won KS Chang hw oh JS 
+ Kim hw 2018 dietary intake pantothenic acid associ- 
+ ate cerebral amyloid burden patient cognitive 
+ impairment food Nutr Res 62 doi 10.29219/fnr.v62.1415 
+ 25 
+ Paglia g Stocchero M Cacciatore S Lai S Angel p 
+ Alam MT Keller M Ralser M Astarita g 2016 unbi- 
+ ase metabolomic investigation alzheimer disease 
+ brain point dysregulation mitochondrial aspartate 
+ metabolism j Proteome Res 15 608 618 
+ 26 
+ ˇ 
+ Cuperlovi ´ 
+ c-culf m Yilmaz Stewart D Surendra 
+ Akyol S Vishweswaraiah S Shao X Alecu 
+ nguyen-tran t McGuinness b 2021 sign Distance 
+ Correlation sidco network analysis application 
+ distance correlation identify metabolic network 
+ disrupt dementia lewy body medrxiv 
+ https://doi.org/10.1101/2021.10.16.21265003 
+ preprint 
+ post 19 2022 
+ 27 
+ Shao y Li t Liu Z Wang X Xu X Li S Xu g Le W 
+ 2021 comprehensive metabolic proﬁling Parkinson 
+ disease liquid chromatography-mass spectrometry mol 
+ Neurodegener 16 4 
+ 28 
+ Paul KC Zhang K Walker DI Sinsheimer J Yu Y Kusters 
+ C Del Rosario Folle AD Keener Bronstein J Jones 
+ dp ritz b 2023 untargeted serum metabolomic reveal 
+ novel metabolite association disruption amino acid 
+ lipid metabolism Parkinson disease mol neurode- 
+ gener 18 100 
+ 29 
+ Yan J Feng X Zhou X Zhao M Xiao h Li R Shen 
+ h 2022 Identiﬁcation gut metabolite associate 
+ Parkinson disease bioinformatic analysis 
+ Aging Neurosci 14 927625 
+ 30 
+ Vascellari S Palmas V Melis M Pisanu S Cusano R Uva p 
+ Perra D Madau V Sarchioto M Oppo v Simola N Morelli 
+ M Santoru ML Atzori L Melis M cossu g Manzin 
+ 2020 gut microbiota metabolome alteration associ- 
+ ate Parkinson disease msystem 5 e00561 20 
+ 31 
+ baldinif hertelj sandte thinnescc neuberger-castillo 
+ L Pavelka L Betsou F Kruger R Thiele Consortium n-p 
+ 2020 Parkinson disease-associated alteration gut 
+ microbiome predict disease-relevant change metabolic 
+ function bmc biol 18 62 
+ 32 
+ Cooper JL 2008 p3 400 biotin deﬁciency abnormal 
+ pantothenic acid level dementia alzheimer Dement 4 
+ t638-t639 
+ 33 
+ Kodam p Sai Swaroop R Pradhan ss Sivaramakrishnan 
+ V Vadrevu r 2023 integrated multi-omic analysis 
+ Alzheimer disease show molecular signature associate 
+ disease progression potential therapeutic target 
+ Sci Rep 13 3695 

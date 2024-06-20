@@ -1,0 +1,1729 @@
+journal Alzheimer disease xx 20xx x xx 
+ doi 10.3233/jad-231425 
+ ios Press 
+ correct proof 
+ 1 
+ Association Loneliness functional 
+ Connectivity mri amyloid- pet 
+ Tau PET Neuroimaging Markers 
+ Vulnerability Alzheimer disease 
+ Amanda Zhaoa Laura J. Balcera b Jayandra J. Himalic d h Adrienne O’Donnellc d 
+ Yashar Rahimpoure Charles DeCarlif Mitzi M. Gonzalesg Hugo J. Aparicioc h 
+ Jaime Ramos-Cejudoa Rachel Kenneya b Alexa Beiserc d,1 Sudha Seshadric h i,1 
+ Joel Salinasa,1,∗ 
+ aDepartments Neurology New York University Grossman School Medicine New York ny USA 
+ bPopulation Health Ophthalmology New York University Grossman School Medicine New York ny USA 
+ cThe Framingham Study Boston ma USA 
+ ddepartment Biostatistics Boston University School Public Health Boston ma USA 
+ eCenter Biomedical Imaging Department Anatomy Neurobiology Boston University School 
+ Medicine Boston ma USA 
+ fDepartment Neurology University California Davis Davis USA 
+ gDepartment Neurology Cedars-Sinai Medical Center Los Angeles USA 
+ hDepartment Neurology Boston University School Medicine Boston ma USA 
+ iGlenn Biggs Institute Alzheimer Neurodegenerative Diseases University Texas Health Sciences 
+ Center San Antonio TX 
+ accepted 21 April 2024 
+ Abstract 
+ Background Loneliness declare epidemic associate negative physical mental cognitive health out- 
+ come increase dementia risk know relationship loneliness advance neuroimaging 
+ correlate alzheimer disease ad 
+ objective assess loneliness associate advanced neuroimaging marker ad neuroimaging 
+ datum Framingham Heart Study fhs participant dementia 
+ Methods cross-sectional observational analysis functional connectivity mri fcmri amyloid- a pet 
+ tau pet imaging datum collect 2016 2019 eligible fhs cohort participant loneliness deﬁne 
+ feel lonely day past week primary fcmri marker Default Mode Network intra-network 
+ connectivity primary pet imaging marker a deposition precuneal flr frontal lateral parietal lateral 
+ temporal retrosplenial region tau deposition amygdala entorhinal rhinal region 
+ result 381 participant mean age 58 sd 10 meet inclusion criterion fcmri analysis 5 classiﬁed 
+ lonely 17/381 association observe loneliness status network change 424 participant mean age 
+ 58 sd = 10 meeting inclusion criterion pet analysis 5 21/424 lonely association observe 
+ loneliness a tau deposition primary region interest 
+ 1co-senior author 
+ ∗correspondence Joel Salinas md mba MSc depart- 
+ ment Neurology NYU Grossman School Medicine 
+ 222 E 41st Street 14th Floor New York NY 10017 USA 
+ Tel + 1 212 263 3210 Fax + 1 212 263 3273 
+ e-mail 
+ joel.salinas@nyulangone.org 
+ issn 1387 2877 © 2024 author publish ios Press Open Access article distribute term 
+ Creative Commons Attribution-NonCommercial License cc by-nc 4.0 
+ 2 
+ a. Zhao et al. Loneliness Advanced Neuroimaging Dementia 
+ Conclusions cross-sectional study observable association loneliness select fcmri a 
+ pet tau pet neuroimaging marker ad risk ﬁnding merit investigation prospective study 
+ community-based cohort 
+ Keywords alzheimer disease amyloid dementia functional neuroimaging loneliness longitudinal study tau protein 
+ INTRODUCTION 
+ quarter old adult report feel 
+ lonely 1 COVID-19 pandemic exacer- 
+ bate trend 2 3 old adult especially 
+ risk experience loneliness recent survey 
+ ﬁfteen-thousand old adult find 
+ 55 report degree loneliness 4 
+ ﬁnding particularly concern light 
+ recent study suggest association loneliness 
+ high 10-year risk subsequent dementia 
+ 5 
+ relationship loneliness image 
+ marker alzheimer disease ad burgeon- 
+ ing area research 6 7 decrease total cerebral 
+ hippocampal volume 8 increase white 
+ matter hyperintensity load 9 mri change 
+ observe individual mild cognitive 
+ impairment ad 10 lonely old adult 
+ demonstrate great degree ad- 
+ speciﬁc change 5 loneliness 11 ad 12–14 
+ overlap advanced image 
+ modality speciﬁcally functional connec- 
+ tivity mri fcmri amyloid- a pet 6 15 
+ tau pet 16 17 promise fur- 
+ ther work need fully characterize functional 
+ connectivity neuropathologic relationship 
+ cross-sectional observational study analyze 
+ datum dementia-free Framingham Heart Study 
+ fhs participant assess loneliness 
+ associate advanced neuroimaging marker 
+ ad focus separate imaging modality 
+ fcmri a pet tau pet imaging propose 
+ great loneliness associate increase 
+ default mode network dmn activation 
+ greaterlonelinessisassociatedwithincreaseddeposi- 
+ tion a tau protein choose area associate 
+ ad pathology 
+ method 
+ Sample 
+ study datum Framingham 
+ Heart Study fhs large longest- 
+ run longitudinal research cohort 
+ fhs community cohort base Framingham 
+ Massachusetts initially design study 
+ cardiovascular risk factor recently study 
+ expand include detailed assessment 
+ cognitive function dataset include assessment 
+ middle- aged dementia- free individual 
+ 2016 2019 Generation 2 gen- 
+ eration 3 participant child grandchild 
+ original cohort respectively 18 undergo 
+ brain mri functional mri amyloid tau 
+ pet imaging participant exclude 
+ imaging study history dementia 
+ stroke neurological condition 
+ affect brain imaging assessment sample 
+ comprise 381 individual fully process 
+ fcmri datum 424 individual amyloid 
+ tau pet imaging Fig. 1 
+ Standard protocol approval registration 
+ patient consent 
+ participant provide write informed con- 
+ send institutional Review Board Boston 
+ UniversityMedicalCenterapprovedtheconsentform 
+ study protocol 
+ Loneliness measure 
+ Loneliness construct describe 
+ subjective experience feel isolate per- 
+ ceivedgapbetweenone’sdesiredsocialrelationship 
+ exist social relationship 19 cen- 
+ ter Epidemiologic Studies-Depression ces-d 
+ scale previously quantify loneliness 
+ large community-based cohort 20 
+ 21 ces-d 20- item questionnaire assess 
+ frequency series depres- 
+ sive symptom past week symptom 
+ report occur rarely time 
+ 1 day 0 point little 
+ time 1–2 day 1 point occasionally moder- 
+ ate time 3–4 day 2 point 
+ time 5–7 day 3 point total score 
+ range 0 60 point high score 
+ a. Zhao et al. Loneliness Advanced Neuroimaging Dementia 
+ 3 
+ Fig. 1 flow diagram analytic sample derivation 
+ correspond great depressive symptomatology 
+ lonely item ces-d ask participant 
+ feel lonely past week 
+ quantify loneliness study 
+ base similar prior application measure 
+ 6 20 
+ loneliness deﬁne feel lonely 
+ 1 day past week’—this dichoto- 
+ mous variable correspond single- item 
+ score great 0 5 20 exploratory analysis 
+ loneliness analyze conservative 
+ threshold feeling lonely 3 day 
+ past week primary deﬁnition conser- 
+ vative deﬁnition loneliness previously 
+ prior fhs Health Retirement 
+ Studies associate pos- 
+ itive null result 5 20 22 23 loneliness 
+ model ordinal variable exploratory 
+ analysis assign ordinal value ces- 
+ d score divide loneliness < 1 day 1–2 day 
+ 3–4 day 5–7 day week assign score 
+ 1 2 3 4 respectively ces-d score 
+ exam close fcmri acquisition 
+ importantly experience loneliness 
+ dynamic quality change time 
+ temporal shift loneliness observe 
+ differential effect health outcome 
+ particular persistent loneliness find 
+ independent risk factor incident dementia 
+ ad fhs cohort vary risk 
+ note base concept persistent loneliness 
+ 20 include four-level exposure vari- 
+ able concept consideration base 
+ prior construct persistent loneliness Fig. 2 
+ 20 consecutive ces-d score deter- 
+ change loneliness time Exams 8 2005- 
+ 2008 9 2011- 2014 generation 2 partici- 
+ pant Exams 2 2009- 2011 3 2016- 2019 
+ generation 3 participant persistent loneliness 
+ deﬁne feel lonely loneliness report 
+ 1 day week exam recov- 
+ ere loneliness deﬁne feel lonely 
+ ﬁrst second exam term tran- 
+ sient loneliness prior construct 20 incident 
+ loneliness deﬁne loneliness report 
+ second ﬁrst exam absent lone- 
+ liness deﬁne loneliness absent exam 
+ participant ces-d measurement 
+ exam exclude portion 
+ analysis 
+ 4 
+ a. Zhao et al. Loneliness Advanced Neuroimaging Dementia 
+ Fig. 2 summary term describe analyze loneli- 
+ ness status time 
+ imaging measure 
+ functional connectivity mri 
+ mri established antemortem biomarker 
+ ad association volumetric mri mea- 
+ sure postmortem ad-related neuropathology 
+ previously observe fhs cohort 8 
+ traditional mri limitation mri 
+ canprovideinformationongeneralstructuralandvol- 
+ umetric change able provide information 
+ functional network disruption underlie 
+ ad pathology 24 antemortem assessment 
+ promise advance ad detection prevention 
+ treatment choose examine associa- 
+ tion loneliness functional connectivity 
+ mri fcmri fcmri imaging technique 
+ rely detection local alteration blood ﬂow 
+ metabolism able describe functional 
+ network exist non-anatomically con- 
+ tiguous region 25 
+ study mri scan conduct 
+ philips 3 t Achieva system 32- channel 
+ head coil t1 scan parameter voxel 
+ size = 1.05 mm x 1.05 mm x 1.20 mm 170 sagit- 
+ tal slice rest state fmri rsfmri scan 
+ scan parameter scan time = 7 min voxel 
+ size = 3.3125 mm x 3.3125 mm x 3.3125 170 sagit- 
+ tal slice t1 Turbo Field Echo tfe mri scan 
+ process Freesurfer version 6.0 rsfmri 
+ scan analyze FSL tool datum pre- 
+ processing conduct fmri Expert 
+ Analysis tool feat version 6.0.[26 27 rest- 
+ ing state fmri t1 image co-registere 
+ Boundary-Based Registration bbr 28 
+ in-house develop script calculate cor- 
+ relation seed region base Yeo 7 
+ Network model datum normalize Fisher 
+ z transformation participant 
+ pet image 
+ 11c-pittsburgh compound b pib a 18f- 
+ Flortaucipir FTP tau pet image acquire 
+ camera GE Discovery scanner 
+ Siemens ecat hr+scanner 3d mode 63 image 
+ plane 15.2 cm axial ﬁeld view 5.6 mm transax- 
+ ial resolution 2.4 mm slice interval detail 
+ publish previously 29 GE Discovery scanner 
+ datum combine hr+scanner datum 
+ smoothing apply mci bolus injection 
+ tracer administer follow 60 min image 
+ acquisition 4 x 5-min frame spm8 
+ co-register pib FTP image structural t1- 
+ weighted mri scan freesurfer version 6.0 
+ derive region interest cerebellar cortex 
+ reference region express distribu- 
+ tion volume ratio dvr pib express 
+ standardized uptake value ratio suvr FTP 
+ retention 
+ Covariates 
+ Covariates include age sex apoe4 carrier 
+ status 
+ interval 
+ time 
+ time 
+ 
+ loneliness 
+ assessment image acquisition pet camera 
+ HR+versus Smoothed Discovery GE education 3- 
+ level variable high school college college 
+ modiﬁed ces-d score depressive symp- 
+ tom burden calculate ces-d score minus 
+ loneliness item natural log-transformed normalize 
+ distribution 
+ statistical analysis 
+ primary fcmri measure default mode 
+ network dmn intra-network connectivity 11 
+ primary pet measure interest a depo- 
+ sition flr summary frontal lateral parietal 
+ lateral temporal retrosplenial cortex pre- 
+ cuneal region tau deposition amygdala 
+ entorhinal rhinal region 
+ primary model model 1 create sep- 
+ arate multivariable linear regression model relate 
+ loneliness fcmri pet measure adjust 
+ age age2 sex interval time pet camera 
+ pet analyse age2 include Model 1 
+ account non-linear relationship age 
+ dependent variable consistent prior fhs stud- 
+ ies 30 model 2 additionally adjust education 
+ Model 3 adjust Model 1 2 covariate 
+ modiﬁed ces-d score perform inter- 
+ action analysis assess effect modiﬁcation age 
+ age < 60 versus age ≥60 sex apoe4 allele 
+ carrier status pet fcmri imaging con- 
+ ducted stratiﬁed analysis interaction meet 
+ a. Zhao et al. Loneliness Advanced Neuroimaging Dementia 
+ 5 
+ predeﬁne exploratory threshold p < 0.10 run 
+ priori stratiﬁed analysis apoe4 allele pet 
+ analysis 
+ secondary exploratory measure fcmri imag- 
+ ing intra-network connectivity follow 
+ available yeo network limbic frontoparietal 
+ dorsal attention ventral attention somatomotor 
+ visual dmn-limbic internetwork connectivity 
+ select exploratory dependent variable 
+ exploratory pet secondary measure inferior 
+ temporal parahippocampal precuneal medial 
+ orbitofrontal tau area choose priori 
+ base ad pathology prior study 29 
+ result 
+ Association loneliness fcmri 
+ fcmri sample 381 participant meet 
+ inclusion criterion 86 Generation 2 member 295 
+ Generation 3 member Fig. 1 mean age 58 
+ year sd = 10 sample 49 female 
+ 62 participant hold college 
+ degree 17 participant report feel 
+ lonely day week baseline table 1 
+ persistent loneliness assess 366 partici- 
+ pant 8 report persistent loneliness 
+ 8 report recover 8 report incident 
+ 75 report absent loneliness mean modiﬁed 
+ ces-d score deﬁne ces-d score exclud- 
+ ing loneliness item 6 sd = 7 
+ association fcmri activation change 
+ loneliness feel lonely 1 day 
+ week table 2 fcmri change lone- 
+ liness deﬁne ordinally Supplementary Table 2 
+ great visual intra-network connectivity asso- 
+ ciate loneliness deﬁne conservatively feel 
+ lonely 3 day week supplemen- 
+ tary table 1 long present 
+ adjustment depressive symptom burden Model 
+ 3 dmn limbic inter-network connectivity 
+ signiﬁcant positive association recovered 
+ loneliness perform Persistent Loneliness 
+ analysis table 3 relationship persist 
+ adjustment education depressive 
+ symptom burden 
+ Association loneliness aβ tau PET 
+ pet sample 424 participant meet inclusion 
+ criterion 356 generation 2 member 68 genera- 
+ tion 3 member mean age pet imaging 
+ 58 year sd = 10 sample 50 
+ female 65 participant hold 
+ college degree eighty-three percent participant 
+ report < 1 day loneliness week 12 report 
+ 1–2 day loneliness 3 report 3–4 day lone- 
+ liness 2 report loneliness 5–7 day 
+ week persistent loneliness assess 410 par- 
+ ticipant 7 report persistent loneliness 
+ 10 report recover 10 report incident 
+ 73 report absent loneliness mean modiﬁed 
+ ces-d score 6 sd = 7 
+ pet sample observe associ- 
+ ation loneliness deﬁne feel lonely 
+ day week a deposi- 
+ tion primary outcome location flr precuneus 
+ table 4 observe association 
+ loneliness tau deposition pri- 
+ mary outcome region amygdala entorhinal 
+ rhinal region secondary outcome region 
+ inferior temporal parahippocampal precuneal 
+ medial orbitofrontal tau table 4 
+ conservative deﬁnition loneliness feel 
+ lonely 3 day week 
+ observe association loneliness 
+ a deposition flr precuneal area 
+ association loneliness tau deposition 
+ primary secondary outcome region supplemen- 
+ tary Table 3 treat ordinal variable 
+ loneliness remain unassociate a tau 
+ Supplementary Table 4 analyze asso- 
+ ciation persistent loneliness state e.g. 
+ persistent incident recover absent loneliness 
+ a tau deposition association 
+ see table 5 
+ sensitivity interaction analyse 
+ observe effect modiﬁcation apoe4 status 
+ association loneliness visual net- 
+ work fcmri connectivity p = 0.09 Supplementary 
+ Table 5 observe signiﬁcant effect mod- 
+ iﬁcation network base age sex 
+ apoe4 status observe effect modiﬁcation 
+ apoe4 status association loneli- 
+ ness precuneal amyloid p = 0.07 Supplementary 
+ Table 13 apoe4 + individual find 
+ borderline association loneliness pre- 
+ cuneal amyloid deposition present 
+ apoe4- individual pet region demon- 
+ strate signiﬁcant effect modiﬁcation age sex 
+ apoe4 carrier status 
+ 6 
+ a. Zhao et al. Loneliness Advanced Neuroimaging Dementia 
+ Table 1 
+ Sample characteristic 
+ fcmri sample n = 381 
+ pet sample n = 424 
+ Characteristic 
+ Cohort No. 
+ Generation 2 offspring 
+ 86 22.6 
+ 356 84 
+ Generation 3 
+ 295 77.4 
+ 68 16 
+ Age y 
+ 58 10 
+ 58 10 
+ Sex no. 
+ Female 
+ 188 49.3 
+ 213 50 
+ male 
+ 193 50.7 
+ 211 50 
+ Education no. 
+ high school degree 
+ 38 10 
+ 42 10 
+ college 
+ 108 28 
+ 106 25 
+ College degree 
+ 235 62 
+ 276 65 
+ Baseline Cognitiona 
+ 0.6 0.8 
+ 0.6 0.8 
+ Loneliness No. (%)b c 
+ < 1 day 0 point 
+ 317 83.2 
+ 353 83 
+ 1–2 day 1 point 
+ 47 12.3 
+ 50 12 
+ 3–4 day 2 point 
+ 10 2.6 
+ 14 3 
+ 5–7 day 3 point 
+ 7 1.8 
+ 7 2 
+ Loneliness 1 day past 
+ week ≥1 point 
+ 64 16.8 
+ 71 17 
+ Persistent Loneliness No. (%)d 
+ Persistent 
+ 30 8.2 
+ 29 7 
+ Transient 
+ 31 8.5 
+ 40 10 
+ Incident 
+ 31 8.5 
+ 40 10 
+ Absent 
+ 274 74.9 
+ 301 73 
+ Modiﬁed ces-d range 0–57)e 
+ 6.1 7.0 range 0–47.4 
+ 6 7 
+ apoe4 carrier status positive No. 
+ 
+ 80 21.8 
+ 95 23 
+ fcmri Measuresf 
+ dmn-intra 
+ 2.5 0.08 
+ limbic-intra 
+ 2.7 0.08 
+ frontoparietal-intra 
+ 2.3 0.09 
+ Dorsal attention-intra 
+ 2.3 0.08 
+ Ventral Attention-Intra 
+ 2.5 0.09 
+ somatomotor-intra 
+ 0.04 0.01 0.1 
+ Visual-Intra 
+ 2.1 0.07 
+ dmn Limbic 
+ 0.04 0.03 0.06 
+ pet Measuresg 
+ a flr 
+ 1.1 0.1 
+ a Precuneus 
+ 1.2 0.1 
+ Tau Amygdala 
+ 1.2 0.1 
+ Tau Entorhinal 
+ 1.1 0.09 
+ Tau Rhinal 
+ 1.1 0.1 
+ Tau inferior Temporal 
+ 1.1 0.08 
+ Tau Parahippocampus 
+ 1.1 0.08 
+ Tau Precuneus 
+ 1.1 0.08 
+ apoe4 apolipoprotein e4 ces-d Center Epidemiologic Studies Depression Scale dmn Default 
+ Mode Network fcmri Functional Connectivity mri flr Frontal lateral parietal lateral temporal 
+ retrosplenial cortex jnc Joint National Commission a amyloid-. Data present mean 
+ sd indicate acomposite score Logical Memories Immediate Delayed Recall 
+ Visual Reproduction Immediate Delayed Recall similarity Trail make Test B. Standardized 
+ mean 0 standard deviation 1 bfor ces-d loneliness item feel lonely past week 
+ 1 day 0 point 1 2 day 1 point 3–4 day 2 point 5–7 day 3 point cloneliness exam 
+ approximate fcmri acquisition d‘persistent loneliness deﬁne loneliness report 1 day/ week 
+ exam approximate fcmri exam prior transient loneliness deﬁne loneliness report 
+ 1 day/week ﬁrst second exam incident loneliness deﬁne loneliness 
+ report 1 day/week second ﬁrst exam absent loneliness deﬁne 
+ loneliness report 1 day/week exam emodiﬁed ces-d sum score ces-d item 
+ remain exclusion loneliness item ffcmri measurement provide correlation gpet 
+ measurement provide Partial-Volume Uncorrected value 
+ a. Zhao et al. Loneliness Advanced Neuroimaging Dementia 
+ 7 
+ Table 2 
+ multivariable-adjusted Models functional Connectivity mri Measures function Loneliness Status aPrimary outcome indicate 
+ emphasize border secondary outcome 
+ Model 1b 
+ Model 2c 
+ Model 3d 
+ fcmri measure 
+ No. 
+ Estimate 
+ p 
+ No. 
+ Estimate 
+ p 
+ No. 
+ Estimate 
+ p 
+ participant 
+ se 
+ participant 
+ se 
+ participant 
+ se 
+ dmn-intra 
+ 381 
+ –0.0003 0.0102 0.9733 
+ 381 
+ –0.0003 0.0102 0.9732 
+ 381 
+ –0.0040 0.0106 0.7049 
+ limbic-intra 
+ 381 
+ –0.0157 0.0116 0.1770 
+ 381 
+ –0.0151 0.0116 0.1927 
+ 381 
+ –0.0170 0.0121 0.1614 
+ frontoparietal-intra 
+ 381 
+ 0.0085 0.0117 
+ 0.4644 
+ 381 
+ 0.0083 0.0117 
+ 0.4785 
+ 381 
+ 0.0022 0.0121 
+ 0.8546 
+ Dorsal attention-intra 
+ 381 
+ 0.0055 0.0105 
+ 0.6016 
+ 381 
+ 0.0052 0.0105 
+ 0.6219 
+ 381 
+ 0.0023 0.0110 
+ 0.8320 
+ Ventral attention-intra 
+ 381 
+ 0.01 0.01 
+ 0.56 
+ 381 
+ 0.01 0.01 
+ 0.54 
+ 381 
+ 0.01 0.01 
+ 0.57 
+ somatomotor-intra 
+ 381 
+ 0.00 0.03 
+ 0.99 
+ 381 
+ 0.00 0.03 
+ 0.99 
+ 381 
+ 0.002 0.03 
+ 0.94 
+ Visual-Intra 
+ 381 
+ 0.005 0.01 
+ 0.6 
+ 381 
+ 0.005 0.01 
+ 0.59 
+ 381 
+ 0.002 0.01 
+ 0.82 
+ dmn Limbic 
+ 381 
+ –0.001 0.003 
+ 0.8 
+ 381 
+ –0.001 0.003 
+ 0.81 
+ 381 
+ –0.001 0.003 
+ 0.85 
+ dmn Default Mode Network apredictor lonely 1 + days/week versus lonely < 1 days/week bmodel 1 Age age-squared sex time 
+ interval loneliness assessment pet camera binary variable hr+vs smoothed Discovery GE cmodel 2:+level educational 
+ achievement three-level variable dmodel 3:+modiﬁed ces-d continuous logarithm ces-d exclude loneliness item 
+ table 3 
+ multivariable-adjusted Models functional Connectivity mri Measures function Dynamic Loneliness Statusa 
+ Model 1b 
+ Model 2c 
+ Model 3d 
+ Loneliness 
+ No. 
+ Estimate 
+ p 
+ No. 
+ Estimate 
+ p 
+ No. 
+ Estimate 
+ p 
+ level 
+ participant 
+ se 
+ participant 
+ se 
+ participant 
+ se 
+ dmn-intra 
+ Incident 
+ –0.01 0.01 
+ 0.55 
+ –0.01 0.01 
+ 0.59 
+ –0.01 0.01 
+ 0.44 
+ Persistent 
+ 366 
+ 0.005 0.01 
+ 0.75 
+ 366 
+ 0.004 0.01 
+ 0.77 
+ 366 
+ 0 0.01 
+ 0.99 
+ recovered 
+ 0.01 0.01 
+ 0.57 
+ 0.01 0.01 
+ 0.61 
+ 0.01 0.01 
+ 0.72 
+ Absent 
+ Ref 
+ ref 
+ ref 
+ ref 
+ ref 
+ Ref 
+ Limbic-Intra 
+ Incident 
+ –0.01 0.02 
+ 0.66 
+ –0.01 0.02 
+ 0.69 
+ –0.01 0.02 
+ 0.6 
+ Persistent 
+ 366 
+ –0.03 0.02 
+ 0.12 
+ 366 
+ –0.02 0.02 
+ 0.13 
+ 366 
+ –0.03 0.02 
+ 0.11 
+ recovered 
+ 0.003 0.02 
+ 0.83 
+ 0.002 0.02 
+ 0.89 
+ 0.001 0.02 
+ 0.95 
+ Absent 
+ Ref 
+ ref 
+ ref 
+ ref 
+ ref 
+ ref 
+ Frontoparietal- 
+ incident 
+ –0.002 0.02 
+ 0.92 
+ –0.001 0.02 
+ 0.94 
+ –0.01 0.02 
+ 0.68 
+ Intra 
+ Persistent 
+ 366 
+ 0.02 0.02 
+ 0.3 
+ 366 
+ 0.02 0.02 
+ 0.32 
+ 366 
+ 0.01 0.02 
+ 0.55 
+ recovered 
+ 0.02 0.02 
+ 0.27 
+ 0.02 0.02 
+ 0.28 
+ 0.01 0.02 
+ 0.39 
+ Absent 
+ Ref 
+ ref 
+ ref 
+ ref 
+ ref 
+ Ref 
+ Dorsal 
+ Incident 
+ –0.01 0.01 
+ 0.72 
+ –0.005 0.01 
+ 0.74 
+ –0.01 0.02 
+ 0.59 
+ attention- 
+ Persistent 
+ 366 
+ 0.01 0.01 
+ 0.33 
+ 366 
+ 0.01 0.02 
+ 0.36 
+ 366 
+ 0.01 0.02 
+ 0.52 
+ Intra 
+ recovered 
+ –0.001 0.01 
+ 0.95 
+ –0.001 0.01 
+ 0.94 
+ –0.003 0.01 
+ 0.83 
+ Absent 
+ Ref 
+ ref 
+ ref 
+ ref 
+ ref 
+ Ref 
+ Ventral 
+ Incident 
+ –0.003 0.02 
+ 0.87 
+ –0.002 0.02 
+ 0.91 
+ –0.002 0.02 
+ 0.93 
+ attention- 
+ Persistent 
+ 366 
+ 0.01 0.02 
+ 0.44 
+ 366 
+ 0.01 0.02 
+ 0.44 
+ 366 
+ 0.01 0.02 
+ 0.45 
+ Intra 
+ recovered 
+ 0.004 0.02 
+ 0.81 
+ 0.003 0.02 
+ 0.88 
+ 0.003 0.02 
+ 0.87 
+ Absent 
+ Ref 
+ ref 
+ ref 
+ ref 
+ ref 
+ Ref 
+ Visual-Intra 
+ Incident 
+ 0.01 0.03 
+ 0.69 
+ 0.01 0.03 
+ 0.68 
+ 0.02 0.04 
+ 0.59 
+ Persistent 
+ 366 
+ 0.001 0.04 
+ 0.97 
+ 366 
+ –0.001 0.04 
+ 0.99 
+ 366 
+ 0.005 0.04 
+ 0.9 
+ recovered 
+ –0.05 0.03 
+ 0.12 
+ –0.05 0.03 
+ 0.12 
+ –0.05 0.03 
+ 0.15 
+ Absent 
+ Ref 
+ ref 
+ ref 
+ ref 
+ ref 
+ Ref 
+ somatomotor-intra 
+ incident 
+ –0.002 0.01 
+ 0.86 
+ –0.002 0.01 
+ 0.88 
+ –0.01 0.01 
+ 0.68 
+ Persistent 
+ 366 
+ 0.01 0.01 
+ 0.66 
+ 366 
+ 0.01 0.01 
+ 0.66 
+ 366 
+ 0.002 0.01 
+ 0.88 
+ recovered 
+ –0.01 0.01 
+ 0.32 
+ –0.01 0.01 
+ 0.31 
+ –0.02 0.01 
+ 0.24 
+ Absent 
+ Ref 
+ ref 
+ ref 
+ ref 
+ ref 
+ ref 
+ dmn Limbic 
+ Incident 
+ 0.001 0.004 
+ 0.89 
+ 0.001 0.004 
+ 0.9 
+ 0.001 0.004 
+ 0.79 
+ Persistent 
+ 366 
+ 0 0.004 
+ 0.99 
+ 366 
+ 0 0.004 
+ 0.97 
+ 366 
+ 0.001 0.004 
+ 0.84 
+ recovered 
+ 0.01 0.004 
+ 0.03 
+ 0.01 0.004 
+ 0.03 
+ 0.01 0.004 
+ 0.03 
+ Absent 
+ Ref 
+ ref 
+ ref 
+ ref 
+ ref 
+ ref 
+ dmn Default Mode Network apredictor four-level exposure variable persistent/incident/recovered/absent bmodel 1 Age age-squared 
+ sex time interval loneliness assessment pet camera binary variable hr+vs smoothed Discovery GE cmodel 2:+level 
+ educational achievement three-level variable dmodel 3:+modiﬁed ces-d continuous logarithm ces-d exclude loneliness item 
+ 8 
+ a. Zhao et al. Loneliness Advanced Neuroimaging Dementia 
+ Table 4 
+ multivariable-adjusted Models PET measure function Loneliness Status aPrimary outcome indicate emphasize border 
+ secondary outcome 
+ Model 1c 
+ model 2d 
+ Model 3e 
+ pet Measuresb 
+ No. 
+ Estimate 
+ pf 
+ No. 
+ Estimate 
+ p 
+ No. 
+ Estimate 
+ p 
+ participant 
+ se 
+ participant 
+ se 
+ participant 
+ se 
+ a flr 
+ 415 
+ –0.01 0.01 
+ 0.85 
+ 415 
+ 0.00 0.01 
+ 0.85 
+ 368 
+ –0.01 0.01 
+ 0.85 
+ a Precuneus 
+ 416 
+ –0.01 0.02 
+ 0.85 
+ 416 
+ –0.01 0.02 
+ 0.85 
+ 369 
+ –0.02 0.02 
+ 0.85 
+ Tau Amygdala 
+ 321 
+ –0.01 0.02 
+ 0.85 
+ 321 
+ –0.01 0.02 
+ 0.85 
+ 287 
+ 0.00 0.02 
+ 0.96 
+ Tau Entorhinal 
+ 321 
+ –0.01 0.01 
+ 0.85 
+ 321 
+ –0.01 0.01 
+ 0.85 
+ 287 
+ –0.02 0.02 
+ 0.85 
+ Tau Rhinal 
+ 314 
+ –0.01 0.02 
+ 0.85 
+ 314 
+ –0.01 0.02 
+ 0.85 
+ 282 
+ –0.02 0.02 
+ 0.85 
+ Tau inferior Temporal 
+ 321 
+ –0.01 0.01 
+ 0.85 
+ 321 
+ 0.00 0.01 
+ 0.87 
+ 287 
+ 0.00 0.01 
+ 0.89 
+ Tau Parahippocampus 
+ 321 
+ –0.02 0.01 
+ 0.85 
+ 321 
+ –0.02 0.01 
+ 0.85 
+ 287 
+ –0.01 0.01 
+ 0.85 
+ Tau Precuneus 
+ 321 
+ –0.01 0.01 
+ 0.85 
+ 321 
+ –0.01 0.01 
+ 0.85 
+ 287 
+ 0.00 0.01 
+ 0.91 
+ Tau Medial Orbitofrontal 
+ 321 
+ –0.02 0.01 
+ 0.85 
+ 321 
+ –0.01 0.01 
+ 0.85 
+ 287 
+ 0.00 0.02 
+ 0.88 
+ a amyloid-  flr Frontal lateral parietal lateral temporal retrosplenial cortex apredictor lonely 1 + days/week versus 
+ lonely < 1 days/week bpet measurement provide Partial-Volume Uncorrected value cmodel 1 Age age-squared sex time 
+ interval loneliness assessment pet camera binary variable hr+vs smoothed Discovery GE dmodel 2:+level educational 
+ achievement three-level variable emodel 3:+modiﬁed ces-d continuous logarithm ces-d exclude loneliness item ffdr-corrected 
+ p-value 
+ DISCUSSION 
+ cross-sectional study loneliness 
+ foundtobeassociatedwithourprimaryimagingmea- 
+ sure interest dmn intra-network connectivity 
+ flr precuneal a amygdalar entorhinal 
+ rhinal tau 
+ prior research suggest loneliness 
+ relationship eventual ad development 5 
+ changespresenteveninmiddle-agedindividuals[20 
+ negative result expect 
+ attribute factor loneliness 
+ operate modiﬁer tau deposition 
+ direct cause population middle- aged indi- 
+ vidual presumably begin stage tau 
+ deposition early modi- 
+ ﬁcation effect loneliness second prior research 
+ suggest mid-life loneliness 
+ predispose ad persistence 
+ loneliness year predis- 
+ pose ad 20 individual 
+ expose persistent mid-life loneliness 
+ functional pathological change 
+ associate ad sensitive 
+ period brain particularly susceptible 
+ effect loneliness sensitive period 
+ ad neuropathology see vascular 
+ risk factor mid-life exposure vascular risk 
+ factor promote a deposition late- 
+ life exposure 31 cohort individual 
+ fall sensitive period 
+ alternatively loneliness operate 
+ complex pathological mechanism 
+ entirely capture datum 
+ loneliness-related inﬂammation associ- 
+ ate increase pro-inﬂammatory cytokine 32 
+ turn see facilitate great tau 
+ phosphorylation 33–36 great a deposition 
+ 31 pathway necessarily well- 
+ capture choose imaging modality 
+ 
+ association 
+ reach 
+ signiﬁcance 
+ 
+ exploratory 
+ analysis 
+ 
+ apoe4 
+ positive 
+ individual observe borderline negative 
+ association loneliness precuneal a. 
+ precuneus see early 
+ accumulator a 37–39 apoe4 
+ see potentiator a deposition 40 
+ expect positive association 
+ loneliness precuneal a. increase 
+ visual intra-network connectivity find corre- 
+ spond high conservative loneliness measure 
+ interaction note visual network 
+ connectivity apoe4 status 41 visual 
+ network typically associate ad 
+ prior research similarly demonstrate positive 
+ relationship visual network activation 
+ loneliness 41 42 mechanism involve 
+ increase mirror neuron activation 41 
+ signiﬁcant association see exploratory 
+ analysis interpret caution give 
+ liberal threshold signiﬁcance give 
+ false discovery rate associate 
+ comparison 
+ Strengths limitation 
+ oneofourstudy’skeystrengthsisinclusionofboth 
+ pet fcmri imaging single cohort 
+ a. Zhao et al. Loneliness Advanced Neuroimaging Dementia 
+ 9 
+ Table 5 
+ multivariable-adjusted Models PET measure function Persistent Loneliness Statusa 
+ Model 1c 
+ model 2d 
+ Model 3e 
+ pet Measuresb 
+ Loneliness 
+ No. 
+ Estimate 
+ pf 
+ No. 
+ Estimate 
+ pf 
+ No. 
+ Estimate 
+ pf 
+ Level 
+ participant 
+ se 
+ participant 
+ se 
+ participant 
+ se 
+ a flr 
+ Persistent 
+ 401 
+ 0.00 0.02 
+ 0.99 
+ 401 
+ 0.00 0.02 
+ 0.99 
+ 358 
+ 0.00 0.02 
+ 0.99 
+ Incident 
+ –0.01 0.01 0.99 
+ –0.01 0.01 0.99 
+ –0.01 0.01 0.99 
+ recovered 
+ –0.01 0.01 0.99 
+ –0.01 0.01 0.99 
+ –0.01 0.01 0.99 
+ Absent 
+ Ref 
+ ref 
+ ref 
+ a Precuneus 
+ Persistent 
+ 402 
+ –0.01 0.03 0.99 
+ 402 
+ –0.01 0.03 0.99 
+ 359 
+ –0.02 0.03 0.99 
+ Incident 
+ –0.01 0.02 0.99 
+ –0.01 0.02 0.99 
+ –0.02 0.03 0.99 
+ recovered 
+ –0.01 0.02 0.99 
+ –0.01 0.02 0.99 
+ –0.02 0.02 0.99 
+ Absent 
+ Ref 
+ ref 
+ Ref 
+ Tau Amygdala 
+ Persistent 
+ 314 
+ –0.03 0.03 0.99 
+ 314 
+ –0.02 0.03 0.99 
+ 281 
+ –0.01 0.03 0.99 
+ Incident 
+ 0.00 0.02 
+ 0.99 
+ 0.00 0.02 
+ 0.99 
+ 0.01 0.03 
+ 0.99 
+ recovered 
+ 0.00 0.02 
+ 0.99 
+ –0.01 0.02 0.99 
+ –0.01 0.03 0.99 
+ Absent 
+ Ref 
+ ref 
+ Ref 
+ Tau Entorhinal 
+ Persistent 
+ 314 
+ –0.02 0.02 0.99 
+ 314 
+ –0.02 0.02 0.99 
+ 281 
+ –0.03 0.02 0.99 
+ Incident 
+ 0.00 0.02 
+ 0.99 
+ 0.00 0.02 
+ 0.99 
+ 0.00 0.02 
+ 0.99 
+ recovered 
+ 0.00 0.02 
+ 0.99 
+ 0.00 0.02 
+ 0.99 
+ 0.00 0.02 
+ 0.99 
+ Absent 
+ Ref 
+ ref 
+ Ref 
+ Tau Rhinal 
+ Persistent 
+ 307 
+ –0.03 0.02 0.99 
+ 307 
+ –0.02 0.02 0.99 
+ 276 
+ –0.03 0.03 0.99 
+ Incident 
+ 0.01 0.02 
+ 0.99 
+ 0.01 0.02 
+ 0.99 
+ 0.00 0.01 
+ 0.99 
+ recovered 
+ 0.01 0.02 
+ 0.99 
+ 0.01 0.02 
+ 0.99 
+ 0.00 0.02 
+ 0.99 
+ Absent 
+ Ref 
+ ref 
+ Ref 
+ Tau inferior Temporal 
+ Persistent 
+ 314 
+ –0.01 0.02 0.99 
+ 314 
+ –0.01 0.02 0.99 
+ 281 
+ –0.01 0.02 0.99 
+ Incident 
+ 0.00 0.01 
+ 0.99 
+ 0.00 0.01 
+ 0.99 
+ 0.00 0.02 
+ 0.99 
+ recovered 
+ 0.00 0.01 
+ 0.99 
+ 0.00 0.01 
+ 0.99 
+ –0.01 0.02 0.99 
+ Absent 
+ Ref 
+ ref 
+ Ref 
+ Tau Parahippocampus 
+ Persistent 
+ 314 
+ –0.03 0.02 0.99 
+ 314 
+ –0.02 0.02 0.99 
+ 281 
+ –0.02 0.02 0.99 
+ incident 
+ –0.01(0.02 
+ 0.99 
+ 0.00 0.02 
+ 0.99 
+ 0.00 0.02 
+ 0.99 
+ recovered 
+ 0.00 0.01 
+ 0.99 
+ 0.00 0.01 
+ 0.99 
+ 0.00 0.02 
+ 0.99 
+ Absent 
+ Ref 
+ ref 
+ Ref 
+ Tau Precuneus 
+ Persistent 
+ 314 
+ –0.03 0.02 0.99 
+ 314 
+ –0.02 0.02 0.99 
+ 281 
+ –0.02 0.02 0.99 
+ Incident 
+ 0.00 0.01 
+ 0.99 
+ 0.00 0.01 
+ 0.99 
+ 0.00 0.02 
+ 0.99 
+ recovered 
+ –0.01 0.01 0.99 
+ –0.02 0.01 0.99 
+ –0.02 0.02 0.99 
+ Absent 
+ Ref 
+ ref 
+ Ref 
+ Tau Medial Orbitofrontal 
+ Persistent 
+ 314 
+ –0.02 0.02 0.99 
+ 314 
+ –0.02 0.02 0.99 
+ 281 
+ –0.01 0.02 0.99 
+ Incident 
+ –0.01 0.02 0.99 
+ –0.01 0.02 0.99 
+ 0.00 0.02 
+ 0.99 
+ Transient 
+ 0.00 0.02 
+ 0.99 
+ –0.01 0.02 0.99 
+ 0.00 0.02 
+ 0.99 
+ recovered 
+ ref 
+ ref 
+ ref 
+ a amyloid- flr Frontal lateral parietal lateral temporal retrosplenial cortex apredictor four-level exposure variable 
+ persistent/incident/recovered/absent bpet measurement provide Partial-Volume Uncorrected value cmodel 1 Age age-squared sex 
+ time interval loneliness assessment pet camera binary variable hr+vs smoothed Discovery GE dmodel 2:+level 
+ educational achievement three-level variable emodel 3:+modiﬁed ces-d continuous logarithm ces-d exclude loneliness item 
+ ffdr-corrected p-value 
+ study reduce confound factor 
+ comparison pet fcmri imaging factor 
+ loneliness additionally cohort mean age 
+ 58 composition middle-aged individual with- 
+ dementia neurologic condition allow 
+ gather information neuropathology prior 
+ onset clinical symptom hope datum 
+ serve baseline follow-up study 
+ cohort use fcmri mid-life cohort 
+ provide information early network change 
+ detectable prior structural change see 
+ standard mri 
+ key limitation pertain use 
+ loneliness item ces-d 
+ commonly measure loneli- 
+ ness large epidemiologic study 
+ apply loneliness ad research 5 
+ 20 21 multi- item questionnaire 
+ 20-item UCLA Loneliness Scale likely 
+ comprehensive single- item measure 
+ 10 
+ a. Zhao et al. Loneliness Advanced Neuroimaging Dementia 
+ loneliness ces-d. ces- 
+ d loneliness item direct measure loneliness 
+ ask loneliness explicitly 
+ introduce bias associate identify 
+ lonely UCLA Loneliness Scale indi- 
+ rect measure loneliness reduce 
+ bias 43 44 study under- 
+ power give small n meeting criterion 
+ loneliness study methodology 
+ opportunity assess causality how- 
+ relationship loneliness ad 
+ imaging ﬁnding amenable random- 
+ ized control trial prospective analysis 
+ population provide suitable alternative 
+ track time course neuroimaging change 
+ loneliness rating exploratory analysis 
+ limit liberal signiﬁcance threshold 
+ large number analysis benjamini- 
+ Hochberg Procedure correct pet datum 
+ multiple analysis fcmri 
+ datum 
+ conclusion 
+ cross-sectional cohort study 
+ association observe loneliness fcmri 
+ a pet tau pet neuroimaging marker ad 
+ lack association possibly sample 
+ characteristic complexity related mechanism 
+ observational nature study merit 
+ investigation prospective study longi- 
+ tudinal cohort clarify loneliness relationship 
+ ad pathogenesis 
+ AUTHOR CONTRIBUTIONS 
+ Amanda Jin Zhao Conceptualization formal 
+ analysis investigation Methodology Resources 
+ Software Validation write original draft 
+ writing review editing Laura Balcer fund- 
+ ing acquisition resource Supervision write 
+ review editing Jayandra J. Himali con- 
+ ceptualization 
+ Data 
+ curation 
+ Formal 
+ analysis 
+ Investigation Methodology Resources Software 
+ Supervision write review editing adri- 
+ enne o’donnell conceptualization data curation 
+ formal analysis investigation methodology soft- 
+ ware validation write review editing Yashar 
+ Rahimpour conceptualization formal analysis 
+ Methodology Charles DeCarli Conceptualization 
+ Investigation Methodology write review edit- 
+ ing Mitzi M. Gonzales Conceptualization Data 
+ curation formal analysis methodology write 
+ review editing Hugo Aparicio conceptual- 
+ ization data curation investigation Methodology 
+ writing review editing Jaime ramos-cejudo 
+ conceptualization formal analysis methodology 
+ writing review editing Rachel Kenney for- 
+ mal analysis investigation Methodology write 
+ review editing Alexa Beiser conceptual- 
+ ization data curation formal analysis funding 
+ acquisition investigation Methodology project 
+ administration resource Software Supervision 
+ Validation write review editing Sudha 
+ Seshadri Conceptualization data curation for- 
+ mal analysis funding acquisition investigation 
+ Methodology project administration resource 
+ Software Supervision Validation write review 
+ editing Joel Salinas Conceptualization Data 
+ curation formal analysis funding acquisition 
+ Investigation Methodology project administration 
+ Resources Supervision Validation write review 
+ editing 
+ acknowledgments 
+ Dr. Ronald J. Killiany instrumental 
+ work deeply appreciate contribution 
+ Framingham Heart Study author 
+ study grateful ongoing support time 
+ commitment Framingham Heart Study partic- 
+ ipant contribute advancement 
+ medical scientiﬁc knowledge 
+ FUNDING 
+ research support Boston Univer- 
+ sity School Medicine New York University 
+ Grossman School Medicine contract 
+ National Heart Lung Blood Institute n01-hc 
+ 25195 hhsn268201500001i 75n92019d00031 
+ grant National Institute Neurological 
+ Disorders Stroke ns017950 uh2ns100605 
+ t32ns048005 National Institute aging 
+ ag049505 ag052409 ag054076 ag049607 
+ ag059421 ag079282 k23ag057760 
+ Robert Katzman Research Training Fellowship 
+ Alzheimer Dementia Research cosponsor 
+ American Academy Neurology American 
+ Brain Foundation Alzheimer Association 
+ funding organization sponsor 
+ role design conduct study 
+ collection management analysis interpretation 
+ a. Zhao et al. Loneliness Advanced Neuroimaging Dementia 
+ 11 
+ datum preparation review approval 
+ manuscript decision submit manuscript 
+ publication 
+ conflict interest 
+ author conﬂict interest report 
+ data availibility 
+ fs dataset analyze present study 
+ available formal data-use agreement 
+ investigator access datum 
+ process outline fs website framingham- 
+ heartstudy.org 
+ supplementary MATERIAL 
+ supplementary material available 
+ electronic version article https://dx.doi.org/ 
+ 10.3233/jad-231425 
+ references 
+ 1 
+ ong ad Uchino BN Wethington E 2016 loneliness 
+ health old adult mini-review synthesis geron- 
+ tology 62 443 449 
+ 2 
+ Kirkland SA Grifﬁth LE Oz UE Thompson M wister 
+ Kadowaki L Basta NE McMillan J Wolfson c Raina p 
+ Anderson L Balion c costa Asada Y Cossette b lev- 
+ asseur m Hofer S Paterson t Hogan D liu-ambrose t 
+ Menec V St. John p Mugford G Gao Z Taler V david- 
+ son p Cosco t behalf canadian Longitudinal 
+ Study aging clsa team 2023 increase preva- 
+ lence loneliness associate risk factor 
+ COVID-19 pandemic finding canadian Lon- 
+ gitudinal study aging clsa bmc public Health 
+ 23 872 
+ 3 
+ McGinty EE Presskreischer R Han H Barry CL 2020 
+ psychological distress loneliness report adult 
+ 2018 April 2020 jama 324 93 94 
+ 4 
+ Musich S Wang SS Hawkins K Yeh cs 2015 
+ impact loneliness quality life patient satisfac- 
+ tion old sicker adult Gerontol Geriatr Med 1 
+ 2333721415582119 
+ 5 
+ Salinas J Beiser Samra JK o’donnell DeCarli cs 
+ Gonzales MM Aparicio HJ Seshadri S 2022 Association 
+ loneliness 10-year dementia risk early marker 
+ vulnerability neurocognitive decline neurology 98 
+ e1337-e1348 
+ 6 
+ Donovan nj Okereke oi Vannini p Amariglio Rentz 
+ dm Marshall GA Johnson KA sperling ra 2016 asso- 
+ ciation high cortical amyloid burden loneliness 
+ cognitively normal old adult jama psychiatry 73 
+ 1230 1237 
+ 7 
+ d’oleire Uquillas F Jacobs HIL Biddle KD Properzi M 
+ Hanseeuw b Schultz AP Rentz dm Johnson KA Sperling 
+ ra Donovan nj 2018 regional tau pathology lone- 
+ liness cognitively normal old adult transl psychiatry 
+ 8 282 
+ 8 
+ Kaur b Himali jj Seshadri S Beiser Au r McKee 
+ ac Auerbach S Wolf PA DeCarli cs 2014 Association 
+ neuropathology brain volume framing- 
+ ham Heart Study Alzheimer Dis Assoc Disord 28 219 225 
+ 9 
+ Damulina Pirpamer L Seiler S Benke t dal-bianco p 
+ Ransmayr g Struhal W Hofer E Langkammer c Duering 
+ M Fazekas F Schmidt r 2019 white matter hyperinten- 
+ sitie Alzheimer disease lesion probability map 
+ study j Alzheimers Dis 68 789 796 
+ 10 
+ Nesteruk M Nesteruk t styczy ´ 
+ nska m Barczak man- 
+ decka m Walecki J barcikowska-kotowicz m 2015 
+ predict conversion mild cognitive impairment 
+ Alzheimer disease base volumetric measurement 
+ select brain structure magnetic resonance imag- 
+ ing neurol neurochir Pol 49 349 353 
+ 11 
+ Spreng RN Dimas E Mwilambwe-Tshilobo L Dagher 
+ Koellinger p Nave g ong Kernbach JM Wiecki TV Ge 
+ t Li Y Holmes AJ Yeo btt turner gr dunbar rim 
+ Bzdok d 2020 default network human brain 
+ associate perceive social isolation nat Commun 11 
+ 6393 
+ 12 
+ Greicius MD srivastava g Reiss AL Menon v 2004 
+ default-mode network activity distinguish Alzheimer 
+ disease healthy aging evidence functional mri 
+ Proc Natl Acad Sci U S 101 4637 4642 
+ 13 
+ Dennis EL Thompson PM 2014 functional brain con- 
+ nectivity fmri aging Alzheimer disease 
+ Neuropsychol rev 24 49 62 
+ 14 
+ zhou b Dou X Wang W Yao H Feng F Wang p Yang 
+ Z n Liu B Zhang X Liu Y 2022 structural 
+ functional connectivity abnormality default mode 
+ network patient alzheimer disease mild cog- 
+ nitiveimpairmentwithintwoindependentdataset method 
+ 205 29 38 
+ 15 
+ Ozlen H Pichet Binette k¨ 
+ obe t Meyer PF Gonneaud 
+ J St-Onge F Provost K Soucy JP rosa-neto p Breitner J 
+ Poirier J Villeneuve S 2022 spatial extent amyloid- 
+ level association tau-PET cognition jama 
+ Neurol 79 1025 1035 
+ 16 
+ Ossenkoppele R Schonhaut dr sch¨ 
+ oll m Lockhart SN 
+ Ayakta N Baker SL O’Neil JP Janabi M Lazaris 
+ Cantwell Vogel J Santos M Miller ZA Bettcher BM 
+ Vossel KA Kramer JH Gorno-Tempini ML Miller BL 
+ Jagust WJ Rabinovici GD 2016 tau pet pattern mir- 
+ ror clinical neuroanatomical variability Alzheimer 
+ disease brain 139 1551 1567 
+ 17 
+ Matsuda H Shigemoto y Sato N 2019 neuroimaging 
+ Alzheimer disease focus amyloid tau pet jpn J 
+ Radiol 37 735 749 
+ 18 
+ Andersson C Johnson AD Benjamin ej Levy D Vasan 
+ rs 2019 70-year legacy Framingham Heart Study 
+ Nat Rev Cardiol 16 687 698 
+ 19 
+ Veazie S Gilbert J Winchell ka paynter ra Guise J-M 
+ 2019 address social isolation improve health 
+ old adult rapid review prepare Scientiﬁc 
+ Resource Center Contract No. 290 2017 00003-c. 
+ ahrqpublicationno.19-ehc009-ef.agencyforhealth- 
+ care Research Quality Rockville md 
+ 20 
+ akhter-khan sc Tao Q Ang TFA Itchapurapu Alosco 
+ ML Mez J Piers RJ Steffens dc au r Qiu WQ 2021 
+ Associations loneliness risk Alzheimer dis- 
+ ease dementia Framingham Heart Study alzheimer 
+ Dement 17 1619 1627 
+ 12 
+ a. Zhao et al. Loneliness Advanced Neuroimaging Dementia 
+ 21 
+ Donovan NJ Wu Q Rentz DM Sperling ra Marshall GA 
+ Glymour MM 2017 loneliness depression cognitive 
+ function old U.S. adult int J Geriatr Psychiatry 32 
+ 564 573 
+ 22 
+ Tao Q akhter-khan sc Ang TFA DeCarli C Alosco ML 
+ Mez J Killiany r Devine S Rokach Itchapurapu 
+ Zhang X Lunetta KL Steffens dc Farrer LA Greve DN 
+ Au r Qiu WQ 2022 different loneliness type cognitive 
+ function brain structure midlife finding 
+ Framingham Heart Study eclinicalmedicine 53 101643 
+ 23 
+ Hu J Fitzgerald SM owen aj Ryan J Joyce J chowd- 
+ hury e Reid cm britt C Woods RL McNeil jj freak-poli 
+ r 2021 social isolation social support loneliness 
+ cardiovascular disease risk factor cross-sectional study 
+ old adult int J Geriatr Psychiatry 36 1795 1809 
+ 24 
+ Yu M Sporns O Saykin AJ 2021 human connec- 
+ tome alzheimer disease relationship biomarker 
+ genetic nat rev Neurol 17 545 563 
+ 25 
+ Fox md 2018 mapping symptom brain network 
+ human connectome n Engl J Med 379 2237 2245 
+ 26 
+ Smith SM Jenkinson M woolrich mw Beckmann CF 
+ Behrens TEJ Johansen-Berg h bannister pr De Luca M 
+ Drobnjak Flitney DE Niazy RK Saunders J Vickers J 
+ Zhang Y De Stefano N Brady JM Matthews PM 2004 
+ Advances functional structural mr image analysis 
+ implementation FSL neuroimage 23 s208-s219 
+ 27 
+ Woolrich mw Jbabdi S Patenaude b Chappell M Makni 
+ S Behrens t Beckmann C Jenkinson M Smith sm 2009 
+ bayesian analysis neuroimaging datum FSL neuroim- 
+ age 45 s173-s186 
+ 28 
+ Greve DN Fischl b 2009 accurate robust brain image 
+ alignment boundary-based registration neuroimage 
+ 48 63 72 
+ 29 
+ Gatchel JR Donovan nj locascio jj Schultz AP Becker 
+ JA chhatwalj pappkv amarigliore rentzdm Blacker 
+ d Sperling ra Johnson KA Marshall GA 2017 depres- 
+ sive symptom tau accumulation inferior temporal 
+ lobe entorhinal cortex cognitively normal old 
+ adult pilot study j Alzheimers Dis 59 975 985 
+ 30 
+ salinasj o’donnella kojisdj pasemp decarlic Rentz 
+ dm berkman LF beiser Seshadri S 2021 Association 
+ social support brain volume cognition jama 
+ Netw Open 4 e2121122 
+ 31 
+ Gottesman RF Schneider AL zhou y Coresh J Green E 
+ Gupta N Knopman DS Mintz Rahmim Sharrett AR 
+ Wagenknecht LE Wong DF Mosley th 2017 Association 
+ midlife vascular risk factor estimate brain 
+ amyloid deposition jama 317 1443 1450 
+ 32 
+ Paul E Bu F Fancourt D 2021 loneliness risk 
+ cardiovascular disease mechanism future direction 
+ Curr Cardiol rep 23 68 
+ 33 
+ Lee dc Rizer J Selenica ML Reid p Kraft c Johnson 
+ Blair L Gordon MN Dickey Morgan D 2010 lps- 
+ induced inﬂammation exacerbate phospho-tau pathology 
+ rtg4510 mouse j Neuroinﬂammation 7 56 
+ 34 
+ Kitazawa M Oddo S Yamasaki TR Green KN LaFerla FM 
+ 2005 lipopolysaccharide-induced inﬂammation exac- 
+ erbate tau pathology cyclin-dependent kinase 
+ 5-mediated pathway transgenic model Alzheimer 
+ disease j Neurosci 25 8843 8853 
+ 35 
+ Grifﬁn ws Sheng JG Roberts GW Mrak 1995 
+ interleukin-1 expression different plaque type 
+ Alzheimer disease signiﬁcance plaque evolution j 
+ Neuropathol Exp Neurol 54 276 281 
+ 36 
+ Huell M Strauss S Volk b Berger M Bauer J 1995 
+ interleukin-6 present early stage plaque forma- 
+ tion restricted brain alzheimer disease 
+ patient Acta Neuropathol 89 544 551 
+ 37 
+ Palmqvist S sch¨ 
+ oll m Strandberg O Mattsson N Stomrud 
+ E Zetterberg H Blennow K Landau S Jagust W hans- 
+ son o 2017 earliest accumulation -amyloid occur 
+ default-mode network concurrently affect 
+ brain connectivity nat Commun 8 1214 
+ 38 
+ Yokoi t Watanabe H Yamaguchi H bagarinao E Masuda 
+ M Imai K Ogura Ohdake R Kawabata K Hara K Riku 
+ y Ishigaki S Katsuno M Miyao S Kato K Naganawa S 
+ Harada R Okamura N Yanai K Yoshida M Sobue g 2018 
+ Involvement precuneus/posterior cingulate cortex 
+ signiﬁcant development alzheimer disease 
+ pet thk5351 pib rest fmri study aging 
+ Neurosci 10 304 
+ 39 
+ aghakhanyan g vergallo Gennaro M Mazzarri S 
+ Guidoccio F Radicchi C Ceravolo R Tognoni g bonuc- 
+ celli u Volterrani d 2018 precuneus witness 
+ excessive a gathering Alzheimer disease pathology 
+ Neurodegener Dis 18 302 309 
+ 40 
+ Therriault J Benedet AL Pascoal TA Mathotaarachchi S 
+ savardm chamounm thomase kangms lussierf tis- 
+ sot c Soucy J-P massarweh g Rej S Saha-Chaudhuri p 
+ Poirier J Gauthier S rosa-neto p Alzheimer dis- 
+ ease Neuroimaging Initiative 2021 apoeε4 potentiate 
+ relationship amyloid- tau pathology 
+ Mol Psychiatry 26 5977 5988 
+ 41 
+ Layden EA Cacioppo jt Cacioppo S Cappa SF Dodich 
+ Falini Canessa N 2017 perceive social isolation 
+ associate altered functional connectivity neural net- 
+ work associate tonic alertness executive control 
+ Neuroimage 145 58 73 
+ 42 
+ brillianttd takeuchih nouchir yokoyamar Kotozaki 
+ Y Nakagawa S Hanawa S Sekiguchi Ikeda S Sakaki 
+ K Kawata KHdS Nozawa T Yokota S Magistro D 
+ Kawashima r 2022 loneliness inside brain evi- 
+ dence large dataset resting-state fmri young 
+ adult Sci rep 12 7856 
+ 43 
+ Maes M Qualter p Vanhalst J Van den Noortgate W 
+ Goossens L 2019 gender difference loneliness 
+ lifespan meta analysis eur J Pers 33 642 654 
+ 44 
+ Borys S Perlman d 1985 Gender difference loneliness 
+ Pers Soc Psychol Bull 11 63 74 
